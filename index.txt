@@ -1,0 +1,10081 @@
+; --- INDEX ---
+;
+; lines starting with ; as first non-whitespace are comments
+;
+; File format is single lines formatted as Key:Value
+;
+; KEYS
+; page:comic page ID and link: heads a comic page entry.
+; 	auth: Author / artist page comment or note
+; 	date: date of the page, preferably YYYY-MM-DD
+; 	desc: text relevant to the page (title / description / line of dialogue, etc)
+; 	note: footnotes, links, etc
+; 	tag: tags for the page's story items of note: character, item, location, etc.
+; baseurl: default url applies to any following page:without a url: key
+; (to insert pageID replace in baseurl/url with {0} )
+;
+; Can use multiple tag: per page, but only one of each of the other keys
+;
+; desc:, note: and auth: text's internal formatting is a mix of [Markdown](http://daringfireball.net/projects/markdown) plus html (for <br> etc)
+; **bold**
+; _italic_
+; [internal link text](#sometag) - tag links are lower case
+; [external link text](http://www.gunnerkrigg.com)
+; tags starting ch-* are treated separately as chapter identifiers
+;
+baseurl: http://wapsisquare.com/comic/{0}/
+;
+; add:-
+; 	carpark/racetrack on the Cape
+;
+page:still-around-2
+	tag: Snow
+	tag: LakeCalhoun
+	tag: Kevin
+	tag: Bud
+	desc: Still Around
+	date: 2014-11-19
+page:tired-of-hiding
+	tag: Snow
+	tag: LakeCalhoun
+	tag: Kevin
+	tag: Bud
+	desc: Tired Of Hiding
+	date: 2014-11-19
+page:snowfall
+	tag: Snow
+	tag: LakeCalhoun
+	tag: Kevin
+	tag: Bud
+	desc: Snowfall
+	date: 2014-11-19
+page:too-grounded
+	tag: Monica
+	tag: KevinHome
+	tag: Kevin
+	tag: Georgette
+	tag: CerebrusClub
+	desc: Too Grounded 
+	date: 2014-11-18
+page:stand-back
+	tag: Tina
+	tag: Monica
+	tag: Jin
+	tag: Georgette
+	tag: CerebrusClub
+	tag: Bud
+	desc: Stand Back
+	date: 2014-11-17
+page:say-so
+	tag: Poit
+	tag: Monica
+	tag: Jin
+	tag: Georgette
+	tag: CerebrusClub
+	tag: Bud
+	desc: Say so
+	date: 2014-11-14
+page:where-are-you
+	tag: Monica
+	tag: Georgette
+	tag: CerebrusClub
+	tag: Bud
+	desc:Where Are You
+	date: 2014-11-13
+page:come-home-with-me
+	tag: Monica
+	tag: Georgette
+	tag: CerebrusClub
+	desc:Come Home With Me
+	date: 2014-11-12
+page:made-their-case
+	tag: Monica
+	tag: Georgette
+	tag: Dietzel
+	desc:Made Their Case
+	date: 2014-11-11
+page:better-show-you
+	tag: Tina
+	tag: Monica
+	tag: Dietzel
+	tag: CerebrusClub
+	desc:Better Show You
+	date: 2014-11-10
+page:please-repeat-that
+	tag: Castela
+	tag: Atsali
+	desc:Please Repeat That
+	date: 2014-11-07
+page:well-played
+	tag: Katherine
+	tag: Castela
+	desc:Well Played
+	date: 2014-11-06
+page:an-adorable-rose-bush
+	tag: Katherine
+	tag: Castela
+	desc:An Adorable Rose Bush
+	date: 2014-11-05
+page:my-job
+	tag: Katherine
+	tag: Atsali
+	desc:My Job
+	date: 2014-11-04
+page:door-is-shut
+	tag: Castela
+	tag: Atsali
+	desc:Door Is Shut
+	date: 2014-11-03
+page:you-like-her
+	tag: Nadette
+	tag: Katherine
+	tag: Castela
+	tag: Berdine
+	tag: Atsali
+	desc:You Like Her
+	date: 2014-10-29
+page:one-spare-sister
+	tag: Nadette
+	tag: Castela
+	tag: Berdine
+	tag: Atsali
+	desc:One Spare Sister
+	date: 2014-10-28
+page:not-wearing-a-bra
+	tag: Nadette
+	tag: Castela
+	tag: Atsali
+	desc:Not Wearing A Bra
+	date: 2014-10-27
+page:hold-your-form
+	tag: Nadette
+	tag: Castela
+	tag: Atsali
+	desc:Hold Your Form
+	date: 2014-10-23
+page:perfect-for-you
+	tag: Nadette
+	tag: Atsali
+	desc:Perfect For You
+	date: 2014-10-22
+page:secret-mission
+	tag: Castela
+	tag: Atsali
+	desc:Secret Mission
+	date: 2014-10-21
+page:call-baby-unicorns
+	tag: Castela
+	tag: Atsali
+	desc:Call Baby Unicorns
+	date: 2014-10-20
+page:nothing-special
+	tag: Castela
+	tag: Atsali
+	desc:Nothing Special
+	date: 2014-10-17
+page:watcha-dooin
+	tag: Castela
+	tag: Atsali
+	desc:Watcha Dooin
+	date: 2014-10-16
+page:midnight-snack
+	tag: Castela
+	tag: Atsali
+	desc:Midnight Snack
+	date: 2014-10-15
+page:atsali-angst
+	tag: Atsali
+	desc:Atsali Angst
+	date: 2014-10-14
+page:know-what-this-means
+	tag: Nadette
+	tag: Berdine
+	tag: Atsali
+	desc:Know What This Means
+	date: 2014-10-13
+page:need-to-listen
+	tag: Nadette
+	tag: Berdine
+	tag: Atsali
+	desc:Need To Listen
+	date: 2014-10-10
+page:my-warmth
+	tag: Berdine
+	tag: Atsali
+	desc:My Warmth
+	date: 2014-10-09
+page:the-sound-of-my-voice
+	tag: Nadette
+	tag: Berdine
+	tag: Atsali
+	desc:The Sound Of My Voice
+	date: 2014-10-08
+page:just-your-type
+	tag: Nadette
+	tag: Berdine
+	tag: Atsali
+	desc:Just Your Type
+	date: 2014-10-07
+page:bedtime-snack
+	tag: Monica
+	tag: Dietzel
+	desc:Bedtime Snack
+	date: 2014-10-06
+page:so-cute
+	tag: Monica
+	tag: Dietzel
+	desc:So Cute
+	date: 2014-10-03
+page:camel-spider-food
+	tag: Monica
+	tag: Library
+	tag: Calista
+	desc:Camel Spider Food
+	date: 2014-10-02
+page:im-sorry
+	tag: Monica
+	tag: Library
+	tag: Dietzel
+	tag: Calista
+	desc:I'm Sorry
+	date: 2014-10-01
+page:dietzel-sweetie
+	tag: Library
+	tag: Dietzel
+	tag: Calista
+	desc:Dietzel Sweetie
+	date: 2014-09-30
+page:everything-is-okay
+	tag: SheepHead
+	tag: Monica
+	tag: Library
+	tag: HornHead
+	tag: Gryphon
+	tag: FishFace
+	desc:Everything Is Okay
+	date: 2014-09-29
+page:lands-on-her-feet
+	tag: Monica
+	desc:Lands On Her Feet
+	date: 2014-09-26
+page:figure-it-out
+	desc:Figure It Out
+	date: 2014-09-25
+page:best-idea-ever
+	desc:Best Idea Ever
+	date: 2014-09-24
+page:curious-explorer
+	desc:Curious Explorer
+	date: 2014-09-23
+page:always-seems-worse
+	desc:Always Seems Worse
+	date: 2014-09-22
+page:not-permanent
+	desc:Not Permanent
+	date: 2014-09-19
+page:did-you-hear-something
+	desc:Did You Hear Something
+	date: 2014-09-18
+page:visiting-too
+	desc:Visiting Too
+	date: 2014-09-17
+page:soften-her-up
+	desc:Soften Her Up
+	date: 2014-09-16
+page:only-harm-me
+	desc:Only Harm Me
+	date: 2014-09-15
+page:far-out
+	desc:Far Out
+	date: 2014-09-12
+page:time-for-a-break
+	desc:Time For A Break
+	date: 2014-09-11
+page:let-me-go
+	desc:Let Me Go
+	date: 2014-09-10
+page:there-they-are
+	desc:There They Are
+	date: 2014-09-09
+page:own-what-you-do
+	desc:Own What You Do
+	date: 2014-09-08
+page:pickles-wall
+	desc:Pickle's Wall
+	date: 2014-09-05
+page:the-right-thing
+	desc:The Right Thing
+	date: 2014-09-04
+page:grandma-lily
+	desc:Grandma Lily
+	date: 2014-09-03
+page:hair-did
+	desc:Hair Did
+	date: 2014-09-02
+page:died-alone-2
+	desc:Died Alone
+	date: 2014-08-29
+page:letting-someone-down
+	desc:Letting Someone Down
+	date: 2014-08-28
+page:on-edge-like-this
+	desc:On Edge Like This
+	date: 2014-08-27
+page:trying-to-relax
+	desc:Trying To Relax
+	date: 2014-08-26
+page:hold-down-the-fort
+	desc:Hold Down The Fort
+	date: 2014-08-25
+page:coming-soon
+	desc:Coming Soon
+	date: 2014-08-22
+page:side-by-side
+	desc:Side By Side
+	date: 2014-08-21
+page:oops
+	desc:Oops
+	date: 2014-08-20
+page:side-effect
+	desc:Side Effect
+	date: 2014-08-19
+page:not-that-scary
+	desc:Not That Scary
+	date: 2014-08-18
+page:do-this-together
+	desc:Do This Together
+	date: 2014-08-15
+page:like-wildfire
+	desc:Like Wildfire
+	date: 2014-08-14
+page:not-buying-it
+	desc:Not Buying It
+	date: 2014-08-13
+page:not-like-that-2
+	desc:Not Like That
+	date: 2014-08-12
+page:darn-good
+	desc:Darn Good
+	date: 2014-08-11
+page:already-a-princess
+	desc:Already A Princess
+	date: 2014-08-08
+page:keep-yer-voice-down
+	desc:Keep Yer Voice Down
+	date: 2014-08-07
+page:deserved-it-2
+	desc:Deserved It
+	date: 2014-08-06
+page:one-who-could-cry
+	desc:One Who Could Cry
+	date: 2014-08-05
+page:strange-doorway
+	desc:Strange Doorway
+	date: 2014-08-04
+page:not-tough
+	desc:Not Tough
+	date: 2014-08-01
+page:castel-enora-gilchrist
+	desc:Castel Enora Gilchrist
+	date: 2014-07-31
+page:ancient-guardians
+	desc:Ancient Guardians
+	date: 2014-07-30
+page:daughter-of-a-blackthorn
+	desc:Daughter Of A Blackthorn
+	date: 2014-07-29
+page:just-a-fairy
+	desc:Just A Fairy
+	date: 2014-07-28
+page:tuna-girls
+	desc:Tuna Girls
+	date: 2014-07-25
+page:your-aunt
+	desc:Your Aunt
+	date: 2014-07-24
+page:outta-here
+	desc:Outta Here
+	date: 2014-07-23
+page:smiling-at-me
+	desc:Smiling At Me
+	date: 2014-07-22
+page:used-the-ninjas
+	desc:Used The Ninjas
+	date: 2014-07-21
+page:gift-and-a-curse
+	desc:Gift And A Curse
+	date: 2014-07-18
+page:one-to-speak
+	desc:One To Speak
+	date: 2014-07-17
+page:forget-i-said-anything
+	desc:Forget I Said Anything
+	date: 2014-07-16
+page:heard-this-before
+	desc:Heard This Before
+	date: 2014-07-15
+page:saturday-too
+	desc:Saturday Too
+	date: 2014-07-14
+page:want-to-learn
+	desc:Want To Learn
+	date: 2014-07-11
+page:behind-you
+	desc:Behind You
+	date: 2014-07-10
+page:up-hill-battle
+	desc:Up Hill Battle
+	date: 2014-07-09
+page:pep-rally
+	desc:Pep Rally
+	date: 2014-07-08
+page:very-honest
+	desc:Very Honest
+	date: 2014-07-07
+page:castela-fourth
+	desc:Castela Fourth
+	date: 2014-07-04
+page:need-us
+	desc:Need Us
+	date: 2014-07-03
+page:glad-to-leave
+	desc:Glad To Leave
+	date: 2014-07-02
+page:friends-of-jugs
+	desc:Friends Of Jugs
+	date: 2014-07-01
+page:comfort-food
+	desc:Comfort Food
+	date: 2014-06-30
+page:stay-clear
+	desc:Stay Clear
+	date: 2014-06-27
+page:cricket-and-jugs
+	desc:Cricket And Jugs
+	date: 2014-06-26
+page:i-like-you
+	desc:I Like You
+	date: 2014-06-25
+page:oh-i-see
+	desc:Oh I See
+	date: 2014-06-24
+page:do-not-mess-with-her
+	desc:Do Not Mess With Her
+	date: 2014-06-23
+page:jennie-breeden-guest-art-2
+	desc:Jennie Breeden Guest Art
+	date: 2014-06-20
+page:jennie-breeden-guest-art
+	desc:Jennie Breeden Guest Art
+	date: 2014-06-19
+page:sabrina-pandora-guest-art-2
+	desc:Sabrina Pandora Guest Art
+	date: 2014-06-18
+page:sabrina-pandora-guest-art
+	desc:Sabrina Pandora Guest Art
+	date: 2014-06-17
+page:claire-wendling-guest-art
+	desc:Claire Wendling Guest Art
+	date: 2014-06-15
+page:moving
+	desc:Moving
+	date: 2014-05-06
+page:chocolate-cake
+	desc:Chocolate Cake
+	date: 2014-05-05
+page:eightball-tee-preorder
+	desc:Eightball Tee Preorder
+	date: 2014-05-03
+page:just-leave
+	desc:Just Leave
+	date: 2014-05-02
+page:my-gosh
+	desc:My Gosh
+	date: 2014-05-01
+page:am-i-sick
+	desc:Am I Sick
+	date: 2014-04-30
+page:happy-thoughts
+	desc:Happy Thoughts
+	date: 2014-04-29
+page:be-still
+	desc:Be Still
+	date: 2014-04-28
+page:stay-calm-2
+	desc:Stay Calm
+	date: 2014-04-25
+page:stupid-diary
+	desc:Stupid Diary
+	date: 2014-04-24
+page:special-fit
+	desc:Special Fit
+	date: 2014-04-23
+page:pajama-top
+	desc:Pajama Top
+	date: 2014-04-22
+page:resize-these
+	desc:Resize These
+	date: 2014-04-21
+page:atsali-cutie-patootie
+	desc:Atsali Cutie Patootie
+	date: 2014-04-18
+page:just-children
+	desc:Just Children
+	date: 2014-04-17
+page:the-sword
+	desc:The Sword
+	date: 2014-04-16
+page:then-that-2
+	desc:Then That
+	date: 2014-04-15
+page:grandcritter
+	desc:Grandcritter
+	date: 2014-04-14
+page:be-okay-2
+	desc:Be Okay
+	date: 2014-04-11
+page:call-it-even
+	desc:Call It Even
+	date: 2014-04-10
+page:corrot-sticks
+	desc:Carrot Sticks
+	date: 2014-04-09
+page:aunt-tina
+	desc:Aunt Tina
+	date: 2014-04-08
+page:marshmallows
+	desc:Marshmallows
+	date: 2014-04-07
+page:euryale-medusa-and-stheno
+	desc:Euryale, Medusa, And Stheno
+	date: 2014-04-03
+page:just-being-mean
+	desc:Just Being Mean
+	date: 2014-04-02
+page:life-strategies
+	desc:Life Strategies
+	date: 2014-04-01
+page:at-school
+	desc:At School
+	date: 2014-03-31
+page:queen-bee
+	desc:Queen Bee
+	date: 2014-03-27
+page:that-stuff
+	desc:That Stuff
+	date: 2014-03-25
+page:guess-what
+	desc:Guess What
+	date: 2014-03-24
+page:that-is-why
+	desc:That Is Why
+	date: 2014-03-20
+page:time-to-think
+	desc:Time To Think
+	date: 2014-03-19
+page:tossed-aside
+	desc:Tossed Aside
+	date: 2014-03-18
+page:out-of-the-loop
+	desc:Out Of The Loop
+	date: 2014-03-17
+page:as-a-girl
+	desc:As A Girl
+	date: 2014-03-14
+page:mummy-girl
+	desc:Mummy Girl
+	date: 2014-03-13
+page:due-for-a-hug
+	desc:Due For A Hug
+	date: 2014-03-12
+page:jinx
+	desc:Jinx
+	date: 2014-03-11
+page:plumb-near
+	desc:Plumb Near
+	date: 2014-03-10
+page:a-liquor-filled-kiss
+	desc:A Liquor Filled Kiss
+	date: 2014-03-07
+page:clear-the-air
+	desc:Clear The Air
+	date: 2014-03-06
+page:not-gonna
+	desc:Not Gonna
+	date: 2014-03-05
+page:batter-up
+	desc:Batter Up
+	date: 2014-03-04
+page:about-that
+	desc:About That
+	date: 2014-03-03
+page:please-help-support-wapsi
+	desc:Please Help Support Wapsi
+	date: 2014-03-01
+page:what-about-me
+	desc:What About Me
+	date: 2014-02-28
+page:sproing
+	desc:Sproing
+	date: 2014-02-27
+page:you-what
+	desc:Your What
+	date: 2014-02-26
+page:what-the-heck-2
+	desc:What The Heck
+	date: 2014-02-25
+page:what-did-you-say
+	desc:What Did You Say
+	date: 2014-02-24
+page:just-tell-me
+	desc:Just Tell Me
+	date: 2014-02-11
+page:have-a-drink
+	desc:Have A Drink
+	date: 2014-02-10
+page:island-party
+	desc:Island Party
+	date: 2014-02-07
+page:student-of-mine
+	desc:Student Of Mine
+	date: 2014-02-06
+page:evening-agenda
+	desc:Evening Agenda
+	date: 2014-02-05
+page:something-is-up
+	desc:Something Is Up
+	date: 2014-02-04
+page:day-vacation-to-cafe-u296
+	desc:Day Vacation To Cafe U296
+	date: 2014-02-03
+page:hard-rock-atsali
+	desc:Hard Rock Atsali
+	date: 2014-01-31
+page:heavy-metal-atsali
+	desc:Heavy Metal Atsali
+	date: 2014-01-30
+page:katherine-smiles
+	desc:Katherine Smiles
+	date: 2014-01-29
+page:air-guitar
+	desc:Air Guitar
+	date: 2014-01-28
+page:is-this-normal
+	desc:Is This Normal
+	date: 2014-01-27
+page:order-up
+	desc:Order Up
+	date: 2014-01-24
+page:here-i-am
+	desc:Here I Am
+	date: 2014-01-23
+page:paying-attention
+	desc:Paying Attention
+	date: 2014-01-22
+page:not-like-that
+	desc:Not Like That
+	date: 2014-01-21
+page:how-silly-is-that
+	desc:How Silly Is That
+	date: 2014-01-20
+page:free-after-work
+	desc:Free After Work
+	date: 2014-01-17
+page:an-essential-member
+	desc:An Essential Member
+	date: 2014-01-16
+page:wake-up-2
+	desc:Wake Up
+	date: 2014-01-15
+page:let-yourselves-feel
+	desc:Let Yourselves Feel
+	date: 2014-01-14
+page:what-happened-4
+	desc:What Happened
+	date: 2014-01-13
+page:awesomly-innocent
+	desc:Awesomly Innocent
+	date: 2014-01-10
+page:hey-sis
+	desc:Hey Sis
+	date: 2014-01-09
+page:it-chirped
+	desc:It Chirped
+	date: 2014-01-08
+page:stop-chasing-me
+	desc:Stop Chasing Me
+	date: 2014-01-07
+page:mom-said
+	desc:Mom Said
+	date: 2014-01-06
+page:castela-discovers-video-phones
+	desc:Castela Discovers Video Phones
+	date: 2014-01-03
+page:not-even
+	desc:Not Even
+	date: 2014-01-02
+page:naive-and-dangerous
+	desc:Naive And Dangerous
+	date: 2014-01-01
+page:the-secret-2
+	desc:The Secret
+	date: 2013-12-31
+page:scare-for-fun
+	desc:Scare For Fun
+	date: 2013-12-30
+page:snuggle-for-christmas
+	desc:Snuggle For Christmas
+	date: 2013-12-25
+page:waiting-for-santa
+	desc:Waiting For Santa
+	date: 2013-12-24
+page:show-and-tell
+	desc:Show And Tell
+	date: 2013-12-23
+page:what-you-did
+	desc:What You Did
+	date: 2013-12-19
+page:breaking-my-heart
+	desc:Breaking My Heart
+	date: 2013-12-18
+page:keep-concentrating
+	desc:Keep Concentrating
+	date: 2013-12-17
+page:do-a-lap
+	desc:Do A Lap
+	date: 2013-12-16
+page:not-the-same
+	desc:Not The Same
+	date: 2013-12-13
+page:cherokee-wisdom
+	desc:Cherokee Wisdom
+	date: 2013-12-12
+page:look-like-me
+	desc:Look Like Me
+	date: 2013-12-11
+page:too-dorky
+	desc:Too Dorky
+	date: 2013-12-10
+page:we-have-tails
+	desc:We Have Tails
+	date: 2013-12-09
+page:breathing-is-good
+	desc:Breathing Is Good
+	date: 2013-12-06
+page:grounded-and-smart
+	desc:Grounded And Smart
+	date: 2013-12-05
+page:cups-and-bands
+	desc:Cups And Bands
+	date: 2013-12-04
+page:my-kung-fu-is-strong
+	desc:My Kung Fu Is Strong
+	date: 2013-12-03
+page:great-snuggler
+	desc:Great Snuggler
+	date: 2013-12-02
+page:atsali-castela-got-your-back
+	desc:Atsali Castela Got Your Back
+	date: 2013-12-01
+page:atsali-castela-monicas-beach
+	desc:Atsali and Castela at Monica&#8217;s Beach
+	date: 2013-11-30
+page:andrea-torrejon-wapsi-pinup
+	desc:Andrea Torrej&#243;n Wapsi Pinup
+	date: 2013-11-29
+page:leigh-lahav-guest-pinup
+	desc:Leigh Lahav Guest Pinup
+	date: 2013-11-28
+page:kell-dewclaw-pinup
+	desc:Kell Dewclaw Pinup
+	date: 2013-11-27
+page:aunt-monica
+	desc:Aunt Monica
+	date: 2013-11-26
+page:the-wrong-person
+	desc:The Wrong Person
+	date: 2013-11-25
+page:called-me-psycho
+	desc:Called Me Psycho
+	date: 2013-11-22
+page:nothing-more-than-that
+	desc:Nothing More Than That
+	date: 2013-11-21
+page:someone-you-need-to-meet
+	desc:Someone You Need To Meet
+	date: 2013-11-20
+page:turning-blue
+	desc:Turning Blue
+	date: 2013-11-19
+page:all-at-once
+	desc:All At Once
+	date: 2013-11-18
+page:just-stop-talking
+	desc:Just Stop Talking
+	date: 2013-11-15
+page:stung-by-a-bee
+	desc:Stung By A Bee
+	date: 2013-11-14
+page:someone-we-like
+	desc:Someone We Like
+	date: 2013-11-13
+page:beautiful-flower
+	desc:Beautiful Flower
+	date: 2013-11-12
+page:not-so-lost
+	desc:Not So Lost
+	date: 2013-11-11
+page:ursamorphs
+	desc:Ursamorphs
+	date: 2013-11-08
+page:tight-shirts
+	desc:Tight Shirts
+	date: 2013-11-07
+page:cutest-things-ever
+	desc:Cutest Things Ever
+	date: 2013-11-06
+page:pickles-pot
+	desc:Pickle&#8217;s Pot
+	date: 2013-11-05
+page:this-is-better
+	desc:This Is Better
+	date: 2013-11-04
+page:over-there-3
+	desc:Over There
+	date: 2013-11-01
+page:stuffy-adult
+	desc:Stuffy Adult
+	date: 2013-10-31
+page:not-fair
+	desc:Not Fair
+	date: 2013-10-30
+page:listen-good
+	desc:Listen Good
+	date: 2013-10-29
+page:running-late
+	desc:Running Late
+	date: 2013-10-28
+page:moonlight
+	desc:Moonlight
+	date: 2013-10-25
+page:whitewing
+	desc:Whitewing
+	date: 2013-10-24
+page:out-all-day
+	desc:Out All Day
+	date: 2013-10-23
+page:not-alone
+	desc:Not Alone
+	date: 2013-10-22
+page:lock-the-doors
+	desc:Lock The Doors
+	date: 2013-10-21
+page:be-her-rock
+	desc:Be Her Rock
+	date: 2013-10-18
+page:for-jill
+	desc:For Jill
+	date: 2013-10-17
+page:something-wrong
+	desc:Something Wrong
+	date: 2013-10-16
+page:find-your-way
+	desc:Find Your Way
+	date: 2013-10-15
+page:jaguar-girl-2
+	desc:Jaguar Girl
+	date: 2013-10-14
+page:get-this-sorted
+	desc:Get This Sorted
+	date: 2013-10-09
+page:you-need-to
+	desc:You Need To
+	date: 2013-10-08
+page:rescued-a-girl
+	desc:Rescued A Girl
+	date: 2013-10-07
+page:not-their-fault
+	desc:Not Their Fault
+	date: 2013-10-01
+page:fresher-already
+	desc:Fresher Already
+	date: 2013-09-30
+page:return-the-favor-2
+	desc:Return The Favor
+	date: 2013-09-27
+page:fishing-you-out
+	desc:Fishing You Out
+	date: 2013-09-26
+page:demon-shepherd
+	desc:Demon Shepherd
+	date: 2013-09-25
+page:the-wrong-girl
+	desc:The Wrong Girl
+	date: 2013-09-24
+page:worst-fing-nightmare
+	desc:Worst F***ing Nightmare
+	date: 2013-09-23
+page:the-one-who-loves-you
+	desc:The One Who Loves You
+	date: 2013-09-20
+page:respected-her
+	desc:Respected Her
+	date: 2013-09-19
+page:come-and-go
+	desc:Come And Go
+	date: 2013-09-18
+page:our-guest
+	desc:Our Guest
+	date: 2013-09-17
+page:no-excuse
+	desc:No Excuse
+	date: 2013-09-16
+page:she-said-no
+	desc:She Said No
+	date: 2013-09-13
+page:connection
+	desc:Connection
+	date: 2013-09-12
+page:thank-me-later
+	desc:Thank Me Later
+	date: 2013-09-11
+page:out-cold
+	desc:Out Cold
+	date: 2013-09-10
+page:wapsi-square-12-years
+	desc:Wapsi Square 12 Years
+	date: 2013-09-09
+page:fell-in-love
+	desc:Fell In Love
+	date: 2013-09-06
+page:she-wants-you
+	desc:She Wants You
+	date: 2013-09-05
+page:never-touched-you
+	desc:Never Touched You
+	date: 2013-09-04
+page:out-of-the-blue
+	desc:Out Of The Blue
+	date: 2013-09-03
+page:georgettes-kiss
+	desc:Georgette&#8217;s Kiss
+	date: 2013-09-02
+page:really-here
+	desc:Really Here
+	date: 2013-08-30
+page:your-whole-world
+	desc:Your Whole World
+	date: 2013-08-29
+page:there-she-is
+	desc:There She Is
+	date: 2013-08-28
+page:loss-for-words
+	desc:Loss For Words
+	date: 2013-08-27
+page:on-purpose
+	desc:On Purpose
+	date: 2013-08-26
+page:mamabear
+	desc:Mamabear
+	date: 2013-08-23
+page:afternoon-pickup
+	desc:Afternoon Pickup
+	date: 2013-08-22
+page:finish-my-lesson
+	desc:Finish My Lesson
+	date: 2013-08-21
+page:like-heroes
+	desc:Like Heroes
+	date: 2013-08-20
+page:happy-endings
+	desc:Happy Endings
+	date: 2013-08-19
+page:execution-via-fear
+	desc:Execution Via Fear
+	date: 2013-08-16
+page:judged-by-history
+	desc:Judged By History
+	date: 2013-08-15
+page:better-than-me
+	desc:Better Than Me
+	date: 2013-08-14
+page:speak-only-when-spoken-to
+	desc:Speak Only When Spoken To
+	date: 2013-08-13
+page:called-on-the-carpet
+	desc:Called On The Carpet
+	date: 2013-08-12
+page:trash-talk-of-the-titans
+	desc:Trash Talk Of The Titans
+	date: 2013-08-09
+page:a-little-competition
+	desc:A Little Competition
+	date: 2013-08-08
+page:still-at-it
+	desc:Still At It
+	date: 2013-08-07
+page:castela
+	desc:Castela, &#8220;It&#8217;s Singing!&#8221;
+	date: 2013-08-06
+page:castela-running
+	desc:Castela Running
+	date: 2013-08-05
+page:ready-for-the-world
+	desc:Ready For The World
+	date: 2013-08-02
+page:would-you-like-that
+	desc:Would You Like That
+	date: 2013-08-01
+page:part-of-my-adventure
+	desc:Part Of My Adventure
+	date: 2013-07-31
+page:and-a-glass-of-milk
+	desc:And A Glass Of Milk
+	date: 2013-07-30
+page:little-castela
+	desc:Little Castela
+	date: 2013-07-29
+page:threw-me-away
+	desc:Threw Me Away
+	date: 2013-07-26
+page:not-real
+	desc:Not Real
+	date: 2013-07-25
+page:where-did-you-go
+	desc:Where Did You Go
+	date: 2013-07-24
+page:afternoon-tea
+	desc:Little Atsali and Afternoon Tea
+	date: 2013-07-23
+page:original-wapsi-square-art-on-ebay
+	desc:Original Wapsi square Art on Ebay!
+	date: 2013-07-22
+page:reluctant-adventure-buddy
+	desc:Little Atsali and the Reluctant Adventure Buddy
+	date: 2013-07-22
+page:little-atsali-and-the-pirate-ship
+	desc:Little Atsali And The Pirate Ship
+	date: 2013-07-21
+page:little-atsali-and-the-dragon
+	desc:Little Atsali And The Dragon
+	date: 2013-07-20
+page:monica-free-hugs
+	desc:Monica's Free Hugs
+	date: 2013-07-19
+page:stay-out-of-her-way
+	desc:Stay Out Of Her Way
+	date: 2013-07-18
+page:leaving-something-out
+	desc:Leaving Something Out
+	date: 2013-07-17
+page:a-lot-to-answer-for
+	desc:A Lot To Answer For
+	date: 2013-07-16
+page:remember-her-name
+	desc:Remember Her Name
+	date: 2013-07-15
+page:waiting-to-be-sent-back
+	desc:Waiting To Be Sent Back
+	date: 2013-07-12
+page:an-important-offer
+	desc:An Important Offer
+	date: 2013-07-11
+page:all-gone
+	desc:All Gone
+	date: 2013-07-10
+page:end-of-story
+	desc:End Of Story
+	date: 2013-07-09
+page:crystal-in-the-wall
+	desc:Crystal In The Wall
+	date: 2013-07-08
+page:happy-4th
+	desc:Happy 4th of July
+	date: 2013-07-04
+page:catch-up-shortly
+	desc:Catch Up Shortly
+	date: 2013-07-03
+page:take-this-away
+	desc:Take This Away
+	date: 2013-07-02
+page:set-adrift
+	desc:Set Adrift
+	date: 2013-07-01
+page:six-special-women
+	desc:Six Special Women
+	date: 2013-06-28
+page:in-store-for
+	desc:In Store For
+	date: 2013-06-27
+page:all-heck-is-breaking-loose
+	desc:All Heck Is Breaking Loose
+	date: 2013-06-26
+page:your-capable-hands
+	desc:Your Capable Hands
+	date: 2013-06-25
+page:help-or-break
+	desc:Help Or Break
+	date: 2013-06-24
+page:times-up
+	desc:Time's Up
+	date: 2013-06-21
+page:follow-my-lead
+	desc:Follow My Lead
+	date: 2013-06-20
+page:termination-orders
+	desc:Termination Orders
+	date: 2013-06-19
+page:glad-you-could-make-it
+	desc:Glad You Could Make It
+	date: 2013-06-18
+page:a-few-favors
+	desc:A Few Favors
+	date: 2013-06-17
+page:a-nu-gui-deal
+	desc:A N&uuml; Gui Deal
+	date: 2013-06-14
+page:all-clear
+	desc:All Clear
+	date: 2013-06-13
+page:stay-calm
+	desc:Stay Calm
+	date: 2013-06-12
+page:wrath
+	desc:Wrath
+	date: 2013-06-11
+page:follow-her-lead
+	desc:Follow Her Lead
+	date: 2013-06-10
+page:no-poit-for-you
+	desc:No Poit For You
+	date: 2013-06-07
+page:athena-missile-test
+	desc:Athena Missile Test
+	date: 2013-06-06
+page:yaxchilan-detour
+	desc:Yaxchilan Detour
+	date: 2013-06-05
+page:the-only-way-out
+	desc:The Only Way Out
+	date: 2013-06-04
+page:because-why
+	desc:Because Why
+	date: 2013-06-03
+page:self-destruct-device
+	desc:Self Destruct Device
+	date: 2013-05-31
+page:escaped-through-me
+	desc:Escaped Through Me
+	date: 2013-05-30
+page:empty-slot
+	desc:Empty Slot
+	date: 2013-05-29
+page:a-mortal-descendant
+	desc:A Mortal Descendant
+	date: 2013-05-28
+page:delayed-comic
+	desc:Delayed Comic
+	date: 2013-05-24
+page:sweet-dreams
+	desc:Sweet Dreams
+	date: 2013-05-23
+page:the-same-crystal
+	desc:The Same Crystal
+	date: 2013-05-22
+page:six-women
+	desc:Six Women
+	date: 2013-05-21
+page:working-perfectly
+	desc:Working Perfectly
+	date: 2013-05-20
+page:springcon
+	desc:SpringCon
+	date: 2013-05-17
+page:buffers-in-place
+	desc:Buffers In Place
+	date: 2013-05-16
+page:the-deal
+	desc:The Deal
+	date: 2013-05-15
+page:my-location
+	desc:My Location
+	date: 2013-05-14
+page:there-were-earthquakes
+	desc:There Were Earthquakes
+	date: 2013-05-13
+page:welcome-screen
+	desc:Welcome Screen
+	date: 2013-05-10
+page:rosetta-screen
+	desc:Rosetta Screen
+	date: 2013-05-09
+page:crystal-things
+	desc:Crystal Things
+	date: 2013-05-08
+page:in-the-dark
+	desc:In The Dark
+	date: 2013-05-07
+page:a-direct-message
+	desc:A Direct Message
+	date: 2013-05-06
+page:stay-on-your-toes
+	desc:Stay On Your Toes
+	date: 2013-05-03
+page:but-i-know
+	desc:But I Know
+	date: 2013-05-02
+page:crystal-spider
+	desc:Crystal Spider
+	date: 2013-05-01
+page:i-have-the-key
+	desc:I Have The Key
+	date: 2013-04-30
+page:not-here
+	desc:Not Here
+	date: 2013-04-29
+page:get-to-mapimi
+	desc:Get To Mapimi
+	date: 2013-04-26
+page:see-you-at-mesa-verde
+	desc:See You At Mesa Verde
+	date: 2013-04-25
+page:last-two
+	desc:Last Two
+	date: 2013-04-24
+page:awful-convenient
+	desc:Awful Convenient
+	date: 2013-04-23
+page:just-me
+	desc:Just Me
+	date: 2013-04-22
+page:human-slide-rule
+	desc:Human Slide Rule
+	date: 2013-04-19
+page:going-to-mapimi
+	desc:Going To Mapimi
+	date: 2013-04-18
+page:taking-charge
+	desc:Taking Charge
+	date: 2013-04-17
+page:bad-day
+	desc:Bad Day
+	date: 2013-04-16
+page:end-your-suffering
+	desc:End Your Suffering
+	date: 2013-04-15
+page:here-with-me
+	desc:Here With Me
+	date: 2013-04-12
+page:died-alone
+	desc:Died Alone
+	date: 2013-04-11
+page:imagining-things
+	desc:Imagining Things
+	date: 2013-04-10
+page:back-off
+	desc:Back Off
+	date: 2013-04-09
+page:not-that-simple
+	desc:Not That Simple
+	date: 2013-04-08
+page:point-of-entrance
+	desc:Point Of Entrance
+	date: 2013-04-05
+page:kerplunk-kerplooie
+	desc:Kerplunk Kerplooie
+	date: 2013-04-04
+page:cutting-it-close
+	desc:Cutting It Close
+	date: 2013-04-03
+page:keep-it-that-way
+	desc:Keep It That Way
+	date: 2013-04-02
+page:flying-itself
+	desc:Flying Itself
+	date: 2013-04-01
+page:she-shoots-she-scores
+	desc:She Shoots She Scores
+	date: 2013-03-29
+page:do-the-decoy
+	desc:Do The Decoy
+	date: 2013-03-28
+page:last-of-eighteen
+	desc:Last Of Eighteen
+	date: 2013-03-27
+page:one-of-eighteen
+	desc:One Of Eighteen
+	date: 2013-03-26
+page:dead-sea-dig
+	desc:Dead Sea Dig
+	date: 2013-03-25
+page:get-these-pix
+	desc:Get These Pix
+	date: 2013-03-22
+page:the-professional
+	desc:The Professional
+	date: 2013-03-21
+page:once-a-month
+	desc:Once A Month
+	date: 2013-03-20
+page:keep-quiet
+	desc:Keep Quiet
+	date: 2013-03-19
+page:coming-this-way
+	desc:Coming This Way
+	date: 2013-03-18
+page:expecting-anyone
+	desc:Expecting Anyone
+	date: 2013-03-15
+page:just-like-that
+	desc:Just Like That
+	date: 2013-03-14
+page:who-why-what-where-when
+	desc:Who Why What Where When
+	date: 2013-03-13
+page:then-that
+	desc:Then That
+	date: 2013-03-12
+page:have-a-fish
+	desc:Have A Fish
+	date: 2013-03-11
+page:scared-of-heights
+	desc:Scared Of Heights
+	date: 2013-03-08
+page:sense-of-balance
+	desc:Sense Of Balance
+	date: 2013-03-07
+page:spider-woman
+	desc:Spider Woman
+	date: 2013-03-06
+page:on-the-pot
+	desc:On The Pot
+	date: 2013-03-05
+page:kicked-in-the-face
+	desc:Kicked In The Face
+	date: 2013-03-04
+page:that-means
+	desc:That Means
+	date: 2013-03-01
+page:all-my-fault
+	desc:All My Fault
+	date: 2013-02-28
+page:hello-2
+	desc:Hello
+	date: 2013-02-27
+page:crushed-to-death
+	desc:Crushed To Death
+	date: 2013-02-26
+page:which-way
+	desc:Which Way
+	date: 2013-02-25
+page:right-behind-you
+	desc:Right Behind You
+	date: 2013-02-22
+page:keep-looking
+	desc:Keep Looking
+	date: 2013-02-21
+page:unstable-structure
+	desc:Unstable Structure
+	date: 2013-02-20
+page:hold-still
+	desc:Hold Still
+	date: 2013-02-19
+page:bottom-floor
+	desc:Bottom Floor, Everyone Out
+	date: 2013-02-18
+page:wapsi-ebay-13
+	desc:Wapsi Ebay
+	date: 2013-02-16
+page:feet-first
+	desc:Feet First
+	date: 2013-02-15
+page:see-a-light
+	desc:See A Light
+	date: 2013-02-14
+page:not-rope
+	desc:Not Rope
+	date: 2013-02-13
+page:getting-outta-here
+	desc:Getting Outta Here
+	date: 2013-02-12
+page:oil-spill
+	desc:Oil Spill
+	date: 2013-02-11
+page:smells-fresher
+	desc:Smells Fresher
+	date: 2013-02-08
+page:should-be-2
+	desc:Should Be
+	date: 2013-02-07
+page:run-for-it
+	desc:Run For It
+	date: 2013-02-06
+page:the-directory
+	desc:The Directory
+	date: 2013-02-05
+page:i-can-help
+	desc:I Can Help
+	date: 2013-02-04
+page:lost-dolls
+	desc:Lost Dolls
+	date: 2013-02-03
+page:what-journey
+	desc:What Journey
+	date: 2013-02-01
+page:fellow-explorer
+	desc:Fellow Explorer
+	date: 2013-01-31
+page:odd-symbols
+	desc:Odd Symbols
+	date: 2013-01-30
+page:mapimi-desert
+	desc:Mapimi Desert
+	date: 2013-01-29
+page:another-day
+	desc:Another Day
+	date: 2013-01-28
+page:wapsi-ebay-11
+	desc:Wapsi Ebay
+	date: 2013-01-26
+page:an-adventure
+	desc:An Adventure
+	date: 2013-01-25
+page:their-dignity
+	desc:Their Dignity
+	date: 2013-01-24
+page:grouchy-pants
+	desc:Grouchy Pants
+	date: 2013-01-23
+page:my-attention
+	desc:My Attention
+	date: 2013-01-22
+page:listen-to-me
+	desc:Listen To Me
+	date: 2013-01-21
+page:more-animal
+	desc:More Animal
+	date: 2013-01-18
+page:pumpkin
+	desc:Pumpkin
+	date: 2013-01-17
+page:an-accident-2
+	desc:An Accident
+	date: 2013-01-16
+page:standing-her-ground
+	desc:Standing Her Ground
+	date: 2013-01-15
+page:insects
+	desc:Insects
+	date: 2013-01-14
+page:find-your-exit-buddy
+	desc:Find Your Exit Buddy
+	date: 2013-01-11
+page:working-together
+	desc:Working Together
+	date: 2013-01-10
+page:thankth-to-you
+	desc:Thankth To You
+	date: 2013-01-09
+page:her-thithter
+	desc:Her Thithter
+	date: 2013-01-08
+page:gonna-love-it
+	desc:Gonna Love It
+	date: 2013-01-07
+page:big-teeth
+	desc:Big Teeth
+	date: 2013-01-04
+page:all-fours
+	desc:All Fours
+	date: 2013-01-03
+page:officially-recog
+	desc:Officially Recog
+	date: 2013-01-02
+page:monica-new-year
+	desc:Monica New Year
+	date: 2013-01-01
+
+page:2012-31-12-doggie-smell
+	desc:2012 31 12 Doggie Smell
+	date: 2012-12-31
+page:wapsi-prints-3
+	desc:Wapsi Prints
+	date: 2012-12-29
+page:not-quite-ready
+	desc:Not Quite Ready
+	date: 2012-12-28
+page:rosalie-lub
+	desc:Rosalie Lub
+	date: 2012-12-27
+page:arianna-fahrenheit
+	desc:Arianna Fahrenheit
+	date: 2012-12-26
+page:monica-x-mas
+	desc:Monica X Mas
+	date: 2012-12-25
+page:xmas-eve
+	desc:Xmas Eve
+	date: 2012-12-24
+page:business-as-usual
+	desc:Business As Usual
+	date: 2012-12-21
+page:just-a-vampire
+	desc:Just A Vampire
+	date: 2012-12-20
+page:kikai-caldera
+	desc:Kikai Caldera
+	date: 2012-12-19
+page:follow-me
+	desc:Follow Me
+	date: 2012-12-18
+page:late-popsicle
+	desc:Latte Popsicle
+	date: 2012-12-17
+page:now-what
+	desc:Now What
+	date: 2012-12-14
+page:out-of-sight
+	desc:Out Of Sight
+	date: 2012-12-13
+page:making-sure
+	desc:Making Sure
+	date: 2012-12-12
+page:not-like-i-was
+	desc:Not Like I Was
+	date: 2012-12-11
+page:morning
+	desc:Morning
+	date: 2012-12-10
+page:together
+	desc:Together
+	date: 2012-12-07
+page:what-she-needs
+	desc:What She Needs
+	date: 2012-12-06
+page:good-enough
+	desc:Good Enough
+	date: 2012-12-05
+page:worst-fear
+	desc:Worst Fear
+	date: 2012-12-04
+page:land-sakes
+	desc:Land Sakes
+	date: 2012-12-03
+page:confession-to-a-shadow
+	desc:Confession To A Shadow
+	date: 2012-11-30
+page:like-dreaming
+	desc:Like Dreaming
+	date: 2012-11-29
+page:what-the-heck
+	desc:What The Heck
+	date: 2012-11-28
+page:and-the-horse-you-road-in-on
+	desc:And The Horse You Rode In On
+	date: 2012-11-27
+page:just-getting-by
+	desc:Just Getting By
+	date: 2012-11-26
+page:been-important
+	desc:Been Important
+	date: 2012-11-21
+page:need-a-beer
+	desc:Need A Beer
+	date: 2012-11-20
+page:this-problem
+	desc:This Problem
+	date: 2012-11-19
+page:you-guys
+	desc:You Guys
+	date: 2012-11-16
+page:over-our-heads
+	desc:Over Our Heads
+	date: 2012-11-15
+page:if-i-have-to
+	desc:If I Have To
+	date: 2012-11-14
+page:see-in-the-dark-2
+	desc:See In The Dark
+	date: 2012-11-13
+page:no-demon
+	desc:No Demon
+	date: 2012-11-12
+page:not-here-now
+	desc:Not Here Now
+	date: 2012-11-09
+page:in-your-lockers
+	desc:In Your Lockers
+	date: 2012-11-08
+page:is-that-official
+	desc:Is That Official
+	date: 2012-11-07
+page:the-only-thing
+	desc:The Only Thing
+	date: 2012-11-06
+page:a-debriefing
+	desc:A Debriefing
+	date: 2012-11-05
+page:let-him-go
+	desc:Let Him Go
+	date: 2012-11-02
+page:pratt-and-mcbride
+	desc:Pratt And Mcbride
+	date: 2012-11-01
+page:your-liason
+	desc:Your Liaison
+	date: 2012-10-31
+page:assigned-to-you
+	desc:Assigned To You
+	date: 2012-10-30
+page:guard-dogs
+	desc:Guard Dogs
+	date: 2012-10-29
+page:another-time-then
+	desc:Another Time Then
+	date: 2012-10-26
+page:lowlifes-like-us
+	desc:Lowlifes Like Us
+	date: 2012-10-25
+page:right-of-way
+	desc:Right Of Way
+	date: 2012-10-24
+page:taking-her-place
+	desc:Taking Her Place
+	date: 2012-10-23
+page:maintain-your-tone
+	desc:Maintain Your Tone
+	date: 2012-10-22
+page:a-warning
+	desc:A Warning
+	date: 2012-10-19
+page:at-least
+	desc:At Least
+	date: 2012-10-18
+page:bounces-back
+	desc:Bounces Back
+	date: 2012-10-17
+page:nice-and-tan
+	desc:Nice And Tan
+	date: 2012-10-16
+page:my-turn
+	desc:My Turn
+	date: 2012-10-15
+page:nice-story
+	desc:Nice Story
+	date: 2012-10-12
+page:rainbows
+	desc:Rainbows
+	date: 2012-10-11
+page:phoenix-blood
+	desc:Phoenix Blood
+	date: 2012-10-10
+page:how-dangerous
+	desc:How Dangerous
+	date: 2012-10-09
+page:nothing-serious
+	desc:Nothing Serious
+	date: 2012-10-08
+page:not-stuck
+	desc:Not Stuck
+	date: 2012-10-05
+page:friggen-dead
+	desc:Friggen Dead
+	date: 2012-10-04
+page:pulling-apart
+	desc:Pulling Apart
+	date: 2012-10-03
+page:awake-now
+	desc:Awake Now
+	date: 2012-10-02
+page:just-fine
+	desc:Just Fine
+	date: 2012-10-01
+page:yeah-that
+	desc:Yeah That
+	date: 2012-09-28
+page:dragonslayers
+	desc:Dragonslayers
+	date: 2012-09-27
+page:going-to-say
+	desc:Going To Say
+	date: 2012-09-26
+page:heard-it-all-before
+	desc:Heard It All Before
+	date: 2012-09-25
+page:buggy-bumpers
+	desc:Buggy Bumpers
+	date: 2012-09-24
+page:antifreeze
+	desc:Antifreeze
+	date: 2012-09-21
+page:before-she-melts
+	desc:Before She Melts
+	date: 2012-09-20
+page:lifespan
+	desc:Lifespan
+	date: 2012-09-19
+page:tolerated-me
+	desc:Tolerated Me
+	date: 2012-09-18
+page:closed-doorway
+	desc:Closed Doorway
+	date: 2012-09-17
+page:jaguar-girl
+	desc:Jaguar Girl
+	date: 2012-09-14
+page:should-be
+	desc:Should Be
+	date: 2012-09-13
+page:filling-the-quiet-spaces
+	desc:Filling The Quiet Spaces
+	date: 2012-09-12
+page:dare-you
+	desc:Dare You
+	date: 2012-09-11
+page:squeee-2
+	desc:Squeee
+	date: 2012-09-10
+page:plunk
+	desc:Plunk
+	date: 2012-09-07
+page:never-left-their-sides
+	desc:Never Left Their Sides
+	date: 2012-09-06
+page:sign-of-weakness-2
+	desc:Sign Of Weakness
+	date: 2012-09-05
+page:pond-scum
+	desc:Pond Scum
+	date: 2012-09-04
+page:have-a-bite
+	desc:Have A Bite
+	date: 2012-09-03
+page:wapsi-ebay-10
+	desc:Wapsi Ebay
+	date: 2012-09-01
+page:make-her-stronger
+	desc:Make Her Stronger
+	date: 2012-08-31
+page:her-drama
+	desc:Her Drama
+	date: 2012-08-30
+page:by-morning-light
+	desc:By Morning Light
+	date: 2012-08-29
+page:daybreak
+	desc:Daybreak
+	date: 2012-08-28
+page:fallen-angel
+	desc:Fallen Angel
+	date: 2012-08-27
+page:golden
+	desc:Golden
+	date: 2012-08-24
+page:like-a-sad-sack
+	desc:Like A Sad Sack
+	date: 2012-08-23
+page:to-her-face
+	desc:To Her Face
+	date: 2012-08-22
+page:worried-about-yo
+	desc:Worried About You
+	date: 2012-08-21
+page:cafe-u296
+	desc:Cafe U296
+	date: 2012-08-20
+page:hush
+	desc:Hush
+	date: 2012-08-17
+page:sit-here
+	desc:Sit Here
+	date: 2012-08-16
+page:leave
+	desc:Leave
+	date: 2012-08-15
+page:pecking-order
+	desc:Pecking Order
+	date: 2012-08-14
+page:so-weak
+	desc:So Weak
+	date: 2012-08-13
+page:warmin-kiss
+	desc:Warmin Kiss
+	date: 2012-08-10
+page:follow-phix
+	desc:Follow Phix
+	date: 2012-08-09
+page:for-a-while
+	desc:For A While
+	date: 2012-08-08
+page:cool-down
+	desc:Cool Down
+	date: 2012-08-07
+page:self-healing
+	desc:Self Healing
+	date: 2012-08-06
+page:quirky-girl
+	desc:Quirky Girl
+	date: 2012-08-03
+page:all-better-2
+	desc:All Better
+	date: 2012-08-02
+page:for-my-fish
+	desc:For My Fish
+	date: 2012-08-01
+page:lactose-intolerant
+	desc:Lactose Intolerant
+	date: 2012-07-31
+page:doing-this
+	desc:Doing This
+	date: 2012-07-30
+page:sunset
+	desc:Sunset
+	date: 2012-07-27
+page:lovely-place
+	desc:Lovely Place
+	date: 2012-07-26
+page:here-nor-there
+	desc:Here Nor There
+	date: 2012-07-25
+page:for-petesake
+	desc:For Petesake
+	date: 2012-07-24
+page:why-is-phix-cryi
+	desc:Why Is Phix Crying
+	date: 2012-07-23
+page:space-to-think
+	desc:Space To Think
+	date: 2012-07-20
+page:kidding-me-2
+	desc:Kidding Me
+	date: 2012-07-19
+page:a-place-to-grow
+	desc:A Place To Grow
+	date: 2012-07-18
+page:where-you-come-from
+	desc:Where You Come From
+	date: 2012-07-17
+page:the-life-of-a-ti
+	desc:The Life Of A Titan
+	date: 2012-07-16
+page:wapsiguest-rampa
+	desc:Wapsiguest Rampa
+	date: 2012-07-12
+page:irma-eriksson
+	desc:Irma Eriksson
+	date: 2012-07-11
+page:jolene-houser
+	desc:Jolene Houser
+	date: 2012-07-10
+page:devilspantieswap
+	desc:DevilsPantiesWap
+	date: 2012-07-09
+page:inconjunction
+	desc:InConJunction
+	date: 2012-07-04
+page:consequence-of-omnipotence
+	desc:Consequence Of Omnipotence
+	date: 2012-07-03
+page:stand-up-straigh
+	desc:Stand Up Straight
+	date: 2012-07-02
+page:no-way-to-behave
+	desc:No Way To Behave
+	date: 2012-06-29
+page:did-she
+	desc:Did She
+	date: 2012-06-28
+page:sphinxed-out
+	desc:Sphinxed Out
+	date: 2012-06-27
+page:play-nice
+	desc:Play Nice
+	date: 2012-06-26
+page:feel-really-bad
+	desc:Feel Really Bad
+	date: 2012-06-25
+page:deserved-it
+	desc:Deserved It
+	date: 2012-06-22
+page:lickable
+	desc:Lickable
+	date: 2012-06-21
+page:no-mean-kids
+	desc:No Mean Kids
+	date: 2012-06-20
+page:this-reaction
+	desc:This Reaction
+	date: 2012-06-19
+page:gecko-girl
+	desc:Gecko Girl
+	date: 2012-06-18
+page:get-a-room
+	desc:Get A Room
+	date: 2012-06-15
+page:lingual-intubation
+	desc:Lingual Intubation
+	date: 2012-06-14
+page:pot-vs-kettle
+	desc:Pot Vs Kettle
+	date: 2012-06-13
+page:tennis-shark
+	desc:Tennis Shark
+	date: 2012-06-12
+page:never-played
+	desc:Never Played
+	date: 2012-06-11
+page:game-of-doubles
+	desc:Game Of Doubles
+	date: 2012-06-08
+page:talking-with-sibyl
+	desc:Talking With Sibyl
+	date: 2012-06-07
+page:time-to-go
+	desc:Time To Go
+	date: 2012-06-06
+page:reverse-shadow
+	desc:Reverse Shadow
+	date: 2012-06-05
+page:wall-of-fire
+	desc:Wall Of Fire
+	date: 2012-06-04
+page:lost-girl
+	desc:Lost Girl
+	date: 2012-06-01
+page:got-buns-hun
+	desc:Got Buns Hun
+	date: 2012-05-31
+page:stunbutt
+	desc:Stunbutt
+	date: 2012-05-30
+page:hornet-sting
+	desc:Hornet Sting
+	date: 2012-05-29
+page:exposure-therapy
+	desc:Exposure Therapy
+	date: 2012-05-28
+page:killer-squirrel
+	desc:Killer Squirrel
+	date: 2012-05-25
+page:a-little-encouragement
+	desc:A Little Encouragement
+	date: 2012-05-24
+page:drill-sergeant
+	desc:Drill Sergeant
+	date: 2012-05-23
+page:goodbye-to-custard
+	desc:Goodbye To Custard
+	date: 2012-05-22
+page:babby-carrots
+	desc:Baby Carrots
+	date: 2012-05-21
+page:the-donut-test
+	desc:The Donut Test
+	date: 2012-05-18
+page:what-the-frig-newtonians
+	desc:What The Frig Newtonians
+	date: 2012-05-17
+page:elite-bra-guard
+	desc:Elite Bra Guard
+	date: 2012-05-16
+page:no-weakness
+	desc:No Weakness
+	date: 2012-05-15
+page:thrown-the-gauntlet
+	desc:Thrown The Gauntlet
+	date: 2012-05-14
+page:find-your-exercise-buddy
+	desc:Find Your Exercise Buddy
+	date: 2012-05-11
+page:will-be-poited
+	desc:Will Be Poited
+	date: 2012-05-10
+page:gimmee-that
+	desc:Gimmee That
+	date: 2012-05-09
+page:feel-compelled
+	desc:Feel Compelled
+	date: 2012-05-08
+page:dark-matter
+	desc:Dark Matter
+	date: 2012-05-07
+page:not-gym-class
+	desc:Not Gym Class
+	date: 2012-05-04
+page:soft-and-spongy
+	desc:Soft And Spongy
+	date: 2012-05-03
+page:taking-care
+	desc:Taking Care
+	date: 2012-05-02
+page:still-asleep
+	desc:Still Asleep
+	date: 2012-05-01
+page:skipping
+	desc:Skipping
+	date: 2012-04-30
+page:gain-a-lifespan
+	desc:Gain A Lifespan
+	date: 2012-04-27
+page:you-gotta-work
+	desc:You Gotta Work
+	date: 2012-04-26
+page:yea-for-us
+	desc:Yea For Us
+	date: 2012-04-25
+page:not-a-them
+	desc:Not A Them
+	date: 2012-04-24
+page:sink-in
+	desc:Sink In
+	date: 2012-04-23
+page:coven-not-covey
+	desc:Coven Not Covey
+	date: 2012-04-20
+page:missing-element
+	desc:Missing Element
+	date: 2012-04-19
+page:nat-and-marie
+	desc:Nat And Marie
+	date: 2012-04-18
+page:demon-memories
+	desc:Demon Memories
+	date: 2012-04-17
+page:kept-me-safe
+	desc:Kept Me Safe
+	date: 2012-04-16
+page:wapsi-ebay-9
+	desc:Wapsi Ebay
+	date: 2012-04-14
+page:ever-bother
+	desc:Ever Bother
+	date: 2012-04-13
+page:you-become
+	desc:You Become
+	date: 2012-04-12
+page:took-the-phone
+	desc:Took The Phone
+	date: 2012-04-11
+page:just-forget
+	desc:Just Forget
+	date: 2012-04-10
+page:the-mind-of-shelly
+	desc:The Mind Of Shelly
+	date: 2012-04-09
+page:hooked-up
+	desc:Hooked Up
+	date: 2012-04-06
+page:i-thought
+	desc:I Thought
+	date: 2012-04-05
+page:do-the-eyes
+	desc:Do The Eyes
+	date: 2012-04-04
+page:in-layers
+	desc:In Layers
+	date: 2012-04-03
+page:let-this-happen
+	desc:Let This Happen
+	date: 2012-04-02
+page:time-in-the-timeforest
+	desc:Time In The Timeforest
+	date: 2012-03-30
+page:my-bright-sparkle
+	desc:My Bright Sparkle
+	date: 2012-03-29
+page:human-like
+	desc:Human Like
+	date: 2012-03-28
+page:shes-back
+	desc:She&#8217;s Back
+	date: 2012-03-27
+page:we-happened
+	desc:We Happened
+	date: 2012-03-26
+page:introspective
+	desc:Introspective
+	date: 2012-03-23
+page:do-anything
+	desc:Do Anything
+	date: 2012-03-22
+page:early-bird
+	desc:Early Bird
+	date: 2012-03-21
+page:echoes
+	desc:Echoes
+	date: 2012-03-20
+page:warm-morning
+	desc:Warm Morning
+	date: 2012-03-19
+page:wapsi-ebay-8
+	desc:Wapsi Ebay
+	date: 2012-03-17
+page:crack-it-open
+	desc:Crack It Open
+	date: 2012-03-16
+page:you-are-what-you-eat
+	desc:You Are What You Eat
+	date: 2012-03-15
+page:lesson-for-today
+	desc:Lesson For Today
+	date: 2012-03-14
+page:saved-us
+	desc:Saved Us
+	date: 2012-03-13
+page:rounding-third
+	desc:Rounding Third
+	date: 2012-03-12
+page:wapsi-ebay-7
+	desc:Wapsi Ebay
+	date: 2012-03-11
+page:washington-post
+	desc:Washington Post
+	date: 2012-03-10
+page:and-then
+	desc:And Then
+	date: 2012-03-09
+page:this-or-that
+	desc:This Or That
+	date: 2012-03-08
+page:sentimental-quality
+	desc:Sentimental Quality
+	date: 2012-03-07
+page:all-the-sparklie
+	desc:All The Sparklies
+	date: 2012-03-06
+page:via-the-annex
+	desc:Via The Annex
+	date: 2012-03-05
+page:stevens-door
+	desc:Stevens Door
+	date: 2012-03-02
+page:sage-of-the-forest
+	desc:Sage Of The Forest
+	date: 2012-03-01
+page:2012-02029-your-clothes
+	desc:2012 02029 Your Clothes
+	date: 2012-02-29
+page:kidding-me
+	desc:Kidding Me
+	date: 2012-02-28
+page:crazy-meter
+	desc:Crazy Meter
+	date: 2012-02-27
+page:who-put-the-dogs-out
+	desc:Who Put The Dogs Out
+	date: 2012-02-25
+page:snort
+	desc:Snort
+	date: 2012-02-24
+page:something
+	desc:Something
+	date: 2012-02-22
+page:bare-with-me
+	desc:Bear With Me
+	date: 2012-02-21
+page:a-gateway
+	desc:A Gateway
+	date: 2012-02-20
+page:wapsi-ebay-6
+	desc:Wapsi Ebay
+	date: 2012-02-18
+page:butt-bump
+	desc:Butt Bump
+	date: 2012-02-17
+page:twelve-vortices
+	desc:Twelve Vortices
+	date: 2012-02-16
+page:a-warm-oasis
+	desc:A Warm Oasis
+	date: 2012-02-15
+page:you-guys-rock
+	desc:You Guys Rock
+	date: 2012-02-14
+page:about-the-weather
+	desc:About The Weather
+	date: 2012-02-13
+page:very-sweet
+	desc:Very Sweet
+	date: 2012-02-10
+page:a-better-class
+	desc:A Better Class
+	date: 2012-02-09
+page:sweetest-individ
+	desc:Sweetest Individ
+	date: 2012-02-08
+page:the-apex
+	desc:The Apex
+	date: 2012-02-07
+page:get-that
+	desc:Get That
+	date: 2012-02-06
+page:fringe-paranormals
+	desc:Fringe Paranormals
+	date: 2012-02-03
+page:neither-are-you
+	desc:Neither Are You
+	date: 2012-02-02
+page:get-you-help
+	desc:Get You Help
+	date: 2012-02-01
+page:what-they-want
+	desc:What They Want
+	date: 2012-01-31
+page:hold-on-3
+	desc:Hold On
+	date: 2012-01-30
+page:wapsi-ebay-5
+	desc:Wapsi Ebay
+	date: 2012-01-29
+page:come-with-me
+	desc:Come With Me
+	date: 2012-01-27
+page:the-truth
+	desc:The Truth
+	date: 2012-01-26
+page:not-me
+	desc:Not Me
+	date: 2012-01-25
+page:an-accident
+	desc:An Accident
+	date: 2012-01-24
+page:ur-bleeding
+	desc:You&#8217;re Bleeding
+	date: 2012-01-23
+page:oopsie-doodle
+	desc:Oopsie Doodle
+	date: 2012-01-20
+page:jumpiness
+	desc:Jumpiness
+	date: 2012-01-19
+page:no-teasing
+	desc:No Teasing
+	date: 2012-01-18
+page:coffee-for-you
+	desc:Coffee For You
+	date: 2012-01-17
+page:good-morning
+	desc:Good Morning
+	date: 2012-01-16
+page:we-can-practice
+	desc:We Can Practice
+	date: 2012-01-13
+page:keep-control
+	desc:Keep Control
+	date: 2012-01-12
+page:we-know
+	desc:We Know
+	date: 2012-01-11
+page:stop-you
+	desc:Stop You
+	date: 2012-01-10
+page:happened-so-fast
+	desc:Happened So Fast
+	date: 2012-01-09
+page:off-the-target
+	desc:Off The Target
+	date: 2012-01-06
+page:a-calming-effect
+	desc:A Calming Effect
+	date: 2012-01-05
+page:what-happened-3
+	desc:What Happened
+	date: 2012-01-04
+page:let-this-go
+	desc:Let This Go
+	date: 2012-01-03
+page:what-now
+	desc:What Now
+	date: 2012-01-02
+page:happy-new-year
+	desc:Happy New Year
+	date: 2011-12-30
+page:late-teens
+	desc:Late Teens
+	date: 2011-12-29
+page:catch-him-smiling
+	desc:Catch Him Smiling
+	date: 2011-12-28
+page:nerdy-cop
+	desc:Nerdy Cop
+	date: 2011-12-27
+page:not-bored-yet
+	desc:Not Bored Yet
+	date: 2011-12-26
+page:faith-erin-hicks-guest-comic
+	desc:Faith Erin Hicks Guest Comic
+	date: 2011-12-23
+page:jennie-breeden-guest-comic
+	desc:Jennie Breeden Guest Comic
+	date: 2011-12-22
+page:arie-monroe-guest-comic
+	desc:Arie Monroe Guest Comic
+	date: 2011-12-21
+page:rachel-dukes-guest-comic
+	desc:Rachel Dukes Guest Comic
+	date: 2011-12-20
+page:frank-page-guest-comic
+	desc:Frank Page Guest Comic
+	date: 2011-12-19
+page:wapsi-ebay-4
+	desc:Wapsi Ebay
+	date: 2011-12-17
+page:over-the-edge
+	desc:Over The Edge
+	date: 2011-12-16
+page:howdy-occifer
+	desc:Howdy Occifer
+	date: 2011-12-15
+page:grrrrrr
+	desc:Grrrrrr
+	date: 2011-12-14
+page:silver-belle
+	desc:Silver Belle
+	date: 2011-12-13
+page:the-holy-snowman
+	desc:The Holy Snowman
+	date: 2011-12-12
+page:wapsi-ebay-3
+	desc:Wapsi Ebay
+	date: 2011-12-11
+page:snowball-ceasefire
+	desc:Snowball Ceasefire
+	date: 2011-12-09
+page:a-crush
+	desc:A Crush
+	date: 2011-12-08
+page:winter-safety
+	desc:Winter Safety
+	date: 2011-12-07
+page:so-peaceful
+	desc:So Peaceful
+	date: 2011-12-06
+page:waiting-for-you
+	desc:Waiting For You
+	date: 2011-12-05
+page:wapsi-ebay-2
+	desc:Wapsi Ebay
+	date: 2011-12-04
+page:duck-and-cover
+	desc:Duck And Cover
+	date: 2011-12-02
+page:human-form
+	desc:Human Form
+	date: 2011-12-01
+page:likin-this
+	desc:Likin This
+	date: 2011-11-30
+page:all-safe
+	desc:All Safe
+	date: 2011-11-29
+page:went-shooting
+	desc:Went Shooting
+	date: 2011-11-28
+page:feeling-better
+	desc:Feeling Better
+	date: 2011-11-25
+page:happy-thanksgivi
+	desc:Happy Thanksgiving
+	date: 2011-11-24
+page:chasing-james-randi
+	desc:Chasing James Randi
+	date: 2011-11-23
+page:sister-medusa
+	desc:Sister Medusa
+	date: 2011-11-22
+page:one-of-the-sages
+	desc:One Of The Sages
+	date: 2011-11-21
+page:still-sound
+	desc:Still Sound
+	date: 2011-11-18
+page:nothing-2
+	desc:Nothing
+	date: 2011-11-17
+page:kind-of-damage
+	desc:Kind Of Damage
+	date: 2011-11-16
+page:fangirl
+	desc:Fangirl
+	date: 2011-11-15
+page:fit-in
+	desc:Fit In
+	date: 2011-11-14
+page:wapsi-ebay
+	desc:Wapsi Ebay
+	date: 2011-11-12
+page:who-why
+	desc:Who Why
+	date: 2011-11-11
+page:the-wrong-folks
+	desc:The Wrong Folks
+	date: 2011-11-10
+page:active-roles
+	desc:Active Roles
+	date: 2011-11-09
+page:men-in-black
+	desc:Men In Black
+	date: 2011-11-08
+page:i-tells-ya
+	desc:I Tells Ya
+	date: 2011-11-07
+page:critter-out-there
+	desc:Critter Out There
+	date: 2011-11-04
+page:fur-reals
+	desc:Fur Reals
+	date: 2011-11-03
+page:local-gal
+	desc:Local Gal
+	date: 2011-11-02
+page:dia-de-los-muertos
+	desc:Dia De Los Muertos
+	date: 2011-11-01
+page:happy-halloween-2
+	desc:Happy Halloween
+	date: 2011-10-31
+page:wapsi-square-book-store-6
+	desc:Wapsi Square Book Store
+	date: 2011-10-29
+page:biggest-fan
+	desc:Biggest Fan
+	date: 2011-10-28
+page:good-as-new
+	desc:Good As New
+	date: 2011-10-27
+page:another-scholar
+	desc:Another Scholar
+	date: 2011-10-26
+page:parameters
+	desc:Parameters
+	date: 2011-10-25
+page:the-anex
+	desc:The Annex
+	date: 2011-10-24
+page:wapsi-square-book-store-5
+	desc:Wapsi Square Book Store
+	date: 2011-10-22
+page:be-right-back
+	desc:Be Right Back
+	date: 2011-10-17
+page:wapsi-square-book-store-4
+	desc:Wapsi Square Book Store
+	date: 2011-10-15
+page:all-better
+	desc:All Better
+	date: 2011-10-14
+page:empty-space
+	desc:Empty Space
+	date: 2011-10-13
+page:best-plan
+	desc:Best Plan
+	date: 2011-10-12
+page:under-pressure
+	desc:Under Pressure
+	date: 2011-10-11
+page:no-idea
+	desc:No Idea
+	date: 2011-10-10
+page:wapsi-square-book-store-3
+	desc:Wapsi Square Book Store
+	date: 2011-10-08
+page:lashing-out
+	desc:Lashing Out
+	date: 2011-10-07
+page:afraid-to-be
+	desc:Afraid To Be
+	date: 2011-10-06
+page:your-choice
+	desc:Your Choice
+	date: 2011-10-05
+page:did-you-know
+	desc:Did You Know
+	date: 2011-10-04
+page:just-stop
+	desc:Just Stop
+	date: 2011-10-03
+page:wapsi-square-book-store-2
+	desc:Wapsi Square Book Store
+	date: 2011-10-01
+page:doing-good
+	desc:Doing Good
+	date: 2011-09-30
+page:about-you-2
+	desc:About You
+	date: 2011-09-29
+page:carpe-diem
+	desc:Carpe Diem
+	date: 2011-09-28
+page:feeling-nostalgi
+	desc:Feeling Nostalgi
+	date: 2011-09-27
+page:what-was-that
+	desc:What Was That
+	date: 2011-09-26
+page:wapsi-square-book-store
+	desc:Wapsi Square Book Store
+	date: 2011-09-24
+page:tell-me
+	desc:Tell Me
+	date: 2011-09-23
+page:walk-away
+	desc:Walk Away
+	date: 2011-09-22
+page:not-playing
+	desc:Not Playing
+	date: 2011-09-21
+page:all-half-asleep
+	desc:All Half Asleep
+	date: 2011-09-20
+page:play-the-game
+	desc:Play The Game
+	date: 2011-09-19
+page:wapsi-square-boo-2
+	desc:Wapsi Square Book Store
+	date: 2011-09-17
+page:no-chew-food
+	desc:No Chew Food
+	date: 2011-09-16
+page:the-former
+	desc:The Former
+	date: 2011-09-15
+page:better-be
+	desc:Better Be
+	date: 2011-09-14
+page:no-answers
+	desc:No Answers
+	date: 2011-09-13
+page:made-human
+	desc:Made Human
+	date: 2011-09-12
+page:wapsi-square-boo
+	desc:Wapsi Square Book Store
+	date: 2011-09-10
+page:free-to-go
+	desc:Free To Go
+	date: 2011-09-09
+page:a-normal-life
+	desc:A Normal Life
+	date: 2011-09-08
+page:taken-away
+	desc:Taken Away
+	date: 2011-09-07
+page:waiting-room
+	desc:Waiting Room
+	date: 2011-09-06
+page:better-quality
+	desc:Better Quality
+	date: 2011-09-05
+page:what-that-would-do
+	desc:What That Would Do
+	date: 2011-09-02
+page:a-hangnail
+	desc:A Hangnail
+	date: 2011-09-01
+page:my-shin
+	desc:My Shin
+	date: 2011-08-31
+page:feel-space
+	desc:Feel Space
+	date: 2011-08-30
+page:feels-cold
+	desc:Feels Cold
+	date: 2011-08-29
+page:wrong-answer
+	desc:Wrong Answer
+	date: 2011-08-26
+page:that-was-sudden
+	desc:That Was Sudden
+	date: 2011-08-25
+page:hang-on
+	desc:Hang On
+	date: 2011-08-24
+page:eyes-in-a-fishbowl
+	desc:Eyes In A Fishbowl
+	date: 2011-08-23
+page:gone
+	desc:Gone
+	date: 2011-08-22
+page:skindiver-monica
+	desc:Skindiver Monica
+	date: 2011-08-19
+page:monica-croft
+	desc:Monica Croft
+	date: 2011-08-18
+page:cave-monica
+	desc:Cave Monica
+	date: 2011-08-17
+page:jungle-monica
+	desc:Jungle Monica
+	date: 2011-08-16
+page:a-game-of-chess
+	desc:A Game Of Chess
+	date: 2011-08-15
+page:walk-in-the-park
+	desc:Walk In The Park
+	date: 2011-08-12
+page:may-and-bud
+	desc:May And Bud
+	date: 2011-08-11
+page:scaring-amanda
+	desc:Scaring Amanda
+	date: 2011-08-10
+page:ragweed-attack
+	desc:Ragweed Attack
+	date: 2011-08-09
+page:freaked-out
+	desc:Freaked Out
+	date: 2011-08-08
+page:have-a-nice-day
+	desc:Have A Nice Day
+	date: 2011-08-05
+page:sainthood
+	desc:Sainthood
+	date: 2011-08-04
+page:gots-the-yummies
+	desc:Gots The Yummies
+	date: 2011-08-03
+page:still-far-away
+	desc:Still Far Away
+	date: 2011-08-02
+page:apples-to-oranges
+	desc:Apples To Oranges
+	date: 2011-08-01
+page:post-tramatic-st
+	desc:Post Traumatic Stress
+	date: 2011-07-29
+page:back-to-cool
+	desc:Back To Cool
+	date: 2011-07-28
+page:brain-bleaching
+	desc:Brain Bleaching
+	date: 2011-07-27
+page:a-sphinx-toy
+	desc:A Sphinx Toy
+	date: 2011-07-26
+page:recover-well
+	desc:Recover Well
+	date: 2011-07-25
+page:ticklish
+	desc:Ticklish
+	date: 2011-07-22
+page:past-scholastics
+	desc:Past Scholastics
+	date: 2011-07-21
+page:what-is-it
+	desc:What Is It
+	date: 2011-07-20
+page:we-found-this
+	desc:We Found This
+	date: 2011-07-19
+page:oh-dear
+	desc:Oh Dear
+	date: 2011-07-18
+page:vision-quest
+	desc:Vision Quest
+	date: 2011-07-15
+page:sign-of-weakness
+	desc:Sign Of Weakness
+	date: 2011-07-14
+page:a-complication
+	desc:A Complication
+	date: 2011-07-13
+page:tons-of-question
+	desc:Tons Of Question
+	date: 2011-07-12
+page:spider-dreams
+	desc:Spider Dreams
+	date: 2011-07-11
+page:monica-dietzel-at-the-sandbar
+	desc:Monica Dietzel At  The Sandbar
+	date: 2011-07-08
+page:in-the-center
+	desc:In The Center
+	date: 2011-07-07
+page:falling-apart
+	desc:Falling Apart
+	date: 2011-07-06
+page:being-childish
+	desc:Being Childish
+	date: 2011-07-05
+page:on-your-mind
+	desc:On Your Mind
+	date: 2011-07-04
+page:dylan-and-dietze
+	desc:Dylan And Dietzel
+	date: 2011-07-01
+page:sugerbear
+	desc:Sugarbear TV
+	date: 2011-06-30
+page:moonlight-jin
+	desc:Moonlight Jin
+	date: 2011-06-29
+page:dharma-luci
+	desc:Dharma Luci
+	date: 2011-06-28
+page:beach-nudge
+	desc:Beach Nudge
+	date: 2011-06-27
+page:cerberus-night
+	desc:Cerberus Night
+	date: 2011-06-24
+page:pinup-katherine
+	desc:Pinup Katherine
+	date: 2011-06-23
+page:water-fight
+	desc:Water Fight
+	date: 2011-06-22
+page:older-hopefully
+	desc:Older Hopefully Wiser
+	date: 2011-06-21
+page:lazy-afternoon
+	desc:Lazy Afternoon
+	date: 2011-06-20
+page:the-secret
+	desc:The Secret
+	date: 2011-06-17
+page:so-much
+	desc:So Much
+	date: 2011-06-16
+page:feel-nothing
+	desc:Feel Nothing
+	date: 2011-06-15
+page:like-a-fable
+	desc:Like A Fable
+	date: 2011-06-14
+page:better-decisions
+	desc:Better Decisions
+	date: 2011-06-13
+page:not-sure
+	desc:Not Sure
+	date: 2011-06-10
+page:reconnecting
+	desc:Reconnecting
+	date: 2011-06-09
+page:meet-you-somewhe
+	desc:Meet You Somewhe
+	date: 2011-06-08
+page:home-again
+	desc:Home Again
+	date: 2011-06-07
+page:hate-that-word
+	desc:Hate That Word
+	date: 2011-06-06
+page:ten-minutes-ago
+	desc:Ten Minutes Ago
+	date: 2011-06-03
+page:wormholes
+	desc:Wormholes
+	date: 2011-06-02
+page:kept-her-safe
+	desc:Kept Her Safe
+	date: 2011-06-01
+page:soccor-mom
+	desc:Soccer Mom
+	date: 2011-05-31
+page:we-did-it
+	desc:We Did It
+	date: 2011-05-30
+page:is-she-back
+	desc:Is She Back
+	date: 2011-05-27
+page:little-elemental
+	desc:Little Elemental
+	date: 2011-05-26
+page:my-companion
+	desc:My Companion
+	date: 2011-05-25
+page:yes-and-no
+	desc:Yes And No
+	date: 2011-05-24
+page:always-have-been
+	desc:Always Have Been
+	date: 2011-05-23
+page:to-remember
+	desc:To Remember
+	date: 2011-05-20
+page:are-you-there-2
+	desc:Are You There
+	date: 2011-05-19
+page:blew-her-clothes
+	desc:Blew Her Clothes
+	date: 2011-05-18
+page:where-sphinxes-come-from
+	desc:Where Sphinxes Come From
+	date: 2011-05-17
+page:so-fragile
+	desc:So Fragile
+	date: 2011-05-16
+page:done-here
+	desc:Done Here
+	date: 2011-05-13
+page:never-say-never
+	desc:Never Say Never
+	date: 2011-05-12
+page:outta-the-park
+	desc:Outta The Park
+	date: 2011-05-11
+page:just-do-it
+	desc:Just Do It
+	date: 2011-05-10
+page:going-to-let-you
+	desc:Going To Let You
+	date: 2011-05-09
+page:what-do-i-do
+	desc:What Do I Do
+	date: 2011-05-06
+page:cinco-de-mayo
+	desc:Cinco De Mayo
+	date: 2011-05-05
+page:all-my-life
+	desc:All My Life
+	date: 2011-05-04
+page:just-clean-up
+	desc:Just Clean Up
+	date: 2011-05-03
+page:here-last
+	desc:Here Last
+	date: 2011-05-02
+page:i-know-you
+	desc:I Know You
+	date: 2011-04-29
+page:easier-said
+	desc:Easier Said
+	date: 2011-04-28
+page:scares-me-more
+	desc:Scares Me More
+	date: 2011-04-27
+page:you-mean-this
+	desc:You Mean This
+	date: 2011-04-26
+page:very-important
+	desc:Very Important
+	date: 2011-04-25
+page:not-going
+	desc:Not Going
+	date: 2011-04-22
+page:owes-me-a-dollar
+	desc:Owes Me A Dollar
+	date: 2011-04-21
+page:let-me-see
+	desc:Let Me See
+	date: 2011-04-20
+page:something-happen
+	desc:Something Happen
+	date: 2011-04-19
+page:my-what
+	desc:My What
+	date: 2011-04-18
+page:serendipitous
+	desc:Serendipitous
+	date: 2011-04-15
+page:sink-the-sub
+	desc:Sink The Sub
+	date: 2011-04-14
+page:tone-you-down
+	desc:Tone You Down
+	date: 2011-04-13
+page:daddy-birthday
+	desc:Daddy Birthday
+	date: 2011-04-12
+page:share-the-sunshi
+	desc:Share The Sunshine
+	date: 2011-04-11
+page:pull-my-finger
+	desc:Pull My Finger
+	date: 2011-04-08
+page:down-with-the-ship
+	desc:Down With The Ship
+	date: 2011-04-07
+page:no-zombies
+	desc:No Zombies
+	date: 2011-04-06
+page:lead-them-here
+	desc:Lead Them Here
+	date: 2011-04-05
+page:a-few-miles
+	desc:A Few Miles
+	date: 2011-04-04
+page:little-too-long
+	desc:Little Too Long
+	date: 2011-04-01
+page:close-your-eyes
+	desc:Close Your Eyes
+	date: 2011-03-31
+page:play-thing
+	desc:Play Thing
+	date: 2011-03-30
+page:awful-stench
+	desc:Awful Stench
+	date: 2011-03-29
+page:spot-of-heaven
+	desc:Spot Of Heaven
+	date: 2011-03-28
+page:fate-of-the-fall
+	desc:Fate Of The Fallen
+	date: 2011-03-25
+page:made-me-watch
+	desc:Made Me Watch
+	date: 2011-03-24
+page:let-her-fall
+	desc:Let Her Fall
+	date: 2011-03-23
+page:answered-prayers
+	desc:Answered Prayers
+	date: 2011-03-22
+page:angel-of-evil
+	desc:Angel Of Evil
+	date: 2011-03-21
+page:spoiled-now
+	desc:Spoiled Now
+	date: 2011-03-18
+page:shamrock-shake
+	desc:Shamrock Shake
+	date: 2011-03-17
+page:from-the-source
+	desc:From The Source
+	date: 2011-03-16
+page:geeking-out
+	desc:Geeking Out
+	date: 2011-03-15
+page:ending-reign
+	desc:Ending Reign
+	date: 2011-03-14
+page:run-villarreal
+	desc:Run Villarreal
+	date: 2011-03-11
+page:helping-me
+	desc:Helping Me
+	date: 2011-03-10
+page:suits-me
+	desc:Suits Me
+	date: 2011-03-09
+page:stay-away
+	desc:Stay Away
+	date: 2011-03-08
+page:little-girl
+	desc:Little Girl
+	date: 2011-03-07
+page:snowing-and-freezing
+	desc:Snowing And Freezing
+	date: 2011-03-04
+page:not-going-anywhere
+	desc:Not Going Anywhere
+	date: 2011-03-03
+page:try-it-on
+	desc:Try It On
+	date: 2011-03-02
+page:stay-positive
+	desc:Stay Positive
+	date: 2011-03-01
+page:still-there
+	desc:Still There
+	date: 2011-02-28
+page:a-dream
+	desc:A Dream
+	date: 2011-02-25
+page:morning-to-night
+	desc:Morning To Night
+	date: 2011-02-24
+page:a-start
+	desc:A Start
+	date: 2011-02-23
+page:earliest-memory
+	desc:Earliest Memory
+	date: 2011-02-22
+page:more-like-you
+	desc:More Like You
+	date: 2011-02-21
+page:run-rabbit
+	desc:Run Rabbit
+	date: 2011-02-18
+page:all-was-peachy
+	desc:All Was Peachy
+	date: 2011-02-17
+page:what-happened-2
+	desc:What Happened
+	date: 2011-02-16
+page:in-a-few
+	desc:In A Few
+	date: 2011-02-15
+page:no-anchovies
+	desc:No Anchovies
+	date: 2011-02-14
+page:at-the-end-of-th
+	desc:At The End Of The Day
+	date: 2011-02-11
+page:hard-feelings
+	desc:Hard Feelings
+	date: 2011-02-10
+page:pouring-salt
+	desc:Pouring Salt
+	date: 2011-02-09
+page:pure-instinct
+	desc:Pure Instinct
+	date: 2011-02-08
+page:followed-through
+	desc:Followed Through
+	date: 2011-02-07
+page:three-idiots
+	desc:Three Idiots
+	date: 2011-02-04
+page:over-there-2
+	desc:Over There
+	date: 2011-02-03
+page:demigod
+	desc:Demigod
+	date: 2011-02-02
+page:grateful
+	desc:Grateful
+	date: 2011-02-01
+page:round-one
+	desc:Round One
+	date: 2011-01-31
+page:dish-it-out
+	desc:Dish It Out
+	date: 2011-01-28
+page:a-lot-in-common
+	desc:A Lot In Common
+	date: 2011-01-27
+page:more-complicated
+	desc:More Complicated
+	date: 2011-01-26
+page:let-alone-twice
+	desc:Let Alone Twice
+	date: 2011-01-25
+page:simplify-things
+	desc:Simplify Things
+	date: 2011-01-24
+page:nine-to-five
+	desc:Nine To Five
+	date: 2011-01-21
+page:look-it-up
+	desc:Look It Up
+	date: 2011-01-20
+page:you-like-me
+	desc:You Like Me
+	date: 2011-01-19
+page:play-in-traffic
+	desc:Play In Traffic
+	date: 2011-01-18
+page:independent-cont
+	desc:Independent Contractors
+	date: 2011-01-17
+page:save-a-little-girl
+	desc:Save A Little Girl
+	date: 2011-01-14
+page:knowing
+	desc:Knowing
+	date: 2011-01-13
+page:save-yourself
+	desc:Save Yourself
+	date: 2011-01-12
+page:missing-the-poin
+	desc:Missing The Point
+	date: 2011-01-11
+page:became-sentient
+	desc:Became Sentient
+	date: 2011-01-10
+page:sit-this-out
+	desc:Sit This Out
+	date: 2011-01-07
+page:rip-it-apart
+	desc:Rip It Apart
+	date: 2011-01-06
+page:need-just-one
+	desc:Need Just One
+	date: 2011-01-05
+page:bermuda-triangle-beach
+	desc:Bermuda Triangle Beach
+	date: 2011-01-04
+page:that-easy
+	desc:That Easy
+	date: 2011-01-03
+page:and-that-too
+	desc:And That Too
+	date: 2010-12-31
+page:never-guess
+	desc:Never Guess
+	date: 2010-12-30
+page:gentle-crinkle
+	desc:Gentle Crinkle
+	date: 2010-12-29
+page:you-got-mail
+	desc:You Got Mail
+	date: 2010-12-28
+page:oh-hey
+	desc:Oh Hey
+	date: 2010-12-27
+page:seamus-patrick-burke
+	desc:Seamus Patrick Burke
+	date: 2010-12-24
+page:lyndsey-raney
+	desc:Lyndsey Raney
+	date: 2010-12-23
+page:meaghan-beninati
+	desc:Meaghan Beninati
+	date: 2010-12-22
+page:lupi-loops
+	desc:Lupi Loops
+	date: 2010-12-21
+page:bea-goz
+	desc:Bea Goz
+	date: 2010-12-20
+page:kevin-wreath
+	desc:Kevin Wreath
+	date: 2010-12-18
+page:still-getting-re
+	desc:Still Getting Ready
+	date: 2010-12-17
+page:own-strengths
+	desc:Own Strengths
+	date: 2010-12-10
+page:soap-bubbles
+	desc:Soap Bubbles
+	date: 2010-12-09
+page:her-matrix
+	desc:Her Matrix
+	date: 2010-12-08
+page:too-late
+	desc:Too Late
+	date: 2010-12-07
+page:her-head
+	desc:Her Head
+	date: 2010-12-06
+page:that-hurt
+	desc:That Hurt
+	date: 2010-12-03
+page:squish-it
+	desc:Squish It
+	date: 2010-12-02
+page:lift-weights
+	desc:Lift Weights
+	date: 2010-12-01
+page:plans-in-place
+	desc:Plans In Place
+	date: 2010-11-30
+page:have-you
+	desc:Have You
+	date: 2010-11-29
+page:keeping-warm
+	desc:Keeping Warm
+	date: 2010-11-26
+page:need-my-sunshine
+	desc:Need My Sunshine
+	date: 2010-11-25
+page:ice-monster
+	desc:Ice Monster
+	date: 2010-11-24
+page:an-escape
+	desc:An Escape
+	date: 2010-11-23
+page:until-she-fell-asleep
+	desc:Until She Fell Asleep
+	date: 2010-11-22
+page:pay-a-visit
+	desc:Pay A Visit
+	date: 2010-11-19
+page:name-on-the-cross
+	desc:Name On The Cross
+	date: 2010-11-18
+page:get-away
+	desc:Get Away
+	date: 2010-11-17
+page:film-at-eleven
+	desc:Film At Eleven
+	date: 2010-11-16
+page:every-year
+	desc:Every Year
+	date: 2010-11-15
+page:return-the-favor
+	desc:Return The Favor
+	date: 2010-11-12
+page:be-okay
+	desc:Be Okay
+	date: 2010-11-11
+page:hang-of-this
+	desc:Hang Of This
+	date: 2010-11-10
+page:pretty-amazing
+	desc:Pretty Amazing
+	date: 2010-11-09
+page:bigger-idiots
+	desc:Bigger Idiots
+	date: 2010-11-08
+page:feel-lighter
+	desc:Feel Lighter
+	date: 2010-11-05
+page:go-well
+	desc:Go Well
+	date: 2010-11-04
+page:via-a-riddle
+	desc:Via A Riddle
+	date: 2010-11-03
+page:one-who-helps
+	desc:One Who Helps
+	date: 2010-11-02
+page:law-of-the-book
+	desc:Law Of The Book
+	date: 2010-11-01
+page:details-details
+	desc:Details Details
+	date: 2010-10-29
+page:trickster
+	desc:Trickster
+	date: 2010-10-28
+page:eluding-me
+	desc:Eluding Me
+	date: 2010-10-27
+page:just-a-nudge
+	desc:Just A Nudge
+	date: 2010-10-26
+page:tag
+	desc:Tag
+	date: 2010-10-25
+page:doing-their-jobs
+	desc:Doing Their Jobs
+	date: 2010-10-22
+page:took-liberties
+	desc:Took Liberties
+	date: 2010-10-21
+page:sudden-interest
+	desc:Sudden Interest
+	date: 2010-10-20
+page:wild-animals
+	desc:Wild Animals
+	date: 2010-10-19
+page:so-is-phix
+	desc:So Is Phix
+	date: 2010-10-18
+page:just-a-scratch
+	desc:Just A Scratch
+	date: 2010-10-15
+page:silly-girl-sunshine
+	desc:Silly Girl Sunshine
+	date: 2010-10-14
+page:so-you-see
+	desc:So You See
+	date: 2010-10-13
+page:caught-up
+	desc:Caught Up
+	date: 2010-10-12
+page:shut-up
+	desc:Shut Up
+	date: 2010-10-11
+page:the-amendment
+	desc:The Amendment
+	date: 2010-10-08
+page:an-amendment
+	desc:An Amendment
+	date: 2010-10-07
+page:research-work
+	desc:Research Work
+	date: 2010-10-06
+page:relish-your-ignorance
+	desc:Relish Your Ignorance
+	date: 2010-10-05
+page:about-you
+	desc:About You
+	date: 2010-10-04
+page:zombie-apocalypse
+	desc:Zombie Apocalypse
+	date: 2010-10-01
+page:gave-it-to-me
+	desc:Gave It To Me
+	date: 2010-09-30
+page:catch-bad-guys
+	desc:Catch Bad Guys
+	date: 2010-09-29
+page:ahh-chooo
+	desc:Ahh Chooo
+	date: 2010-09-28
+page:sick
+	desc:Sick
+	date: 2010-09-27
+page:health-care
+	desc:Health Care
+	date: 2010-09-24
+page:save-the-world-again
+	desc:Save The World Again
+	date: 2010-09-23
+page:cynical-shell
+	desc:Cynical Shell
+	date: 2010-09-22
+page:scientific-metho
+	desc:Scientific Method
+	date: 2010-09-21
+page:stopped-by
+	desc:Stopped By
+	date: 2010-09-20
+page:anything-else
+	desc:Anything Else
+	date: 2010-09-17
+page:ignore-her
+	desc:Ignore Her
+	date: 2010-09-16
+page:poke-them
+	desc:Poke Them
+	date: 2010-09-15
+page:plug-you-in
+	desc:Plug You In
+	date: 2010-09-14
+page:good-point
+	desc:Good Point
+	date: 2010-09-13
+page:her-friends
+	desc:Her Friends
+	date: 2010-09-10
+page:your-auras
+	desc:Your Auras
+	date: 2010-09-09
+page:friends-are-obligated
+	desc:Friends Are Obligated
+	date: 2010-09-08
+page:awwww-shucks
+	desc:Awwww Shucks
+	date: 2010-09-07
+page:harmless
+	desc:Harmless
+	date: 2010-09-06
+page:glowing
+	desc:Glowing
+	date: 2010-09-03
+page:smiling-at
+	desc:Smiling At
+	date: 2010-09-02
+page:over-there
+	desc:Over There
+	date: 2010-09-01
+page:its-huge
+	desc:It&#8217;s Huge
+	date: 2010-08-31
+page:satisfying
+	desc:Satisfying
+	date: 2010-08-30
+page:boo-yaa
+	desc:Boo Yaa
+	date: 2010-08-27
+page:the-dork
+	desc:The Dork
+	date: 2010-08-26
+page:stuck-with-this
+	desc:Stuck With This
+	date: 2010-08-25
+page:i-feel-fun-size
+	desc:I Feel Fun Size
+	date: 2010-08-24
+page:balance-issues
+	desc:Balance Issues
+	date: 2010-08-23
+page:hold-on-2
+	desc:Hold On
+	date: 2010-08-20
+page:still-a-danger
+	desc:Still A Danger
+	date: 2010-08-19
+page:earned-the-right
+	desc:Earned The Right
+	date: 2010-08-18
+page:catch-the-sunrise
+	desc:Catch The Sunrise
+	date: 2010-08-17
+page:hey
+	desc:Hey
+	date: 2010-08-16
+page:custard-of-that-magnitude
+	desc:Custard Of That Magnitude
+	date: 2010-08-13
+page:crimson-mantis
+	desc:Crimson Mantis
+	date: 2010-08-12
+page:poiting-it-on
+	desc:Poiting It On
+	date: 2010-08-11
+page:be-expired
+	desc:Be Expired
+	date: 2010-08-10
+page:a-comforting-thought
+	desc:A Comforting Thought
+	date: 2010-08-09
+page:anaerobic-sex
+	desc:Anaerobic Sex
+	date: 2010-08-06
+page:messed-up
+	desc:Messed Up
+	date: 2010-08-05
+page:your-outlet
+	desc:Your Outlet
+	date: 2010-08-04
+page:still-around
+	desc:Still Around
+	date: 2010-08-03
+page:stop-talking
+	desc:Stop Talking
+	date: 2010-08-02
+page:i-had-you
+	desc:I Had You
+	date: 2010-07-30
+page:sounds-crazy
+	desc:Sounds Crazy
+	date: 2010-07-29
+page:witnessed-crazy
+	desc:Witnessed Crazy
+	date: 2010-07-28
+page:a-dip-in-the-lake
+	desc:A Dip In The Lake
+	date: 2010-07-27
+page:vacationing-manatees
+	desc:Vacationing Manatees
+	date: 2010-07-26
+page:ready-to-talk
+	desc:Ready To Talk
+	date: 2010-07-23
+page:thinking-the-worst
+	desc:Thinking The Worst
+	date: 2010-07-22
+page:my-rock
+	desc:My Rock
+	date: 2010-07-21
+page:whadya-say
+	desc:Whadya Say
+	date: 2010-07-20
+page:stalling
+	desc:Stalling
+	date: 2010-07-19
+page:grant-guest-art
+	desc:Grant Guest Art
+	date: 2010-07-16
+page:terry-guest-art
+	desc:Terry Guest Art
+	date: 2010-07-15
+page:lindsay-guest-comic
+	desc:Lindsay Guest Comic
+	date: 2010-07-14
+page:adam-guest-comic
+	desc:Adam Guest Comic
+	date: 2010-07-13
+page:eisu-guest-comic
+	desc:Eisu Guest Comic
+	date: 2010-07-12
+page:sheena-guest-art
+	desc:Sheena Guest Art
+	date: 2010-07-11
+page:jaded-now
+	desc:Jaded Now
+	date: 2010-07-09
+page:crap-like-that
+	desc:Crap Like That
+	date: 2010-07-08
+page:unscathed
+	desc:Unscathed
+	date: 2010-07-07
+page:yet-to-do
+	desc:Yet To Do
+	date: 2010-07-06
+page:hard-to-believe
+	desc:Hard To Believe
+	date: 2010-07-05
+page:parallel-parking
+	desc:Parallel Parking
+	date: 2010-07-02
+page:sign-my-cast
+	desc:Sign My Cast
+	date: 2010-07-01
+page:a-bad-feeling
+	desc:A Bad Feeling
+	date: 2010-06-30
+page:la-muneca
+	desc:La Mu&#241;eca
+	date: 2010-06-29
+page:she-loves-me
+	desc:She Loves Me
+	date: 2010-06-28
+page:hope-she-is-okay
+	desc:Hope She Is Okay
+	date: 2010-06-25
+page:is-that-you
+	desc:Is That You
+	date: 2010-06-24
+page:see-in-the-dark
+	desc:See In The Dark
+	date: 2010-06-23
+page:fair-enough
+	desc:Fair Enough
+	date: 2010-06-22
+page:not-the-violent-type
+	desc:Not The Violent Type
+	date: 2010-06-21
+page:need-to-see-me
+	desc:Need To See Me
+	date: 2010-06-18
+page:now-focus
+	desc:Now Focus
+	date: 2010-06-17
+page:no-need
+	desc:No Need
+	date: 2010-06-16
+page:a-good-kid
+	desc:A Good Kid
+	date: 2010-06-15
+page:collect-your-coffee
+	desc:Collect Your Coffee
+	date: 2010-06-14
+page:transfer-of-the-address
+	desc:Transfer Of The Address
+	date: 2010-06-11
+page:calm-yourself
+	desc:Calm Yourself
+	date: 2010-06-10
+page:being-modest
+	desc:Being Modest
+	date: 2010-06-09
+page:learn-a-lot
+	desc:Learn A Lot
+	date: 2010-06-08
+page:no-froo-froo
+	desc:No Froo Froo
+	date: 2010-06-07
+page:come-to-the-light-side
+	desc:Come To The Light Side
+	date: 2010-06-04
+page:happy-with-me
+	desc:Happy With Me
+	date: 2010-06-03
+page:nothing-to-prove
+	desc:Nothing To Prove
+	date: 2010-06-02
+page:water-jugs
+	desc:Water Jugs
+	date: 2010-06-01
+page:sizzle-pop
+	desc:Sizzle Pop
+	date: 2010-05-31
+page:ton-of-baggage
+	desc:Ton Of Baggage
+	date: 2010-05-28
+page:warning-flags
+	desc:Warning Flags
+	date: 2010-05-27
+page:every-day-is-a-school-day
+	desc:Every Day Is A School Day
+	date: 2010-05-26
+page:talked-to-me
+	desc:Talked To Me
+	date: 2010-05-25
+page:wake-up
+	desc:Wake Up
+	date: 2010-05-24
+page:smooth-move
+	desc:Smooth Move
+	date: 2010-05-21
+page:madness
+	desc:Madness
+	date: 2010-05-20
+page:back-in-college
+	desc:Back In College
+	date: 2010-05-19
+page:long-hot-shower
+	desc:Long Hot Shower
+	date: 2010-05-18
+page:me-time
+	desc:Me Time
+	date: 2010-05-17
+page:come-visit-sprin
+	desc:Come Visit SpringCon!
+	date: 2010-05-14
+page:hefting-mjollnir
+	desc:Hefting Mj&ouml;llnir
+	date: 2010-05-13
+page:herculean-task
+	desc:Herculean Task
+	date: 2010-05-12
+page:we-were-bored
+	desc:We Were Bored
+	date: 2010-05-11
+page:a-case-of-beer
+	desc:A Case Of Beer
+	date: 2010-05-10
+page:a-lot-of-grazes
+	desc:A Lot Of Grazes
+	date: 2010-05-07
+page:dodge-bullets
+	desc:Dodge Bullets
+	date: 2010-05-06
+page:cinco-de-monica
+	desc:Cinco De Monica
+	date: 2010-05-05
+page:i-could-crawl
+	desc:I Could Crawl
+	date: 2010-05-04
+page:a-proud-city-girl
+	desc:A Proud City Girl
+	date: 2010-05-03
+page:publicize-your-a
+	desc:Publicize Your Assets
+	date: 2010-04-30
+page:been-in-view
+	desc:Been In View
+	date: 2010-04-29
+page:any-advantage
+	desc:Any Advantage
+	date: 2010-04-28
+page:i-trust-tina
+	desc:I Trust Tina
+	date: 2010-04-27
+page:sacrificed-untold-legions
+	desc:Sacrificed Untold Legions
+	date: 2010-04-26
+page:a-bit-of-darknes
+	desc:A Bit Of Darknes
+	date: 2010-04-23
+page:do-tell
+	desc:Do Tell
+	date: 2010-04-22
+page:call-me-nudge
+	desc:Call Me Nudge
+	date: 2010-04-21
+page:keep-you-safe
+	desc:Keep You Safe
+	date: 2010-04-20
+page:change-things-up
+	desc:Change Things Up
+	date: 2010-04-19
+page:when-you-were-a-puppy
+	desc:When You Were A Puppy
+	date: 2010-04-16
+page:dietzel-speak
+	desc:Dietzel Speak
+	date: 2010-04-15
+page:bright-idea
+	desc:Bright Idea
+	date: 2010-04-14
+page:the-smell-of-burning-spider
+	desc:The Smell Of Burning Spider
+	date: 2010-04-13
+page:an-accessory
+	desc:An Accessory
+	date: 2010-04-12
+page:a-negative-influence
+	desc:A Negative Influence
+	date: 2010-04-09
+page:the-nudge
+	desc:The Nudge
+	date: 2010-04-08
+page:you-ordered-anchovies
+	desc:You Ordered Anchovies
+	date: 2010-04-07
+page:only-fair
+	desc:Only Fair
+	date: 2010-04-06
+page:gripping-story
+	desc:Gripping Story
+	date: 2010-04-05
+page:you-can-count
+	desc:You Can Count
+	date: 2010-04-02
+page:you-again
+	desc:You Again
+	date: 2010-04-01
+page:getting-his-attention
+	desc:Getting His Attention
+	date: 2010-03-31
+page:deal-me-in
+	desc:Deal Me In
+	date: 2010-03-30
+page:dammit-jin
+	desc:Dammit Jin
+	date: 2010-03-29
+page:i-feel-frightened
+	desc:I Feel Frightened
+	date: 2010-03-26
+page:psychological-imperfections
+	desc:Psychological Imperfections
+	date: 2010-03-25
+page:fresh-as-a-daisy
+	desc:Fresh As A Daisy
+	date: 2010-03-24
+page:i-need-you-help
+	desc:I Need Your Help
+	date: 2010-03-23
+page:gone-to-explore
+	desc:Gone To Explore
+	date: 2010-03-22
+page:that-problem-again
+	desc:That Problem Again
+	date: 2010-03-19
+page:meet-kris-williams
+	desc:Meet Kris Williams
+	date: 2010-03-18
+page:next-big-thing
+	desc:Next Big Thing
+	date: 2010-03-17
+page:braless-pirouettes
+	desc:Braless Pirouettes
+	date: 2010-03-16
+page:dump-the-tiara
+	desc:Dump The Tiara
+	date: 2010-03-15
+page:another-adventur
+	desc:Another Adventure
+	date: 2010-03-12
+page:arguing-with-a-betta
+	desc:Arguing With A Betta
+	date: 2010-03-11
+page:take-that-back
+	desc:Take That Back
+	date: 2010-03-10
+page:wine-and-good-conversation
+	desc:Wine And Good Conversation
+	date: 2010-03-09
+page:hey-oscar
+	desc:Hey Oscar
+	date: 2010-03-08
+page:there-to-catch-u
+	desc:There To Catch Us
+	date: 2010-03-05
+page:attack-of-the-ic
+	desc:Attack Of The Ice
+	date: 2010-03-04
+page:a-close-eye
+	desc:A Close Eye
+	date: 2010-03-03
+page:is-irrelevant
+	desc:Is Irrelevant
+	date: 2010-03-02
+page:quite-obvious
+	desc:Quite Obvious
+	date: 2010-03-01
+page:packed-up
+	desc:Packed Up
+	date: 2010-02-26
+page:smell-of-burning-pine
+	desc:Smell Of Burning Pine
+	date: 2010-02-25
+page:you-and-shelly
+	desc:You And Shelly
+	date: 2010-02-24
+page:acquired-taste
+	desc:Acquired Taste
+	date: 2010-02-23
+page:protecting-them
+	desc:Protecting Them
+	date: 2010-02-22
+page:ones-you-should-trust
+	desc:Ones You Should Trust
+	date: 2010-02-19
+page:supernatural-hassles
+	desc:Supernatural Hassles
+	date: 2010-02-18
+page:no-other-shoe
+	desc:No Other Shoe
+	date: 2010-02-17
+page:the-honor-is-min
+	desc:The Honor Is Mine
+	date: 2010-02-16
+page:nice-to-meet-you
+	desc:Nice To Meet You
+	date: 2010-02-15
+page:emotionally-char
+	desc:Emotionally Char
+	date: 2010-02-12
+page:office-phix
+	desc:Office Phix
+	date: 2010-02-11
+page:their-own-devices
+	desc:Their Own Devices
+	date: 2010-02-10
+page:back-to-normal
+	desc:Back To Normal
+	date: 2010-02-09
+page:something-in-myself
+	desc:Something In Myself
+	date: 2010-02-08
+page:get-things-sorte
+	desc:Get Things Sorted
+	date: 2010-02-05
+page:it-went-phbbbbbb
+	desc:It Went Phbbbbbb
+	date: 2010-02-04
+page:sonic-boom
+	desc:Sonic Boom
+	date: 2010-02-03
+page:already-there
+	desc:Already There
+	date: 2010-02-02
+page:but-what-if
+	desc:But What If
+	date: 2010-02-01
+page:kind-of-disturbi
+	desc:Kind Of Disturbing
+	date: 2010-01-29
+page:hard-core
+	desc:Hard Core
+	date: 2010-01-28
+page:quite-easy
+	desc:Quite Easy
+	date: 2010-01-27
+page:where-do-i-start
+	desc:Where Do I Start
+	date: 2010-01-26
+page:clouds-are-just-a-veil
+	desc:Clouds Are Just A Veil
+	date: 2010-01-25
+page:what-happened
+	desc:What Happened
+	date: 2010-01-22
+page:look-at-the-time
+	desc:Look At The Time
+	date: 2010-01-21
+page:i-promise
+	desc:I Promise
+	date: 2010-01-20
+page:been-waiting
+	desc:Been Waiting
+	date: 2010-01-19
+page:how-long-was-i-gone
+	desc:How Long Was I Gone
+	date: 2010-01-18
+page:ink-be-gone
+	desc:Ink Be Gone
+	date: 2010-01-15
+page:guess-its-my-tur
+	desc:Guess Its My Turn
+	date: 2010-01-14
+page:that-was-the-poi
+	desc:That Was The Point
+	date: 2010-01-13
+page:bring-her-back
+	desc:Bring Her Back
+	date: 2010-01-12
+page:lock-her-down
+	desc:Lock Her Down
+	date: 2010-01-11
+page:one-more-bit-of-business
+	desc:One More Bit Of Business
+	date: 2010-01-08
+page:suck-her-in
+	desc:Suck Her In
+	date: 2010-01-07
+page:we-have-rules
+	desc:We Have Rules
+	date: 2010-01-06
+page:hold-on-to-your-ass
+	desc:Hold On To Your Ass
+	date: 2010-01-05
+page:your-precious-doorway
+	desc:Your Precious Doorway
+	date: 2010-01-04
+page:a-special-place-in-hell
+	desc:A Special Place In Hell
+	date: 2010-01-01
+page:change-of-plans
+	desc:Change Of Plans
+	date: 2009-12-31
+page:hold-on
+	desc:Hold On
+	date: 2009-12-30
+page:expendable-tool
+	desc:Expendable Tool
+	date: 2009-12-29
+page:whats-the-worst
+	desc:What&#8217;s The Worst
+	date: 2009-12-28
+page:happy-holidays-2
+	desc:Happy Holidays
+	date: 2009-12-25
+page:whats-my-motivat
+	desc:What&#8217;s My Motivation?
+	date: 2009-12-24
+page:on-command
+	desc:On Command
+	date: 2009-12-23
+page:welcome-to-my-world
+	desc:Welcome To My World
+	date: 2009-12-22
+page:cmon-ladies
+	desc:Cmon Ladies
+	date: 2009-12-21
+page:seamus-patrick-burke-wapsi-guest-comic
+	desc:Seamus Patrick Burke Wapsi Guest Comic
+	date: 2009-12-18
+page:diana-nock-wapsi-guest-comic
+	desc:Diana Nock Wapsi Guest Comic
+	date: 2009-12-17
+page:lindsay-jane-wapsi-guest-comic
+	desc:Lindsay Jane Wapsi Guest Comic
+	date: 2009-12-16
+page:duessa-wapsi-guest-comic
+	desc:Duessa Wapsi Guest Comic
+	date: 2009-12-15
+page:rachel-dukes-wapsi-guest-comic
+	desc:Rachel Dukes Wapsi Guest Comic
+	date: 2009-12-14
+page:pretty-darn-clos
+	desc:Pretty Darn Close
+	date: 2009-12-11
+page:before-you-can
+	desc:Before You Can . . .
+	date: 2009-12-10
+page:pack-the-bug-spray
+	desc:Pack The Bug Spray
+	date: 2009-12-09
+page:you-got-that
+	desc:You Got That
+	date: 2009-12-08
+page:the-night-before
+	desc:The Night Before
+	date: 2009-12-07
+page:wipe-your-shoes
+	desc:Wipe Your Shoes
+	date: 2009-12-04
+page:have-a-cookie
+	desc:Have A Cookie
+	date: 2009-12-03
+page:im-honest
+	desc:I&#8217;m Honest
+	date: 2009-12-02
+page:wise-words
+	desc:Wise Words
+	date: 2009-12-01
+page:im-listening
+	desc:I&#8217;m Listening
+	date: 2009-11-30
+page:room-full-of-fem
+	desc:Room Full Of Females
+	date: 2009-11-27
+page:i-wont-let-them
+	desc:I Won&#8217;t Let Them
+	date: 2009-11-26
+page:we-will-break-her
+	desc:We Will Break Her
+	date: 2009-11-25
+page:mood-to-celebrate
+	desc:Mood To Celebrate
+	date: 2009-11-24
+page:day-after-tomorrow-night
+	desc:Day After Tomorrow Night
+	date: 2009-11-23
+page:into-the-sunset
+	desc:Into The Sunset
+	date: 2009-11-20
+page:one-more-loon
+	desc:One More Loon
+	date: 2009-11-19
+page:by-your-side
+	desc:By Your Side
+	date: 2009-11-18
+page:you-must-know
+	desc:You Must Know
+	date: 2009-11-17
+page:how-trivial
+	desc:How Trivial
+	date: 2009-11-16
+page:bonkers-in-my-book
+	desc:Bonkers In My Book
+	date: 2009-11-13
+page:right-as-rain
+	desc:Right As Rain
+	date: 2009-11-12
+page:the-hell-we-do
+	desc:The Hell We Do
+	date: 2009-11-11
+page:strictly-a-facade
+	desc:Strictly A Facade
+	date: 2009-11-10
+page:you-have-a-tight-rein
+	desc:You Have A Tight Rein
+	date: 2009-11-09
+page:your-own-misgivi
+	desc:Your Own Misgiving
+	date: 2009-11-06
+page:take-this-and-do-this
+	desc:Take This And Do This
+	date: 2009-11-05
+page:what-are-you
+	desc:What Are You
+	date: 2009-11-04
+page:puts-up-with-you
+	desc:Puts Up With You
+	date: 2009-11-03
+page:the-one-time
+	desc:The One Time
+	date: 2009-11-02
+page:just-a-dream
+	desc:Just A Dream
+	date: 2009-10-30
+page:she-followed-you
+	desc:She Followed You
+	date: 2009-10-29
+page:see-me
+	desc:See Me
+	date: 2009-10-28
+page:hear-her-already
+	desc:Hear Her Already
+	date: 2009-10-27
+page:follow-some-scri
+	desc:Follow Some Script
+	date: 2009-10-26
+page:hit-your-mark
+	desc:Hit Your Mark
+	date: 2009-10-23
+page:how-would-you-feel
+	desc:How Would You Feel
+	date: 2009-10-22
+page:viscerally-scares-me
+	desc:Viscerally Scares Me
+	date: 2009-10-21
+page:all-hell-broke-loose
+	desc:All Hell Broke Loose
+	date: 2009-10-20
+page:i-brought-coffee
+	desc:I Brought Coffee
+	date: 2009-10-19
+page:what-possible-reason
+	desc:What Possible Reason
+	date: 2009-10-16
+page:whats-the-catch
+	desc:What&#8217;s The Catch
+	date: 2009-10-15
+page:dark-as-a-new-mo
+	desc:Dark As A New Moon
+	date: 2009-10-14
+page:do-it
+	desc:Do It
+	date: 2009-10-13
+page:no-doubt-here
+	desc:No Doubt Here
+	date: 2009-10-12
+page:aw-cmon
+	desc:Aw Cmon
+	date: 2009-10-09
+page:time-for-bed
+	desc:Time For Bed
+	date: 2009-10-08
+page:tiramisu-worth-living-for
+	desc:Tiramisu Worth Living For
+	date: 2009-10-07
+page:laughing-her-ass-off
+	desc:Laughing Her Ass Off
+	date: 2009-10-06
+page:are-you-there
+	desc:Are You There
+	date: 2009-10-05
+page:inside-a-clay-do
+	desc:Inside A Clay Doll
+	date: 2009-10-02
+page:wow
+	desc:Wow
+	date: 2009-10-01
+page:lewd-comment
+	desc:Lewd Comment
+	date: 2009-09-30
+page:grow-old-togethe
+	desc:Grow Old Togethe
+	date: 2009-09-29
+page:never-be-fixed
+	desc:Never Be Fixed
+	date: 2009-09-28
+page:became-human
+	desc:Became Human
+	date: 2009-09-25
+page:argumentum-ad-personam
+	desc:Argumentum Ad Personam
+	date: 2009-09-24
+page:didforherself
+	desc:Didforherself
+	date: 2009-09-23
+page:ourdoorway
+	desc:Ourdoorway
+	date: 2009-09-22
+page:reallygrasps
+	desc:Reallygrasps
+	date: 2009-09-21
+page:portholesanddoorwa
+	desc:Portholesanddoorwa
+	date: 2009-09-18
+page:notmortality
+	desc:Notmortality
+	date: 2009-09-17
+page:theyloveyou
+	desc:Theyloveyou
+	date: 2009-09-16
+page:blissful
+	desc:Blissful
+	date: 2009-09-15
+page:afreshstart
+	desc:Afreshstart
+	date: 2009-09-14
+page:ihavemyown
+	desc:Ihavemyown
+	date: 2009-09-11
+page:weallbelongtoyou
+	desc:Weallbelongtoyou
+	date: 2009-09-10
+page:funnyhuh
+	desc:Funnyhuh
+	date: 2009-09-09
+page:littlevisit
+	desc:Littlevisit
+	date: 2009-09-08
+page:yourenotmine
+	desc:Yourenotmine
+	date: 2009-09-07
+page:rescueeveryone
+	desc:Rescueeveryone
+	date: 2009-09-04
+page:sheacelebrity
+	desc:Sheacelebrity
+	date: 2009-09-03
+page:aboutyounow
+	desc:Aboutyounow
+	date: 2009-09-02
+page:saysher
+	desc:Saysher
+	date: 2009-09-01
+page:stinksofphix
+	desc:Stinksofphix
+	date: 2009-08-31
+page:underjinsnose
+	desc:Underjinsnose
+	date: 2009-08-28
+page:inthefaceofdoubt
+	desc:Inthefaceofdoubt
+	date: 2009-08-27
+page:techtalk
+	desc:Techtalk
+	date: 2009-08-26
+page:somethingmissing
+	desc:Somethingmissing
+	date: 2009-08-25
+page:whatabout
+	desc:Whatabout
+	date: 2009-08-24
+page:askwayemayaterlay
+	desc:Askwayemayaterlay
+	date: 2009-08-21
+page:sillyus
+	desc:Sillyus
+	date: 2009-08-20
+page:mentallymopthefloo
+	desc:Mentallymopthefloo
+	date: 2009-08-19
+page:letsgo
+	desc:Letsgo
+	date: 2009-08-18
+page:ivebeenstuck
+	desc:Ivebeenstuck
+	date: 2009-08-17
+page:knowmorethanme
+	desc:Knowmorethanme
+	date: 2009-08-14
+page:knowmore
+	desc:Knowmore
+	date: 2009-08-13
+page:talkwithtina
+	desc:Talkwithtina
+	date: 2009-08-12
+page:didistutter
+	desc:Didistutter
+	date: 2009-08-11
+page:knowingme
+	desc:Knowingme
+	date: 2009-08-10
+page:akindofkey
+	desc:Akindofkey
+	date: 2009-08-07
+page:donthesitate
+	desc:Donthesitate
+	date: 2009-08-06
+page:nocodetobreak
+	desc:Nocodetobreak
+	date: 2009-08-05
+page:abitawkward
+	desc:Abitawkward
+	date: 2009-08-04
+page:doasisay
+	desc:Doasisay
+	date: 2009-08-03
+page:onecouldtell
+	desc:Onecouldtell
+	date: 2009-07-31
+page:talkingtomyself
+	desc:Talkingtomyself
+	date: 2009-07-30
+page:whatthehell
+	desc:Whatthehell
+	date: 2009-07-29
+page:imsunshine
+	desc:Imsunshine
+	date: 2009-07-28
+page:howdoyouremember
+	desc:Howdoyouremember
+	date: 2009-07-27
+page:thefourthlight
+	desc:Thefourthlight
+	date: 2009-07-17
+page:madetheconnection
+	desc:Madetheconnection
+	date: 2009-07-16
+page:doubtstrick
+	desc:Doubtstrick
+	date: 2009-07-15
+page:ouractions
+	desc:Ouractions
+	date: 2009-07-14
+page:talkingaboutyourse
+	desc:Talkingaboutyourse
+	date: 2009-07-13
+page:haveusback
+	desc:Haveusback
+	date: 2009-07-10
+page:allgone
+	desc:Allgone
+	date: 2009-07-09
+page:notmetalking
+	desc:Notmetalking
+	date: 2009-07-08
+page:takingherplace
+	desc:Takingherplace
+	date: 2009-07-07
+page:nightssleep
+	desc:Nightssleep
+	date: 2009-07-06
+page:ilikethat
+	desc:Ilikethat
+	date: 2009-07-03
+page:comfortfromplants
+	desc:Comfortfromplants
+	date: 2009-07-02
+page:patchesofgrass
+	desc:Patchesofgrass
+	date: 2009-07-01
+page:makeshortwork
+	desc:Makeshortwork
+	date: 2009-06-30
+page:greenbodyparts
+	desc:Greenbodyparts
+	date: 2009-06-29
+page:cumulativejournal
+	desc:Cumulativejournal
+	date: 2009-06-26
+page:mycoffee
+	desc:Mycoffee
+	date: 2009-06-25
+page:itsimpoitant
+	desc:Itsimpoitant
+	date: 2009-06-24
+page:fellinplace
+	desc:Fellinplace
+	date: 2009-06-23
+page:enjoyyourevening
+	desc:Enjoyyourevening
+	date: 2009-06-22
+page:twophilosophers
+	desc:Twophilosophers
+	date: 2009-06-19
+page:howsitimportant
+	desc:Howsitimportant
+	date: 2009-06-18
+page:dothehonors
+	desc:Dothehonors
+	date: 2009-06-17
+page:showyousomething
+	desc:Showyousomething
+	date: 2009-06-16
+page:getthatplease
+	desc:Getthatplease
+	date: 2009-06-15
+page:onemoreplease
+	desc:Onemoreplease
+	date: 2009-06-12
+page:therapeutic
+	desc:Therapeutic
+	date: 2009-06-11
+page:lookingfor
+	desc:Lookingfor
+	date: 2009-06-10
+page:onebowlingball
+	desc:Onebowlingball
+	date: 2009-06-09
+page:neededsupplies
+	desc:Neededsupplies
+	date: 2009-06-08
+page:doesnthelp
+	desc:Doesnthelp
+	date: 2009-06-05
+page:naturaldoorways
+	desc:Naturaldoorways
+	date: 2009-06-04
+page:wallofplasma
+	desc:Wallofplasma
+	date: 2009-06-03
+page:demonsshellenergy
+	desc:Demonsshellenergy
+	date: 2009-06-02
+page:iknewit
+	desc:Iknewit
+	date: 2009-06-01
+page:wealthofknowledge
+	desc:Wealthofknowledge
+	date: 2009-05-29
+page:talkingwiththedead
+	desc:Talkingwiththedead
+	date: 2009-05-28
+page:recordsenergy
+	desc:Recordsenergy
+	date: 2009-05-27
+page:demonsarentghosts
+	desc:Demonsarentghosts
+	date: 2009-05-26
+page:deathandtaxes
+	desc:Deathandtaxes
+	date: 2009-05-25
+page:seleniumsaveus
+	desc:Seleniumsaveus
+	date: 2009-05-22
+page:stuntedlikeme
+	desc:Stuntedlikeme
+	date: 2009-05-21
+page:glomp
+	desc:Glomp
+	date: 2009-05-20
+page:backtoback
+	desc:Backtoback
+	date: 2009-05-19
+page:marathontonight
+	desc:Marathontonight
+	date: 2009-05-18
+page:nopouting
+	desc:Nopouting
+	date: 2009-05-15
+page:freshsqueezed
+	desc:Freshsqueezed
+	date: 2009-05-14
+page:ignoreoutbursts
+	desc:Ignoreoutbursts
+	date: 2009-05-13
+page:moresensitive
+	desc:Moresensitive
+	date: 2009-05-12
+page:saturdayallday
+	desc:Saturdayallday
+	date: 2009-05-11
+page:tinycrisisaverted
+	desc:Tinycrisisaverted
+	date: 2009-05-08
+page:explaintome
+	desc:Explaintome
+	date: 2009-05-07
+page:beforeitstoolate
+	desc:Beforeitstoolate
+	date: 2009-05-06
+page:whatsnext
+	desc:Whatsnext
+	date: 2009-05-05
+page:inhisprogramming
+	desc:Inhisprogramming
+	date: 2009-05-04
+page:moodywhensober
+	desc:Moodywhensober
+	date: 2009-05-01
+page:howmuchtheydrank
+	desc:Howmuchtheydrank
+	date: 2009-04-30
+page:dontupsether
+	desc:Dontupsether
+	date: 2009-04-29
+page:illlive
+	desc:Illlive
+	date: 2009-04-28
+page:echidnamartini
+	desc:Echidnamartini
+	date: 2009-04-27
+page:dontsaythat
+	desc:Dontsaythat
+	date: 2009-04-24
+page:areyoulost-3
+	desc:Areyoulost
+	date: 2009-04-23
+page:holeathercore
+	desc:Holeathercore
+	date: 2009-04-22
+page:understanding
+	desc:Understanding
+	date: 2009-04-21
+page:dontmindme
+	desc:Dontmindme
+	date: 2009-04-20
+page:justus
+	desc:Justus
+	date: 2009-04-17
+page:fauxtimetraveler
+	desc:Fauxtimetraveler
+	date: 2009-04-16
+page:nomoreloop
+	desc:Nomoreloop
+	date: 2009-04-15
+page:comedancing
+	desc:Comedancing
+	date: 2009-04-14
+page:theytalk
+	desc:Theytalk
+	date: 2009-04-13
+page:demonlaw
+	desc:Demonlaw
+	date: 2009-04-10
+page:wisewords
+	desc:Wisewords
+	date: 2009-04-09
+page:soangry
+	desc:Soangry
+	date: 2009-04-08
+page:naughtynaughty
+	desc:Naughtynaughty
+	date: 2009-04-07
+page:femoralartery
+	desc:Femoralartery
+	date: 2009-04-06
+page:touchebabe
+	desc:Touchebabe
+	date: 2009-04-03
+page:ohplease
+	desc:Ohplease
+	date: 2009-04-02
+page:nofoolin
+	desc:Nofoolin
+	date: 2009-04-01
+page:toobusyboinking
+	desc:Toobusyboinking
+	date: 2009-03-31
+page:joinusguys
+	desc:Joinusguys
+	date: 2009-03-30
+page:backoff
+	desc:Backoff
+	date: 2009-03-27
+page:partofyoudid
+	desc:Partofyoudid
+	date: 2009-03-26
+page:justtweaking
+	desc:Justtweaking
+	date: 2009-03-25
+page:itsawus
+	desc:Itsawus
+	date: 2009-03-24
+page:hadaheartbeat
+	desc:Hadaheartbeat
+	date: 2009-03-23
+page:itsbreathing
+	desc:Itsbreathing
+	date: 2009-03-20
+page:cutebroom
+	desc:Cutebroom
+	date: 2009-03-19
+page:bitoftheatrics
+	desc:Bitoftheatrics
+	date: 2009-03-18
+page:hairlikestraw
+	desc:Hairlikestraw
+	date: 2009-03-17
+page:washmybrain
+	desc:Washmybrain
+	date: 2009-03-16
+page:grandpagettinsome
+	desc:Grandpagettinsome
+	date: 2009-03-13
+page:grabsomebeer
+	desc:Grabsomebeer
+	date: 2009-03-12
+page:youoldfart
+	desc:Youoldfart
+	date: 2009-03-11
+page:morecivilized
+	desc:Morecivilized
+	date: 2009-03-10
+page:followgrandpa
+	desc:Followgrandpa
+	date: 2009-03-09
+page:irrationalfear
+	desc:Irrationalfear
+	date: 2009-03-06
+page:abitdisturbing
+	desc:Abitdisturbing
+	date: 2009-03-05
+page:legalstimulants
+	desc:Legalstimulants
+	date: 2009-03-04
+page:pickthisuplater
+	desc:Pickthisuplater
+	date: 2009-03-03
+page:whatsthedeal
+	desc:Whatsthedeal
+	date: 2009-03-02
+page:therebemonsters
+	desc:Therebemonsters
+	date: 2009-02-27
+page:igotnothing
+	desc:Igotnothing
+	date: 2009-02-26
+page:wherestherestroom
+	desc:Wherestherestroom
+	date: 2009-02-25
+page:adventureorknowledge
+	desc:Adventureorknowledge
+	date: 2009-02-24
+page:asphinxiated
+	desc:Asphinxiated
+	date: 2009-02-23
+page:spititout
+	desc:Spititout
+	date: 2009-02-20
+page:okaywiththat
+	desc:Okaywiththat
+	date: 2009-02-19
+page:myonlyenemy
+	desc:Myonlyenemy
+	date: 2009-02-18
+page:fairytale
+	desc:Fairytale
+	date: 2009-02-17
+page:debunked
+	desc:Debunked
+	date: 2009-02-16
+page:watchathink
+	desc:Watchathink
+	date: 2009-02-13
+page:awscrewit
+	desc:Awscrewit
+	date: 2009-02-12
+page:fishsauce
+	desc:Fishsauce
+	date: 2009-02-11
+page:charades
+	desc:Charades
+	date: 2009-02-10
+page:laterdorks
+	desc:Laterdorks
+	date: 2009-02-09
+page:priceless
+	desc:Priceless
+	date: 2009-02-06
+page:iwontletyou
+	desc:Iwontletyou
+	date: 2009-02-05
+page:notmyproblem
+	desc:Notmyproblem
+	date: 2009-02-04
+page:cantbehurt
+	desc:Cantbehurt
+	date: 2009-02-03
+page:stayoutofthis
+	desc:Stayoutofthis
+	date: 2009-02-02
+page:youscared
+	desc:Youscared
+	date: 2009-01-30
+page:somekindofmagician
+	desc:Somekindofmagician
+	date: 2009-01-29
+page:screeeee
+	desc:Screeeee
+	date: 2009-01-28
+page:losthermarbles
+	desc:Losthermarbles
+	date: 2009-01-27
+page:getinhere
+	desc:Getinhere
+	date: 2009-01-26
+page:expectinganyone
+	desc:Expectinganyone
+	date: 2009-01-23
+page:drinkofwater
+	desc:Drinkofwater
+	date: 2009-01-22
+page:throwingusaway
+	desc:Throwingusaway
+	date: 2009-01-21
+page:cheersbabe
+	desc:Cheersbabe
+	date: 2009-01-20
+page:youreincharge
+	desc:Youreincharge
+	date: 2009-01-19
+page:uponatime
+	desc:Uponatime
+	date: 2009-01-16
+page:theutmostfinesse
+	desc:Theutmostfinesse
+	date: 2009-01-15
+page:shootingatme
+	desc:Shootingatme
+	date: 2009-01-14
+page:phonecallaway
+	desc:Phonecallaway
+	date: 2009-01-13
+page:whattodo
+	desc:Whattodo
+	date: 2009-01-12
+page:therewasagirl
+	desc:Therewasagirl
+	date: 2009-01-09
+page:nolongerathreat
+	desc:Nolongerathreat
+	date: 2009-01-08
+page:motherhen
+	desc:Motherhen
+	date: 2009-01-07
+page:notyourfault
+	desc:Notyourfault
+	date: 2009-01-06
+page:badshots
+	desc:Badshots
+	date: 2009-01-05
+page:kalashnikovdodgeba
+	desc:Kalashnikovdodgeba
+	date: 2009-01-02
+page:justafewholes
+	desc:Justafewholes
+	date: 2009-01-01
+page:noplacelikehome
+	desc:Noplacelikehome
+	date: 2008-12-31
+page:oopsiepoit
+	desc:Oopsiepoit
+	date: 2008-12-30
+page:leavetheguntakethecloth
+	desc:Leavetheguntakethecloth
+	date: 2008-12-29
+page:notanyfruitmarket
+	desc:Notanyfruitmarket
+	date: 2008-12-26
+page:asimpleplan
+	desc:Asimpleplan
+	date: 2008-12-25
+page:thefruitmarket
+	desc:Thefruitmarket
+	date: 2008-12-24
+page:anotherpizza
+	desc:Anotherpizza
+	date: 2008-12-23
+page:forcryinoutloud
+	desc:Forcryinoutloud
+	date: 2008-12-22
+page:boilerroom
+	desc:Boilerroom
+	date: 2008-12-19
+page:alewapsi
+	desc:Alewapsi
+	date: 2008-12-18
+page:lindwapsi
+	desc:Lindwapsi
+	date: 2008-12-17
+page:wapsiba
+	desc:Wapsiba
+	date: 2008-12-16
+page:duwapsi
+	desc:Duwapsi
+	date: 2008-12-15
+page:oneofhermoments
+	desc:Oneofhermoments
+	date: 2008-12-12
+page:unlikeindianajones
+	desc:Unlikeindianajones
+	date: 2008-12-11
+page:anyideas
+	desc:Anyideas
+	date: 2008-12-10
+page:payattention
+	desc:Payattention
+	date: 2008-12-09
+page:sunlightandmoirror
+	desc:Sunlightandmoirror
+	date: 2008-12-08
+page:outgrowingyourbras
+	desc:Outgrowingyourbras
+	date: 2008-12-05
+page:illdial
+	desc:Illdial
+	date: 2008-12-04
+page:careaboutme
+	desc:Careaboutme
+	date: 2008-12-03
+page:findyourworth
+	desc:Findyourworth
+	date: 2008-12-02
+page:morethanginormoushooters
+	desc:Morethanginormoushooters
+	date: 2008-12-01
+page:notthereyet
+	desc:Notthereyet
+	date: 2008-11-28
+page:coffeeeclair
+	desc:Coffeeeclair
+	date: 2008-11-27
+page:ourguidance
+	desc:Ourguidance
+	date: 2008-11-26
+page:dontyouknock
+	desc:Dontyouknock
+	date: 2008-11-25
+page:thefallguy
+	desc:Thefallguy
+	date: 2008-11-24
+page:compresseddiamonds
+	desc:Compresseddiamonds
+	date: 2008-11-21
+page:ancientdiscoball
+	desc:Ancientdiscoball
+	date: 2008-11-20
+page:outofyourhair
+	desc:Outofyourhair
+	date: 2008-11-19
+page:lanthianchotskis
+	desc:Lanthianchotskis
+	date: 2008-11-18
+page:workingsupper
+	desc:Workingsupper
+	date: 2008-11-17
+page:itsfamiliar
+	desc:Itsfamiliar
+	date: 2008-11-14
+page:imsneaky
+	desc:Imsneaky
+	date: 2008-11-13
+page:leftmeclues
+	desc:Leftmeclues
+	date: 2008-11-12
+page:anotherbook
+	desc:Anotherbook
+	date: 2008-11-11
+page:notjinsbook
+	desc:Notjinsbook
+	date: 2008-11-10
+page:feltimportant
+	desc:Feltimportant
+	date: 2008-10-31
+page:looksfamiliar
+	desc:Looksfamiliar
+	date: 2008-10-30
+page:mostlybenign
+	desc:Mostlybenign
+	date: 2008-10-29
+page:plentyoftime
+	desc:Plentyoftime
+	date: 2008-10-28
+page:wellgeeze
+	desc:Wellgeeze
+	date: 2008-10-27
+page:wontwanttodo
+	desc:Wontwanttodo
+	date: 2008-10-24
+page:doneitbefore
+	desc:Doneitbefore
+	date: 2008-10-23
+page:readingforfun
+	desc:Readingforfun
+	date: 2008-10-22
+page:fiftysixtimes
+	desc:Fiftysixtimes
+	date: 2008-10-21
+page:didiwriteit
+	desc:Didiwriteit
+	date: 2008-10-20
+page:knowstheauthor
+	desc:Knowstheauthor
+	date: 2008-10-17
+page:gotchaleaf
+	desc:Gotchaleaf
+	date: 2008-10-16
+page:diametricday
+	desc:Diametricday
+	date: 2008-10-15
+page:stickynotes
+	desc:Stickynotes
+	date: 2008-10-14
+page:becomingfriends
+	desc:Becomingfriends
+	date: 2008-10-13
+page:whythesubterfuge
+	desc:Whythesubterfuge
+	date: 2008-10-10
+page:expectmehappy
+	desc:Expectmehappy
+	date: 2008-10-09
+page:caringagain
+	desc:Caringagain
+	date: 2008-10-08
+page:putonsomesocks
+	desc:Putonsomesocks
+	date: 2008-10-07
+page:frozentoes
+	desc:Frozentoes
+	date: 2008-10-06
+page:thinkingaboutsex
+	desc:Thinkingaboutsex
+	date: 2008-10-03
+page:takealook
+	desc:Takealook
+	date: 2008-10-02
+page:appearsolid
+	desc:Appearsolid
+	date: 2008-10-01
+page:partsvibrate
+	desc:Partsvibrate
+	date: 2008-09-30
+page:punishmentenough
+	desc:Punishmentenough
+	date: 2008-09-29
+page:everythingiknow
+	desc:Everythingiknow
+	date: 2008-09-26
+page:saneones
+	desc:Saneones
+	date: 2008-09-25
+page:whatbananas
+	desc:Whatbananas
+	date: 2008-09-24
+page:outoforder
+	desc:Outoforder
+	date: 2008-09-23
+page:lockeddoorway
+	desc:Lockeddoorway
+	date: 2008-09-22
+page:ilikehim
+	desc:Ilikehim
+	date: 2008-09-19
+page:agoodquestion
+	desc:Agoodquestion
+	date: 2008-09-18
+page:ryansurprise
+	desc:Ryansurprise
+	date: 2008-09-17
+page:lingeringmysteries
+	desc:Lingeringmysteries
+	date: 2008-09-16
+page:beingasmartass
+	desc:Beingasmartass
+	date: 2008-09-15
+page:ohigetit
+	desc:Ohigetit
+	date: 2008-09-12
+page:knotholes
+	desc:Knotholes
+	date: 2008-09-11
+page:likeanadventure
+	desc:Likeanadventure
+	date: 2008-09-10
+page:poitlogistics
+	desc:Poitlogistics
+	date: 2008-09-09
+page:dontfreak
+	desc:Dontfreak
+	date: 2008-09-08
+page:hesakeeper
+	desc:Hesakeeper
+	date: 2008-09-05
+page:howcouldyou-2
+	desc:Howcouldyou
+	date: 2008-09-04
+page:idontshare
+	desc:Idontshare
+	date: 2008-09-03
+page:justsomeguy
+	desc:Justsomeguy
+	date: 2008-09-02
+page:sotouched
+	desc:Sotouched
+	date: 2008-09-01
+page:downtherabbithole
+	desc:Downtherabbithole
+	date: 2008-08-29
+page:doyouloveher
+	desc:Doyouloveher
+	date: 2008-08-28
+page:howigotthere
+	desc:Howigotthere
+	date: 2008-08-27
+page:hopewedidnt
+	desc:Hopewedidnt
+	date: 2008-08-26
+page:whowhatwhere
+	desc:Whowhatwhere
+	date: 2008-08-25
+page:sewhattimeitis
+	desc:Sewhattimeitis
+	date: 2008-08-22
+page:herskivvies
+	desc:Herskivvies
+	date: 2008-08-21
+page:verywrong
+	desc:Verywrong
+	date: 2008-08-20
+page:poithimhome
+	desc:Poithimhome
+	date: 2008-08-19
+page:cantremember
+	desc:Cantremember
+	date: 2008-08-18
+page:davidmonicabud
+	desc:Davidmonicabud
+	date: 2008-08-15
+page:trudyshellymonica
+	desc:Trudyshellymonica
+	date: 2008-08-14
+page:giselemonicashelly
+	desc:Giselemonicashelly
+	date: 2008-08-13
+page:ryanmonicatepoz
+	desc:Ryanmonicatepoz
+	date: 2008-08-12
+page:scottbustynastajia
+	desc:Scottbustynastajia
+	date: 2008-08-11
+page:enoughphilosophy
+	desc:Enoughphilosophy
+	date: 2008-08-08
+page:sunnydaffodil
+	desc:Sunnydaffodil
+	date: 2008-08-07
+page:notharmingthem
+	desc:Notharmingthem
+	date: 2008-08-06
+page:peoplewantthat
+	desc:Peoplewantthat
+	date: 2008-08-05
+page:healthyoutlook
+	desc:Healthyoutlook
+	date: 2008-08-04
+page:timewouldstopdead
+	desc:Timewouldstopdead
+	date: 2008-08-01
+page:realsweetie
+	desc:Realsweetie
+	date: 2008-07-31
+page:tripleshots
+	desc:Tripleshots
+	date: 2008-07-30
+page:tookheroffguard
+	desc:Tookheroffguard
+	date: 2008-07-29
+page:slickerthansnot
+	desc:Slickerthansnot
+	date: 2008-07-28
+page:aintaboobjob
+	desc:Aintaboobjob
+	date: 2008-07-25
+page:jugsrealornot
+	desc:Jugsrealornot
+	date: 2008-07-24
+page:pertlittleteacups
+	desc:Pertlittleteacups
+	date: 2008-07-23
+page:callednetworking
+	desc:Callednetworking
+	date: 2008-07-22
+page:whosthedork
+	desc:Whosthedork
+	date: 2008-07-21
+page:oldtimes
+	desc:Oldtimes
+	date: 2008-07-18
+page:damagecontrol
+	desc:Damagecontrol
+	date: 2008-07-17
+page:badstart
+	desc:Badstart
+	date: 2008-07-16
+page:figureitoutyoursel
+	desc:Figureitoutyoursel
+	date: 2008-07-15
+page:howsmyhair
+	desc:Howsmyhair
+	date: 2008-07-14
+page:yesplease
+	desc:Yesplease
+	date: 2008-07-11
+page:idloveto
+	desc:Idloveto
+	date: 2008-07-10
+page:enduplikeme
+	desc:Enduplikeme
+	date: 2008-07-09
+page:extremelydangerous
+	desc:Extremelydangerous
+	date: 2008-07-08
+page:didntknowtochtli
+	desc:Didntknowtochtli
+	date: 2008-07-07
+page:justremember
+	desc:Justremember
+	date: 2008-07-04
+page:stopbeingsmart
+	desc:Stopbeingsmart
+	date: 2008-07-03
+page:goingclay
+	desc:Goingclay
+	date: 2008-07-02
+page:littlecaretaker
+	desc:Littlecaretaker
+	date: 2008-07-01
+page:shewasaboy
+	desc:Shewasaboy
+	date: 2008-06-30
+page:beatsfacecream
+	desc:Beatsfacecream
+	date: 2008-06-27
+page:dont-wanna
+	desc:Dont Wanna
+	date: 2008-06-26
+page:shellgrowold
+	desc:Shellgrowold
+	date: 2008-06-25
+page:thereismoretoit
+	desc:Thereismoretoit
+	date: 2008-06-24
+page:whatdidisay
+	desc:Whatdidisay
+	date: 2008-06-23
+page:dontlikethesound
+	desc:Dontlikethesound
+	date: 2008-06-20
+page:footsoldier
+	desc:Footsoldier
+	date: 2008-06-19
+page:mayanheaddress
+	desc:Mayanheaddress
+	date: 2008-06-18
+page:hatinhand
+	desc:Hatinhand
+	date: 2008-06-17
+page:animalcontrol
+	desc:Animalcontrol
+	date: 2008-06-16
+page:prettysailboat
+	desc:Prettysailboat
+	date: 2008-06-13
+page:ignorewhatisaid
+	desc:Ignorewhatisaid
+	date: 2008-06-12
+page:youbrat
+	desc:Youbrat
+	date: 2008-06-11
+page:meltingalready
+	desc:Meltingalready
+	date: 2008-06-10
+page:feelslikeadream
+	desc:Feelslikeadream
+	date: 2008-06-09
+page:slatheryourself
+	desc:Slatheryourself
+	date: 2008-06-06
+page:goodtogo
+	desc:Goodtogo
+	date: 2008-06-05
+page:newbikini
+	desc:Newbikini
+	date: 2008-06-04
+page:racehorselegs
+	desc:Racehorselegs
+	date: 2008-06-03
+page:calhounbeach
+	desc:Calhounbeach
+	date: 2008-06-02
+page:stuckshoe
+	desc:Stuckshoe
+	date: 2008-05-30
+page:onmyfront
+	desc:Onmyfront
+	date: 2008-05-29
+page:cryingoutloud
+	desc:Cryingoutloud
+	date: 2008-05-28
+page:ancientsymbols
+	desc:Ancientsymbols
+	date: 2008-05-27
+page:seewhatimean
+	desc:Seewhatimean
+	date: 2008-05-26
+page:superficialandcurs
+	desc:Superficialandcurs
+	date: 2008-05-23
+page:speakfreely
+	desc:Speakfreely
+	date: 2008-05-22
+page:worstinme
+	desc:Worstinme
+	date: 2008-05-21
+page:shemeanswell
+	desc:Shemeanswell
+	date: 2008-05-20
+page:acceptedthis
+	desc:Acceptedthis
+	date: 2008-05-19
+page:workwithher
+	desc:Workwithher
+	date: 2008-05-16
+page:walkingrelic
+	desc:Walkingrelic
+	date: 2008-05-15
+page:thatsnotfair
+	desc:Thatsnotfair
+	date: 2008-05-14
+page:piratemovie
+	desc:Piratemovie
+	date: 2008-05-13
+page:atattoo
+	desc:Atattoo
+	date: 2008-05-12
+page:somewheresafe
+	desc:Somewheresafe
+	date: 2008-05-09
+page:tellheryourself
+	desc:Tellheryourself
+	date: 2008-05-08
+page:almostinteresting
+	desc:Almostinteresting
+	date: 2008-05-07
+page:wrongoffice
+	desc:Wrongoffice
+	date: 2008-05-06
+page:imbecilicnotion
+	desc:Imbecilicnotion
+	date: 2008-05-05
+page:greatinbed
+	desc:Greatinbed
+	date: 2008-05-02
+page:despiseandnurture
+	desc:Despiseandnurture
+	date: 2008-05-01
+page:shesthebookworm
+	desc:Shesthebookworm
+	date: 2008-04-30
+page:shesuseful
+	desc:Shesuseful
+	date: 2008-04-29
+page:specificnote
+	desc:Specificnote
+	date: 2008-04-28
+page:ashortnote
+	desc:Ashortnote
+	date: 2008-04-25
+page:andyou
+	desc:Andyou
+	date: 2008-04-24
+page:squeee
+	desc:Squeee
+	date: 2008-04-23
+page:handledthatwell
+	desc:Handledthatwell
+	date: 2008-04-22
+page:thatlittle
+	desc:Thatlittle
+	date: 2008-04-21
+page:includeher
+	desc:Includeher
+	date: 2008-04-18
+page:letthatslide
+	desc:Letthatslide
+	date: 2008-04-17
+page:thatsimpossible
+	desc:Thatsimpossible
+	date: 2008-04-16
+page:moresecretive
+	desc:Moresecretive
+	date: 2008-04-15
+page:gottenhere
+	desc:Gottenhere
+	date: 2008-04-14
+page:talk
+	desc:Talk
+	date: 2008-04-11
+page:ringingears
+	desc:Ringingears
+	date: 2008-04-10
+page:notme
+	desc:Notme
+	date: 2008-04-09
+page:toucheditlast
+	desc:Toucheditlast
+	date: 2008-04-08
+page:justpeachy
+	desc:Justpeachy
+	date: 2008-04-07
+page:itsempty
+	desc:Itsempty
+	date: 2008-04-04
+page:feelinggrownup
+	desc:Feelinggrownup
+	date: 2008-04-03
+page:beenawake
+	desc:Beenawake
+	date: 2008-04-02
+page:forgetyourworries
+	desc:Forgetyourworries
+	date: 2008-04-01
+page:anaphylaxisexcuse
+	desc:Anaphylaxisexcuse
+	date: 2008-03-31
+page:crypticmenudo
+	desc:Crypticmenudo
+	date: 2008-03-28
+page:junebugcrash
+	desc:Junebugcrash
+	date: 2008-03-27
+page:honkthehorn
+	desc:Honkthehorn
+	date: 2008-03-26
+page:scumonmytounge
+	desc:Scumonmytounge
+	date: 2008-03-25
+page:dreamcantcatch
+	desc:Dreamcantcatch
+	date: 2008-03-24
+page:ihaveresearch
+	desc:Ihaveresearch
+	date: 2008-03-21
+page:fromyou
+	desc:Fromyou
+	date: 2008-03-20
+page:hellourpbarf
+	desc:Hellourpbarf
+	date: 2008-03-19
+page:needtoknock
+	desc:Needtoknock
+	date: 2008-03-18
+page:irishwhiskey
+	desc:Irishwhiskey
+	date: 2008-03-17
+page:shouldallblowover
+	desc:Shouldallblowover
+	date: 2008-03-14
+page:thesewerebrains
+	desc:Thesewerebrains
+	date: 2008-03-13
+page:callinsick
+	desc:Callinsick
+	date: 2008-03-12
+page:writtenoff
+	desc:Writtenoff
+	date: 2008-03-11
+page:takemeseriously
+	desc:Takemeseriously
+	date: 2008-03-10
+page:whereitcamefrom
+	desc:Whereitcamefrom
+	date: 2008-03-07
+page:complicatethefutur
+	desc:Complicatethefutur
+	date: 2008-03-06
+page:sothetrickis
+	desc:Sothetrickis
+	date: 2008-03-05
+page:intheirfaces
+	desc:Intheirfaces
+	date: 2008-03-04
+page:makewaves
+	desc:Makewaves
+	date: 2008-03-03
+page:contraryevidence
+	desc:Contraryevidence
+	date: 2008-02-29
+page:wildtheory
+	desc:Wildtheory
+	date: 2008-02-28
+page:soexciting
+	desc:Soexciting
+	date: 2008-02-27
+page:youtellme
+	desc:Youtellme
+	date: 2008-02-26
+page:tellmeagain
+	desc:Tellmeagain
+	date: 2008-02-25
+page:pickedlast
+	desc:Pickedlast
+	date: 2008-02-22
+page:assembleateam
+	desc:Assembleateam
+	date: 2008-02-21
+page:clothfragments
+	desc:Clothfragments
+	date: 2008-02-20
+page:ancientundies
+	desc:Ancientundies
+	date: 2008-02-19
+page:learntorespect
+	desc:Learntorespect
+	date: 2008-02-18
+page:thatonetime
+	desc:Thatonetime
+	date: 2008-02-15
+page:dontignore
+	desc:Dontignore
+	date: 2008-02-14
+page:nobodymessed
+	desc:Nobodymessed
+	date: 2008-02-13
+page:foundanymice
+	desc:Foundanymice
+	date: 2008-02-12
+page:flush
+	desc:Flush
+	date: 2008-02-11
+page:greatpower
+	desc:Greatpower
+	date: 2008-02-08
+page:bikinipower
+	desc:Bikinipower
+	date: 2008-02-07
+page:naughtycheerful
+	desc:Naughtycheerful
+	date: 2008-02-06
+page:attitudeboost
+	desc:Attitudeboost
+	date: 2008-02-05
+page:prettyunderwear
+	desc:Prettyunderwear
+	date: 2008-02-04
+page:wisdomnuggets
+	desc:Wisdomnuggets
+	date: 2008-02-01
+page:dealwiththiscrap
+	desc:Dealwiththiscrap
+	date: 2008-01-31
+page:sexuallyfrustrated
+	desc:Sexuallyfrustrated
+	date: 2008-01-30
+page:fixedsoon
+	desc:Fixedsoon
+	date: 2008-01-29
+page:frozenland
+	desc:Frozenland
+	date: 2008-01-28
+page:makesunshine
+	desc:Makesunshine
+	date: 2008-01-25
+page:scrapeverything
+	desc:Scrapeverything
+	date: 2008-01-24
+page:verycoldouthere
+	desc:Verycoldouthere
+	date: 2008-01-23
+page:shovelthestreets
+	desc:Shovelthestreets
+	date: 2008-01-22
+page:tinaisntmean
+	desc:Tinaisntmean
+	date: 2008-01-21
+page:peptalk
+	desc:Peptalk
+	date: 2008-01-18
+page:lostappetite
+	desc:Lostappetite
+	date: 2008-01-17
+page:thatsenough
+	desc:Thatsenough
+	date: 2008-01-16
+page:voicingopinion
+	desc:Voicingopinion
+	date: 2008-01-15
+page:bodylanguage
+	desc:Bodylanguage
+	date: 2008-01-14
+page:bestofluck
+	desc:Bestofluck
+	date: 2008-01-11
+page:frightenme
+	desc:Frightenme
+	date: 2008-01-10
+page:wisdomofbuffness
+	desc:Wisdomofbuffness
+	date: 2008-01-09
+page:othersnotice
+	desc:Othersnotice
+	date: 2008-01-08
+page:newcareer
+	desc:Newcareer
+	date: 2008-01-07
+page:powerofthebra
+	desc:Powerofthebra
+	date: 2008-01-04
+page:drunkpower
+	desc:Drunkpower
+	date: 2008-01-03
+page:brainsandpower
+	desc:Brainsandpower
+	date: 2008-01-02
+page:electingthesameone
+	desc:Electingthesameone
+	date: 2008-01-01
+page:golemsandnasties
+	desc:Golemsandnasties
+	date: 2007-12-31
+page:nocontrol
+	desc:Nocontrol
+	date: 2007-12-28
+page:golemmom
+	desc:Golemmom
+	date: 2007-12-27
+page:everybook
+	desc:Everybook
+	date: 2007-12-26
+page:thebook
+	desc:Thebook
+	date: 2007-12-25
+page:freebooze
+	desc:Freebooze
+	date: 2007-12-24
+page:spikekatherine
+	desc:Spikekatherine
+	date: 2007-12-22
+page:jessamandaselenium
+	desc:Jessamandaselenium
+	date: 2007-12-21
+page:randykath
+	desc:Randykath
+	date: 2007-12-20
+page:katiemonicadietzel
+	desc:Katiemonicadietzel
+	date: 2007-12-19
+page:tylermonicakevin
+	desc:Tylermonicakevin
+	date: 2007-12-18
+page:wesmuchomocha
+	desc:Wesmuchomocha
+	date: 2007-12-17
+page:cornhuskangels
+	desc:Cornhuskangels
+	date: 2007-12-14
+page:thatswhy
+	desc:Thatswhy
+	date: 2007-12-13
+page:mummifiedtrees
+	desc:Mummifiedtrees
+	date: 2007-12-12
+page:naturehatesme
+	desc:Naturehatesme
+	date: 2007-12-11
+page:arealtree
+	desc:Arealtree
+	date: 2007-12-10
+page:priceofatv
+	desc:Priceofatv
+	date: 2007-12-07
+page:luckygirl
+	desc:Luckygirl
+	date: 2007-12-06
+page:putmyhands
+	desc:Putmyhands
+	date: 2007-12-05
+page:thebest
+	desc:Thebest
+	date: 2007-12-04
+page:learntodance
+	desc:Learntodance
+	date: 2007-12-03
+page:notworthit
+	desc:Notworthit
+	date: 2007-11-30
+page:youngerbyfar
+	desc:Youngerbyfar
+	date: 2007-11-29
+page:nocoffee
+	desc:Nocoffee
+	date: 2007-11-28
+page:angerstone
+	desc:Angerstone
+	date: 2007-11-27
+page:creepyfriend
+	desc:Creepyfriend
+	date: 2007-11-26
+page:commonthreads
+	desc:Commonthreads
+	date: 2007-11-23
+page:badhabit
+	desc:Badhabit
+	date: 2007-11-22
+page:grainofsalt
+	desc:Grainofsalt
+	date: 2007-11-21
+page:demonbarista
+	desc:Demonbarista
+	date: 2007-11-20
+page:thingslikeme
+	desc:Thingslikeme
+	date: 2007-11-19
+page:letmehelpyou
+	desc:Letmehelpyou
+	date: 2007-11-16
+page:anythingstupid
+	desc:Anythingstupid
+	date: 2007-11-15
+page:creepycoffee
+	desc:Creepycoffee
+	date: 2007-11-14
+page:coffeeaddict
+	desc:Coffeeaddict
+	date: 2007-11-13
+page:flattentheearth
+	desc:Flattentheearth
+	date: 2007-11-12
+page:anotherdiamond
+	desc:Anotherdiamond
+	date: 2007-11-09
+page:betteryourself
+	desc:Betteryourself
+	date: 2007-11-08
+page:noodlearms
+	desc:Noodlearms
+	date: 2007-11-07
+page:fairlycertain
+	desc:Fairlycertain
+	date: 2007-11-06
+page:winterreminder
+	desc:Winterreminder
+	date: 2007-11-05
+page:yourepersuasive
+	desc:Yourepersuasive
+	date: 2007-11-02
+page:pricetopay
+	desc:Pricetopay
+	date: 2007-11-01
+page:hardpart
+	desc:Hardpart
+	date: 2007-10-31
+page:hellfrozeover
+	desc:Hellfrozeover
+	date: 2007-10-30
+page:orderabeer
+	desc:Orderabeer
+	date: 2007-10-29
+page:crookedsmile
+	desc:Crookedsmile
+	date: 2007-10-26
+page:sharpknife
+	desc:Sharpknife
+	date: 2007-10-25
+page:pumpkineater
+	desc:Pumpkineater
+	date: 2007-10-24
+page:loveofpumpkinseeds
+	desc:Loveofpumpkinseeds
+	date: 2007-10-23
+page:prettyhairy
+	desc:Prettyhairy
+	date: 2007-10-22
+page:chickenout
+	desc:Chickenout
+	date: 2007-10-19
+page:damnsnow
+	desc:Damnsnow
+	date: 2007-10-18
+page:optimismclub
+	desc:Optimismclub
+	date: 2007-10-17
+page:theanomaly
+	desc:Theanomaly
+	date: 2007-10-16
+page:frightenyou
+	desc:Frightenyou
+	date: 2007-10-15
+page:nothingspooky
+	desc:Nothingspooky
+	date: 2007-10-12
+page:freaksmeout
+	desc:Freaksmeout
+	date: 2007-10-11
+page:lyingstill
+	desc:Lyingstill
+	date: 2007-10-10
+page:runningacoffeeshop
+	desc:Runningacoffeeshop
+	date: 2007-10-09
+page:toopersonal
+	desc:Toopersonal
+	date: 2007-10-08
+page:appropriately
+	desc:Appropriately
+	date: 2007-10-05
+page:thatsthepoint
+	desc:Thatsthepoint
+	date: 2007-10-04
+page:attentiongrabber
+	desc:Attentiongrabber
+	date: 2007-10-03
+page:liketheyardstick
+	desc:Liketheyardstick
+	date: 2007-10-02
+page:mychoice
+	desc:Mychoice
+	date: 2007-10-01
+page:noanswers
+	desc:Noanswers
+	date: 2007-09-28
+page:adultsbody
+	desc:Adultsbody
+	date: 2007-09-27
+page:immaturebrat
+	desc:Immaturebrat
+	date: 2007-09-26
+page:winterstuff
+	desc:Winterstuff
+	date: 2007-09-25
+page:gettingolder
+	desc:Gettingolder
+	date: 2007-09-24
+page:neverthought
+	desc:Neverthought
+	date: 2007-09-21
+page:thingslikethat
+	desc:Thingslikethat
+	date: 2007-09-20
+page:restoftheworld
+	desc:Restoftheworld
+	date: 2007-09-19
+page:abitelusive
+	desc:Abitelusive
+	date: 2007-09-18
+page:likeandtrust
+	desc:Likeandtrust
+	date: 2007-09-17
+page:peacefulfirelight
+	desc:Peacefulfirelight
+	date: 2007-09-14
+page:feelslikehome
+	desc:Feelslikehome
+	date: 2007-09-13
+page:keepingitsimple
+	desc:Keepingitsimple
+	date: 2007-09-12
+page:morehuman
+	desc:Morehuman
+	date: 2007-09-11
+page:makingdo
+	desc:Makingdo
+	date: 2007-09-10
+page:hateyouthistime
+	desc:Hateyouthistime
+	date: 2007-09-07
+page:youredoinitagain
+	desc:Youredoinitagain
+	date: 2007-09-06
+page:itscomplicated
+	desc:Itscomplicated
+	date: 2007-09-05
+page:cyclicalenergy
+	desc:Cyclicalenergy
+	date: 2007-09-04
+page:endoftheconversation
+	desc:Endoftheconversation
+	date: 2007-09-03
+page:nothingtoyou
+	desc:Nothingtoyou
+	date: 2007-08-31
+page:beingapawn
+	desc:Beingapawn
+	date: 2007-08-30
+page:stilllost
+	desc:Stilllost
+	date: 2007-08-29
+page:negativeenergy
+	desc:Negativeenergy
+	date: 2007-08-28
+page:enoughdevotion
+	desc:Enoughdevotion
+	date: 2007-08-27
+page:inthefirstplace
+	desc:Inthefirstplace
+	date: 2007-08-24
+page:clearsup
+	desc:Clearsup
+	date: 2007-08-23
+page:cityofficials
+	desc:Cityofficials
+	date: 2007-08-22
+page:politicsofwork
+	desc:Politicsofwork
+	date: 2007-08-21
+page:workrelated
+	desc:Workrelated
+	date: 2007-08-20
+page:whatamidoing
+	desc:Whatamidoing
+	date: 2007-08-17
+page:weeksworries
+	desc:Weeksworries
+	date: 2007-08-16
+page:dateaspa
+	desc:Dateaspa
+	date: 2007-08-15
+page:houseworkstress
+	desc:Houseworkstress
+	date: 2007-08-14
+page:compensatednicely
+	desc:Compensatednicely
+	date: 2007-08-13
+page:letthingshappen
+	desc:Letthingshappen
+	date: 2007-08-10
+page:sexuallybossy
+	desc:Sexuallybossy
+	date: 2007-08-09
+page:tappingmyphone
+	desc:Tappingmyphone
+	date: 2007-08-08
+page:takeyourvitamins
+	desc:Takeyourvitamins
+	date: 2007-08-07
+page:toostunned
+	desc:Toostunned
+	date: 2007-08-06
+page:watchingyourun
+	desc:Watchingyourun
+	date: 2007-08-03
+page:givememyfish
+	desc:Givememyfish
+	date: 2007-08-02
+page:whatareyoudoing-2
+	desc:Whatareyoudoing
+	date: 2007-08-01
+page:gettingwet
+	desc:Gettingwet
+	date: 2007-07-31
+page:beingexposed
+	desc:Beingexposed
+	date: 2007-07-30
+page:staringatme
+	desc:Staringatme
+	date: 2007-07-27
+page:gowithme
+	desc:Gowithme
+	date: 2007-07-26
+page:monicaextravert
+	desc:Monicaextravert
+	date: 2007-07-25
+page:gorgeoustomatoes
+	desc:Gorgeoustomatoes
+	date: 2007-07-24
+page:feelnormal
+	desc:Feelnormal
+	date: 2007-07-23
+page:dorkslikeus
+	desc:Dorkslikeus
+	date: 2007-07-20
+page:startingoveragain
+	desc:Startingoveragain
+	date: 2007-07-19
+page:wontletusdie
+	desc:Wontletusdie
+	date: 2007-07-18
+page:kindoflimbo
+	desc:Kindoflimbo
+	date: 2007-07-17
+page:fillmein
+	desc:Fillmein
+	date: 2007-07-16
+page:heresacookie
+	desc:Heresacookie
+	date: 2007-07-13
+page:theconnection
+	desc:Theconnection
+	date: 2007-07-12
+page:protectingyou
+	desc:Protectingyou
+	date: 2007-07-11
+page:stoicandsagelike
+	desc:Stoicandsagelike
+	date: 2007-07-10
+page:talkingincircles
+	desc:Talkingincircles
+	date: 2007-07-09
+page:worthsomething
+	desc:Worthsomething
+	date: 2007-07-06
+page:yourbuttormybutt
+	desc:Yourbuttormybutt
+	date: 2007-07-05
+page:dojustfine
+	desc:Dojustfine
+	date: 2007-07-04
+page:soundsgreat
+	desc:Soundsgreat
+	date: 2007-07-03
+page:refinetheirfunnybone
+	desc:Refinetheirfunnybone
+	date: 2007-07-02
+page:howcouldyou
+	desc:Howcouldyou
+	date: 2007-06-29
+page:heyheather
+	desc:Heyheather
+	date: 2007-06-28
+page:thatmonstrosity
+	desc:Thatmonstrosity
+	date: 2007-06-27
+page:neithergodnordemon
+	desc:Neithergodnordemon
+	date: 2007-06-26
+page:portapoopoit
+	desc:Portapoopoit
+	date: 2007-06-25
+page:runningtoward
+	desc:Runningtoward
+	date: 2007-06-22
+page:justlearnedthat
+	desc:Justlearnedthat
+	date: 2007-06-21
+page:shetrustedyou
+	desc:Shetrustedyou
+	date: 2007-06-20
+page:selfishlittlebitch
+	desc:Selfishlittlebitch
+	date: 2007-06-19
+page:stoptalkingtome
+	desc:Stoptalkingtome
+	date: 2007-06-18
+page:itsshorthand
+	desc:Itsshorthand
+	date: 2007-06-15
+page:writteningibberish
+	desc:Writteningibberish
+	date: 2007-06-14
+page:bouncesback
+	desc:Bouncesback
+	date: 2007-06-13
+page:prettymetaphorical
+	desc:Prettymetaphorical
+	date: 2007-06-12
+page:morningdialogue
+	desc:Morningdialogue
+	date: 2007-06-11
+page:stuckwithme
+	desc:Stuckwithme
+	date: 2007-06-08
+page:testingthem
+	desc:Testingthem
+	date: 2007-06-07
+page:kindofdangerous
+	desc:Kindofdangerous
+	date: 2007-06-06
+page:breakingmyheart
+	desc:Breakingmyheart
+	date: 2007-06-05
+page:hurtingyou
+	desc:Hurtingyou
+	date: 2007-06-04
+page:likeyoualot
+	desc:Likeyoualot
+	date: 2007-06-01
+page:notgethurt
+	desc:Notgethurt
+	date: 2007-05-31
+page:leavingdetailsout
+	desc:Leavingdetailsout
+	date: 2007-05-30
+page:corporatescrewup
+	desc:Corporatescrewup
+	date: 2007-05-29
+page:awalkingdoorway
+	desc:Awalkingdoorway
+	date: 2007-05-28
+page:didntlikewhatshefound
+	desc:Didntlikewhatshefound
+	date: 2007-05-25
+page:nevercontrol
+	desc:Nevercontrol
+	date: 2007-05-24
+page:neverknowinglylie
+	desc:Neverknowinglylie
+	date: 2007-05-23
+page:dealingwith
+	desc:Dealingwith
+	date: 2007-05-22
+page:mostlikely
+	desc:Mostlikely
+	date: 2007-05-21
+page:compelledme
+	desc:Compelledme
+	date: 2007-05-18
+page:imstillinhere
+	desc:Imstillinhere
+	date: 2007-05-17
+page:understand-2
+	desc:Understand
+	date: 2007-05-16
+page:educateme
+	desc:Educateme
+	date: 2007-05-15
+page:tellyouwhat
+	desc:Tellyouwhat
+	date: 2007-05-14
+page:youcantellme
+	desc:Youcantellme
+	date: 2007-05-11
+page:whatifwe
+	desc:Whatifwe
+	date: 2007-05-10
+page:speakingmetaphoric
+	desc:Speakingmetaphoric
+	date: 2007-05-09
+page:theirownagendas
+	desc:Theirownagendas
+	date: 2007-05-08
+page:byyourself
+	desc:Byyourself
+	date: 2007-05-07
+page:dontruinmycrap
+	desc:Dontruinmycrap
+	date: 2007-05-04
+page:nobiggerthanconfet
+	desc:Nobiggerthanconfet
+	date: 2007-05-03
+page:understand
+	desc:Understand
+	date: 2007-05-02
+page:eggsinstead
+	desc:Eggsinstead
+	date: 2007-05-01
+page:drooledalloverme
+	desc:Drooledalloverme
+	date: 2007-04-30
+page:shewasoccupied
+	desc:Shewasoccupied
+	date: 2007-04-27
+page:withalittlegrace
+	desc:Withalittlegrace
+	date: 2007-04-26
+page:someoneiscoming
+	desc:Someoneiscoming
+	date: 2007-04-25
+page:justhavetotrustme
+	desc:Justhavetotrustme
+	date: 2007-04-24
+page:andayachttoo
+	desc:Andayachttoo
+	date: 2007-04-23
+page:stealingmyprey
+	desc:Stealingmyprey
+	date: 2007-04-20
+page:likeyourqueen
+	desc:Likeyourqueen
+	date: 2007-04-19
+page:questionsanyone
+	desc:Questionsanyone
+	date: 2007-04-18
+page:dontyouwonder
+	desc:Dontyouwonder
+	date: 2007-04-17
+page:youlookravishing
+	desc:Youlookravishing
+	date: 2007-04-16
+page:fromalackofsleep
+	desc:Fromalackofsleep
+	date: 2007-04-13
+page:rightasrain
+	desc:Rightasrain
+	date: 2007-04-12
+page:endofdiscussion
+	desc:Endofdiscussion
+	date: 2007-04-11
+page:jogmymemory
+	desc:Jogmymemory
+	date: 2007-04-10
+page:whatsmyproblem
+	desc:Whatsmyproblem
+	date: 2007-04-09
+page:whatswrongwithme
+	desc:Whatswrongwithme
+	date: 2007-04-06
+page:howpeoplegetburned
+	desc:Howpeoplegetburned
+	date: 2007-04-05
+page:agutfeeling
+	desc:Agutfeeling
+	date: 2007-04-04
+page:iknewitimnotcrazy
+	desc:Iknewitimnotcrazy
+	date: 2007-04-03
+page:micaslabs
+	desc:Micaslabs
+	date: 2007-04-02
+page:hyperventilating
+	desc:Hyperventilating
+	date: 2007-03-30
+page:thatwaseasy
+	desc:Thatwaseasy
+	date: 2007-03-29
+page:bothithink
+	desc:Bothithink
+	date: 2007-03-28
+page:anotherbeer
+	desc:Anotherbeer
+	date: 2007-03-27
+page:thatswhatyoudo
+	desc:Thatswhatyoudo
+	date: 2007-03-26
+page:drasticmeasures
+	desc:Drasticmeasures
+	date: 2007-03-23
+page:littlestreeturchin
+	desc:Littlestreeturchin
+	date: 2007-03-22
+page:cutsiepoocrap
+	desc:Cutsiepoocrap
+	date: 2007-03-21
+page:foggiestnotion
+	desc:Foggiestnotion
+	date: 2007-03-20
+page:noisy
+	desc:Noisy
+	date: 2007-03-19
+page:happystpattys
+	desc:Happystpattys
+	date: 2007-03-17
+page:hernameisjill
+	desc:Hernameisjill
+	date: 2007-03-16
+page:thatkindofmagic
+	desc:Thatkindofmagic
+	date: 2007-03-15
+page:thatlingeriemodel
+	desc:Thatlingeriemodel
+	date: 2007-03-14
+page:searchfortheelfhouse
+	desc:Searchfortheelfhouse
+	date: 2007-03-13
+page:pizzagirl
+	desc:Pizzagirl
+	date: 2007-03-12
+page:fromunderournoses
+	desc:Fromunderournoses
+	date: 2007-03-09
+page:tooclose
+	desc:Tooclose
+	date: 2007-03-08
+page:smoresandcider
+	desc:Smoresandcider
+	date: 2007-03-07
+page:snowemergency
+	desc:Snowemergency
+	date: 2007-03-06
+page:timetogetup
+	desc:Timetogetup
+	date: 2007-03-05
+page:findingsunshine
+	desc:Findingsunshine
+	date: 2007-03-02
+page:bjarnionice
+	desc:Bjarnionice
+	date: 2007-03-01
+page:sweptaway
+	desc:Sweptaway
+	date: 2007-02-28
+page:asmallouting
+	desc:Asmallouting
+	date: 2007-02-27
+page:stillindoors
+	desc:Stillindoors
+	date: 2007-02-26
+page:clearhermind
+	desc:Clearhermind
+	date: 2007-02-23
+page:waitingroom
+	desc:Waitingroom
+	date: 2007-02-22
+page:louddistractions
+	desc:Louddistractions
+	date: 2007-02-21
+page:notimeforgames
+	desc:Notimeforgames
+	date: 2007-02-20
+page:coolness
+	desc:Coolness
+	date: 2007-02-19
+page:snowstorms
+	desc:Snowstorms
+	date: 2007-02-16
+page:videofireplace
+	desc:Videofireplace
+	date: 2007-02-15
+page:bringmeabeer
+	desc:Bringmeabeer
+	date: 2007-02-14
+page:whosaidwhat
+	desc:Whosaidwhat
+	date: 2007-02-13
+page:homeagain
+	desc:Homeagain
+	date: 2007-02-12
+page:monsteriwas
+	desc:Monsteriwas
+	date: 2007-02-09
+page:sureidid
+	desc:Sureidid
+	date: 2007-02-08
+page:notthedestination
+	desc:Notthedestination
+	date: 2007-02-07
+page:closetoher
+	desc:Closetoher
+	date: 2007-02-06
+page:finalanswer
+	desc:Finalanswer
+	date: 2007-02-05
+page:areyouafraid
+	desc:Areyouafraid
+	date: 2007-02-02
+page:girlwiththekeys
+	desc:Girlwiththekeys
+	date: 2007-02-01
+page:reallytrustme
+	desc:Reallytrustme
+	date: 2007-01-31
+page:findinganobject
+	desc:Findinganobject
+	date: 2007-01-30
+page:simpletool
+	desc:Simpletool
+	date: 2007-01-29
+page:anachronism
+	desc:Anachronism
+	date: 2007-01-26
+page:importance
+	desc:Importance
+	date: 2007-01-25
+page:decipherthebook
+	desc:Decipherthebook
+	date: 2007-01-24
+page:becauseofyou
+	desc:Becauseofyou
+	date: 2007-01-23
+page:nordicblend
+	desc:Nordicblend
+	date: 2007-01-22
+page:nopretending
+	desc:Nopretending
+	date: 2007-01-19
+page:tohellwithem
+	desc:Tohellwithem
+	date: 2007-01-18
+page:notinkansas
+	desc:Notinkansas
+	date: 2007-01-17
+page:gettogether
+	desc:Gettogether
+	date: 2007-01-16
+page:imcalling
+	desc:Imcalling
+	date: 2007-01-15
+page:shesadumbass
+	desc:Shesadumbass
+	date: 2007-01-12
+page:missedyoutoo
+	desc:Missedyoutoo
+	date: 2007-01-11
+page:ohthat
+	desc:Ohthat
+	date: 2007-01-10
+page:curiousquestions
+	desc:Curiousquestions
+	date: 2007-01-09
+page:missedme
+	desc:Missedme
+	date: 2007-01-08
+page:comfortnotspeed
+	desc:Comfortnotspeed
+	date: 2007-01-05
+page:noquestions
+	desc:Noquestions
+	date: 2007-01-04
+page:aclock
+	desc:Aclock
+	date: 2007-01-03
+page:veryimportant
+	desc:Veryimportant
+	date: 2007-01-02
+page:crackwalnuts
+	desc:Crackwalnuts
+	date: 2007-01-01
+page:gimmeahug
+	desc:Gimmeahug
+	date: 2006-12-29
+page:tipofhertongue
+	desc:Tipofhertongue
+	date: 2006-12-28
+page:notcitysquirrels
+	desc:Notcitysquirrels
+	date: 2006-12-27
+page:prettysnow
+	desc:Prettysnow
+	date: 2006-12-26
+page:xmassledding
+	desc:Xmassledding
+	date: 2006-12-25
+page:betterprotection
+	desc:Betterprotection
+	date: 2006-12-22
+page:notimportant
+	desc:Notimportant
+	date: 2006-12-21
+page:seasonedprofessionals
+	desc:Seasonedprofessionals
+	date: 2006-12-20
+page:madskillz
+	desc:Madskillz
+	date: 2006-12-19
+page:dancestudio
+	desc:Dancestudio
+	date: 2006-12-18
+page:hidingfromwho
+	desc:Hidingfromwho
+	date: 2006-12-15
+page:protectionprogram
+	desc:Protectionprogram
+	date: 2006-12-14
+page:mesaverde
+	desc:Mesaverde
+	date: 2006-12-13
+page:stilltrustyou
+	desc:Stilltrustyou
+	date: 2006-12-12
+page:atyourbeckncall
+	desc:Atyourbeckncall
+	date: 2006-12-11
+page:supposedtobeyou
+	desc:Supposedtobeyou
+	date: 2006-12-08
+page:copanattitude
+	desc:Copanattitude
+	date: 2006-12-07
+page:assledtheway
+	desc:Assledtheway
+	date: 2006-12-06
+page:missingsomething
+	desc:Missingsomething
+	date: 2006-12-05
+page:itwasmyfault
+	desc:Itwasmyfault
+	date: 2006-12-04
+page:weneedtotalk
+	desc:Weneedtotalk
+	date: 2006-12-01
+page:affraidofdisappointing
+	desc:Affraidofdisappointing
+	date: 2006-11-30
+page:anoldbook
+	desc:Anoldbook
+	date: 2006-11-29
+page:youhavemyattention
+	desc:Youhavemyattention
+	date: 2006-11-28
+page:youneverdo
+	desc:Youneverdo
+	date: 2006-11-27
+page:dontactangry
+	desc:Dontactangry
+	date: 2006-11-24
+page:nothereplease
+	desc:Nothereplease
+	date: 2006-11-23
+page:evildoinggood
+	desc:Evildoinggood
+	date: 2006-11-22
+page:stillbeeveil
+	desc:Stillbeeveil
+	date: 2006-11-21
+page:protectorstobefeared
+	desc:Protectorstobefeared
+	date: 2006-11-20
+page:itsabooksilly
+	desc:Itsabooksilly
+	date: 2006-11-17
+page:theanswerissunshine
+	desc:Theanswerissunshine
+	date: 2006-11-16
+page:upforariddle
+	desc:Upforariddle
+	date: 2006-11-15
+page:turntodust
+	desc:Turntodust
+	date: 2006-11-14
+page:relaxkid
+	desc:Relaxkid
+	date: 2006-11-13
+page:askyouariddle
+	desc:Askyouariddle
+	date: 2006-11-10
+page:hellophix
+	desc:Hellophix
+	date: 2006-11-09
+page:thebibliothiki
+	desc:Thebibliothiki
+	date: 2006-11-08
+page:cuneiformbooks
+	desc:Cuneiformbooks
+	date: 2006-11-07
+page:makingcoffee
+	desc:Makingcoffee
+	date: 2006-11-06
+page:nothing
+	desc:Nothing
+	date: 2006-11-03
+page:bobforapples
+	desc:Bobforapples
+	date: 2006-11-02
+page:treasurechest
+	desc:Treasurechest
+	date: 2006-11-01
+page:avastyescurvyscoundrel
+	desc:Avastyescurvyscoundrel
+	date: 2006-10-31
+page:holybarnacles
+	desc:Holybarnacles
+	date: 2006-10-30
+page:lockednloaded
+	desc:Lockednloaded
+	date: 2006-10-27
+page:avoidingattention
+	desc:Avoidingattention
+	date: 2006-10-26
+page:runnaked
+	desc:Runnaked
+	date: 2006-10-25
+page:newscrew
+	desc:Newscrew
+	date: 2006-10-24
+page:whatwasshethinking
+	desc:Whatwasshethinking
+	date: 2006-10-23
+page:snowingout
+	desc:Snowingout
+	date: 2006-10-20
+page:noneedtotryhard
+	desc:Noneedtotryhard
+	date: 2006-10-19
+page:whatluck
+	desc:Whatluck
+	date: 2006-10-18
+page:watchtheweather
+	desc:Watchtheweather
+	date: 2006-10-17
+page:expressingfeelings
+	desc:Expressingfeelings
+	date: 2006-10-16
+page:fridaythethirteenth
+	desc:Fridaythethirteenth
+	date: 2006-10-13
+page:everyoneisstaring
+	desc:Everyoneisstaring
+	date: 2006-10-12
+page:bewareofticks
+	desc:Bewareofticks
+	date: 2006-10-11
+page:limeinquestion
+	desc:Limeinquestion
+	date: 2006-10-10
+page:damnrazor
+	desc:Damnrazor
+	date: 2006-10-09
+page:helpthebimbo
+	desc:Helpthebimbo
+	date: 2006-10-06
+page:overdoingit
+	desc:Overdoingit
+	date: 2006-10-05
+page:cinnamonrolls
+	desc:Cinnamonrolls
+	date: 2006-10-04
+page:reallysnuggle
+	desc:Reallysnuggle
+	date: 2006-10-03
+page:fireplacesandcandles
+	desc:Fireplacesandcandles
+	date: 2006-10-02
+page:wapsiguestshortpacked
+	desc:Wapsiguestshortpacked
+	date: 2006-09-11
+page:statebarassociatio
+	desc:State Bar Association
+	date: 2006-09-08
+page:quitplayingdead
+	desc:Quitplayingdead
+	date: 2006-09-07
+page:reallycare
+	desc:Reallycare
+	date: 2006-09-06
+page:thankforasking
+	desc:Thankforasking
+	date: 2006-09-05
+page:roadwarriors
+	desc:Roadwarriors
+	date: 2006-09-04
+page:twoleftfeet
+	desc:Twoleftfeet
+	date: 2006-09-01
+page:areyouokay
+	desc:Areyouokay
+	date: 2006-08-31
+page:indestructiblegirl
+	desc:Indestructiblegirl
+	date: 2006-08-30
+page:downtothebikepath
+	desc:Downtothebikepath
+	date: 2006-08-29
+page:shoeswithwheels
+	desc:Shoeswithwheels
+	date: 2006-08-28
+page:notthatselfish
+	desc:Notthatselfish
+	date: 2006-08-25
+page:someonenoticed
+	desc:Someonenoticed
+	date: 2006-08-24
+page:whatwasthat
+	desc:Whatwasthat
+	date: 2006-08-23
+page:bringbackanything
+	desc:Bringbackanything
+	date: 2006-08-22
+page:havelunchyet
+	desc:Havelunchyet
+	date: 2006-08-21
+page:lookokay
+	desc:Lookokay
+	date: 2006-08-18
+page:monicasshirt
+	desc:Monicasshirt
+	date: 2006-08-17
+page:cutenstretchy
+	desc:Cutenstretchy
+	date: 2006-08-16
+page:justweird
+	desc:Justweird
+	date: 2006-08-15
+page:goodheavens
+	desc:Goodheavens
+	date: 2006-08-14
+page:moreimportant
+	desc:Moreimportant
+	date: 2006-08-11
+page:funnythingaboutlif
+	desc:Funnythingaboutlif
+	date: 2006-08-10
+page:confusepeople
+	desc:Confusepeople
+	date: 2006-08-09
+page:dontrememberit
+	desc:Dontrememberit
+	date: 2006-08-08
+page:talkinriddles
+	desc:Talkinriddles
+	date: 2006-08-07
+page:notsoscary
+	desc:Notsoscary
+	date: 2006-08-04
+page:enlightenedstupid
+	desc:Enlightenedstupid
+	date: 2006-08-03
+page:scratchadiamond
+	desc:Scratchadiamond
+	date: 2006-08-02
+page:defusethings
+	desc:Defusethings
+	date: 2006-08-01
+page:bitofasnit
+	desc:Bitofasnit
+	date: 2006-07-31
+page:verydangerous
+	desc:Verydangerous
+	date: 2006-07-28
+page:notacrush
+	desc:Notacrush
+	date: 2006-07-27
+page:eatthatthought
+	desc:Eatthatthought
+	date: 2006-07-26
+page:havingfun
+	desc:Havingfun
+	date: 2006-07-25
+page:whatdidyoudo
+	desc:Whatdidyoudo
+	date: 2006-07-24
+page:staringyouintheface
+	desc:Staringyouintheface
+	date: 2006-07-21
+page:morevariables
+	desc:Morevariables
+	date: 2006-07-20
+page:wrongguys
+	desc:Wrongguys
+	date: 2006-07-19
+page:smartasscomedian
+	desc:Smartasscomedian
+	date: 2006-07-18
+page:strongestthing
+	desc:Strongestthing
+	date: 2006-07-17
+page:thegoodstuff
+	desc:Thegoodstuff
+	date: 2006-07-14
+page:surpriseyourself
+	desc:Surpriseyourself
+	date: 2006-07-13
+page:tocryabout
+	desc:Tocryabout
+	date: 2006-07-12
+page:whatyousaid
+	desc:Whatyousaid
+	date: 2006-07-11
+page:whosthemonster
+	desc:Whosthemonster
+	date: 2006-07-10
+page:careandfeeding
+	desc:Careandfeeding
+	date: 2006-07-07
+page:whathappened
+	desc:Whathappened
+	date: 2006-07-06
+page:hurtfeelings
+	desc:Hurtfeelings
+	date: 2006-07-05
+page:felthelpless
+	desc:Felthelpless
+	date: 2006-07-04
+page:nicejustbecause
+	desc:Nicejustbecause
+	date: 2006-07-03
+page:wasaguardian
+	desc:Wasaguardian
+	date: 2006-06-30
+page:greattomeetyou
+	desc:Greattomeetyou
+	date: 2006-06-29
+page:notthegirl
+	desc:Notthegirl
+	date: 2006-06-28
+page:berightback
+	desc:Berightback
+	date: 2006-06-27
+page:notquitesure
+	desc:Notquitesure
+	date: 2006-06-26
+page:nevercomestothat
+	desc:Nevercomestothat
+	date: 2006-06-23
+page:takethatdrink
+	desc:Takethatdrink
+	date: 2006-06-22
+page:angrywithyou
+	desc:Angrywithyou
+	date: 2006-06-21
+page:whatarewetalkingabout
+	desc:Whatarewetalkingabout
+	date: 2006-06-20
+page:waterandamartini
+	desc:Waterandamartini
+	date: 2006-06-19
+page:fixingthingsthatarebroken
+	desc:Fixingthingsthatarebroken
+	date: 2006-06-16
+page:couldhavehurt
+	desc:Couldhavehurt
+	date: 2006-06-15
+page:thattickles
+	desc:Thattickles
+	date: 2006-06-14
+page:peopleyoucareabout
+	desc:Peopleyoucareabout
+	date: 2006-06-13
+page:societysrules
+	desc:Societysrules
+	date: 2006-06-12
+page:needsomehelp
+	desc:Needsomehelp
+	date: 2006-06-09
+page:needtotalk
+	desc:Needtotalk
+	date: 2006-06-08
+page:dontwanttoremember
+	desc:Dontwanttoremember
+	date: 2006-06-07
+page:friggeninsect
+	desc:Friggeninsect
+	date: 2006-06-06
+page:notagoodlistener
+	desc:Notagoodlistener
+	date: 2006-06-05
+page:mitchtriplerock
+	desc:Mitchtriplerock
+	date: 2006-06-02
+page:zachnoleprechauns
+	desc:Zachnoleprechauns
+	date: 2006-06-01
+page:meredithracklikeyo
+	desc:Meredithracklikeyo
+	date: 2006-05-31
+page:lizgreenfieldteztecal
+	desc:Lizgreenfieldteztecal
+	date: 2006-05-30
+page:daniellebudandbrandi
+	desc:Daniellebudandbrandi
+	date: 2006-05-29
+page:whatisyourproblem
+	desc:Whatisyourproblem
+	date: 2006-05-26
+page:caughtyoualone
+	desc:Caughtyoualone
+	date: 2006-05-25
+page:mycaralarm
+	desc:Mycaralarm
+	date: 2006-05-24
+page:anappointment
+	desc:Anappointment
+	date: 2006-05-23
+page:girlcrush
+	desc:Girlcrush
+	date: 2006-05-22
+page:understandeachothe
+	desc:Understandeachothe
+	date: 2006-05-19
+page:thesuncameout
+	desc:Thesuncameout
+	date: 2006-05-18
+page:seemedlost
+	desc:Seemedlost
+	date: 2006-05-17
+page:shewhowhat
+	desc:Shewhowhat
+	date: 2006-05-16
+page:rememberyourealone
+	desc:Rememberyourealone
+	date: 2006-05-15
+page:magicblankets
+	desc:Magicblankets
+	date: 2006-05-12
+page:lookorbs
+	desc:Lookorbs
+	date: 2006-05-11
+page:lightsout
+	desc:Lightsout
+	date: 2006-05-10
+page:bringthepop
+	desc:Bringthepop
+	date: 2006-05-09
+page:learningtobegirls
+	desc:Learningtobegirls
+	date: 2006-05-08
+page:isnapped
+	desc:Isnapped
+	date: 2006-05-05
+page:notagoodexample
+	desc:Notagoodexample
+	date: 2006-05-04
+page:imaginethemhappening
+	desc:Imaginethemhappening
+	date: 2006-05-03
+page:justgrowingolder
+	desc:Justgrowingolder
+	date: 2006-05-02
+page:kindoflikeyou
+	desc:Kindoflikeyou
+	date: 2006-05-01
+page:runningsmoothly
+	desc:Runningsmoothly
+	date: 2006-04-28
+page:atanypoint
+	desc:Atanypoint
+	date: 2006-04-27
+page:totallybeyondme
+	desc:Totallybeyondme
+	date: 2006-04-26
+page:talkingaboutwork
+	desc:Talkingaboutwork
+	date: 2006-04-25
+page:gotsomethingforyou
+	desc:Gotsomethingforyou
+	date: 2006-04-24
+page:silvereyes
+	desc:Silvereyes
+	date: 2006-04-21
+page:icewater
+	desc:Icewater
+	date: 2006-04-20
+page:overaglassofwine
+	desc:Overaglassofwine
+	date: 2006-04-19
+page:thinkasamoderate
+	desc:Thinkasamoderate
+	date: 2006-04-18
+page:giveitatry
+	desc:Giveitatry
+	date: 2006-04-17
+page:wabbitseason
+	desc:Wabbitseason
+	date: 2006-04-16
+page:tasteslikechicken
+	desc:Tasteslikechicken
+	date: 2006-04-14
+page:climbingthewalls
+	desc:Climbingthewalls
+	date: 2006-04-13
+page:inafishbowl
+	desc:Inafishbowl
+	date: 2006-04-12
+page:noanalogyunnoticed
+	desc:Noanalogyunnoticed
+	date: 2006-04-11
+page:bettersociallifethanme
+	desc:Bettersociallifethanme
+	date: 2006-04-10
+page:adelicatebalance
+	desc:Adelicatebalance
+	date: 2006-04-07
+page:channelingbubbles
+	desc:Channelingbubbles
+	date: 2006-04-06
+page:somekindofgorilla
+	desc:Somekindofgorilla
+	date: 2006-04-05
+page:mostlygirly
+	desc:Mostlygirly
+	date: 2006-04-04
+page:getmethroughtheday
+	desc:Getmethroughtheday
+	date: 2006-04-03
+page:demonshaveagendas
+	desc:Demonshaveagendas
+	date: 2006-03-31
+page:putthemtowork
+	desc:Putthemtowork
+	date: 2006-03-30
+page:thinkwebothare
+	desc:Thinkwebothare
+	date: 2006-03-29
+page:girderandrebarbra
+	desc:Girderandrebarbra
+	date: 2006-03-28
+page:thatwouldbebad
+	desc:Thatwouldbebad
+	date: 2006-03-27
+page:wellthinkofsomething
+	desc:Wellthinkofsomething
+	date: 2006-03-24
+page:notnightmares
+	desc:Notnightmares
+	date: 2006-03-23
+page:donttreatmelikeavictim
+	desc:Donttreatmelikeavictim
+	date: 2006-03-22
+page:backintothestoneage
+	desc:Backintothestoneage
+	date: 2006-03-21
+page:angryforthewrongre
+	desc:Angryforthewrongre
+	date: 2006-03-20
+page:yourenotamonster
+	desc:Yourenotamonster
+	date: 2006-03-17
+page:wrestlewiththesun
+	desc:Wrestlewiththesun
+	date: 2006-03-16
+page:notevilneverwere
+	desc:Notevilneverwere
+	date: 2006-03-15
+page:tepozmeettochtli
+	desc:Tepozmeettochtli
+	date: 2006-03-14
+page:enjoythesunshine
+	desc:Enjoythesunshine
+	date: 2006-03-13
+page:dontdoastheysay
+	desc:Dontdoastheysay
+	date: 2006-03-10
+page:dontberude
+	desc:Dontberude
+	date: 2006-03-09
+page:youhavenoidea
+	desc:Youhavenoidea
+	date: 2006-03-08
+page:howoldareyouguys
+	desc:Howoldareyouguys
+	date: 2006-03-07
+page:dishitoutbutcantta
+	desc:Dishitoutbutcantta
+	date: 2006-03-06
+page:budstillasleep
+	desc:Budstillasleep
+	date: 2006-03-03
+page:mythbustersison
+	desc:Mythbustersison
+	date: 2006-03-02
+page:singlehandedlywipe
+	desc:Singlehandedlywipe
+	date: 2006-03-01
+page:loveyouallbetter
+	desc:Loveyouallbetter
+	date: 2006-02-28
+page:nightofcryingandco
+	desc:Nightofcryingandco
+	date: 2006-02-27
+page:anormalpubgirl
+	desc:Anormalpubgirl
+	date: 2006-02-24
+page:charmalreadyestabl
+	desc:Charmalreadyestabl
+	date: 2006-02-23
+page:kicksasswithasmile
+	desc:Kicksasswithasmile
+	date: 2006-02-22
+page:alethatputshairony
+	desc:Alethatputshairony
+	date: 2006-02-21
+page:isthisheaven
+	desc:Isthisheaven
+	date: 2006-02-20
+page:georgettes
+	desc:Georgettes
+	date: 2006-02-17
+page:perfectpostergirl
+	desc:Perfectpostergirl
+	date: 2006-02-16
+page:takingyououttoeat
+	desc:Takingyououttoeat
+	date: 2006-02-15
+page:thatdoessoundexcit
+	desc:Thatdoessoundexcit
+	date: 2006-02-14
+page:normallyquitarticulate
+	desc:Normallyquitarticulate
+	date: 2006-02-13
+page:whatarewewaitingfo
+	desc:Whatarewewaitingfo
+	date: 2006-02-10
+page:illberightthere
+	desc:Illberightthere
+	date: 2006-02-09
+page:ineedafavorhun
+	desc:Ineedafavorhun
+	date: 2006-02-08
+page:shesjustafriend
+	desc:Shesjustafriend
+	date: 2006-02-07
+page:areyougettingbackf
+	desc:Areyougettingbackf
+	date: 2006-02-06
+page:canwebebunniestoo
+	desc:Canwebebunniestoo
+	date: 2006-02-03
+page:saveyoufromyoursel
+	desc:Saveyoufromyoursel
+	date: 2006-02-02
+page:notmorethanaclerk
+	desc:Notmorethanaclerk
+	date: 2006-02-01
+page:workswithinthelaws
+	desc:Workswithinthelaws
+	date: 2006-01-31
+page:neitheroneofushast
+	desc:Neitheroneofushast
+	date: 2006-01-30
+page:areyoulost-2
+	desc:Areyoulost
+	date: 2006-01-27
+page:fictionalmaledeity
+	desc:Fictionalmaledeity
+	date: 2006-01-26
+page:wellletyoutwoalone
+	desc:Wellletyoutwoalone
+	date: 2006-01-25
+page:loudpurring
+	desc:Loudpurring
+	date: 2006-01-24
+page:whattimeisit
+	desc:Whattimeisit
+	date: 2006-01-23
+page:littleescape
+	desc:Littleescape
+	date: 2006-01-20
+page:keepthemdancing
+	desc:Keepthemdancing
+	date: 2006-01-19
+page:didntletyoudownbef
+	desc:Didntletyoudownbef
+	date: 2006-01-18
+page:youbothneedus
+	desc:Youbothneedus
+	date: 2006-01-17
+page:foldyoulikeanapkin
+	desc:Foldyoulikeanapkin
+	date: 2006-01-16
+page:areyoulost
+	desc:Areyoulost
+	date: 2006-01-13
+page:freetojoinus
+	desc:Freetojoinus
+	date: 2006-01-12
+page:nickedthetipofthat
+	desc:Nickedthetipofthat
+	date: 2006-01-11
+page:whatstheretoforget
+	desc:Whatstheretoforget
+	date: 2006-01-10
+page:whosthatwithyou
+	desc:Whosthatwithyou
+	date: 2006-01-09
+page:doyoustilltrustus
+	desc:Doyoustilltrustus
+	date: 2006-01-06
+page:theperfectspot
+	desc:Theperfectspot
+	date: 2006-01-05
+page:needanightout
+	desc:Needanightout
+	date: 2006-01-04
+page:whatssospecial
+	desc:Whatssospecial
+	date: 2006-01-03
+page:thatsyourrequest
+	desc:Thatsyourrequest
+	date: 2006-01-02
+page:hopingyouwouldhave
+	desc:Hopingyouwouldhave
+	date: 2005-12-30
+page:catalystforavision
+	desc:Catalystforavision
+	date: 2005-12-29
+page:didyouhearme
+	desc:Didyouhearme
+	date: 2005-12-28
+page:thatwasntthegoal
+	desc:Thatwasntthegoal
+	date: 2005-12-27
+page:listenrealclose
+	desc:Listenrealclose
+	date: 2005-12-26
+page:visionquestatthirt
+	desc:Visionquestatthirt
+	date: 2005-12-23
+page:connectthedots
+	desc:Connectthedots
+	date: 2005-12-22
+page:feelingonedge
+	desc:Feelingonedge
+	date: 2005-12-21
+page:theyhadachoice
+	desc:Theyhadachoice
+	date: 2005-12-20
+page:wiserandsmarter
+	desc:Wiserandsmarter
+	date: 2005-12-19
+page:doesthatfrightenyou
+	desc:Doesthatfrightenyou
+	date: 2005-12-16
+page:giftwrappedleviathans
+	desc:Giftwrappedleviathans
+	date: 2005-12-15
+page:yourheartstopped
+	desc:Yourheartstopped
+	date: 2005-12-14
+page:justtellmewhy
+	desc:Justtellmewhy
+	date: 2005-12-13
+page:dontwanttodeal
+	desc:Dontwanttodeal
+	date: 2005-12-12
+page:whatdestroyedthem
+	desc:Whatdestroyedthem
+	date: 2005-12-09
+page:lionfacingeast
+	desc:Lionfacingeast
+	date: 2005-12-08
+page:youretheirkeepernow
+	desc:Youretheirkeepernow
+	date: 2005-12-07
+page:everybitasdangerous
+	desc:Everybitasdangerous
+	date: 2005-12-06
+page:thosepoorgirls
+	desc:Thosepoorgirls
+	date: 2005-12-05
+page:justanswerthequestion
+	desc:Justanswerthequestion
+	date: 2005-12-02
+page:itsimportant
+	desc:Itsimportant
+	date: 2005-12-01
+page:illcallyoulater
+	desc:Illcallyoulater
+	date: 2005-11-30
+page:itscomplicatedlikethat
+	desc:Itscomplicatedlikethat
+	date: 2005-11-29
+page:somethingterriblehappened
+	desc:Somethingterriblehappened
+	date: 2005-11-28
+page:enjoytheconversation
+	desc:Enjoytheconversation
+	date: 2005-11-25
+page:grabtheheadboard
+	desc:Grabtheheadboard
+	date: 2005-11-24
+page:didyousaysomething
+	desc:Didyousaysomething
+	date: 2005-11-23
+page:somethingbetter
+	desc:Somethingbetter
+	date: 2005-11-22
+page:gettingclaustrophobic
+	desc:Gettingclaustrophobic
+	date: 2005-11-21
+page:backtoourregularlyscheduledprogram
+	desc:Backtoourregularlyscheduledprogram
+	date: 2005-11-18
+page:pleasejustletmego
+	desc:Pleasejustletmego
+	date: 2005-11-17
+page:whatdoyouknow
+	desc:Whatdoyouknow
+	date: 2005-11-16
+page:shegaveupwedidnt
+	desc:Shegaveupwedidnt
+	date: 2005-11-15
+page:shesquitegoodatthat
+	desc:Shesquitegoodatthat
+	date: 2005-11-14
+page:shewasoneofthem
+	desc:Shewasoneofthem
+	date: 2005-11-11
+page:thepit
+	desc:Thepit
+	date: 2005-11-10
+page:achillesheel
+	desc:Achillesheel
+	date: 2005-11-09
+page:finaldestination
+	desc:Finaldestination
+	date: 2005-11-08
+page:takenaway
+	desc:Takenaway
+	date: 2005-11-07
+page:pleasenotyou
+	desc:Pleasenotyou
+	date: 2005-11-04
+page:whatareyoudoing
+	desc:Whatareyoudoing
+	date: 2005-11-03
+page:illgrabtwo
+	desc:Illgrabtwo
+	date: 2005-11-02
+page:meetyouinthekitchen
+	desc:Meetyouinthekitchen
+	date: 2005-11-01
+page:hasshebeendrinking
+	desc:Hasshebeendrinking
+	date: 2005-10-31
+page:whoareyou
+	desc:Whoareyou
+	date: 2005-10-28
+page:quitshoving
+	desc:Quitshoving
+	date: 2005-10-27
+page:hideinhere
+	desc:Hideinhere
+	date: 2005-10-26
+page:ohdoublecrud
+	desc:Ohdoublecrud
+	date: 2005-10-25
+page:needtotrythesebananas
+	desc:Needtotrythesebananas
+	date: 2005-10-24
+page:heylookbananas
+	desc:Heylookbananas
+	date: 2005-10-21
+page:wasthatyou
+	desc:Wasthatyou
+	date: 2005-10-20
+page:howshemadeit
+	desc:Howshemadeit
+	date: 2005-10-19
+page:inareallygoomood
+	desc:Inareallygoomood
+	date: 2005-10-18
+page:mustbeforhalloween
+	desc:Mustbeforhalloween
+	date: 2005-10-17
+page:winecellar
+	desc:Winecellar
+	date: 2005-10-14
+page:cookingmesupper
+	desc:Cookingmesupper
+	date: 2005-10-13
+page:onmydesklastweek
+	desc:Onmydesklastweek
+	date: 2005-10-12
+page:startingtogetcold
+	desc:Startingtogetcold
+	date: 2005-10-11
+page:wishiknew
+	desc:Wishiknew
+	date: 2005-10-10
+page:threepartsofone
+	desc:Threepartsofone
+	date: 2005-10-07
+page:onadifferentpage
+	desc:Onadifferentpage
+	date: 2005-10-06
+page:pentupaggression
+	desc:Pentupaggression
+	date: 2005-10-05
+page:walkthatdog
+	desc:Walkthatdog
+	date: 2005-10-04
+page:spillitslappy
+	desc:Spillitslappy
+	date: 2005-10-03
+page:bestthingtoeverhappen
+	desc:Bestthingtoeverhappen
+	date: 2005-09-30
+page:adorabledrunk
+	desc:Adorabledrunk
+	date: 2005-09-29
+page:seeyamonday
+	desc:Seeyamonday
+	date: 2005-09-28
+page:lightenup
+	desc:Lightenup
+	date: 2005-09-27
+page:giggleburp
+	desc:Giggleburp
+	date: 2005-09-26
+page:whatifameteorite
+	desc:Whatifameteorite
+	date: 2005-09-23
+page:anyhobbies
+	desc:Anyhobbies
+	date: 2005-09-22
+page:speaksvolumes
+	desc:Speaksvolumes
+	date: 2005-09-21
+page:delayedreaction
+	desc:Delayedreaction
+	date: 2005-09-20
+page:veryinsightful
+	desc:Veryinsightful
+	date: 2005-09-19
+page:toocloseminded
+	desc:Toocloseminded
+	date: 2005-09-16
+page:somewheresafer
+	desc:Somewheresafer
+	date: 2005-09-15
+page:beeinyourbonnet
+	desc:Beeinyourbonnet
+	date: 2005-09-14
+page:thesunstonewas
+	desc:Thesunstonewas
+	date: 2005-09-13
+page:hocuspocuscrap
+	desc:Hocuspocuscrap
+	date: 2005-09-12
+page:nothingofhistory
+	desc:Nothingofhistory
+	date: 2005-09-09
+page:nowyoullbelieveme
+	desc:Nowyoullbelieveme
+	date: 2005-09-08
+page:betteratthecoop
+	desc:Betteratthecoop
+	date: 2005-09-07
+page:youllberightback
+	desc:Youllberightback
+	date: 2005-09-06
+page:yeahwhatever
+	desc:Yeahwhatever
+	date: 2005-09-05
+page:notmeanttobefound
+	desc:Notmeanttobefound
+	date: 2005-09-02
+page:hesagoodlistener
+	desc:Hesagoodlistener
+	date: 2005-09-01
+page:toldmeiwasnice
+	desc:Toldmeiwasnice
+	date: 2005-08-31
+page:lockedsupplyroom
+	desc:Lockedsupplyroom
+	date: 2005-08-30
+page:listentoher
+	desc:Listentoher
+	date: 2005-08-29
+page:youmissedit
+	desc:Youmissedit
+	date: 2005-08-26
+page:quitbeingapoop
+	desc:Quitbeingapoop
+	date: 2005-08-25
+page:feelbetteralready
+	desc:Feelbetteralready
+	date: 2005-08-24
+page:knowinganddoing
+	desc:Knowinganddoing
+	date: 2005-08-23
+page:tellmeiwasnt
+	desc:Tellmeiwasnt
+	date: 2005-08-22
+page:doingmyjob
+	desc:Doingmyjob
+	date: 2005-08-19
+page:likepullingteeth
+	desc:Likepullingteeth
+	date: 2005-08-18
+page:wanttoknowyourlastname
+	desc:Wanttoknowyourlastname
+	date: 2005-08-17
+page:whatwasherebefore
+	desc:Whatwasherebefore
+	date: 2005-08-16
+page:dontknowyou
+	desc:Dontknowyou
+	date: 2005-08-15
+page:tradeproblems
+	desc:Tradeproblems
+	date: 2005-08-12
+page:pleeeeease
+	desc:Pleeeeease
+	date: 2005-08-11
+page:stillagawkykid
+	desc:Stillagawkykid
+	date: 2005-08-10
+page:definingwhoyouare
+	desc:Definingwhoyouare
+	date: 2005-08-09
+page:cantbreathe
+	desc:Cantbreathe
+	date: 2005-08-08
+page:skinnyassclub
+	desc:Skinnyassclub
+	date: 2005-08-05
+page:thesizeofyourhead
+	desc:Thesizeofyourhead
+	date: 2005-08-04
+page:daaaamnright
+	desc:Daaaamnright
+	date: 2005-08-03
+page:hungryminutesfromnow
+	desc:Hungryminutesfromnow
+	date: 2005-08-02
+page:wishilookednormal
+	desc:Wishilookednormal
+	date: 2005-08-01
+page:preconceivednotions
+	desc:Preconceivednotions
+	date: 2005-07-29
+page:justposes
+	desc:Justposes
+	date: 2005-07-28
+page:dorkcheesecake
+	desc:Dorkcheesecake
+	date: 2005-07-27
+page:talkedmeintothat
+	desc:Talkedmeintothat
+	date: 2005-07-26
+page:soundedgreat
+	desc:Soundedgreat
+	date: 2005-07-25
+page:justjacqui
+	desc:Justjacqui
+	date: 2005-07-22
+page:gotomyhead
+	desc:Gotomyhead
+	date: 2005-07-21
+page:gurgle
+	desc:Gurgle
+	date: 2005-07-20
+page:watermyself
+	desc:Watermyself
+	date: 2005-07-19
+page:beautifulday
+	desc:Beautifulday
+	date: 2005-07-18
+page:becauseyourescared
+	desc:Becauseyourescared
+	date: 2005-07-15
+page:workingthroughissues
+	desc:Workingthroughissues
+	date: 2005-07-14
+page:thatsunfair
+	desc:Thatsunfair
+	date: 2005-07-13
+page:mutualtrust
+	desc:Mutualtrust
+	date: 2005-07-12
+page:nocounseling
+	desc:Nocounseling
+	date: 2005-07-11
+page:whatconversation
+	desc:Whatconversation
+	date: 2005-07-08
+page:overeducated
+	desc:Overeducated
+	date: 2005-07-07
+page:callingataxi
+	desc:Callingataxi
+	date: 2005-07-06
+page:inthatcase
+	desc:Inthatcase
+	date: 2005-07-05
+page:quityourarguing
+	desc:Quityourarguing
+	date: 2005-07-04
+page:waitaminute
+	desc:Waitaminute
+	date: 2005-07-01
+page:goinghome
+	desc:Goinghome
+	date: 2005-06-30
+page:drunkokay
+	desc:Drunkokay
+	date: 2005-06-29
+page:canthelpit
+	desc:Canthelpit
+	date: 2005-06-28
+page:talktoher
+	desc:Talktoher
+	date: 2005-06-27
+page:thatsit
+	desc:Thatsit
+	date: 2005-06-24
+page:moredense
+	desc:Moredense
+	date: 2005-06-23
+page:justclumsy
+	desc:Justclumsy
+	date: 2005-06-22
+page:distractme
+	desc:Distractme
+	date: 2005-06-21
+page:outofsorts
+	desc:Outofsorts
+	date: 2005-06-20
+page:worktorelax
+	desc:Worktorelax
+	date: 2005-06-17
+page:soooobored
+	desc:Soooobored
+	date: 2005-06-16
+page:notasking
+	desc:Notasking
+	date: 2005-06-15
+page:musclehead
+	desc:Musclehead
+	date: 2005-06-14
+page:feelfine
+	desc:Feelfine
+	date: 2005-06-13
+page:upset
+	desc:Upset
+	date: 2005-06-10
+page:holdtogether
+	desc:Holdtogether
+	date: 2005-06-09
+page:nicetry
+	desc:Nicetry
+	date: 2005-06-08
+page:isntfunny
+	desc:Isntfunny
+	date: 2005-06-07
+page:littlehelp
+	desc:Littlehelp
+	date: 2005-06-06
+page:itskicking
+	desc:Itskicking
+	date: 2005-06-03
+page:thensnaps
+	desc:Thensnaps
+	date: 2005-06-02
+page:putitback
+	desc:Putitback
+	date: 2005-06-01
+page:stinky
+	desc:Stinky
+	date: 2005-05-31
+page:05302005
+	desc:05-30-2005
+	date: 2005-05-30
+page:05272005
+	desc:05-27-2005
+	date: 2005-05-27
+page:05262005
+	desc:05-26-2005
+	date: 2005-05-26
+page:05252005
+	desc:05-25-2005
+	date: 2005-05-25
+page:05242005
+	desc:05-24-2005
+	date: 2005-05-24
+page:05232005
+	desc:05-23-2005
+	date: 2005-05-23
+page:05202005
+	desc:05-20-2005
+	date: 2005-05-20
+page:05192005
+	desc:05-19-2005
+	date: 2005-05-19
+page:05182005
+	desc:05-18-2005
+	date: 2005-05-18
+page:05172005
+	desc:05-17-2005
+	date: 2005-05-17
+page:05162005
+	desc:05-16-2005
+	date: 2005-05-16
+page:05132005
+	desc:05-13-2005
+	date: 2005-05-13
+page:05122005
+	desc:05-12-2005
+	date: 2005-05-12
+page:05112005
+	desc:05-11-2005
+	date: 2005-05-11
+page:05102005
+	desc:05-10-2005
+	date: 2005-05-10
+page:05092005
+	desc:05-09-2005
+	date: 2005-05-09
+page:05062005
+	desc:05-06-2005
+	date: 2005-05-06
+page:05052005
+	desc:05-05-2005
+	date: 2005-05-05
+page:05042005
+	desc:05-04-2005
+	date: 2005-05-04
+page:05032005
+	desc:05-03-2005
+	date: 2005-05-03
+page:05022005
+	desc:05-02-2005
+	date: 2005-05-02
+page:04292005
+	desc:04-29-2005
+	date: 2005-04-29
+page:04282005
+	desc:04-28-2005
+	date: 2005-04-28
+page:04272005
+	desc:04-27-2005
+	date: 2005-04-27
+page:04262005
+	desc:04-26-2005
+	date: 2005-04-26
+page:04252005
+	desc:04-25-2005
+	date: 2005-04-25
+page:04222005
+	desc:04-22-2005
+	date: 2005-04-22
+page:04212005
+	desc:04-21-2005
+	date: 2005-04-21
+page:04202005
+	desc:04-20-2005
+	date: 2005-04-20
+page:04192005
+	desc:04-19-2005
+	date: 2005-04-19
+page:04182005
+	desc:04-18-2005
+	date: 2005-04-18
+page:04152005
+	desc:04-15-2005
+	date: 2005-04-15
+page:04142005
+	desc:04-14-2005
+	date: 2005-04-14
+page:04132005
+	desc:04-13-2005
+	date: 2005-04-13
+page:04122005
+	desc:04-12-2005
+	date: 2005-04-12
+page:04112005
+	desc:04-11-2005
+	date: 2005-04-11
+page:04082005
+	desc:04-08-2005
+	date: 2005-04-08
+page:04072005
+	desc:04-07-2005
+	date: 2005-04-07
+page:04062005
+	desc:04-06-2005
+	date: 2005-04-06
+page:04052005
+	desc:04-05-2005
+	date: 2005-04-05
+page:04042005
+	desc:04-04-2005
+	date: 2005-04-04
+page:04012005
+	desc:04-01-2005
+	date: 2005-04-01
+page:03312005
+	desc:03-31-2005
+	date: 2005-03-31
+page:03302005
+	desc:03-30-2005
+	date: 2005-03-30
+page:03292005
+	desc:03-29-2005
+	date: 2005-03-29
+page:03282005
+	desc:03-28-2005
+	date: 2005-03-28
+page:03252005
+	desc:03-25-2005
+	date: 2005-03-25
+page:03242005
+	desc:03-24-2005
+	date: 2005-03-24
+page:03232005
+	desc:03-23-2005
+	date: 2005-03-23
+page:03222005
+	desc:03-22-2005
+	date: 2005-03-22
+page:03212005
+	desc:03-21-2005
+	date: 2005-03-21
+page:03182005
+	desc:03-18-2005
+	date: 2005-03-18
+page:03172005
+	desc:03-17-2005
+	date: 2005-03-17
+page:03162005
+	desc:03-16-2005
+	date: 2005-03-16
+page:03152005
+	desc:03-15-2005
+	date: 2005-03-15
+page:03142005
+	desc:03-14-2005
+	date: 2005-03-14
+page:03112005
+	desc:03-11-2005
+	date: 2005-03-11
+page:03102005
+	desc:03-10-2005
+	date: 2005-03-10
+page:03092005
+	desc:03-09-2005
+	date: 2005-03-09
+page:03082005
+	desc:03-08-2005
+	date: 2005-03-08
+page:03072005
+	desc:03-07-2005
+	date: 2005-03-07
+page:03042005
+	desc:03-04-2005
+	date: 2005-03-04
+page:03032005
+	desc:03-03-2005
+	date: 2005-03-03
+page:03022005
+	desc:03-02-2005
+	date: 2005-03-02
+page:03012005
+	desc:03-01-2005
+	date: 2005-03-01
+page:02282005
+	desc:02-28-2005
+	date: 2005-02-28
+page:02252005
+	desc:02-25-2005
+	date: 2005-02-25
+page:02242005
+	desc:02-24-2005
+	date: 2005-02-24
+page:02232005
+	desc:02-23-2005
+	date: 2005-02-23
+page:02222005
+	desc:02-22-2005
+	date: 2005-02-22
+page:02212005
+	desc:02-21-2005
+	date: 2005-02-21
+page:02182005
+	desc:02-18-2005
+	date: 2005-02-18
+page:02172005
+	desc:02-17-2005
+	date: 2005-02-17
+page:02162005
+	desc:02-16-2005
+	date: 2005-02-16
+page:02152005
+	desc:02-15-2005
+	date: 2005-02-15
+page:02142005
+	desc:02-14-2005
+	date: 2005-02-14
+page:02112005
+	desc:02-11-2005
+	date: 2005-02-11
+page:02102005
+	desc:02-10-2005
+	date: 2005-02-10
+page:02092005
+	desc:02-09-2005
+	date: 2005-02-09
+page:02082005
+	desc:02-08-2005
+	date: 2005-02-08
+page:02072005
+	desc:02-07-2005
+	date: 2005-02-07
+page:02042005
+	desc:02-04-2005
+	date: 2005-02-04
+page:02032005
+	desc:02-03-2005
+	date: 2005-02-03
+page:02022005
+	desc:02-02-2005
+	date: 2005-02-02
+page:02012005
+	desc:02-01-2005
+	date: 2005-02-01
+page:01312005
+	desc:01-31-2005
+	date: 2005-01-31
+page:01282005
+	desc:01-28-2005
+	date: 2005-01-28
+page:01272005
+	desc:01-27-2005
+	date: 2005-01-27
+page:01262005
+	desc:01-26-2005
+	date: 2005-01-26
+page:01252005
+	desc:01-25-2005
+	date: 2005-01-25
+page:01242005
+	desc:01-24-2005
+	date: 2005-01-24
+page:01212005
+	desc:01-21-2005
+	date: 2005-01-21
+page:01202005
+	desc:01-20-2005
+	date: 2005-01-20
+page:01192005
+	desc:01-19-2005
+	date: 2005-01-19
+page:01182005
+	desc:01-18-2005
+	date: 2005-01-18
+page:01172005
+	desc:01-17-2005
+	date: 2005-01-17
+page:01142005
+	desc:01-14-2005
+	date: 2005-01-14
+page:01132005
+	desc:01-13-2005
+	date: 2005-01-13
+page:01122005
+	desc:01-12-2005
+	date: 2005-01-12
+page:01112005
+	desc:01-11-2005
+	date: 2005-01-11
+page:01102005
+	desc:01-10-2005
+	date: 2005-01-10
+page:01072005
+	desc:01-07-2005
+	date: 2005-01-07
+page:01062005
+	desc:01-06-2005
+	date: 2005-01-06
+page:01052005
+	desc:01-05-2005
+	date: 2005-01-05
+page:01042005
+	desc:01-04-2005
+	date: 2005-01-04
+page:01032005
+	desc:01-03-2005
+	date: 2005-01-03
+page:12312004
+	desc:12-31-2004
+	date: 2004-12-31
+page:12302004
+	desc:12-30-2004
+	date: 2004-12-30
+page:12292004
+	desc:12-29-2004
+	date: 2004-12-29
+page:12282004
+	desc:12-28-2004
+	date: 2004-12-28
+page:12272004
+	desc:12-27-2004
+	date: 2004-12-27
+page:12252004
+	desc:12-25-2004
+	date: 2004-12-25
+page:12242004
+	desc:12-24-2004
+	date: 2004-12-24
+page:12232004
+	desc:12-23-2004
+	date: 2004-12-23
+page:12222004
+	desc:12-22-2004
+	date: 2004-12-22
+page:12212004
+	desc:12-21-2004
+	date: 2004-12-21
+page:12202004
+	desc:12-20-2004
+	date: 2004-12-20
+page:12172004
+	desc:12-17-2004
+	date: 2004-12-17
+page:12162004
+	desc:12-16-2004
+	date: 2004-12-16
+page:12152004
+	desc:12-15-2004
+	date: 2004-12-15
+page:12142004
+	desc:12-14-2004
+	date: 2004-12-14
+page:12132004
+	desc:12-13-2004
+	date: 2004-12-13
+page:12102004
+	desc:12-10-2004
+	date: 2004-12-10
+page:12092004
+	desc:12-09-2004
+	date: 2004-12-09
+page:12082004
+	desc:12-08-2004
+	date: 2004-12-08
+page:12072004
+	desc:12-07-2004
+	date: 2004-12-07
+page:12062004
+	desc:12-06-2004
+	date: 2004-12-06
+page:12032004
+	desc:12-03-2004
+	date: 2004-12-03
+page:12022004
+	desc:12-02-2004
+	date: 2004-12-02
+page:12012004
+	desc:12-01-2004
+	date: 2004-12-01
+page:11302004
+	desc:11-30-2004
+	date: 2004-11-30
+page:11292004
+	desc:11-29-2004
+	date: 2004-11-29
+page:11262004
+	desc:11-26-2004
+	date: 2004-11-26
+page:11252004
+	desc:11-25-2004
+	date: 2004-11-25
+page:11242004
+	desc:11-24-2004
+	date: 2004-11-24
+page:11232004
+	desc:11-23-2004
+	date: 2004-11-23
+page:11222004
+	desc:11-22-2004
+	date: 2004-11-22
+page:11192004
+	desc:11-19-2004
+	date: 2004-11-19
+page:11182004
+	desc:11-18-2004
+	date: 2004-11-18
+page:11172004
+	desc:11-17-2004
+	date: 2004-11-17
+page:11162004
+	desc:11-16-2004
+	date: 2004-11-16
+page:11152004
+	desc:11-15-2004
+	date: 2004-11-15
+page:11122004
+	desc:11-12-2004
+	date: 2004-11-12
+page:11112004
+	desc:11-11-2004
+	date: 2004-11-11
+page:11102004
+	desc:11-10-2004
+	date: 2004-11-10
+page:11092004
+	desc:11-09-2004
+	date: 2004-11-09
+page:11082004
+	desc:11-08-2004
+	date: 2004-11-08
+page:11052004
+	desc:11-05-2004
+	date: 2004-11-05
+page:11042004
+	desc:11-04-2004
+	date: 2004-11-04
+page:11032004
+	desc:11-03-2004
+	date: 2004-11-03
+page:11022004
+	desc:11-02-2004
+	date: 2004-11-02
+page:11012004
+	desc:11-01-2004
+	date: 2004-11-01
+page:10312004
+	desc:10-31-2004
+	date: 2004-10-31
+page:10292004
+	desc:10-29-2004
+	date: 2004-10-29
+page:10282004
+	desc:10-28-2004
+	date: 2004-10-28
+page:10272004
+	desc:10-27-2004
+	date: 2004-10-27
+page:10262004
+	desc:10-26-2004
+	date: 2004-10-26
+page:10252004
+	desc:10-25-2004
+	date: 2004-10-25
+page:10222004
+	desc:10-22-2004
+	date: 2004-10-22
+page:10212004
+	desc:10-21-2004
+	date: 2004-10-21
+page:10202004
+	desc:10-20-2004
+	date: 2004-10-20
+page:10192004
+	desc:10-19-2004
+	date: 2004-10-19
+page:10182004
+	desc:10-18-2004
+	date: 2004-10-18
+page:10152004
+	desc:10-15-2004
+	date: 2004-10-15
+page:10142004
+	desc:10-14-2004
+	date: 2004-10-14
+page:10132004
+	desc:10-13-2004
+	date: 2004-10-13
+page:10122004
+	desc:10-12-2004
+	date: 2004-10-12
+page:10112004
+	desc:10-11-2004
+	date: 2004-10-11
+page:10082004
+	desc:10-08-2004
+	date: 2004-10-08
+page:10072004
+	desc:10-07-2004
+	date: 2004-10-07
+page:10062004
+	desc:10-06-2004
+	date: 2004-10-06
+page:10052004
+	desc:10-05-2004
+	date: 2004-10-05
+page:10042004
+	desc:10-04-2004
+	date: 2004-10-04
+page:10012004
+	desc:10-01-2004
+	date: 2004-10-01
+page:09302004
+	desc:09-30-2004
+	date: 2004-09-30
+page:09292004
+	desc:09-29-2004
+	date: 2004-09-29
+page:09282004
+	desc:09-28-2004
+	date: 2004-09-28
+page:09272004
+	desc:09-27-2004
+	date: 2004-09-27
+page:09242004
+	desc:09-24-2004
+	date: 2004-09-24
+page:09232004
+	desc:09-23-2004
+	date: 2004-09-23
+page:09222004
+	desc:09-22-2004
+	date: 2004-09-22
+page:09212004
+	desc:09-21-2004
+	date: 2004-09-21
+page:09202004
+	desc:09-20-2004
+	date: 2004-09-20
+page:09172004
+	desc:09-17-2004
+	date: 2004-09-17
+page:09162004
+	desc:09-16-2004
+	date: 2004-09-16
+page:09152004
+	desc:09-15-2004
+	date: 2004-09-15
+page:09142004
+	desc:09-14-2004
+	date: 2004-09-14
+page:09132004
+	desc:09-13-2004
+	date: 2004-09-13
+page:09102004
+	desc:09-10-2004
+	date: 2004-09-10
+page:09092004
+	desc:09-09-2004
+	date: 2004-09-09
+page:09082004
+	desc:09-08-2004
+	date: 2004-09-08
+page:09072004
+	desc:09-07-2004
+	date: 2004-09-07
+page:09062004
+	desc:09-06-2004
+	date: 2004-09-06
+page:09032004
+	desc:09-03-2004
+	date: 2004-09-03
+page:09022004
+	desc:09-02-2004
+	date: 2004-09-02
+page:09012004
+	desc:09-01-2004
+	date: 2004-09-01
+page:08312004
+	desc:08-31-2004
+	date: 2004-08-31
+page:08302004
+	desc:08-30-2004
+	date: 2004-08-30
+page:08272004
+	desc:08-27-2004
+	date: 2004-08-27
+page:08262004
+	desc:08-26-2004
+	date: 2004-08-26
+page:08252004
+	desc:08-25-2004
+	date: 2004-08-25
+page:08242004
+	desc:08-24-2004
+	date: 2004-08-24
+page:08232004
+	desc:08-23-2004
+	date: 2004-08-23
+page:08202004
+	desc:08-20-2004
+	date: 2004-08-20
+page:08192004
+	desc:08-19-2004
+	date: 2004-08-19
+page:08182004
+	desc:08-18-2004
+	date: 2004-08-18
+page:08172004
+	desc:08-17-2004
+	date: 2004-08-17
+page:08162004
+	desc:08-16-2004
+	date: 2004-08-16
+page:08132004
+	desc:08-13-2004
+	date: 2004-08-13
+page:08122004
+	desc:08-12-2004
+	date: 2004-08-12
+page:08112004
+	desc:08-11-2004
+	date: 2004-08-11
+page:08102004
+	desc:08-10-2004
+	date: 2004-08-10
+page:08092004
+	desc:08-09-2004
+	date: 2004-08-09
+page:08062004
+	desc:08-06-2004
+	date: 2004-08-06
+page:08052004
+	desc:08-05-2004
+	date: 2004-08-05
+page:08042004
+	desc:08-04-2004
+	date: 2004-08-04
+page:08032004
+	desc:08-03-2004
+	date: 2004-08-03
+page:08022004
+	desc:08-02-2004
+	date: 2004-08-02
+page:07302004
+	desc:07-30-2004
+	date: 2004-07-30
+page:07292004
+	desc:07-29-2004
+	date: 2004-07-29
+page:07282004
+	desc:07-28-2004
+	date: 2004-07-28
+page:07272004
+	desc:07-27-2004
+	date: 2004-07-27
+page:07262004
+	desc:07-26-2004
+	date: 2004-07-26
+page:07232004
+	desc:07-23-2004
+	date: 2004-07-23
+page:07222004
+	desc:07-22-2004
+	date: 2004-07-22
+page:07212004
+	desc:07-21-2004
+	date: 2004-07-21
+page:07202004
+	desc:07-20-2004
+	date: 2004-07-20
+page:07192004
+	desc:07-19-2004
+	date: 2004-07-19
+page:07162004
+	desc:07-16-2004
+	date: 2004-07-16
+page:07152004
+	desc:07-15-2004
+	date: 2004-07-15
+page:07142004
+	desc:07-14-2004
+	date: 2004-07-14
+page:07132004
+	desc:07-13-2004
+	date: 2004-07-13
+page:07122004
+	desc:07-12-2004
+	date: 2004-07-12
+page:07092004
+	desc:07-09-2004
+	date: 2004-07-09
+page:07082004
+	desc:07-08-2004
+	date: 2004-07-08
+page:07072004
+	desc:07-07-2004
+	date: 2004-07-07
+page:07062004
+	desc:07-06-2004
+	date: 2004-07-06
+page:07052004
+	desc:07-05-2004
+	date: 2004-07-05
+page:07032004
+	desc:07-03-2004
+	date: 2004-07-03
+page:07022004
+	desc:07-02-2004
+	date: 2004-07-02
+page:06302004
+	desc:06-30-2004
+	date: 2004-06-30
+page:06282004
+	desc:06-28-2004
+	date: 2004-06-28
+page:06252004
+	desc:06-25-2004
+	date: 2004-06-25
+page:06232004
+	desc:06-23-2004
+	date: 2004-06-23
+page:06212004
+	desc:06-21-2004
+	date: 2004-06-21
+page:06182004
+	desc:06-18-2004
+	date: 2004-06-18
+page:06162004
+	desc:06-16-2004
+	date: 2004-06-16
+page:06142004
+	desc:06-14-2004
+	date: 2004-06-14
+page:06112004
+	desc:06-11-2004
+	date: 2004-06-11
+page:06092004
+	desc:06-09-2004
+	date: 2004-06-09
+page:06072004
+	desc:06-07-2004
+	date: 2004-06-07
+page:06042004
+	desc:06-04-2004
+	date: 2004-06-04
+page:06022004
+	desc:06-02-2004
+	date: 2004-06-02
+page:05312004
+	desc:05-31-2004
+	date: 2004-05-31
+page:05282004
+	desc:05-28-2004
+	date: 2004-05-28
+page:05262004
+	desc:05-26-2004
+	date: 2004-05-26
+page:05242004
+	desc:05-24-2004
+	date: 2004-05-24
+page:05212004
+	desc:05-21-2004
+	date: 2004-05-21
+page:05192004
+	desc:05-19-2004
+	date: 2004-05-19
+page:05172004
+	desc:05-17-2004
+	date: 2004-05-17
+page:05142004
+	desc:05-14-2004
+	date: 2004-05-14
+page:05122004
+	desc:05-12-2004
+	date: 2004-05-12
+page:05102004
+	desc:05-10-2004
+	date: 2004-05-10
+page:05072004
+	desc:05-07-2004
+	date: 2004-05-07
+page:05052004
+	desc:05-05-2004
+	date: 2004-05-05
+page:05032004
+	desc:05-03-2004
+	date: 2004-05-03
+page:04302004
+	desc:04-30-2004
+	date: 2004-04-30
+page:04282004
+	desc:04-28-2004
+	date: 2004-04-28
+page:04262004
+	desc:04-26-2004
+	date: 2004-04-26
+page:04232004
+	desc:04-23-2004
+	date: 2004-04-23
+page:04212004
+	desc:04-21-2004
+	date: 2004-04-21
+page:04192004
+	desc:04-19-2004
+	date: 2004-04-19
+page:04162004
+	desc:04-16-2004
+	date: 2004-04-16
+page:04142004
+	desc:04-14-2004
+	date: 2004-04-14
+page:04122004
+	desc:04-12-2004
+	date: 2004-04-12
+page:04092004
+	desc:04-09-2004
+	date: 2004-04-09
+page:04072004
+	desc:04-07-2004
+	date: 2004-04-07
+page:04052004
+	desc:04-05-2004
+	date: 2004-04-05
+page:04022004
+	desc:04-02-2004
+	date: 2004-04-02
+page:03312004
+	desc:03-31-2004
+	date: 2004-03-31
+page:03292004
+	desc:03-29-2004
+	date: 2004-03-29
+page:03262004
+	desc:03-26-2004
+	date: 2004-03-26
+page:03242004
+	desc:03-24-2004
+	date: 2004-03-24
+page:03222004
+	desc:03-22-2004
+	date: 2004-03-22
+page:03192004
+	desc:03-19-2004
+	date: 2004-03-19
+page:03172004
+	desc:03-17-2004
+	date: 2004-03-17
+page:03152004
+	desc:03-15-2004
+	date: 2004-03-15
+page:03122004
+	desc:03-12-2004
+	date: 2004-03-12
+page:03102004
+	desc:03-10-2004
+	date: 2004-03-10
+page:03082004
+	desc:03-08-2004
+	date: 2004-03-08
+page:03062004
+	desc:03-06-2004
+	date: 2004-03-06
+page:03052004
+	desc:03-05-2004
+	date: 2004-03-05
+page:03032004
+	desc:03-03-2004
+	date: 2004-03-03
+page:03012004
+	desc:03-01-2004
+	date: 2004-03-01
+page:02272004
+	desc:02-27-2004
+	date: 2004-02-27
+page:02252004
+	desc:02-25-2004
+	date: 2004-02-25
+page:02232004
+	desc:02-23-2004
+	date: 2004-02-23
+page:02202004
+	desc:02-20-2004
+	date: 2004-02-20
+page:02182004
+	desc:02-18-2004
+	date: 2004-02-18
+page:02162004
+	desc:02-16-2004
+	date: 2004-02-16
+page:02132004
+	desc:02-13-2004
+	date: 2004-02-13
+page:02112004
+	desc:02-11-2004
+	date: 2004-02-11
+page:02092004
+	desc:02-09-2004
+	date: 2004-02-09
+page:02062004
+	desc:02-06-2004
+	date: 2004-02-06
+page:02042004
+	desc:02-04-2004
+	date: 2004-02-04
+page:02022004
+	desc:02-02-2004
+	date: 2004-02-02
+page:01302004
+	desc:01-30-2004
+	date: 2004-01-30
+page:01282004
+	desc:01-28-2004
+	date: 2004-01-28
+page:01262004
+	desc:01-26-2004
+	date: 2004-01-26
+page:01232004
+	desc:01-23-2004
+	date: 2004-01-23
+page:01212004
+	desc:01-21-2004
+	date: 2004-01-21
+page:01192004
+	desc:01-19-2004
+	date: 2004-01-19
+page:01162004
+	desc:01-16-2004
+	date: 2004-01-16
+page:01142004
+	desc:01-14-2004
+	date: 2004-01-14
+page:01122004
+	desc:01-12-2004
+	date: 2004-01-12
+page:01092004
+	desc:01-09-2004
+	date: 2004-01-09
+page:01072004
+	desc:01-07-2004
+	date: 2004-01-07
+page:01052004
+	desc:01-05-2004
+	date: 2004-01-05
+page:01022004
+	desc:01-02-2004
+	date: 2004-01-02
+
+page:12312003
+	desc:12-31-2003
+	date: 2003-12-31
+page:12292003
+	desc:12-29-2003
+	date: 2003-12-29
+page:12262003
+	desc:12-26-2003
+	date: 2003-12-26
+page:12242003
+	desc:12-24-2003
+	date: 2003-12-24
+page:12222003
+	desc:12-22-2003
+	date: 2003-12-22
+page:12192003
+	desc:12-19-2003
+	date: 2003-12-19
+page:12172003
+	desc:12-17-2003
+	date: 2003-12-17
+page:12152003
+	desc:12-15-2003
+	date: 2003-12-15
+page:12122003
+	desc:12-12-2003
+	date: 2003-12-12
+page:12112003
+	desc:12-11-2003
+	date: 2003-12-11
+page:12102003
+	desc:12-10-2003
+	date: 2003-12-10
+page:12082003
+	desc:12-08-2003
+	date: 2003-12-08
+page:12052003
+	desc:12-05-2003
+	date: 2003-12-05
+page:12032003
+	desc:12-03-2003
+	date: 2003-12-03
+page:12012003
+	desc:12-01-2003
+	date: 2003-12-01
+page:11282003
+	desc:11-28-2003
+	date: 2003-11-28
+page:11262003
+	desc:11-26-2003
+	date: 2003-11-26
+page:11242003
+	desc:11-24-2003
+	date: 2003-11-24
+page:11212003
+	desc:11-21-2003
+	date: 2003-11-21
+page:11192003
+	desc:11-19-2003
+	date: 2003-11-19
+page:11172003
+	desc:11-17-2003
+	date: 2003-11-17
+page:11142003
+	desc:11-14-2003
+	date: 2003-11-14
+page:11122003
+	desc:11-12-2003
+	date: 2003-11-12
+page:11102003
+	desc:11-10-2003
+	date: 2003-11-10
+page:11072003
+	desc:11-07-2003
+	date: 2003-11-07
+page:11052003
+	desc:11-05-2003
+	date: 2003-11-05
+page:11032003
+	desc:11-03-2003
+	date: 2003-11-03
+page:10312003
+	desc:10-31-2003
+	date: 2003-10-31
+page:10292003
+	desc:10-29-2003
+	date: 2003-10-29
+page:10272003
+	desc:10-27-2003
+	date: 2003-10-27
+page:10242003
+	desc:10-24-2003
+	date: 2003-10-24
+page:10222003
+	desc:10-22-2003
+	date: 2003-10-22
+page:10202003
+	desc:10-20-2003
+	date: 2003-10-20
+page:10172003
+	desc:10-17-2003
+	date: 2003-10-17
+page:10152003
+	desc:10-15-2003
+	date: 2003-10-15
+page:10132003
+	desc:10-13-2003
+	date: 2003-10-13
+page:10102003
+	desc:10-10-2003
+	date: 2003-10-10
+page:10082003
+	desc:10-08-2003
+	date: 2003-10-08
+page:10062003
+	desc:10-06-2003
+	date: 2003-10-06
+page:10032003
+	desc:10-03-2003
+	date: 2003-10-03
+page:10012003
+	desc:10-01-2003
+	date: 2003-10-01
+page:09292003
+	desc:09-29-2003
+	date: 2003-09-29
+page:09262003
+	desc:09-26-2003
+	date: 2003-09-26
+page:09242003
+	desc:09-24-2003
+	date: 2003-09-24
+page:09222003
+	desc:09-22-2003
+	date: 2003-09-22
+page:09192003
+	desc:09-19-2003
+	date: 2003-09-19
+page:09172003
+	desc:09-17-2003
+	date: 2003-09-17
+page:09152003
+	desc:09-15-2003
+	date: 2003-09-15
+page:09122003
+	desc:09-12-2003
+	date: 2003-09-12
+page:09102003
+	desc:09-10-2003
+	date: 2003-09-10
+page:09082003
+	desc:09-08-2003
+	date: 2003-09-08
+page:09052003
+	desc:09-05-2003
+	date: 2003-09-05
+page:09032003
+	desc:09-03-2003
+	date: 2003-09-03
+page:09012003
+	desc:09-01-2003
+	date: 2003-09-01
+page:08292003
+	desc:08-29-2003
+	date: 2003-08-29
+page:08272003
+	desc:08-27-2003
+	date: 2003-08-27
+page:08252003
+	desc:08-25-2003
+	date: 2003-08-25
+page:08222003
+	desc:08-22-2003
+	date: 2003-08-22
+page:08202003
+	desc:08-20-2003
+	date: 2003-08-20
+page:08182003
+	desc:08-18-2003
+	date: 2003-08-18
+page:08152003
+	desc:08-15-2003
+	date: 2003-08-15
+page:08132003
+	desc:08-13-2003
+	date: 2003-08-13
+page:08112003
+	desc:08-11-2003
+	date: 2003-08-11
+page:08082003
+	desc:08-08-2003
+	date: 2003-08-08
+page:08062003
+	desc:08-06-2003
+	date: 2003-08-06
+page:08042003
+	desc:08-04-2003
+	date: 2003-08-04
+page:08012003
+	desc:08-01-2003
+	date: 2003-08-01
+page:07302003
+	desc:07-30-2003
+	date: 2003-07-30
+page:07282003
+	desc:07-28-2003
+	date: 2003-07-28
+page:07252003
+	desc:07-25-2003
+	date: 2003-07-25
+page:07232003
+	desc:07-23-2003
+	date: 2003-07-23
+page:07212003
+	desc:07-21-2003
+	date: 2003-07-21
+page:07182003
+	desc:07-18-2003
+	date: 2003-07-18
+page:07162003
+	desc:07-16-2003
+	date: 2003-07-16
+page:07142003
+	desc:07-14-2003
+	date: 2003-07-14
+page:07112003
+	desc:07-11-2003
+	date: 2003-07-11
+page:07092003
+	desc:07-09-2003
+	date: 2003-07-09
+page:07072003
+	desc:07-07-2003
+	date: 2003-07-07
+page:07042003
+	desc:07-04-2003
+	date: 2003-07-04
+page:07022003
+	desc:07-02-2003
+	date: 2003-07-02
+page:06302003
+	desc:06-30-2003
+	date: 2003-06-30
+page:06272003
+	desc:06-27-2003
+	date: 2003-06-27
+page:06252003
+	desc:06-25-2003
+	date: 2003-06-25
+page:06232003
+	desc:06-23-2003
+	date: 2003-06-23
+page:06202003
+	desc:06-20-2003
+	date: 2003-06-20
+page:06182003
+	desc:06-18-2003
+	date: 2003-06-18
+page:06162003
+	desc:06-16-2003
+	date: 2003-06-16
+page:06132003
+	desc:06-13-2003
+	date: 2003-06-13
+page:06112003
+	desc:06-11-2003
+	date: 2003-06-11
+page:06092003
+	desc:06-09-2003
+	date: 2003-06-09
+page:06062003
+	desc:06-06-2003
+	date: 2003-06-06
+page:06042003
+	desc:06-04-2003
+	date: 2003-06-04
+page:06022003
+	desc:06-02-2003
+	date: 2003-06-02
+page:05302003
+	desc:05-30-2003
+	date: 2003-05-30
+page:05282003
+	desc:05-28-2003
+	date: 2003-05-28
+page:05262003
+	desc:05-26-2003
+	date: 2003-05-26
+page:05232003
+	desc:05-23-2003
+	date: 2003-05-23
+page:05212003
+	desc:05-21-2003
+	date: 2003-05-21
+page:05192003
+	desc:05-19-2003
+	date: 2003-05-19
+page:05162003
+	desc:05-16-2003
+	date: 2003-05-16
+page:05142003
+	desc:05-14-2003
+	date: 2003-05-14
+page:05122003
+	desc:05-12-2003
+	date: 2003-05-12
+page:05092003
+	desc:05-09-2003
+	date: 2003-05-09
+page:05072003
+	desc:05-07-2003
+	date: 2003-05-07
+page:05052003
+	desc:05-05-2003
+	date: 2003-05-05
+page:05022003
+	desc:05-02-2003
+	date: 2003-05-02
+page:04302003
+	desc:04-30-2003
+	date: 2003-04-30
+page:04282003
+	desc:04-28-2003
+	date: 2003-04-28
+page:04252003
+	desc:04-25-2003
+	date: 2003-04-25
+page:04232003
+	desc:04-23-2003
+	date: 2003-04-23
+page:04212003
+	desc:04-21-2003
+	date: 2003-04-21
+page:04182003
+	desc:04-18-2003
+	date: 2003-04-18
+page:04162003
+	desc:04-16-2003
+	date: 2003-04-16
+page:04142003
+	desc:04-14-2003
+	date: 2003-04-14
+page:04112003
+	desc:04-11-2003
+	date: 2003-04-11
+page:04092003
+	desc:04-09-2003
+	date: 2003-04-09
+page:04072003
+	desc:04-07-2003
+	date: 2003-04-07
+page:04042003
+	desc:04-04-2003
+	date: 2003-04-04
+page:04022003
+	desc:04-02-2003
+	date: 2003-04-02
+page:03312003
+	desc:03-31-2003
+	date: 2003-03-31
+page:03282003
+	desc:03-28-2003
+	date: 2003-03-28
+page:03262003
+	desc:03-26-2003
+	date: 2003-03-26
+page:03242003
+	desc:03-24-2003
+	date: 2003-03-24
+page:03212003
+	desc:03-21-2003
+	date: 2003-03-21
+page:03192003
+	desc:03-19-2003
+	date: 2003-03-19
+page:03172003
+	desc:03-17-2003
+	date: 2003-03-17
+page:03142003
+	desc:03-14-2003
+	date: 2003-03-14
+page:03122003
+	desc:03-12-2003
+	date: 2003-03-12
+page:03102003
+	desc:03-10-2003
+	date: 2003-03-10
+page:03072003
+	desc:03-07-2003
+	date: 2003-03-07
+page:03052003
+	desc:03-05-2003
+	date: 2003-03-05
+page:03032003
+	desc:03-03-2003
+	date: 2003-03-03
+page:02282003
+	desc:02-28-2003
+	date: 2003-02-28
+page:02262003
+	desc:02-26-2003
+	date: 2003-02-26
+page:02242003
+	desc:02-24-2003
+	date: 2003-02-24
+page:02212003
+	desc:02-21-2003
+	date: 2003-02-21
+page:02192003
+	desc:02-19-2003
+	date: 2003-02-19
+page:02172003
+	desc:02-17-2003
+	date: 2003-02-17
+page:02142003
+	desc:02-14-2003
+	date: 2003-02-14
+page:02122003
+	desc:02-12-2003
+	date: 2003-02-12
+page:02102003
+	desc:02-10-2003
+	date: 2003-02-10
+page:02072003
+	desc:02-07-2003
+	date: 2003-02-07
+page:02052003
+	desc:02-05-2003
+	date: 2003-02-05
+page:02032003
+	desc:02-03-2003
+	date: 2003-02-03
+page:01312003
+	desc:01-31-2003
+	date: 2003-01-31
+page:01292003
+	desc:01-29-2003
+	date: 2003-01-29
+page:01272003
+	desc:01-27-2003
+	date: 2003-01-27
+page:01242003
+	desc:01-24-2003
+	date: 2003-01-24
+page:01222003
+	desc:01-22-2003
+	date: 2003-01-22
+page:01202003
+	desc:01-20-2003
+	date: 2003-01-20
+page:01172003
+	desc:01-17-2003
+	date: 2003-01-17
+page:01152003
+	desc:01-15-2003
+	date: 2003-01-15
+page:01132003
+	desc:01-13-2003
+	date: 2003-01-13
+page:01102003
+	desc:01-10-2003
+	date: 2003-01-10
+page:01082003
+	desc:01-08-2003
+	date: 2003-01-08
+page:01062003
+	desc:01-06-2003
+	date: 2003-01-06
+page:01032003
+	desc:01-03-2003
+	date: 2003-01-03
+page:01012003
+	desc:01-01-2003
+	date: 2003-01-01
+page:12302002
+	desc:12-30-2002
+	date: 2002-12-30
+page:12272002
+	desc:12-27-2002
+	date: 2002-12-27
+page:12252002
+	desc:12-25-2002
+	date: 2002-12-25
+page:12232002
+	desc:12-23-2002
+	date: 2002-12-23
+page:12202002
+	desc:12-20-2002
+	date: 2002-12-20
+page:12182002
+	desc:12-18-2002
+	date: 2002-12-18
+page:12162002
+	desc:12-16-2002
+	date: 2002-12-16
+page:12132002
+	desc:12-13-2002
+	date: 2002-12-13
+page:12112002
+	desc:12-11-2002
+	date: 2002-12-11
+page:12092002
+	desc:12-09-2002
+	date: 2002-12-09
+page:12062002
+	desc:12-06-2002
+	date: 2002-12-06
+page:12042002
+	desc:12-04-2002
+	date: 2002-12-04
+page:12022002
+	desc:12-02-2002
+	date: 2002-12-02
+page:11292002
+	desc:11-29-2002
+	date: 2002-11-29
+page:11272002
+	desc:11-27-2002
+	date: 2002-11-27
+page:11252002
+	desc:11-25-2002
+	date: 2002-11-25
+page:11222002
+	desc:11-22-2002
+	date: 2002-11-22
+page:11202002
+	desc:11-20-2002
+	date: 2002-11-20
+page:11182002
+	desc:11-18-2002
+	date: 2002-11-18
+page:11152002
+	desc:11-15-2002
+	date: 2002-11-15
+page:11132002
+	desc:11-13-2002
+	date: 2002-11-13
+page:11112002
+	desc:11-11-2002
+	date: 2002-11-11
+page:11082002
+	desc:11-08-2002
+	date: 2002-11-08
+page:11062002
+	desc:11-06-2002
+	date: 2002-11-06
+page:11042002
+	desc:11-04-2002
+	date: 2002-11-04
+page:11012002
+	desc:11-01-2002
+	date: 2002-11-01
+page:10302002
+	desc:10-30-2002
+	date: 2002-10-30
+	tag: Shelly
+	tag: Jacqueline
+page:10282002
+	desc:10-28-2002
+	date: 2002-10-28
+	tag: Shelly
+	tag: Jacqueline
+page:10252002
+	desc:10-25-2002
+	date: 2002-10-25
+	tag: Shelly
+	tag: Jacqueline
+page:10232002
+	desc:10-23-2002
+	date: 2002-10-23
+	tag: Shelly
+	tag: Jacqueline
+	tag: Owen
+	tag: Band
+	tag: FermentedBanana
+page:10212002
+	desc:10-21-2002
+	date: 2002-10-21
+	tag: Jacqueline
+	tag: Shelly
+page:10182002
+	desc:10-18-2002
+	date: 2002-10-18
+	tag: Monica
+	tag: MuchoMocha
+	tag: Jacqueline
+page:10162002
+	desc:10-16-2002
+	date: 2002-10-16
+	tag: Monica
+	tag: Shelly
+	tag: MuchoMocha
+page:10142002
+	desc:10-14-2002
+	date: 2002-10-14
+	tag: Monica
+	tag: Shelly
+	tag: Becky
+	tag: MuchoMocha
+page:10112002
+	desc:10-11-2002
+	date: 2002-10-11
+	tag: Amanda
+	tag: Monica
+page:10092002
+	desc:10-09-2002
+	date: 2002-10-09
+	tag: Tepoz
+	tag: Museum
+page:10072002
+	desc:10-07-2002
+	date: 2002-10-07
+	tag: Amanda
+	tag: Museum
+	tag: Monica
+page:10042002
+	desc:10-04-2002
+	date: 2002-10-04
+	tag: Amanda
+	tag: Museum
+	tag: Monica
+	tag: Kiss
+page:10022002
+	desc:10-02-2002
+	date: 2002-10-02
+	tag: Amanda
+	tag: Museum
+	tag: Monica
+page:09302002
+	desc:09-30-2002
+	date: 2002-09-30
+	tag: Amanda
+	tag: SecurityGuard
+	tag: Museum
+	tag: Monica
+page:09272002
+	desc:09-27-2002
+	date: 2002-09-27
+	tag: Amanda
+	tag: SecurityGuard
+	tag: Museum
+	tag: Monica
+page:09252002
+	desc:09-25-2002
+	date: 2002-09-25
+	tag: Amanda
+	tag: SecurityGuard
+	tag: Museum
+page:09232002
+	desc:09-23-2002
+	date: 2002-09-23
+	tag: Amanda
+	tag: SecurityGuard
+	tag: Museum
+page:09202002
+	desc:09-20-2002
+	date: 2002-09-20
+	note: a silent "poit"?
+	tag: Burp
+	tag: Monica
+	tag: Museum
+	tag: Poit
+	tag: Tepoz
+page:09182002
+	desc:09-18-2002
+	date: 2002-09-18
+	tag: Monica
+	tag: Tepoz
+	tag: Museum
+page:09162002
+	desc:09-16-2002
+	date: 2002-09-16
+	tag: Monica
+	tag: Tepoz
+	tag: Museum
+	tag: Pulque
+page:09132002
+	desc:09-13-2002
+	date: 2002-09-13
+	tag: Monica
+	tag: Tepoz
+	tag: Museum
+page:09112002
+	desc:09-11-2002
+	date: 2002-09-11
+	tag: Monica
+	tag: Tepoz
+	tag: Museum
+page:09092002
+	desc:09-09-2002
+	date: 2002-09-09
+	tag: Monica
+	tag: Tepoz
+	tag: Museum
+page:09062002
+	desc:09-06-2002
+	date: 2002-09-06
+	tag: Monica
+	tag: Museum
+page:09042002
+	desc:09-04-2002
+	date: 2002-09-04
+	tag: Monica
+	tag: Museum
+page:09022002
+	desc:09-02-2002
+	date: 2002-09-02
+	tag: Monica
+	tag: Amanda
+	tag: Museum
+page:08302002
+	desc:08-30-2002
+	date: 2002-08-30
+	tag: Monica
+	tag: Amanda
+	tag: Museum
+page:08282002
+	desc:08-28-2002
+	date: 2002-08-28
+	tag: Monica
+	tag: Amanda
+	tag: Museum
+page:08262002
+	desc:08-26-2002
+	date: 2002-08-26
+	tag: Monica
+	tag: Amanda
+	tag: Kevin
+	tag: Museum
+page:08232002
+	desc:08-23-2002
+	date: 2002-08-23
+	tag: Monica
+	tag: Amanda
+	tag: Museum
+page:08212002
+	desc:08-21-2002
+	date: 2002-08-21
+	tag: Monica
+	tag: Amanda
+	tag: Glasses
+page:08192002
+	desc:08-19-2002
+	date: 2002-08-19
+	tag: Monica
+	tag: Amanda
+page:08162002
+	desc:08-16-2002
+	date: 2002-08-16
+	tag: Monica
+	tag: Amanda
+page:08142002
+	desc:08-14-2002
+	date: 2002-08-14
+	tag: Monica
+	tag: Amanda
+page:08122002
+	desc:08-12-2002
+	date: 2002-08-12
+	tag: Monica
+	tag: Amanda
+	tag: FlowerShirt
+page:08092002
+	desc:08-09-2002
+	date: 2002-08-09
+	tag: Darin
+	tag: Bar
+	tag: Amanda
+	tag: Monica
+page:08072002
+	desc:08-07-2002
+	date: 2002-08-07
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:08052002
+	desc:08-05-2002
+	date: 2002-08-05
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:08022002
+	desc:08-02-2002
+	date: 2002-08-02
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+	tag: GregoryFields
+page:07312002
+	desc:07-31-2002
+	date: 2002-07-31
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+	tag: GregoryFields
+page:07292002
+	desc:07-29-2002
+	date: 2002-07-29
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+	tag: GregoryFields
+page:07262002
+	desc:07-26-2002
+	date: 2002-07-26
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:07242002
+	desc:07-24-2002
+	date: 2002-07-24
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:07222002
+	desc:07-22-2002
+	date: 2002-07-22
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:07192002
+	desc:07-19-2002
+	date: 2002-07-19
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:07172002
+	desc:07-17-2002
+	date: 2002-07-17
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:07152002
+	desc:07-15-2002
+	date: 2002-07-15
+	tag: Museum
+	tag: Monica
+	tag: Kevin
+page:07122002
+	desc:07-12-2002
+	date: 2002-07-12
+	tag: Museum
+	tag: Monica
+	tag: GregoryFields
+	tag: Kevin
+page:07102002
+	desc:07-10-2002
+	date: 2002-07-10
+	tag: Museum
+	tag: Monica
+	tag: GregoryFields
+page:07082002
+	desc:07-08-2002
+	date: 2002-07-08
+	tag: Museum
+	tag: Monica
+	tag: GregoryFields
+page:07052002
+	desc:07-05-2002
+	date: 2002-07-05
+	tag: Museum
+	tag: Monica
+	tag: GregoryFields
+	tag: GregsOffice
+page:07032002
+	desc:07-03-2002
+	date: 2002-07-03
+	tag: Museum
+	tag: Monica
+	tag: GregoryFields
+page:07012002
+	desc:07-01-2002
+	date: 2002-07-01
+	tag: Shelly
+	tag: Amanda
+	tag: Monica
+	tag: Photo
+	tag: Fishing	
+page:06282002
+	desc:06-28-2002
+	date: 2002-06-28
+	tag: Shelly
+	tag: Amanda
+	tag: Monica
+	tag: Photo
+page:06262002
+	desc:06-26-2002
+	date: 2002-06-26
+	tag: Monica
+	tag: Photo
+page:06242002
+	desc:06-24-2002
+	date: 2002-06-24
+	tag: Shelly
+	tag: Amanda
+	tag: Monica
+page:06212002
+	desc:06-21-2002
+	date: 2002-06-21
+	tag: Car
+	tag: Shelly
+	tag: Divines
+	tag: Bra
+page:06192002
+	desc:06-19-2002
+	date: 2002-06-19
+	note: Darin named Daren here
+	tag: Darin
+	tag: Owen
+	tag: Shelly
+	tag: Bar
+page:06172002
+	desc:06-17-2002
+	date: 2002-06-17
+	tag: Owen
+	tag: WapsipiniconDMV
+page:06142002
+	desc:06-14-2002
+	date: 2002-06-14
+	tag: Monica
+	tag: Amanda
+	tag: Shelly
+	tag: TV
+	tag: Bar
+page:06122002
+	desc:06-12-2002
+	date: 2002-06-12
+	tag: Owen
+	tag: Lakshmi
+page:05312002
+	desc:05-31-2002
+	date: 2002-05-31
+	tag: Owen
+	tag: Lakshmi
+	tag: TheMaraschino
+	tag: Monica
+	tag: Amanda
+page:05292002
+	desc:05-29-2002
+	date: 2002-05-29
+	tag: Owen
+	tag: Lakshmi
+	tag: TheMaraschino
+page:05272002
+	desc:05-27-2002
+	date: 2002-05-27
+	tag: Owen
+	tag: Lakshmi
+	tag: TheMaraschino
+	tag: Monica
+page:05242002
+	desc:05-24-2002
+	date: 2002-05-24
+	tag: Owen
+	tag: Lakshmi
+	tag: TheMaraschino
+	tag: Monica
+	tag: Brain
+page:05222002
+	desc:05-22-2002
+	date: 2002-05-22
+	tag: Owen
+	tag: Lakshmi
+	tag: TheMaraschino
+page:05202002
+	desc:05-20-2002
+	date: 2002-05-20
+	tag: Owen
+	tag: Lakshmi
+	tag: TheMaraschino
+page:05172002
+	desc:05-17-2002
+	date: 2002-05-17
+	tag: Owen
+	tag: Lakshmi
+	tag: TheMaraschino
+	tag: Band
+page:05152002
+	desc:05-15-2002
+	date: 2002-05-15
+	tag: Owen
+	tag: Lakshmi
+	tag: PrasadHouse
+page:05132002
+	desc:05-13-2002
+	date: 2002-05-13
+	tag: Owen
+	tag: Lakshmi
+	tag: PrasadHouse
+page:05102002
+	desc:05-10-2002
+	date: 2002-05-10
+	tag: Owen
+	tag: Jacqueline
+page:05082002
+	desc:05-08-2002
+	date: 2002-05-08
+	note: what are these machines??
+	tag: Monica
+	tag: Dietzel
+page:05062002
+	desc:05-06-2002
+	date: 2002-05-06
+	tag: Band
+	tag: FermentedBanana
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+page:05032002
+	desc:05-03-2002
+	date: 2002-05-03
+	tag: Band
+	tag: CardTable
+	tag: FermentedBanana
+	tag: Owen
+	tag: Shelly
+	tag: Speakers
+page:05012002
+	desc:05-01-2002
+	date: 2002-05-01
+	tag: Band
+	tag: FermentedBanana
+	tag: Owen
+	tag: Shelly
+	tag: Speakers
+page:04292002
+	desc:04-29-2002
+	date: 2002-04-29
+	tag: FermentedBanana
+	tag: Band
+	tag: Shelly
+	tag: Owen
+	tag: Speakers
+page:04262002
+	desc:04-26-2002
+	date: 2002-04-26
+	tag: FermentedBanana
+	tag: Band
+	tag: Shelly
+	tag: Owen
+	tag: Speakers	
+page:04242002
+	desc:04-24-2002
+	date: 2002-04-24
+	tag: FermentedBanana
+	tag: Band
+	tag: Shelly
+	tag: Owen
+	tag: Jacqueline
+	tag: VWVan
+page:04222002
+	desc:04-22-2002
+	date: 2002-04-22
+	tag: FermentedBanana
+	tag: Band
+	tag: Shelly
+	tag: Owen
+	tag: Jacqueline
+	tag: VWVan
+page:04192002
+	desc:04-19-2002
+	date: 2002-04-19
+	tag: Monica
+	tag: Shelly
+	tag: Melons
+page:04172002
+	desc:04-17-2002
+	date: 2002-04-17
+	tag: Amanda
+	tag: Monica
+	tag: Shelly
+page:04152002
+	desc:04-15-2002
+	date: 2002-04-15
+	tag: Dietzel
+	tag: Monica
+	tag: Park
+	tag: RollerSkates
+page:04122002
+	desc:04-12-2002
+	date: 2002-04-12
+	tag: Monica
+	tag: Dietzel
+	tag: Frisbee
+page:04102002
+	desc:04-10-2002
+	date: 2002-04-10
+	tag: Monica
+	tag: Dietzel
+	tag: Frisbee
+	tag: Park
+page:04082002
+	desc:04-08-2002
+	date: 2002-04-08
+	tag: Monica
+	tag: Dietzel
+	tag: PicnicBasket
+page:04052002
+	desc:04-05-2002
+	date: 2002-04-05
+	tag: Monica
+	tag: Shelly
+	tag: Spring
+	tag: Shower
+	tag: Jacqueline
+page:04032002
+	desc:04-03-2002
+	date: 2002-04-03
+	tag: Monica
+	tag: Shelly
+	tag: Spring
+	tag: Shower
+page:04012002
+	desc:04-01-2002
+	date: 2002-04-01
+	tag: Monica
+	tag: Shelly
+	tag: Spring
+	tag: Shower
+	tag: Thunder	
+page:03292002
+	desc:03-29-2002
+	date: 2002-03-29
+	tag: Monica
+	tag: Spring
+	tag: Shower
+	tag: Thunder	
+page:03272002
+	desc:03-27-2002
+	date: 2002-03-27
+	tag: Shelly
+	tag: Owen
+	tag: LipBalm	
+page:03252002
+	desc:03-25-2002
+	date: 2002-03-25
+	tag: Amanda
+	tag: HubbaHubbaBiker
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+page:03222002
+	desc:03-22-2002
+	date: 2002-03-22
+	tag: Amanda
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+page:03202002
+	desc:03-20-2002
+	date: 2002-03-20
+	tag: Amanda
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+page:03182002
+	desc:03-18-2002
+	date: 2002-03-18
+	tag: Amanda
+	tag: BaseballBat
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+	tag: Shower
+page:03152002
+	desc:03-15-2002
+	date: 2002-03-15
+	tag: Amanda	
+	tag: Car
+	tag: MonicaHouse
+	tag: Shelly
+page:03132002
+	desc:03-13-2002
+	date: 2002-03-13
+	tag: Dietzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Wineglass
+page:03112002
+	desc:03-11-2002
+	date: 2002-03-11
+	tag: Amanda	
+	tag: Bikers
+	tag: Car
+	tag: Monica
+	tag: Motorbikes
+	tag: Shelly
+page:03082002
+	desc:03-08-2002
+	date: 2002-03-08
+	tag: AaronSullivan
+	tag: Amanda	
+	tag: Bikers
+	tag: Helmet
+	tag: KittenGirl
+	tag: Monica
+	tag: SallysBar
+	tag: Shelly
+page:03062002
+	desc:03-06-2002
+	date: 2002-03-06
+	tag: Shelly
+	tag: Amanda	
+	tag: Car
+page:03042002
+	desc:03-04-2002
+	date: 2002-03-04
+	tag: Monica
+	tag: SallysBar
+	tag: Bikers
+	tag: AaronSullivan
+	tag: Shelly
+	tag: Amanda	
+page:03012002
+	desc:03-01-2002
+	date: 2002-03-01
+	tag: Monica
+	tag: SallysBar
+	tag: Bikers
+	tag: AaronSullivan
+	tag: KittenGirl
+page:02272002
+	desc:02-27-2002
+	date: 2002-02-27
+	tag: Monica
+	tag: SallysBar
+	tag: Bikers
+	tag: AaronSullivan
+page:02252002
+	desc:02-25-2002
+	date: 2002-02-25
+	tag: Amanda
+	tag: Shelly
+	tag: Phone
+page:02222002
+	desc:02-22-2002
+	date: 2002-02-22
+	tag: SallysBar
+	tag: BarMan
+	tag: Bar
+	tag: Monica
+page:02202002
+	desc:02-20-2002
+	date: 2002-02-20
+	tag: SallysBar
+	tag: Bikers
+	tag: Bar
+	tag: Monica
+page:02182002
+	desc:02-18-2002
+	date: 2002-02-18
+	tag: SallysBar
+	tag: Bikers
+	tag: Bar
+	tag: Monica
+page:02152002
+	desc:02-15-2002
+	date: 2002-02-15
+	tag: SallysBar
+	tag: MotorBike
+	tag: Bar
+	tag: Monica
+page:02132002
+	desc:02-13-2002
+	date: 2002-02-13
+	tag: Monica
+	tag: Oil
+page:02112002
+	desc:02-11-2002
+	date: 2002-02-11
+	tag: Car
+	tag: Monica
+	tag: Oil
+page:02082002
+	desc:02-08-2002
+	date: 2002-02-08
+	tag: Car
+	tag: Monica
+	tag: Phone
+page:02062002
+	desc:02-06-2002
+	date: 2002-02-06
+	tag: Museum
+	tag: Monica
+	tag: LionStatue
+page:02042002
+	desc:02-04-2002
+	date: 2002-02-04
+	tag: Museum
+	tag: Monica
+page:02012002
+	desc:02-01-2002
+	date: 2002-02-01
+	tag: Monica
+	tag: Museum
+	tag: MuseumBoss
+	tag: MuseumContribtors
+page:01302002
+	desc:01-30-2002
+	date: 2002-01-30
+	tag: Museum
+	tag: Monica
+	tag: PeruvianMummy
+page:01282002
+	desc:01-28-2002
+	date: 2002-01-28
+	tag: Amanda
+	tag: Monica
+page:01252002
+	desc:01-25-2002
+	date: 2002-01-25
+	tag: Shelly
+	tag: Monica
+	tag: Magic8BallShirt
+page:01232002
+	desc:01-23-2002
+	date: 2002-01-23
+	tag: Amanda
+	tag: Monica
+	tag: Utah
+page:01212002
+	desc:01-21-2002
+	date: 2002-01-21
+	tag: Museum
+	tag: Monica
+	tag: Tepoz
+	tag: Booze
+page:01182002
+	desc:01-18-2002
+	date: 2002-01-18
+	tag: Museum
+	tag: Monica
+	tag: Tepoz
+page:01162002
+	desc:01-16-2002
+	date: 2002-01-16
+	tag: Museum
+	tag: Monica
+	tag: Tepoz
+page:01142002
+	desc:01-14-2002
+	date: 2002-01-14
+	tag: Monica
+	tag: Tepoz
+	tag: Aztec
+	tag: Museum
+	tag: Nahuatl
+page:01112002
+	desc:01-11-2002
+	date: 2002-01-11
+	tag: Museum
+	tag: Tepoz
+	tag: Crates
+page:01092002
+	desc:01-09-2002
+	date: 2002-01-09
+	tag: Museum
+	tag: Monica
+	tag: Crates
+page:01072002
+	desc:01-07-2002
+	date: 2002-01-07
+	tag: Owen
+	tag: Shelly
+	tag: PullMyFinger
+	tag: Monica
+page:01042002
+	desc:01-04-2002
+	date: 2002-01-04
+	tag: Bar
+	tag: Darin
+	tag: Monica
+	tag: Amanda
+page:01022002
+	desc:01-02-2002
+	date: 2002-01-02
+	tag: Poster
+	tag: PickleDippers
+	tag: Monica
+	tag: Shelly
+page:12312001
+	desc:12-31-2001
+	date: 2001-12-31
+	tag: Monica
+	tag: ExerciseMat
+	tag: TV
+	tag: Magic8BallShirt
+page:12282001
+	desc:12-28-2001
+	date: 2001-12-28
+	tag: Shelly
+	tag: Owen
+	tag: Bar
+page:12262001
+	desc:12-26-2001
+	date: 2001-12-26
+	tag: Snow
+	tag: Monica
+	tag: Car
+	tag: AntiqueShop
+page:12242001
+	desc:12-24-2001
+	date: 2001-12-24
+	tag: Monica
+	tag: Snow
+	tag: Snowman
+	tag: Dietzel
+page:12212001
+	desc:12-21-2001
+	date: 2001-12-21
+	tag: Monica
+	tag: Amanda
+	tag: Beach
+	tag: Snow
+	tag: Daydream
+page:12192001
+	desc:12-19-2001
+	date: 2001-12-19
+	tag: Shelly
+	tag: Owen
+	tag: Amanda
+	tag: Monica
+page:12172001
+	desc:12-17-2001
+	date: 2001-12-17
+	tag: Shelly
+	tag: Owen
+page:12142001
+	desc:12-14-2001
+	date: 2001-12-14
+	tag: Shelly
+	tag: Owen
+page:12122001
+	desc:12-12-2001
+	date: 2001-12-12
+	tag: Shelly
+	tag: Owen
+page:12102001
+	desc:12-10-2001
+	date: 2001-12-10
+	tag: Shelly
+	tag: GirlInDress
+page:12072001
+	desc:12-07-2001
+	date: 2001-12-07
+	tag: Shelly
+	tag: Owen
+	tag: GirlInDress
+page:12052001
+	desc:12-05-2001
+	date: 2001-12-05
+	tag: Amanda
+	tag: Monica
+	tag: Sleep
+page:12032001
+	desc:12-03-2001
+	date: 2001-12-03
+	tag: Amanda
+	tag: Monica
+	tag: BalletCostume
+	tag: Bottle
+	tag: Bar	
+page:11302001
+	desc:11-30-2001
+	date: 2001-11-30
+	tag: Band
+	tag: Monica
+	tag: Amanda
+	tag: BalletCostume
+	tag: Dance
+page:11282001
+	desc:11-28-2001
+	date: 2001-11-28
+	tag: Monica
+	tag: BalletCostume
+	tag: Amanda
+	tag: Bar
+page:11262001
+	desc:11-26-2001
+	date: 2001-11-26
+	tag: Monica
+	tag: BalletCostume
+	tag: Amanda
+page:11232001
+	desc:11-23-2001
+	date: 2001-11-23
+	tag: Monica
+	tag: Amanda
+	tag: Tickets
+	tag: PickleDippers
+page:11212001
+	desc:11-21-2001
+	date: 2001-11-21
+	tag: Monica
+	tag: Amanda
+	tag: Birthday
+	tag: Statue
+	tag: Museum
+page:11192001
+	desc:11-19-2001
+	date: 2001-11-19
+	tag: Shelly
+	tag: Jacqueline
+	tag: BubbleWrap
+page:11162001
+	desc:11-16-2001
+	date: 2001-11-16
+	tag: Monica
+	tag: Phone
+	tag: Museum
+	tag: Movie
+	tag: Amanda
+page:11142001
+	desc:11-14-2001
+	date: 2001-11-14
+	tag: Shelly
+	tag: Monica
+	tag: Book
+	tag: Bra
+	tag: Amanda
+page:11122001
+	desc:11-12-2001
+	date: 2001-11-12
+	tag: Amanda
+	tag: Monica
+	tag: Bra
+page:11092001
+	desc:11-09-2001
+	date: 2001-11-09
+	tag: Amanda
+	tag: Monica
+	tag: Newspaper
+	tag: Kids
+page:11072001
+	desc:11-07-2001
+	date: 2001-11-07
+	tag: Monica
+	tag: Dietzel
+page:11052001
+	desc:11-05-2001
+	date: 2001-11-05
+	tag: Shelly
+	tag: Monica
+	tag: Bar
+page:11022001
+	desc:11-02-2001
+	date: 2001-11-02
+	tag: Monica
+	tag: Book
+	tag: AntiqueShop
+	tag: Cafe
+	tag: Bar
+page:10312001
+	desc:10-31-2001
+	date: 2001-10-31
+	tag: Amanda
+	tag: Dietzel
+	tag: Dog
+	tag: Monica
+page:10292001
+	desc:10-29-2001
+	date: 2001-10-29
+	tag: Monica
+	tag: Darin
+	tag: Bar
+	tag: SchoolKids
+page:10262001
+	desc:10-26-2001
+	date: 2001-10-26
+	tag: BasketBalls
+	tag: Monica
+	tag: Bra
+	tag: ExerciseMachine
+page:10242001
+	desc:10-24-2001
+	date: 2001-10-24
+	tag: Desert
+	tag: Monica
+	tag: Amanda
+	tag: Darin
+	tag: Buzzard
+	tag: Skeleton
+page:10222001
+	desc:10-22-2001
+	date: 2001-10-22
+	tag: Monica
+	tag: Doctor
+	tag: Glasses
+page:10192001
+	desc:10-19-2001
+	date: 2001-10-19
+	tag: Amanda
+	tag: Monica
+page:10172001
+	desc:10-17-2001
+	date: 2001-10-17
+	tag: Amanda
+	tag: Dietzel
+page:10152001
+	desc:10-15-2001
+	date: 2001-10-15
+	tag: Amanda
+	tag: Contacts
+	tag: Dietzel
+	tag: Monica
+page:10122001
+	desc:10-12-2001
+	date: 2001-10-12
+	tag: Amanda
+	tag: Contacts
+	tag: Dietzel
+	tag: Monica
+page:10102001
+	desc:10-10-2001
+	date: 2001-10-10
+	tag: Bar
+	tag: Darin
+	tag: Monica
+	tag: Shelly
+page:10082001
+	desc:10-08-2001
+	date: 2001-10-08
+	tag: Amanda
+	tag: Bar
+	tag: Monica
+page:10052001
+	desc:10-05-2001
+	date: 2001-10-05
+	tag: Amanda
+	tag: Monica
+page:10032001
+	desc:10-03-2001
+	date: 2001-10-03
+	tag: Dietzel
+	tag: Icewater
+	tag: Monica
+	tag: Shower
+page:10012001
+	desc:10-01-2001
+	date: 2001-10-01
+	tag: Dietzel
+	tag: Monica
+	tag: Shower
+page:09282001
+	desc:09-28-2001
+	date: 2001-09-28
+	tag: MuchoMocha
+	tag: Monica
+	tag: Becky
+page:09262001
+	desc:09-26-2001
+	date: 2001-09-26
+	tag: Darin
+	tag: Bar
+	tag: Shelly
+	tag: Jacqueline
+	tag: Owen
+page:09242001
+	desc:09-24-2001
+	date: 2001-09-24
+	tag: Monica
+	tag: Amanda
+	tag: LittleBlackDress
+page:09212001
+	desc:09-21-2001
+	date: 2001-09-21
+	tag: Monica
+	tag: Amanda
+	tag: Bra
+page:09192001
+	desc:09-19-2001
+	date: 2001-09-19
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: Amanda
+	tag: FermentedBanana
+	tag: Band
+page:09172001
+	desc:09-17-2001
+	date: 2001-09-17
+	tag: Monica
+	tag: Toothbrush
+	tag: FermentedBanana
+page:09142001
+	desc:09-14-2001
+	date: 2001-09-14
+	tag: Amanda
+	tag: Camera
+	tag: Bar
+	tag: Monica
+page:09122001
+	desc:09-12-2001
+	date: 2001-09-12
+	tag: Shelly
+	tag: Monica
+	tag: Computer
+page:09112001
+	desc:09-11-2001
+	date: 2001-09-11
+	tag: Monica
+	tag: Amanda
+	tag: VoodooDolls
+	tag: Peru
+	tag: Shelly
+	tag: Band
+	tag: Owen
+page:09102001
+	desc:09-10-2001
+	date: 2001-09-10
+	tag: Amanda
+	tag: Monica
+	tag: Roy
+	tag: Shelly
+	tag: Peru
+	tag: VoodooDolls
+page:09092001
+	desc:09-09-2001
+	date: 2001-09-09
+	tag: Monica
+	tag: Amanda
+; --- index eof ----

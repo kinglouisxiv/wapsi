@@ -1,0 +1,12 @@
+; --- tags.txt ---
+; reminder: this is comment - in case you need to flag changes, etc...
+; internal formatting is a mix of Markdown plus html (for <br> etc)
+; **bold**
+; _italic_
+; [internal link text](#sometag)
+; [external link text](http://www.gunnerkrigg.com)
+;
+;
+Amanda	photographer, [Monica's](#monica) childhood friend
+Monica	Monica Villarreal, Mexican, anthropologist, antique shop owner,
+; --- tags.txt EOF ---
