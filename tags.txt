@@ -7,6 +7,32 @@
 ; [external link text](http://www.gunnerkrigg.com)
 ;
 ;
-Amanda	photographer, [Monica's](#monica) childhood friend
-Monica	Monica Villarreal, Mexican, anthropologist, antique shop owner,
+Amanda  	Amanda Erlich: photographer, [Monica's](#monica) childhood friend
+AntiqueShop	Part-owned by [Monica](#monica), [Roy](#roy)
+Atsali  	Siren, adopted daughter of [Katherine](#katherine), thus sister of [Castela](#castela)
+AutoRepair	Minneapolis South Auto Repair & Restoration -- Shelly's [dad's](#mrwahnee) business where [Shelly](#shelly) worked as a mechanic 
+Daren   	barkeeper (aka Darin early on)
+Calista 	Fae, nickname: Cricket
+Castela 	nickname: Pickle; vine-girl, adopted daughter of [Katherine](#katherine), thus sister of [Atsali](#atsali); "child of the Guardians of the Doorways and a Daughter of the Wood"
+Dietzel  	[Monica's](#monica) long-suffering dog
+Georgette	fashionably thin model, fast metabolism
+GeorgettesDemon2	personal demon, painted mask face
+GeorgettesGuidance	personal demon, appears as a disembodied mask face
+Greg    	Dr Gregory Fields, [Monica's](#monica) boss at the [Museum](#museum)
+Jeff    	[museum](#museum) assistant (?)
+Jessie  	Mermaid (long light hair)
+Katherine	dark-eyed, shy woman; curator at the [museum](#museum); daughter of [Lily](#lily)	
+Krystle 	Mermaid (short dark hair)
+Library 	Off-plane library of all books, or all knowledge
+Lily    	Lily Pratt, vampire
+Monica  	Monica Villarreal, Mexican, anthropologist, [antique shop](#antiqueshop) owner
+MonicasDoubt	personal demon of [Monica's](#monica)
+MrWahnee	Shelly's dad. Half Comanche. 
+Museum  	Minneapolis University Historical Museum
+Owen    	Shelly's childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin), 
+Phix    	Sphinx, librarian at the [Library](#library)
+Roy     	part-owner of the [Antique Shop](#antiqueshop)
+Shelly  	Shelly Wahnee, muscle girl, wrench wench
+Suzy    	Suzy McBride, vampire
+Tiffany 	minds the [Antique Shop](#antiqueshop)
 ; --- tags.txt EOF ---

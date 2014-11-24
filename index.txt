@@ -25,359 +25,530 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ;
-; add:-
-; 	carpark/racetrack on the Cape
-;
+page:deal-with-it
+	date: 2014-11-24
+	desc: Deal With It
+	tag: Monica
+	tag: Phix
+	tag: Library
 page:still-around-2
-	tag: Snow
-	tag: LakeCalhoun
-	tag: Kevin
-	tag: Bud
+	date: 2014-11-19
 	desc: Still Around
-	date: 2014-11-19
+	tag: Bud
+	tag: Kevin
+	tag: LakeCalhoun
+	tag: Snow
 page:tired-of-hiding
-	tag: Snow
-	tag: LakeCalhoun
-	tag: Kevin
-	tag: Bud
+	date: 2014-11-19
 	desc: Tired Of Hiding
-	date: 2014-11-19
-page:snowfall
-	tag: Snow
+	tag: Bud
+	tag: Kevin
 	tag: LakeCalhoun
-	tag: Kevin
-	tag: Bud
-	desc: Snowfall
+	tag: Snow
+page:snowfall
 	date: 2014-11-19
-page:too-grounded
-	tag: Monica
-	tag: KevinHome
+	desc: Snowfall
+	tag: Bud
 	tag: Kevin
-	tag: Georgette
-	tag: CerebrusClub
-	desc: Too Grounded 
+	tag: LakeCalhoun
+	tag: Snow
+page:too-grounded
 	date: 2014-11-18
+	desc: Too Grounded 
+	tag: CerebrusClub
+	tag: Georgette
+	tag: Kevin
+	tag: KevinHome
+	tag: Monica
 page:stand-back
-	tag: Tina
-	tag: Monica
-	tag: Jin
-	tag: Georgette
-	tag: CerebrusClub
-	tag: Bud
-	desc: Stand Back
 	date: 2014-11-17
-page:say-so
-	tag: Poit
-	tag: Monica
+	desc: Stand Back
+	tag: Bud
+	tag: CerebrusClub
+	tag: Georgette
 	tag: Jin
-	tag: Georgette
-	tag: CerebrusClub
-	tag: Bud
-	desc: Say so
-	date: 2014-11-14
-page:where-are-you
 	tag: Monica
-	tag: Georgette
-	tag: CerebrusClub
-	tag: Bud
-	desc:Where Are You
-	date: 2014-11-13
-page:come-home-with-me
-	tag: Monica
-	tag: Georgette
-	tag: CerebrusClub
-	desc:Come Home With Me
-	date: 2014-11-12
-page:made-their-case
-	tag: Monica
-	tag: Georgette
-	tag: Dietzel
-	desc:Made Their Case
-	date: 2014-11-11
-page:better-show-you
 	tag: Tina
-	tag: Monica
-	tag: Dietzel
+page:say-so
+	date: 2014-11-14
+	desc: Say so
+	tag: Bud
 	tag: CerebrusClub
-	desc:Better Show You
+	tag: Georgette
+	tag: Jin
+	tag: Monica
+	tag: Poit
+page:where-are-you
+	date: 2014-11-13
+	desc: Where Are You
+	tag: Bud
+	tag: CerebrusClub
+	tag: Georgette
+	tag: Monica
+page:come-home-with-me
+	date: 2014-11-12
+	desc: Come Home With Me
+	tag: CerebrusClub
+	tag: Georgette
+	tag: Monica
+page:made-their-case
+	date: 2014-11-11
+	desc: Made Their Case
+	tag: Dietzel
+	tag: Georgette
+	tag: Monica
+	tag: Bud
+page:better-show-you
 	date: 2014-11-10
+	desc: Better Show You
+	tag: CerebrusClub
+	tag: Dietzel
+	tag: Monica
+	tag: Tina
 page:please-repeat-that
-	tag: Castela
-	tag: Atsali
-	desc:Please Repeat That
 	date: 2014-11-07
+	desc: Please Repeat That
+	tag: Atsali
+	tag: Castela
+	tag: Computer
+	tag: TeddyBear
 page:well-played
-	tag: Katherine
-	tag: Castela
-	desc:Well Played
 	date: 2014-11-06
+	desc: Well Played
+	tag: Castela
+	tag: Katherine
 page:an-adorable-rose-bush
-	tag: Katherine
-	tag: Castela
-	desc:An Adorable Rose Bush
 	date: 2014-11-05
+	desc: An Adorable Rose Bush
+	tag: Castela
+	tag: Katherine
 page:my-job
-	tag: Katherine
-	tag: Atsali
-	desc:My Job
 	date: 2014-11-04
-page:door-is-shut
-	tag: Castela
+	desc: My Job
 	tag: Atsali
-	desc:Door Is Shut
-	date: 2014-11-03
-page:you-like-her
-	tag: Nadette
 	tag: Katherine
-	tag: Castela
-	tag: Berdine
+page:door-is-shut
+	date: 2014-11-03
+	desc: Door Is Shut
 	tag: Atsali
-	desc:You Like Her
+	tag: Castela
+page:you-like-her
 	date: 2014-10-29
+	desc: You Like Her
+	tag: Atsali
+	tag: Berdine
+	tag: Castela
+	tag: Katherine
+	tag: Nadette
 page:one-spare-sister
-	tag: Nadette
-	tag: Castela
-	tag: Berdine
-	tag: Atsali
-	desc:One Spare Sister
 	date: 2014-10-28
+	desc: One Spare Sister
+	tag: Atsali
+	tag: Berdine
+	tag: Castela
+	tag: Computer
+	tag: Nadette
 page:not-wearing-a-bra
-	tag: Nadette
-	tag: Castela
-	tag: Atsali
-	desc:Not Wearing A Bra
 	date: 2014-10-27
+	desc: Not Wearing A Bra
+	tag: Atsali
+	tag: Castela
+	tag: Computer
+	tag: Nadette
 page:hold-your-form
-	tag: Nadette
-	tag: Castela
-	tag: Atsali
-	desc:Hold Your Form
 	date: 2014-10-23
+	desc: Hold Your Form
+	tag: Atsali
+	tag: Castela
+	tag: Computer
+	tag: Nadette
 page:perfect-for-you
-	tag: Nadette
-	tag: Atsali
-	desc:Perfect For You
 	date: 2014-10-22
+	desc: Perfect For You
+	tag: Atsali
+	tag: Nadette
+	tag: Jacob
+	tag: Computer
+	tag: Wings
 page:secret-mission
-	tag: Castela
-	tag: Atsali
-	desc:Secret Mission
 	date: 2014-10-21
+	desc: Secret Mission
+	tag: Atsali
+	tag: Castela
 page:call-baby-unicorns
-	tag: Castela
-	tag: Atsali
-	desc:Call Baby Unicorns
 	date: 2014-10-20
+	desc: Call Baby Unicorns
+	tag: Atsali
+	tag: Castela
 page:nothing-special
-	tag: Castela
-	tag: Atsali
-	desc:Nothing Special
 	date: 2014-10-17
+	desc: Nothing Special
+	tag: Atsali
+	tag: Castela
 page:watcha-dooin
-	tag: Castela
-	tag: Atsali
-	desc:Watcha Dooin
 	date: 2014-10-16
-page:midnight-snack
+	desc: Watcha Dooin
+	tag: Atsali
 	tag: Castela
-	tag: Atsali
-	desc:Midnight Snack
+page:midnight-snack
 	date: 2014-10-15
+	desc: Midnight Snack
+	tag: Atsali
+	tag: Castela
 page:atsali-angst
-	tag: Atsali
-	desc:Atsali Angst
 	date: 2014-10-14
+	desc: Atsali Angst
+	tag: Atsali
 page:know-what-this-means
-	tag: Nadette
-	tag: Berdine
-	tag: Atsali
-	desc:Know What This Means
 	date: 2014-10-13
+	desc: Know What This Means
+	tag: Atsali
+	tag: Berdine
+	tag: Island
+	tag: Kiss
+	tag: Nadette
 page:need-to-listen
-	tag: Nadette
-	tag: Berdine
-	tag: Atsali
-	desc:Need To Listen
 	date: 2014-10-10
+	desc: Need To Listen
+	tag: Atsali
+	tag: Berdine
+	tag: Island
+	tag: Nadette
 page:my-warmth
-	tag: Berdine
-	tag: Atsali
-	desc:My Warmth
 	date: 2014-10-09
+	desc: My Warmth
+	tag: Atsali
+	tag: Berdine
+	tag: Island
 page:the-sound-of-my-voice
-	tag: Nadette
-	tag: Berdine
-	tag: Atsali
-	desc:The Sound Of My Voice
 	date: 2014-10-08
-page:just-your-type
-	tag: Nadette
-	tag: Berdine
+	desc: The Sound Of My Voice
 	tag: Atsali
-	desc:Just Your Type
+	tag: Berdine
+	tag: Island
+	tag: Nadette
+page:just-your-type
 	date: 2014-10-07
+	desc: Just Your Type
+	tag: Atsali
+	tag: Berdine
+	tag: Island
+	tag: Nadette
 page:bedtime-snack
-	tag: Monica
-	tag: Dietzel
-	desc:Bedtime Snack
 	date: 2014-10-06
+	desc: Bedtime Snack
+	tag: CrimsonMantis
+	tag: Dietzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Muffin
 page:so-cute
-	tag: Monica
-	tag: Dietzel
-	desc:So Cute
 	date: 2014-10-03
+	desc: So Cute
+	tag: Dietzel
+	tag: Monica
 page:camel-spider-food
-	tag: Monica
-	tag: Library
-	tag: Calista
-	desc:Camel Spider Food
 	date: 2014-10-02
+	desc: Camel Spider Food
+	tag: Calista
+	tag: Library
+	tag: Monica
 page:im-sorry
-	tag: Monica
-	tag: Library
-	tag: Dietzel
-	tag: Calista
-	desc:I'm Sorry
 	date: 2014-10-01
-page:dietzel-sweetie
-	tag: Library
-	tag: Dietzel
+	desc: I'm Sorry
 	tag: Calista
-	desc:Dietzel Sweetie
-	date: 2014-09-30
-page:everything-is-okay
-	tag: SheepHead
-	tag: Monica
+	tag: Dietzel
 	tag: Library
-	tag: HornHead
-	tag: Gryphon
-	tag: FishFace
-	desc:Everything Is Okay
-	date: 2014-09-29
-page:lands-on-her-feet
 	tag: Monica
-	desc:Lands On Her Feet
+page:dietzel-sweetie
+	date: 2014-09-30
+	desc: Dietzel Sweetie
+	tag: Calista
+	tag: Dietzel
+	tag: Library
+page:everything-is-okay
+	date: 2014-09-29
+	desc: Everything Is Okay
+	tag: FishFace
+	tag: Gryphon
+	tag: HornHead
+	tag: Library
+	tag: Monica
+	tag: SheepHead
+page:lands-on-her-feet
 	date: 2014-09-26
+	desc: Lands On Her Feet
+	tag: Monica
 page:figure-it-out
-	desc:Figure It Out
+	desc: Figure It Out
 	date: 2014-09-25
+	tag: Library
+	tag: Monica
+	Tag: Phix
+	tag: Shelly
 page:best-idea-ever
-	desc:Best Idea Ever
+	desc: Best Idea Ever
 	date: 2014-09-24
+	tag: Calista
+	tag: Dietzel
+	tag: JumpingSpider
+	tag: Library
+	tag: LibraryNavigation
+	tag: SpiderSilk
 page:curious-explorer
-	desc:Curious Explorer
 	date: 2014-09-23
+	desc: Curious Explorer
+	tag: Calista
+	tag: Dietzel
+	tag: JumpingSpider
+	tag: Library
 page:always-seems-worse
-	desc:Always Seems Worse
 	date: 2014-09-22
+	desc: Always Seems Worse
+	tag: Calista
+	tag: Dietzel
+	tag: JumpingSpider
+	tag: Library
 page:not-permanent
-	desc:Not Permanent
 	date: 2014-09-19
+	desc: Not Permanent
+	tag: AnxietyArc
+	tag: Calista
+	tag: Dietzel
+	tag: Library
 page:did-you-hear-something
-	desc:Did You Hear Something
 	date: 2014-09-18
+	desc: Did You Hear Something
+	tag: Calista
+	tag: Dietzel
+	tag: Library
+	tag: Monica
+	tag: Phix
 page:visiting-too
-	desc:Visiting Too
 	date: 2014-09-17
+	desc: Visiting Too
+	tag: Calista
+	tag: Dietzel
+	tag: Library
 page:soften-her-up
-	desc:Soften Her Up
 	date: 2014-09-16
+	desc: Soften Her Up
+	tag: CalistasDemon 
+	tag: GasMask
+	tag: Libary
+	tag: Monica
+	tag: MonicasDemon
+	tag: MonicasDoubt
 page:only-harm-me
-	desc:Only Harm Me
 	date: 2014-09-15
+	desc: Only Harm Me
+	tag: Calista
+	tag: CalistasDemon 
+	tag: GasMask
+	tag: Libary
+	tag: Monica
+	tag: MonicasDemon
+	tag: MonicasDoubt
 page:far-out
-	desc:Far Out
 	date: 2014-09-12
+	desc:Far Out
+	tag: Calista
+	tag: Libary
+	tag: Monica
+	tag: MonicasDemon
+	tag: MonicasDoubt
 page:time-for-a-break
-	desc:Time For A Break
 	date: 2014-09-11
+	desc: Time For A Break
+	tag: Calista
+	tag: CalistasDemon 
+	tag: Libary
+	tag: Monica
 page:let-me-go
-	desc:Let Me Go
 	date: 2014-09-10
+	desc: Let Me Go
+	tag: Calista
+	tag: CalistasDemon
+	tag: GasMask	
 page:there-they-are
-	desc:There They Are
 	date: 2014-09-09
+	desc: There They Are
+	tag: Birdcage
+	tag: Calista
+	tag: CalistasDemon
+	tag: GasMask
+	tag: Monica
 page:own-what-you-do
-	desc:Own What You Do
 	date: 2014-09-08
+	desc: Own What You Do
+	tag: Calista
+	tag: Monica
 page:pickles-wall
-	desc:Pickle's Wall
 	date: 2014-09-05
+	desc:Pickle's Wall
+	tag: Castela
 page:the-right-thing
-	desc:The Right Thing
 	date: 2014-09-04
+	desc:The Right Thing
+	tag: Castela
+	tag: Katherine
 page:grandma-lily
-	desc:Grandma Lily
 	date: 2014-09-03
+	desc:Grandma Lily
+	tag: Castela
+	tag: Lily
 page:hair-did
-	desc:Hair Did
 	date: 2014-09-02
+	desc: Hair Did
+	tag: Atsali
+	tag: Castela
 page:died-alone-2
-	desc:Died Alone
 	date: 2014-08-29
+	desc: Died Alone
+	tag: Island
+	tag: Lily
+	tag: Suzy
 page:letting-someone-down
-	desc:Letting Someone Down
 	date: 2014-08-28
+	desc: Letting Someone Down
+	tag: Island
+	tag: Lily
+	tag: Suzy
 page:on-edge-like-this
-	desc:On Edge Like This
 	date: 2014-08-27
+	desc: On Edge Like This
+	tag: Island
+	tag: Lily
+	tag: Suzy
 page:trying-to-relax
-	desc:Trying To Relax
 	date: 2014-08-26
+	desc: Trying To Relax
+	tag: Island
+	tag: Lily
+	tag: Suzy
 page:hold-down-the-fort
-	desc:Hold Down The Fort
 	date: 2014-08-25
+	desc: Hold Down The Fort
+	note: mention of Roy's death
+	tag: AntiqueShop
+	tag: Georgette
+	tag: Monica
+	tag: Poit
+	tag: Roy
+	tag: Tiffany
 page:coming-soon
 	desc:Coming Soon
 	date: 2014-08-22
+	tag: Filler
 page:side-by-side
-	desc:Side By Side
 	date: 2014-08-21
+	desc: Side By Side
+	tag: Georgette
+	tag: GeorgettesDemon2
+	tag: GeorgettesGuidance
 page:oops
 	desc:Oops
 	date: 2014-08-20
+	tag: Georgette
+	tag: GeorgettesGuidance
 page:side-effect
 	desc:Side Effect
 	date: 2014-08-19
+	tag: Georgette
+	tag: GeorgetteHome
+	tag: GeorgettesGuidance
+	tag: GeorgettesDemon2	
 page:not-that-scary
 	desc:Not That Scary
 	date: 2014-08-18
+	tag: Georgette
+	tag: GeorgetteHome
+	tag: GuidanceGeorgette
 page:do-this-together
-	desc:Do This Together
+	desc: Do This Together
 	date: 2014-08-15
 page:like-wildfire
-	desc:Like Wildfire
+	desc: Like Wildfire
 	date: 2014-08-14
+	tag: UnidentifiedGirl
+	tag: Jessie
+	tag: Nadette
+	tag: Krystle
+	tag: Calista
+	tag: Phone
+	tag: Fart
 page:not-buying-it
-	desc:Not Buying It
+	desc: Not Buying It
 	date: 2014-08-13
+	tag: Jessie
+	tag: Krystle
+	tag: School
+	tag: UnidentifiedGirl
+	tag: Phone
+	tag: Fart
 page:not-like-that-2
-	desc:Not Like That
+	desc: Not Like That
 	date: 2014-08-12
+	tag: Jessie
+	tag: Krystle
+	tag: School
+	tag: UnidentifiedGirl
 page:darn-good
-	desc:Darn Good
+	desc: Darn Good
 	date: 2014-08-11
+	tag: Atsali
+	tag: School
+	tag: Calista
+	tag: Jessie
+	tag: Krystle
 page:already-a-princess
-	desc:Already A Princess
+	desc: Already A Princess
 	date: 2014-08-08
+	tag: Atsali
+	tag: School
+	tag: Calista
+	tag: Jessie
+	tag: Krystle
 page:keep-yer-voice-down
-	desc:Keep Yer Voice Down
+	desc: Keep Yer Voice Down
 	date: 2014-08-07
+	tag: Atsali
+	tag: School
+	tag: Calista
 page:deserved-it-2
-	desc:Deserved It
+	desc: Deserved It
 	date: 2014-08-06
+	tag: Atsali
+	tag: Calista
+	tag: Castela
+	tag: School
 page:one-who-could-cry
-	desc:One Who Could Cry
+	desc: One Who Could Cry
 	date: 2014-08-05
+	tag: Calista
+	tag: Nadine
+	tag: School
 page:strange-doorway
-	desc:Strange Doorway
+	desc: Strange Doorway
 	date: 2014-08-04
+	tag: Atsali
+	tag: Calista
+	tag: Castela
+	tag: Nadine
+	tag: School
 page:not-tough
-	desc:Not Tough
+	desc: Not Tough
 	date: 2014-08-01
+	tag: Atsali
+	tag: Calista
+	tag: School
 page:castel-enora-gilchrist
-	desc:Castel Enora Gilchrist
+	desc: Castel Enora Gilchrist
 	date: 2014-07-31
+	tag: Castela
+	tag: Atsali
+	tag: Katherine
+	tag: School
 page:ancient-guardians
 	desc:Ancient Guardians
 	date: 2014-07-30
@@ -8676,239 +8847,579 @@ page:05022003
 	desc:05-02-2003
 	date: 2003-05-02
 page:04302003
-	desc:04-30-2003
 	date: 2003-04-30
+	desc:04-30-2003
+	tag: Shelly
+	tag: ShellyHome
+	tag: Smoke
 page:04282003
-	desc:04-28-2003
 	date: 2003-04-28
+	desc:04-28-2003
+	tag: FireExtinguisher
+	tag: Popcorn	
+	tag: Shelly
+	tag: ShellyHome
+	tag: Smoke
 page:04252003
-	desc:04-25-2003
 	date: 2003-04-25
+	desc:04-25-2003
+	tag: Popcorn	
+	tag: Shelly
+	tag: ShellyHome
+	tag: Smoke
+	tag: VideoTape
 page:04232003
 	desc:04-23-2003
 	date: 2003-04-23
+	tag: Shelly
+	tag: ShellyHome
+	tag: VideoTape
+	tag: Popcorn	
 page:04212003
-	desc:04-21-2003
 	date: 2003-04-21
+	desc:04-21-2003
+	tag: Popcorn
+	tag: Shelly
+	tag: ShellyHome
+	tag: VideoTape
 page:04182003
-	desc:04-18-2003
 	date: 2003-04-18
+	desc:04-18-2003
+	tag: Shelly
+	tag: ShellyHome
+	tag: VideoTape
 page:04162003
-	desc:04-16-2003
 	date: 2003-04-16
+	desc:04-16-2003
+	tag: DarensBar
+	tag: Shelly
 page:04142003
-	desc:04-14-2003
 	date: 2003-04-14
+	desc:04-14-2003
+	tag: Dietzel
+	tag: Monica
+	tag: PizzaGirl
+	tag: Taxi
 page:04112003
-	desc:04-11-2003
 	date: 2003-04-11
+	desc: The "F" word!
+	tag: Bar
+	tag: DarensBar
+	tag: Friend
+	tag: Owen
+	tag: Shelly
+	tag: Simone
 page:04092003
-	desc:04-09-2003
 	date: 2003-04-09
+	desc:04-09-2003
+	tag: Bar
+	tag: DarensBar
+	tag: Owen
+	tag: Shelly
 page:04072003
 	desc:04-07-2003
 	date: 2003-04-07
+	tag: Shelly
+	tag: Owen
+	tag: DarensBar
+	tag: Bar
 page:04042003
-	desc:04-04-2003
 	date: 2003-04-04
+	desc:04-04-2003
+	tag: Bar
+	tag: Daren
+	tag: DarensBar
+	Tag: Deitzel
+	Tag: Shelly
+	Tag: Simone
 page:04022003
 	desc:04-02-2003
 	date: 2003-04-02
+	tag: Shelly
+	tag: Snow
 page:03312003
 	desc:03-31-2003
 	date: 2003-03-31
+	tag: Marta
+	tag: Monica
+	tag: Rigo
+	tag: RigoLadyFriend
+	tag: Monterrey
 page:03282003
 	desc:03-28-2003
 	date: 2003-03-28
+	tag: Monica
+	tag: Rigo
+	tag: RigoLadyFriend
+	tag: Monterrey
 page:03262003
 	desc:03-26-2003
 	date: 2003-03-26
+	tag: Rigo
+	tag: Monica
+	tag: Monterrey
+	tag: Marta
+	tag: Miguel
 page:03242003
-	desc:03-24-2003
+	desc: 03-24-2003
 	date: 2003-03-24
+	tag: Rigo
+	tag: Monterrey
+	tag: Monica
+	tag: Marta
 page:03212003
-	desc:03-21-2003
 	date: 2003-03-21
+	desc: 03-21-2003
+	tag: Amanda
+	tag: Beach
+	tag: Claire
+	tag: Debra
+	tag: FireFighters
+	tag: Shark
 page:03192003
-	desc:03-19-2003
 	date: 2003-03-19
+	desc: 03-19-2003
+	tag: Amanda
+	tag: Beach
+	tag: Debra
+	tag: FireFighters
+	tag: Shark
 page:03172003
-	desc:03-17-2003
 	date: 2003-03-17
+	desc:03-17-2003
+	tag: Amanda
+	tag: Beach
+	tag: Butterfly
+	tag: Claire
+	tag: Debra
+	tag: FireFighters
 page:03142003
-	desc:03-14-2003
 	date: 2003-03-14
+	desc: 03-14-2003
+	tag: Bar
+	tag: DarensBar
+	tag: Dietzel
+	tag: SpinTheBottle
 page:03122003
 	desc:03-12-2003
 	date: 2003-03-12
+	tag: Owen
+	tag: MusicBin
+	tag: PrasadHouse
+	tag: LakshmiSister
+	tag: Lakshmi
 page:03102003
 	desc:03-10-2003
 	date: 2003-03-10
+	tag: Owen
+	tag: MusicBin
+	tag: PrasadHouse
+	tag: LakshmiSister
 page:03072003
 	desc:03-07-2003
 	date: 2003-03-07
+	tag: Owen
+	tag: MusicBin
 page:03052003
 	desc:03-05-2003
 	date: 2003-03-05
+	tag: MrWahnee
+	tag: Shelly
+	tag: AutoRepair
 page:03032003
 	desc:03-03-2003
 	date: 2003-03-03
+	tag: Shelly
+	tag: AutoRepair
 page:02282003
 	desc:02-28-2003
 	date: 2003-02-28
+	tag: Shelly
+	tag: Owen
 page:02262003
 	desc:02-26-2003
 	date: 2003-02-26
+	tag: Shelly
+	tag: Tina
+	tag: MuchoMocha
 page:02242003
-	desc:02-24-2003
 	date: 2003-02-24
+	desc: 02-24-2003
+	tag: Band
+	tag: FermentedBanana
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: VWVan
+	tag: Snow
 page:02212003
-	desc:02-21-2003
 	date: 2003-02-21
+	desc: 02-21-2003
+	tag: Monica
+	tag: MonicasAunt
+	tag: Monterrey
+	tag: Rigo
+	tag: Tio
 page:02192003
 	desc:02-19-2003
 	date: 2003-02-19
+	tag: Monica
+	tag: Monterrey
+	tag: Tio
+	tag: Rigo
 page:02172003
-	desc:02-17-2003
 	date: 2003-02-17
+	desc:02-17-2003
+	tag: Marta
+	tag: Monica
+	tag: Monterrey
+	tag: Rigo
 page:02142003
-	desc:02-14-2003
 	date: 2003-02-14
+	desc:02-14-2003
+	tag: Monica
+	tag: Monterrey
+	tag: Rigo
 page:02122003
-	desc:02-12-2003
 	date: 2003-02-12
+	desc:02-12-2003
+	tag: Monica
+	tag: MonicasAunt	
+	tag: Monterrey
+	tag: Rigo
+	tag: Tio
 page:02102003
-	desc:02-10-2003
 	date: 2003-02-10
+	desc: 02-10-2003
+	tag: Marta
+	tag: Monica
+	tag: Monterrey
+	tag: Rigo
+	tag: Tio
 page:02072003
-	desc:02-07-2003
 	date: 2003-02-07
+	desc:02-07-2003
+	tag: Band
+	tag: FermentedBanana
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow
+	tag: Jacqueline
 page:02052003
-	desc:02-05-2003
 	date: 2003-02-05
+	desc: 02-05-2003
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow
+	tag: ThePlowBimbo
 page:02032003
-	desc:02-03-2003
 	date: 2003-02-03
+	desc: 02-03-2003
+	tag: Shelly
+	tag: Owen
+	tag: Jacqueline
+	tag: Band
+	tag: FermentedBanana
+	tag: ThePlow
 page:01312003
-	desc:01-31-2003
 	date: 2003-01-31
+	desc:01-31-2003
+	tag: Heather
+	tag: Owen
+	tag: ThePlow
 page:01292003
-	desc:01-29-2003
 	date: 2003-01-29
+	desc:01-29-2003
+	tag: Band
+	tag: FermentedBanana
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow
 page:01272003
-	desc:01-27-2003
 	date: 2003-01-27
+	desc: 01-27-2003
+	tag: Abuela
+	tag: Marta
+	tag: Monterrey
+	tag: Monica
 page:01242003
-	desc:01-24-2003
 	date: 2003-01-24
+	desc: 01-24-2003
+	tag: Abuela
+	tag: Marta
+	tag: Monterrey
+	tag: Monica
+	tag: MonicasAunt
 page:01222003
-	desc:01-22-2003
 	date: 2003-01-22
+	desc:01-22-2003
+	tag: Abuela
+	tag: Marta
+	tag: Monterrey
+	tag: Monica
+	tag: MonicasAunt
 page:01202003
-	desc:01-20-2003
 	date: 2003-01-20
+	desc:01-20-2003
+	tag: Amanda
+	tag: AmandasPA
+	tag: Beach
+	tag: Claire
+	tag: FireFighters
+	tag: Julie
+	tag: Nikki
 page:01172003
 	desc:01-17-2003
 	date: 2003-01-17
+	tag: Amanda
+	tag: AmandasPA
+	tag: Beach
 page:01152003
 	desc:01-15-2003
 	date: 2003-01-15
+	tag: Amanda
+	tag: Claire
+	tag: FireFighters
+	tag: Julie
+	tag: Nikki
 page:01132003
-	desc:01-13-2003
 	date: 2003-01-13
+	desc:01-13-2003
+	tag: Amanda
+	tag: Claire
+	tag: FireFighters
+	tag: Julie
+	tag: Nikki
 page:01102003
-	desc:01-10-2003
 	date: 2003-01-10
+	desc:01-10-2003
+	tag: Airport
+	tag: Amanda
+	tag: AmandasPA
 page:01082003
-	desc:01-08-2003
 	date: 2003-01-08
+	desc:01-08-2003
+	tag: Band
+	tag: FermentedBanana
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow	
 page:01062003
-	desc:01-06-2003
 	date: 2003-01-06
+	desc:01-06-2003
+	tag: Band
+	tag: FermentedBanana
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow	
 page:01032003
-	desc:01-03-2003
 	date: 2003-01-03
+	desc: 01-03-2003
+	tag: Band
+	tag: FermentedBanana
+	tag: Heather
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow	
 page:01012003
-	desc:01-01-2003
+	desc: 01-01-2003
 	date: 2003-01-01
+	tag: Band
+	tag: FermentedBanana
+	tag: Heather
+	tag: IntentionalThumbprint
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow	
 page:12302002
-	desc:12-30-2002
 	date: 2002-12-30
+	desc:12-30-2002
+	tag: Band
+	tag: FermentedBanana
+	tag: Heather
+	tag: IntentionalThumbprint
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow
 page:12272002
-	desc:12-27-2002
 	date: 2002-12-27
+	desc:12-27-2002
+	tag: Daren
+	tag: DarensBar
+	tag: Dietzel
+	tag: Jacks
 page:12252002
-	desc:12-25-2002
 	date: 2002-12-25
+	desc: Xmas ’02
+	tag: Amanda
+	tag: Deitzel
+	tag: Filler
+	tag: Monica
+	tag: Shelly
 page:12232002
 	desc:12-23-2002
 	date: 2002-12-23
+	tag: Daren
+	tag: DarensBar
+	tag: Deitzel
 page:12202002
 	desc:12-20-2002
 	date: 2002-12-20
+	tag: Airport
+	tag: Marta
+	tag: Mexico
+	tag: Monica
 page:12182002
 	desc:12-18-2002
 	date: 2002-12-18
+	tag: Airport
+	tag: Marta
+	tag: Mexico
+	tag: Monica
 page:12162002
-	desc:12-16-2002
 	date: 2002-12-16
+	desc:12-16-2002
+	tag: Airport
+	tag: Marta
+	tag: Mexico
+	tag: Monica
 page:12132002
-	desc:12-13-2002
 	date: 2002-12-13
+	desc:12-13-2002
+	tag: Band
+	tag: FermentedBanana
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: ThePlow
+	tag: VWVan
 page:12112002
 	desc:12-11-2002
 	date: 2002-12-11
+	tag: Band
+	tag: FermentedBanana
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: VWVan
 page:12092002
-	desc:12-09-2002
 	date: 2002-12-09
+	desc: 12-09-2002
+	tag: Band
+	tag: FermentedBanana
+	tag: IntentionalThumbprint
+	tag: Jacqueline
+	tag: Owen
+	tag: Shelly
+	tag: VWVan
 page:12062002
-	desc:12-06-2002
 	date: 2002-12-06
+	desc:12-06-2002
+	tag: Airport
+	tag: Bra
+	tag: Monica
 page:12042002
-	desc:12-04-2002
 	date: 2002-12-04
+	desc:12-04-2002
+	tag: Dietzel
+	tag: Monica
+	tag: TV
 page:12022002
-	desc:12-02-2002
 	date: 2002-12-02
+	desc:12-02-2002
+	tag: Amanda
+	tag: DarensBar
+	tag: Monica
 page:11292002
-	desc:11-29-2002
 	date: 2002-11-29
+	desc:11-29-2002
+	tag: Amanda
+	tag: Daren
+	tag: DarensBar
+	tag: Monica
 page:11272002
-	desc:11-27-2002
 	date: 2002-11-27
+	desc: You still see me as a little girl
+	tag: AutoRepair
+	tag: MrWahnee
+	tag: Shelly
 page:11252002
-	desc:11-25-2002
 	date: 2002-11-25
+	desc: Watch Deitzel for me?
+	tag: Amanda
+	tag: AmandaStudio
+	tag: Monica
 page:11222002
-	desc:11-22-2002
 	date: 2002-11-22
+	desc:11-22-2002
+	tag: Envelope
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
 page:11202002
-	desc:11-20-2002
 	date: 2002-11-20
+	desc: Is that one of those dolls that plays music and dances?
+	tag: Envelope
+	tag: Greg
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
 page:11182002
-	desc:11-18-2002
+	desc: Going to Mexico
 	date: 2002-11-18
+	tag: Envelope
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
 page:11152002
-	desc:11-15-2002
 	date: 2002-11-15
+	desc: 11-15-2002
+	tag: Envelope
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
 page:11132002
-	desc:11-13-2002
-	date: 2002-11-13
+	date: Open the Envelope Already
+	desc: 11-13-2002
+	tag: Envelope
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
 page:11112002
-	desc:11-11-2002
 	date: 2002-11-11
+	desc: 11-11-2002
+	tag: Envelope
+	tag: Jeff
+	tag: Monica
+	tag: Museum
 page:11082002
-	desc:11-08-2002
 	date: 2002-11-08
+	desc:11-08-2002
+	tag: Birdcage
+	tag: Buddha
+	tag: Greg
+	tag: Kali
+	tag: Laser
+	tag: Monica
+	tag: Museum
 page:11062002
 	desc:11-06-2002
 	date: 2002-11-06
+	tag: Monica
+	tag: Greg
 page:11042002
 	desc:11-04-2002
 	date: 2002-11-04
+	tag: Monica
 page:11012002
-	desc:11-01-2002
 	date: 2002-11-01
+	desc:11-01-2002
+	tag: AutoRepair
+	tag: MrWahnee
+	tag: Shelly
 page:10302002
 	desc:10-30-2002
 	date: 2002-10-30
@@ -9122,7 +9633,7 @@ page:08122002
 page:08092002
 	desc:08-09-2002
 	date: 2002-08-09
-	tag: Darin
+	tag: Daren
 	tag: Bar
 	tag: Amanda
 	tag: Monica
@@ -9144,21 +9655,21 @@ page:08022002
 	tag: Museum
 	tag: Monica
 	tag: Kevin
-	tag: GregoryFields
+	tag: Greg
 page:07312002
 	desc:07-31-2002
 	date: 2002-07-31
 	tag: Museum
 	tag: Monica
 	tag: Kevin
-	tag: GregoryFields
+	tag: Greg
 page:07292002
 	desc:07-29-2002
 	date: 2002-07-29
 	tag: Museum
 	tag: Monica
 	tag: Kevin
-	tag: GregoryFields
+	tag: Greg
 page:07262002
 	desc:07-26-2002
 	date: 2002-07-26
@@ -9200,35 +9711,35 @@ page:07122002
 	date: 2002-07-12
 	tag: Museum
 	tag: Monica
-	tag: GregoryFields
+	tag: Greg
 	tag: Kevin
 page:07102002
 	desc:07-10-2002
 	date: 2002-07-10
 	tag: Museum
 	tag: Monica
-	tag: GregoryFields
+	tag: Greg
 page:07082002
 	desc:07-08-2002
 	date: 2002-07-08
 	tag: Museum
 	tag: Monica
-	tag: GregoryFields
+	tag: Greg
 page:07052002
 	desc:07-05-2002
 	date: 2002-07-05
 	tag: Museum
 	tag: Monica
-	tag: GregoryFields
+	tag: Greg
 	tag: GregsOffice
 page:07032002
-	desc:07-03-2002
+	desc: 07-03-2002
 	date: 2002-07-03
 	tag: Museum
 	tag: Monica
-	tag: GregoryFields
+	tag: Greg
 page:07012002
-	desc:07-01-2002
+	desc: 07-01-2002
 	date: 2002-07-01
 	tag: Shelly
 	tag: Amanda
@@ -9236,7 +9747,7 @@ page:07012002
 	tag: Photo
 	tag: Fishing	
 page:06282002
-	desc:06-28-2002
+	desc: 06-28-2002
 	date: 2002-06-28
 	tag: Shelly
 	tag: Amanda
@@ -9263,8 +9774,8 @@ page:06212002
 page:06192002
 	desc:06-19-2002
 	date: 2002-06-19
-	note: Darin named Daren here
-	tag: Darin
+	note: Daren named Daren here
+	tag: Daren
 	tag: Owen
 	tag: Shelly
 	tag: Bar
@@ -9542,7 +10053,7 @@ page:03112002
 	tag: Bikers
 	tag: Car
 	tag: Monica
-	tag: Motorbikes
+	tag: Motorbike
 	tag: Shelly
 page:03082002
 	desc:03-08-2002
@@ -9616,7 +10127,7 @@ page:02152002
 	desc:02-15-2002
 	date: 2002-02-15
 	tag: SallysBar
-	tag: MotorBike
+	tag: Motorbike
 	tag: Bar
 	tag: Monica
 page:02132002
@@ -9652,7 +10163,7 @@ page:02012002
 	date: 2002-02-01
 	tag: Monica
 	tag: Museum
-	tag: MuseumBoss
+	tag: Greg
 	tag: MuseumContribtors
 page:01302002
 	desc:01-30-2002
@@ -9727,7 +10238,7 @@ page:01042002
 	desc:01-04-2002
 	date: 2002-01-04
 	tag: Bar
-	tag: Darin
+	tag: Daren
 	tag: Monica
 	tag: Amanda
 page:01022002
@@ -9920,7 +10431,7 @@ page:10292001
 	desc:10-29-2001
 	date: 2001-10-29
 	tag: Monica
-	tag: Darin
+	tag: Daren
 	tag: Bar
 	tag: SchoolKids
 page:10262001
@@ -9936,7 +10447,7 @@ page:10242001
 	tag: Desert
 	tag: Monica
 	tag: Amanda
-	tag: Darin
+	tag: Daren
 	tag: Buzzard
 	tag: Skeleton
 page:10222001
@@ -9959,21 +10470,21 @@ page:10152001
 	desc:10-15-2001
 	date: 2001-10-15
 	tag: Amanda
-	tag: Contacts
+	tag: ContactLens
 	tag: Dietzel
 	tag: Monica
 page:10122001
 	desc:10-12-2001
 	date: 2001-10-12
 	tag: Amanda
-	tag: Contacts
+	tag: ContactLens
 	tag: Dietzel
 	tag: Monica
 page:10102001
 	desc:10-10-2001
 	date: 2001-10-10
 	tag: Bar
-	tag: Darin
+	tag: Daren
 	tag: Monica
 	tag: Shelly
 page:10082001
@@ -10009,7 +10520,7 @@ page:09282001
 page:09262001
 	desc:09-26-2001
 	date: 2001-09-26
-	tag: Darin
+	tag: Daren
 	tag: Bar
 	tag: Shelly
 	tag: Jacqueline
