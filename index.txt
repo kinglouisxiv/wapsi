@@ -25,6 +25,24 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
+page:such-a-screw-up
+	desc: Such A Screw Up
+	date: 2014-12-03
+	tag: Calista
+	tag: Library
+	tag: Monica
+page:common-experiences
+	desc: Common Experiences
+	date: 2014-12-02
+	tag: Calista
+	tag: Library
+	tag: Monica
+page:became-self-aware
+	desc: Became Self Aware
+	date: 2014-12-01
+	tag: Calista
+	tag: Library
+	tag: Monica
 page:happy-thanksgiving
 	tag: Castela
 	tag: Filler
@@ -7652,531 +7670,1157 @@ page:castel-enora-gilchrist
 ;page:05022005
 ;	desc:05-02-2005
 ;	date: 2005-05-02
-;page:04292005
-;	desc:04-29-2005
-;	date: 2005-04-29
-;page:04282005
-;	desc:04-28-2005
-;	date: 2005-04-28
-;page:04272005
-;	desc:04-27-2005
-;	date: 2005-04-27
-;page:04262005
-;	desc:04-26-2005
-;	date: 2005-04-26
-;page:04252005
-;	desc:04-25-2005
-;	date: 2005-04-25
-;page:04222005
-;	desc:04-22-2005
-;	date: 2005-04-22
-;page:04212005
-;	desc:04-21-2005
-;	date: 2005-04-21
-;page:04202005
-;	desc:04-20-2005
-;	date: 2005-04-20
-;page:04192005
-;	desc:04-19-2005
-;	date: 2005-04-19
-;page:04182005
-;	desc:04-18-2005
-;	date: 2005-04-18
-;page:04152005
-;	desc:04-15-2005
-;	date: 2005-04-15
-;page:04142005
-;	desc:04-14-2005
-;	date: 2005-04-14
-;page:04132005
-;	desc:04-13-2005
-;	date: 2005-04-13
-;page:04122005
-;	desc:04-12-2005
-;	date: 2005-04-12
-;page:04112005
-;	desc:04-11-2005
-;	date: 2005-04-11
-;page:04082005
-;	desc:04-08-2005
-;	date: 2005-04-08
-;page:04072005
-;	desc:04-07-2005
-;	date: 2005-04-07
-;page:04062005
-;	desc:04-06-2005
-;	date: 2005-04-06
-;page:04052005
-;	desc:04-05-2005
-;	date: 2005-04-05
-;page:04042005
-;	desc:04-04-2005
-;	date: 2005-04-04
-;page:04012005
-;	desc:04-01-2005
-;	date: 2005-04-01
-;page:03312005
-;	desc:03-31-2005
-;	date: 2005-03-31
-;page:03302005
-;	desc:03-30-2005
-;	date: 2005-03-30
-;page:03292005
-;	desc:03-29-2005
-;	date: 2005-03-29
-;page:03282005
-;	desc:03-28-2005
-;	date: 2005-03-28
-;page:03252005
-;	desc:03-25-2005
-;	date: 2005-03-25
-;page:03242005
-;	desc:03-24-2005
-;	date: 2005-03-24
-;page:03232005
-;	desc:03-23-2005
-;	date: 2005-03-23
-;page:03222005
-;	desc:03-22-2005
-;	date: 2005-03-22
-;page:03212005
-;	desc:03-21-2005
-;	date: 2005-03-21
-;page:03182005
-;	desc:03-18-2005
-;	date: 2005-03-18
-;page:03172005
-;	desc:03-17-2005
-;	date: 2005-03-17
-;page:03162005
-;	desc:03-16-2005
-;	date: 2005-03-16
-;page:03152005
-;	desc:03-15-2005
-;	date: 2005-03-15
-;page:03142005
-;	desc:03-14-2005
-;	date: 2005-03-14
-;page:03112005
-;	desc:03-11-2005
-;	date: 2005-03-11
-;page:03102005
-;	desc:03-10-2005
-;	date: 2005-03-10
-;page:03092005
-;	desc:03-09-2005
-;	date: 2005-03-09
-;page:03082005
-;	desc:03-08-2005
-;	date: 2005-03-08
-;page:03072005
-;	desc:03-07-2005
-;	date: 2005-03-07
-;page:03042005
-;	desc:03-04-2005
-;	date: 2005-03-04
-;page:03032005
-;	desc:03-03-2005
-;	date: 2005-03-03
-;page:03022005
-;	desc:03-02-2005
-;	date: 2005-03-02
-;page:03012005
-;	desc:03-01-2005
-;	date: 2005-03-01
-;page:02282005
-;	desc:02-28-2005
-;	date: 2005-02-28
-;page:02252005
-;	desc:02-25-2005
-;	date: 2005-02-25
-;page:02242005
-;	desc:02-24-2005
-;	date: 2005-02-24
-;page:02232005
-;	desc:02-23-2005
-;	date: 2005-02-23
-;page:02222005
-;	desc:02-22-2005
-;	date: 2005-02-22
-;page:02212005
-;	desc:02-21-2005
-;	date: 2005-02-21
-;page:02182005
-;	desc:02-18-2005
-;	date: 2005-02-18
-;page:02172005
-;	desc:02-17-2005
-;	date: 2005-02-17
-;page:02162005
-;	desc:02-16-2005
-;	date: 2005-02-16
-;page:02152005
-;	desc:02-15-2005
-;	date: 2005-02-15
-;page:02142005
-;	desc:02-14-2005
-;	date: 2005-02-14
-;page:02112005
-;	desc:02-11-2005
-;	date: 2005-02-11
-;page:02102005
-;	desc:02-10-2005
-;	date: 2005-02-10
-;page:02092005
-;	desc:02-09-2005
-;	date: 2005-02-09
-;page:02082005
-;	desc:02-08-2005
-;	date: 2005-02-08
-;page:02072005
-;	desc:02-07-2005
-;	date: 2005-02-07
-;page:02042005
-;	desc:02-04-2005
-;	date: 2005-02-04
-;page:02032005
-;	desc:02-03-2005
-;	date: 2005-02-03
-;page:02022005
-;	desc:02-02-2005
-;	date: 2005-02-02
-;page:02012005
-;	desc:02-01-2005
-;	date: 2005-02-01
-;page:01312005
-;	desc:01-31-2005
-;	date: 2005-01-31
-;page:01282005
-;	desc:01-28-2005
-;	date: 2005-01-28
-;page:01272005
-;	desc:01-27-2005
-;	date: 2005-01-27
-;page:01262005
-;	desc:01-26-2005
-;	date: 2005-01-26
-;page:01252005
-;	desc:01-25-2005
-;	date: 2005-01-25
-;page:01242005
-;	desc:01-24-2005
-;	date: 2005-01-24
-;page:01212005
-;	desc:01-21-2005
-;	date: 2005-01-21
-;page:01202005
-;	desc:01-20-2005
-;	date: 2005-01-20
-;page:01192005
-;	desc:01-19-2005
-;	date: 2005-01-19
-;page:01182005
-;	desc:01-18-2005
-;	date: 2005-01-18
-;page:01172005
-;	desc:01-17-2005
-;	date: 2005-01-17
-;page:01142005
-;	desc:01-14-2005
-;	date: 2005-01-14
-;page:01132005
-;	desc:01-13-2005
-;	date: 2005-01-13
-;page:01122005
-;	desc:01-12-2005
-;	date: 2005-01-12
-;page:01112005
-;	desc:01-11-2005
-;	date: 2005-01-11
-;page:01102005
-;	desc:01-10-2005
-;	date: 2005-01-10
-;page:01072005
-;	desc:01-07-2005
-;	date: 2005-01-07
-;page:01062005
-;	desc:01-06-2005
-;	date: 2005-01-06
-;page:01052005
-;	desc:01-05-2005
-;	date: 2005-01-05
-;page:01042005
-;	desc:01-04-2005
-;	date: 2005-01-04
-;page:01032005
-;	desc:01-03-2005
-;	date: 2005-01-03
-;page:12312004
-;	desc:12-31-2004
-;	date: 2004-12-31
-;page:12302004
-;	desc:12-30-2004
-;	date: 2004-12-30
-;page:12292004
-;	desc:12-29-2004
-;	date: 2004-12-29
-;page:12282004
-;	desc:12-28-2004
-;	date: 2004-12-28
-;page:12272004
-;	desc:12-27-2004
-;	date: 2004-12-27
-;page:12252004
-;	desc:12-25-2004
-;	date: 2004-12-25
-;page:12242004
-;	desc:12-24-2004
-;	date: 2004-12-24
-;page:12232004
-;	desc:12-23-2004
-;	date: 2004-12-23
-;page:12222004
-;	desc:12-22-2004
-;	date: 2004-12-22
-;page:12212004
-;	desc:12-21-2004
-;	date: 2004-12-21
-;page:12202004
-;	desc:12-20-2004
-;	date: 2004-12-20
-;page:12172004
-;	desc:12-17-2004
-;	date: 2004-12-17
-;page:12162004
-;	desc:12-16-2004
-;	date: 2004-12-16
-;page:12152004
-;	desc:12-15-2004
-;	date: 2004-12-15
-;page:12142004
-;	desc:12-14-2004
-;	date: 2004-12-14
-;page:12132004
-;	desc:12-13-2004
-;	date: 2004-12-13
-;page:12102004
-;	desc:12-10-2004
-;	date: 2004-12-10
-;page:12092004
-;	desc:12-09-2004
-;	date: 2004-12-09
-;page:12082004
-;	desc:12-08-2004
-;	date: 2004-12-08
-;page:12072004
-;	desc:12-07-2004
-;	date: 2004-12-07
-;page:12062004
-;	desc:12-06-2004
-;	date: 2004-12-06
-;page:12032004
-;	desc:12-03-2004
-;	date: 2004-12-03
-;page:12022004
-;	desc:12-02-2004
-;	date: 2004-12-02
-;page:12012004
-;	desc:12-01-2004
-;	date: 2004-12-01
-;page:11302004
-;	desc:11-30-2004
-;	date: 2004-11-30
-;page:11292004
-;	desc:11-29-2004
-;	date: 2004-11-29
-;page:11262004
-;	desc:11-26-2004
-;	date: 2004-11-26
-;page:11252004
-;	desc:11-25-2004
-;	date: 2004-11-25
-;page:11242004
-;	desc:11-24-2004
-;	date: 2004-11-24
-;page:11232004
-;	desc:11-23-2004
-;	date: 2004-11-23
-;page:11222004
-;	desc:11-22-2004
-;	date: 2004-11-22
-;page:11192004
-;	desc:11-19-2004
-;	date: 2004-11-19
-;page:11182004
-;	desc:11-18-2004
-;	date: 2004-11-18
-;page:11172004
-;	desc:11-17-2004
-;	date: 2004-11-17
-;page:11162004
-;	desc:11-16-2004
-;	date: 2004-11-16
-;page:11152004
-;	desc:11-15-2004
-;	date: 2004-11-15
-;page:11122004
-;	desc:11-12-2004
-;	date: 2004-11-12
-;page:11112004
-;	desc:11-11-2004
-;	date: 2004-11-11
-;page:11102004
-;	desc:11-10-2004
-;	date: 2004-11-10
-;page:11092004
-;	desc:11-09-2004
-;	date: 2004-11-09
-;page:11082004
-;	desc:11-08-2004
-;	date: 2004-11-08
-;page:11052004
-;	desc:11-05-2004
-;	date: 2004-11-05
-;page:11042004
-;	desc:11-04-2004
-;	date: 2004-11-04
-;page:11032004
-;	desc:11-03-2004
-;	date: 2004-11-03
-;page:11022004
-;	desc:11-02-2004
-;	date: 2004-11-02
-;page:11012004
-;	desc:11-01-2004
-;	date: 2004-11-01
-;page:10312004
-;	desc:10-31-2004
-;	date: 2004-10-31
-;page:10292004
-;	desc:10-29-2004
-;	date: 2004-10-29
-;page:10282004
-;	desc:10-28-2004
-;	date: 2004-10-28
-;page:10272004
-;	desc:10-27-2004
-;	date: 2004-10-27
-;page:10262004
-;	desc:10-26-2004
-;	date: 2004-10-26
-;page:10252004
-;	desc:10-25-2004
-;	date: 2004-10-25
-;page:10222004
-;	desc:10-22-2004
-;	date: 2004-10-22
-;page:10212004
-;	desc:10-21-2004
-;	date: 2004-10-21
-;page:10202004
-;	desc:10-20-2004
-;	date: 2004-10-20
-;page:10192004
-;	desc:10-19-2004
-;	date: 2004-10-19
-;page:10182004
-;	desc:10-18-2004
-;	date: 2004-10-18
-;page:10152004
-;	desc:10-15-2004
-;	date: 2004-10-15
-;page:10142004
-;	desc:10-14-2004
-;	date: 2004-10-14
-;page:10132004
-;	desc:10-13-2004
-;	date: 2004-10-13
-;page:10122004
-;	desc:10-12-2004
-;	date: 2004-10-12
-;page:10112004
-;	desc:10-11-2004
-;	date: 2004-10-11
-;page:10082004
-;	desc:10-08-2004
-;	date: 2004-10-08
-;page:10072004
-;	desc:10-07-2004
-;	date: 2004-10-07
-;page:10062004
-;	desc:10-06-2004
-;	date: 2004-10-06
-;page:10052004
-;	desc:10-05-2004
-;	date: 2004-10-05
-;page:10042004
-;	desc:10-04-2004
-;	date: 2004-10-04
-;page:10012004
-;	desc:10-01-2004
-;	date: 2004-10-01
+page:04292005
+	desc:04-29-2005
+	date: 2005-04-29
+page:04282005
+	desc:04-28-2005
+	date: 2005-04-28
+page:04272005
+	desc:04-27-2005
+	date: 2005-04-27
+page:04262005
+	desc:04-26-2005
+	date: 2005-04-26
+page:04252005
+	desc:04-25-2005
+	date: 2005-04-25
+page:04222005
+	desc:04-22-2005
+	date: 2005-04-22
+page:04212005
+	desc:04-21-2005
+	date: 2005-04-21
+page:04202005
+	desc:04-20-2005
+	date: 2005-04-20
+page:04192005
+	desc:04-19-2005
+	date: 2005-04-19
+page:04182005
+	desc:04-18-2005
+	date: 2005-04-18
+page:04152005
+	desc:04-15-2005
+	date: 2005-04-15
+page:04142005
+	desc:04-14-2005
+	date: 2005-04-14
+page:04132005
+	desc:04-13-2005
+	date: 2005-04-13
+page:04122005
+	desc:04-12-2005
+	date: 2005-04-12
+page:04112005
+	desc:04-11-2005
+	date: 2005-04-11
+page:04082005
+	desc:04-08-2005
+	date: 2005-04-08
+page:04072005
+	desc:04-07-2005
+	date: 2005-04-07
+page:04062005
+	desc:04-06-2005
+	date: 2005-04-06
+page:04052005
+	desc:04-05-2005
+	date: 2005-04-05
+page:04042005
+	desc:04-04-2005
+	date: 2005-04-04
+page:04012005
+	desc:04-01-2005
+	date: 2005-04-01
+page:03312005
+	date: 2005-03-31
+	desc: You're Shaking All Over
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+page:03302005
+	date: 2005-03-30
+	desc: It's 4 In The Morning
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+page:03292005
+	date: 2005-03-29
+	desc: This Isn't Fair
+	tag: Shelly
+	tag: ShellyHome
+page:03282005
+	date: 2005-03-28
+	desc: What The Hell Was That
+	tag: Shelly
+	tag: ShellyHome
+	tag: Vomit
+page:03252005
+	date: 2005-03-25
+	desc: I Won't Let You Replace Her
+	tag: BoilerRoom
+	tag: Dream
+	tag: Heather
+	tag: LittleShelly
+	tag: Scissors
+page:03242005
+	date: 2005-03-24
+	desc: You Don't Belong Here
+	tag: BoilerRoom
+	tag: Chair
+	tag: Heather
+	tag: LittleShelly
+	tag: Scissors
+page:03232005
+	date: 2005-03-23
+	desc: 03-23-2005
+	tag: Bed
+	tag: BoilerRoom
+	tag: Shelly
+	tag: ShellyHome
+page:03222005
+	date: 2005-03-22
+	desc: She's Such A Calm Soul
+	tag: Bed
+	tag: Heather
+	tag: HeatherHome
+	tag: Shelly
+	tag: ShellyHome
+page:03212005
+	date: 2005-03-21
+	desc: It Doesn't Have To Mean Anything
+	tag: Shelly
+page:03182005
+	date: 2005-03-18
+	desc:03-18-2005
+	tag: Bed
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+page:03172005
+	date: 2005-03-17
+	desc: St Patrick's Day 2005
+	tag: Kevin
+	tag: Monica
+page:03162005
+	date: 2005-03-16
+	desc: We Need Your Mediation
+	tag: Beer
+	tag: Daren
+	tag: DarensBar
+	tag: Monica
+	tag: Shelly
+page:03152005
+	date: 2005-03-15
+	desc: And You Flirt Back
+	tag: DarensBar
+	tag: Monica
+	tag: Shelly
+page:03142005
+	date: 2005-03-14
+	desc: Am I A Flirt
+	tag: Beer
+	tag: DarensBar
+	tag: Monica
+	tag: Shelly
+page:03112005
+	date: 2005-03-11
+	desc: Call You Later
+	tag: Heather
+	tag: Shelly	
+page:03102005
+	date: 2005-03-10
+	desc: Allowing Someone In
+	tag: 400Club
+	tag: Heather
+	tag: Shelly
+page:03092005
+	date: 2005-03-09
+	desc: Allowing Someone Special
+	tag: 400Club
+	tag: Heather
+	tag: Shelly	
+page:03082005
+	date: 2005-03-08
+	desc: Misinterpret
+	tag: 400Club
+	tag: Heather
+	tag: Shelly	
+page:03072005
+	date: 2005-03-07
+	desc: What's With The Butterflies
+	tag: 400Club
+	tag: Heather
+	tag: Shelly	
+page:03042005
+	date: 2005-03-04
+	desc: We Can Just Take My Car
+	tag: AutoRepair
+	tag: Heather
+	tag: Shelly	
+page:03032005
+	date: 2005-03-03
+	desc: All Fussy And Nervous
+	tag: AutoRepair
+	tag: Shelly
+page:03022005
+	date: 2005-03-02
+	desc: Get Out Of These Oily Clothes
+	tag: AutoRepair
+	tag: Heather
+	tag: Shelly
+page:03012005
+	date: 2005-03-01
+	desc: Is That Car Gonna Live
+	tag: 400Club
+	tag: AutoRepair
+	tag: Heather
+	tag: Shelly
+page:02282005
+	date: 2005-02-28
+	desc: Take His Number
+	tag: Heather
+	tag: Joe
+	tag: PoliceMan2
+page:02252005
+	date: 2005-02-25
+	desc: 02-25-2005
+	tag: Gun
+	tag: Heather
+	tag: Joe
+	tag: PoliceMan2
+	tag: PoliceMan3
+	tag: Revolver
+page:02242005
+	date: 2005-02-24
+	desc: 02-24-2005
+	tag: Gun
+	tag: Heather
+	tag: Joe
+	tag: Knife
+	tag: Mugger
+	tag: Phone
+	tag: Revolver
+page:02232005
+	date: 2005-02-23
+	desc: 02-23-2005
+	tag: AutoRepair
+	tag: Heather
+	tag: Phone
+	tag: RadioStation
+	tag: Shelly
+page:02222005
+	date: 2005-02-22
+	desc: More Work Than Work
+	tag: Heather
+	tag: HeatherBoss
+	tag: RadioStation
+page:02212005
+	date: 2005-02-21
+	desc: Ordering Me To Have Fun
+	tag: Heather
+	tag: HeatherBoss
+	tag: RadioStation
+page:02182005
+	date: 2005-02-18
+	desc: You Are What You Eat
+	tag: IslesBunAndCoffee
+	tag: Lakshmi
+	tag: Owen
+page:02172005
+	date: 2005-02-17
+	desc: I Think They Broke The Bed
+	tag: DownstairsBar 
+	tag: Lakshmi
+	tag: Owen
+	tag: OwenLakshmiPlace
+page:02162005
+	date: 2005-02-16
+	desc: Dare You To Try And Run Now
+	tag: Lakshmi
+	tag: Owen
+	tag: OwenLakshmiPlace
+page:02152005
+	date: 2005-02-15
+	desc: 02-15-2005
+	tag: Lakshmi
+	tag: Owen
+	tag: OwenLakshmiPlace
+page:02142005
+	date: 2005-02-14
+	desc: What to Say To Get A Lady In Bed
+	tag: IslesBunAndCoffee
+	tag: Lakshmi
+	tag: Owen
+	tag: OwenLakshmiPlace
+page:02112005
+	date: 2005-02-11
+	desc: Get A Job As A Fish
+	tag: Katherine
+	tag: KatherineHome
+	tag: Shower
+page:02102005
+	date: 2005-02-10
+	desc: 02-10-2005
+	tag: Bra
+	tag: Katherine
+	tag: KatherineHome
+	tag: Oscar
+page:02092005
+	date: 2005-02-09
+	desc: 02-09-2005
+	tag: Katherine
+	tag: KatherineHome
+	tag: Oscar
+page:02082005
+	date: 2005-02-08
+	desc:02-08-2005
+	tag: BusStop
+	tag: Katherine
+	tag: KatherineHome
+	tag: Oscar
+page:02072005
+	date: 2005-02-07
+	desc: Good To Know Where You Belong
+	tag: Katherine
+	tag: Museum
+	tag: Spider
+page:02042005
+	date: 2005-02-04
+	desc: Vinyl Vs Digital
+	tag: DarensBar
+	tag: Martini
+	tag: Monica
+	tag: Shelly
+page:02032005
+	date: 2005-02-03
+	desc: Etherial Punk
+	tag: Daren
+	tag: DarensBar
+	tag: Martini
+	tag: Monica
+	tag: Shelly
+page:02022005
+	date: 2005-02-02
+	desc: Dipole Magnetic Planar Speakers
+	tag: DarensBar
+	tag: Monica
+	tag: Shelly
+page:02012005
+	date: 2005-02-01
+	desc: Eh, It Was OK
+	tag: AutoRepair
+	tag: DarensBar
+	tag: Shelly
+	tag: Shout
+page:01312005
+	date: 2005-01-31
+	desc: Daren, You're Brilliant!
+	tag: Beer
+	tag: Daren
+	tag: DarensBar
+	tag: Monica
+page:01282005
+	date: 2005-01-28
+	desc: How Beautiful Winter Can Be
+	tag: Cactus
+	tag: Monica
+	tag: MuchoMocha
+	tag: SnowGlobe
+	tag: Tina
+page:01272005
+	date: 2005-01-27
+	desc: We'll Keep It For Her
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+page:01262005
+	date: 2005-01-26
+	desc:01-26-2005
+	tag: Deitzel
+	tag: Fire	
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tepoz
+page:01252005
+	date: 2005-01-25
+	desc: Liar, Liar, Pants On Fire
+	tag: Fire
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tepoz
+page:01242005
+	date: 2005-01-24
+	desc: Your Ass Is On Fire
+	tag: Fire
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+page:01212005
+	date: 2005-01-21
+	desc:01-21-2005
+	tag: MirrorSpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tears
+page:01202005
+	date: 2005-01-20
+	desc:01-20-2005
+	tag: MirrorSpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tears
+page:01192005
+	date: 2005-01-19
+	desc:01-19-2005
+	tag: MirrorSpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tears
+page:01182005
+	date: 2005-01-18
+	desc:01-18-2005
+	tag: MirrorSpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tears
+	tag: Tepoz
+page:01172005
+	date: 2005-01-17
+	desc: Stop This
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tears
+	tag: Tepoz
+page:01142005
+	date: 2005-01-14
+	desc: Stay Away From Her
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Tears
+	tag: Tepoz
+page:01132005
+	date: 2005-01-13
+	desc: You Didn't Believe In Yourself
+	tag: Monica
+	tag: MonicaHouse
+	tag: MonicasDemon
+	tag: Tears
+	tag: Tepoz
+page:01122005
+	date: 2005-01-12
+	desc: In Front Of A Bus
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:01112005
+	date: 2005-01-11
+	desc: Why Are You Stressed
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:01102005
+	date: 2005-01-10
+	desc: It Happens When I'm Stressed
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:01072005
+	date: 2005-01-07
+	desc:01-07-2005
+	tag: CrystalBall
+	tag: Tina
+	tag: TinaHome
+	tag: TinaKittie
+page:01062005
+	date: 2005-01-06
+	desc: Might Be Slippery
+	tag: Snow
+	tag: Tina
+page:01052005
+	date: 2005-01-05
+	desc: All Emotions Are Transient
+	tag: GreySpeak
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
+page:01042005
+	date: 2005-01-04
+	desc: Good Spirits Every Day
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
+page:01032005
+	date: 2005-01-03
+	desc: Explainable With Science
+	tag: Monica
+	tag: Mummy
+	tag: Museum
+page:12312004
+	date: 2004-12-31
+	desc: Figment Of Imagination
+	tag: Mirror
+	tag: Monica
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Mummy
+	tag: Museum
+	tag: StraightJacket
+page:12302004
+	date: 2004-12-30
+	desc:12-30-2004
+	tag: Monica
+	tag: MonicasDemon
+	tag: MonicasDoubt
+	tag: Museum
+page:12292004
+	date: 2004-12-29
+	desc:12-29-2004
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:12282004
+	date: 2004-12-28
+	desc: Eggnog
+	tag: Cactus
+	Tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:12272004
+	date: 2004-12-27
+	desc: You Had A Date?!
+	Tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:12252004
+	date: 2004-12-25
+	desc: Xmas 2004
+	tag: Deitzel
+	tag: Filler
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:12242004
+	date: 2004-12-24
+	desc: Noisy Sex
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+page:12232004
+	desc: Stop Licking My Leg!!!
+	date: 2004-12-23
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: PoliceMan
+	tag: PoliceWoman
+page:12222004
+	desc:12-22-2004
+	date: 2004-12-22
+	tag: Monica
+	tag: MonicaHouse
+	tag: PoliceWoman
+page:12212004
+	date: 2004-12-21
+	desc:12-21-2004
+	tag: EyeGlow
+	tag: Lioness
+	tag: Monica
+	tag: MonicaHouse
+	tag: PoliceMan
+	tag: PoliceWoman
+page:12202004
+	date: 2004-12-20
+	desc: AslEEEEEP!
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: PoliceMan
+	tag: PoliceWoman
+	tag: Tongue
+page:12172004
+	date: 2004-12-17
+	desc: It's The Police
+	tag: Monica
+	tag: MonicaHouse
+	tag: Police
+	tag: SquadCar
+page:12162004
+	date: 2004-12-16
+	desc: Did You Order A Pizza
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+page:12152004
+	date: 2004-12-15
+	desc: Loco Como Una Cabra!
+	note: "Crazy as a goat"
+	tag: Bud
+	tag: EyeGlow
+	tag: Glyphs
+	tag: Monica
+	tag: MonicaHouse
+	tag: Pillow
+page:12142004
+	date: 2004-12-14
+	desc: I Hear You Breathing
+	tag: Goat
+	tag: Lioness
+	tag: Monica
+	tag: MonicaHouse
+	tag: Pillow
+	tag: Snake
+page:12132004
+	date: 2004-12-13
+	desc: Silly String
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:12102004
+	desc: You've Been A Bad Girl
+	date: 2004-12-10
+	tag: Monica
+	tag: MonicaHouse
+	tag: Lioness
+page:12092004
+	desc:12-09-2004
+	date: 2004-12-09
+	tag: Monica
+	tag: MonicaHouse
+	tag: Lioness
+	tag: EyeGlow
+page:12082004
+	date: 2004-12-08
+	desc: Was That Dutch
+	tag: Glyphs
+	tag: Kevin
+	tag: Kiss
+	tag: Monica
+	tag: MonicaHouse
+page:12072004
+	date: 2004-12-07
+	desc: Hey Sailor
+	tag: Bar
+	tag: Kevin
+	tag: Monica
+page:12062004
+	date: 2004-12-06
+	desc: Haven't Scared Him Off
+	tag: Bar
+	tag: Kevin
+	tag: Monica
+page:12032004
+	date: 2004-12-03
+	desc: Wind Chimes And People Chanting
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:12022004
+	date: 2004-12-02
+	desc: Granola Soul Searching
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:12012004
+	date: 2004-12-01
+	desc: Get In Touch With Who They Are
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+	tag: LittleShelly
+page:11302004
+	date: 2004-11-30
+	desc: Built From Scratch
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:11292004
+	date: 2004-11-29
+	desc: Set For Life
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:11262004
+	date: 2004-11-26
+	desc: Kick Boxing Studio
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:11252004
+	date: 2004-11-25
+	desc: Teach Yoga
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:11242004
+	date: 2004-11-24
+	desc:11-24-2004
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:11232004
+	date: 2004-11-23
+	desc:11-23-2004
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: Shelly
+page:11222004
+	date: 2004-11-22
+	desc:11-22-2004
+	tag: AutoRepair
+	tag: Jacqueline
+	tag: MrWahnee
+	tag: Shelly
+page:11192004
+	date: 2004-11-19
+	desc:11-19-2004
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Puddle
+page:11182004
+	date: 2004-11-18
+	desc: Created To Protect The Temples
+	tag: Golem
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11172004
+	date: 2004-11-17
+	desc: How About I Go Cook Breakfast
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11162004
+	date: 2004-11-16
+	desc: Vigilance of the Chimera
+	tag: Brandi
+	tag: Bud
+	tag: Chimera
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11152004
+	date: 2004-11-15
+	desc: Why Didn't You Say
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11122004
+	date: 2004-11-12
+	desc: One Of The Glyph Readers
+	tag: EyeGlow
+	tag: FaceGlyph
+	tag: Jin
+	tag: MonicaHouse
+	tag: Tepoz
+page:11112004
+	date: 2004-11-11
+	desc: Not Just Drunken Bimbo Golems
+	tag: Brandi
+	tag: Bud
+	tag: FaceGlyph
+	tag: Golem
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:11102004
+	date: 2004-11-10
+	desc: I Don't Think You Understand
+	tag: Brandi
+	tag: Bud
+	tag: EyeGlow
+	tag: FaceGlyph
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11092004
+	date: 2004-11-09
+	desc:11-09-2004
+	tag: Brandi
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11082004
+	date: 2004-11-08
+	desc: Excuse Me Ladies
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11052004
+	date: 2004-11-05
+	desc: Sooo Cute!!
+	tag: Brandi
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11042004
+	date: 2004-11-04
+	desc: Drunken College Girls
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Poit
+	tag: Tepoz
+page:11032004
+	date: 2004-11-03
+	desc: Breakfast
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11022004
+	date: 2004-11-02
+	desc:11-02-2004
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:11012004
+	date: 2004-11-01
+	desc: Those Poor Folks
+	tag: Monica
+	tag: MonicaHouse	
+page:10312004
+	date: 2004-10-31
+	desc: Coming Soon
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Teaser
+page:10292004
+	date: 2004-10-29
+	desc:10-29-2004
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:10282004
+	date: 2004-10-28
+	desc:10-28-2004
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:10272004
+	date: 2004-10-27
+	desc:10-27-2004
+	tag: Deitzel
+	tag: Mole
+	tag: Monica
+	tag: MonicaHouse
+	tag: Poit
+	tag: Tepoz
+page:10262004
+	date: 2004-10-26
+	desc:10-26-2004
+	tag: Deitzel
+	tag: Mole
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:10252004
+	date: 2004-10-25
+	desc: 10-25-2004
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:10222004
+	date: 2004-10-22
+	desc: Rubber Chicken And A Toilet Seat
+	tag: Alan
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+	tag: ShadesGirl
+page:10212004
+	date: 2004-10-21
+	desc:10-21-2004
+	tag: Kevin
+	tag: Monica
+page:10202004
+	date: 2004-10-20
+	desc:10-20-2004
+	tag: Kevin
+	tag: Monica
+page:10192004
+	date: 2004-10-19
+	desc:10-19-2004
+	tag: Kevin
+	tag: Monica
+page:10182004
+	date: 2004-10-18
+	desc:10-18-2004
+	tag: JimmysBluesBar
+	tag: Kevin
+	tag: Monica
+page:10152004
+	date: 2004-10-15
+	desc:10-15-2004
+	tag: JimmysBluesBar
+	tag: Kevin
+	tag: Monica
+	tag: Shelly
+page:10142004
+	date: 2004-10-14
+	desc:10-14-2004
+	tag: JimmysBluesBar
+	tag: Kevin
+	tag: Monica
+	tag: Shelly
+page:10132004
+	date: 2004-10-13
+	desc:10-13-2004
+	tag: JimmysBluesBar
+	tag: Kevin
+	tag: Monica
+	tag: Shelly
+page:10122004
+	date: 2004-10-12
+	desc:10-12-2004
+	tag: Bar
+	tag: JimmiesReggaeBar
+	tag: Martini
+	tag: Shelly
+page:10112004
+	date: 2004-10-11
+	desc:10-11-2004
+	tag: Bar
+	tag: JimmiesReggaeBar
+	tag: JimmysBluesBar
+	tag: Kevin
+	tag: Martini
+	tag: Monica
+	tag: Shelly
+page:10082004
+	date: 2004-10-08
+	desc:10-08-2004
+	tag: Monica
+	tag: Shelly
+page:10072004
+	date: 2004-10-07
+	desc:10-07-2004
+	tag: Monica
+	tag: Shelly
+page:10062004
+	date: 2004-10-06
+	desc:10-06-2004
+	tag: Monica
+	tag: Shelly
+page:10052004
+	date: 2004-10-05
+	desc:10-05-2004
+	tag: Monica
+	tag: Shelly
+page:10042004
+	date: 2004-10-04
+	desc:10-04-2004
+	tag: Alan
+	tag: Deitzel
+	tag: Park
+	tag: ShadesGirl
+	tag: Trousers
+page:10012004
+	date: 2004-10-01
+	desc: You Owe Meeee!!!!
+	tag: Alan
+	tag: Deitzel
+	tag: Kevin
+	tag: Monica
+	tag: Park
 page:09302004
-	desc:09-30-2004
 	date: 2004-09-30
+	desc: Yes!!!
+	tag: Alan
+	tag: Kevin
+	tag: Monica
+	tag: Park
 page:09292004
-	desc:09-29-2004
 	date: 2004-09-29
+	desc: Learn To Duck
+	tag: Deitzel
+	tag: Kevin
+	tag: Monica
+	tag: Park
 page:09282004
-	desc:09-28-2004
 	date: 2004-09-28
+	desc: With A Frisbee
+	tag: Deitzel
+	tag: Kevin
+	tag: Monica
+	tag: Park
 page:09272004
-	desc:09-27-2004
 	date: 2004-09-27
+	desc: Go Help Her
+	tag: Alan
+	tag: Kevin
+	tag: Park
 page:09242004
-	desc:09-24-2004
 	date: 2004-09-24
+	desc: Something Really Stupid
+	tag: Alan	
+	tag: Deitzel
+	tag: Frisbee
+	tag: Kevin
+	tag: Park
 page:09232004
-	desc:09-23-2004
 	date: 2004-09-23
+	desc: Annette Funicello
+	tag: Alan	
+	tag: Kevin
+	tag: Park
 page:09222004
-	desc:09-22-2004
 	date: 2004-09-22
+	desc:09-22-2004
+	tag: Alan
+	tag: Kevin
+	tag: Monica
+	tag: Park
 page:09212004
-	desc:09-21-2004
 	date: 2004-09-21
+	desc: PVC Dresses
+	tag: Deitzel
+	tag: Monica
+	tag: Park
 page:09202004
-	desc:09-20-2004
 	date: 2004-09-20
+	desc:09-20-2004
+	tag: Deitzel
+	tag: Monica
+	tag: Park
 page:09172004
-	desc:09-17-2004
 	date: 2004-09-17
+	desc: Cute Dog
+	tag: Monica
+	tag: ParkGirls
+	tag: ParkGuys
+	tag: ShadesGirl
 page:09162004
-	desc:09-16-2004
 	date: 2004-09-16
+	desc:09-16-2004
+	tag: Deitzel
+	tag: Monica
+	tag: Park
+	tag: ParkGirls
+	tag: ShadesGirl
 page:09152004
-	desc:09-15-2004
 	date: 2004-09-15
+	desc:09-15-2004
+	tag: Deitzel	
+	tag: Monica
+	tag: MonicaHouse
+	tag: RollerSkates
 page:09142004
-	desc:09-14-2004
 	date: 2004-09-14
+	desc:09-14-2004
+	tag: Deitzel	
+	tag: Monica
+	tag: MonicaHouse	
 page:09132004
-	desc:09-13-2004
 	date: 2004-09-13
+	desc:09-13-2004
+	tag: Deitzel	
+	tag: Monica
+	tag: MonicaHouse
+	tag: TardySlip
 page:09102004
-	desc:09-10-2004
 	date: 2004-09-10
+	desc: 09-10-2004
+	tag: Deitzel	
+	tag: Monica
+	tag: MonicaHouse
+	tag: MuchoMocha
+	tag: Shelly
 page:09092004
-	desc:09-09-2004
 	date: 2004-09-09
+	desc: Yoga Is Better
+	tag: Jacqueline
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:09082004
-	desc:09-08-2004
-	date: 2004-09-08
+	date: Didn't Leave You Sore
+	desc: 09-08-2004
+	tag: Jacqueline
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:09072004
-	desc:09-07-2004
 	date: 2004-09-07
+	desc: Fuzzy Television Channel
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly	
 page:09062004
-	desc:09-06-2004
 	date: 2004-09-06
+	desc: Smile Like A Trumpet Blast
+	tag: Cactus
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:09032004
-	desc:09-03-2004
 	date: 2004-09-03
+	desc: It's your city, take the party with you
+	tag: Advert
+	tag: AmandaStudio
+	tag: Monica
+	tag: Photo
+	tag: Roof
+	tag: Shelly
+	tag: SnobbyWinery
 page:09022004
-	desc:09-02-2004
 	date: 2004-09-02
+	desc: I've Created Monsters
+	tag: Amanda
+	tag: AmandaStudio
+	tag: Camera	
+	tag: Roof
 page:09012004
-	desc:09-01-2004
 	date: 2004-09-01
+	desc: I Hear Salsa Music
+	tag: Amanda
+	tag: AmandaStudio
+	tag: Roof
+	tag: Shelly
 page:08312004
 	date: 2004-08-31
 	desc: The Problem Might Be Me
@@ -8407,6 +9051,8 @@ page:07212004
 	tag: Flashback
 	tag: Owen
 	tag: Shelly
+	tag: LittleShelly
+	tag: Scissors
 page:07202004
 	date: 2004-07-20
 	desc:07-20-2004
@@ -8552,12 +9198,14 @@ page:06142004
 page:06112004
 	date: 2004-06-11
 	desc:06-11-2004
+	tag: BasketBall
 	tag: Owen
 	tag: Park
 	tag: Shelly
 page:06092004
 	date: 2004-06-09
 	desc:06-09-2004
+	tag: BasketBall
 	tag: Lakshmi
 	tag: Owen
 	tag: Park
@@ -8565,6 +9213,7 @@ page:06092004
 page:06072004
 	date: 2004-06-07
 	desc:06-07-2004
+	tag: BasketBall
 	tag: IceCream
 	tag: Lakshmi
 	tag: Owen
@@ -8578,147 +9227,148 @@ page:06042004
 	tag: Owen
 	tag: Park
 page:06022004
-	desc:06-02-2004
 	date: 2004-06-02
+	desc:06-02-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05312004
-	desc:05-31-2004
 	date: 2004-05-31
+	desc:05-31-2004
 	tag: GutBomb
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05282004
-	desc:05-28-2004
 	date: 2004-05-28
+	desc:05-28-2004
 	tag: Glyphs
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05262004
-	desc:05-26-2004
 	date: 2004-05-26
+	desc:05-26-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz	
 page:05242004
-	desc:05-24-2004
 	date: 2004-05-24
+	desc:05-24-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05212004
-	desc:05-21-2004
 	date: 2004-05-21
+	desc:05-21-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05192004
-	desc:05-19-2004
 	date: 2004-05-19
+	desc:05-19-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05172004
-	desc:05-17-2004
 	date: 2004-05-17
+	desc:05-17-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 page:05142004
-	desc:05-14-2004
 	date: 2004-05-14
+	desc:05-14-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 page:05122004
-	desc:05-12-2004
 	date: 2004-05-12
+	desc:05-12-2004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05102004
-	desc: Best Martini Ever!!
 	date: 2004-05-10
+	desc: Best Martini Ever!!
 	tag: Martini
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05072004
-	desc: Pull My Finger!
 	date: 2004-05-07
+	desc: Pull My Finger!
 	tag: Fart
 	tag: Monica
 	tag: Museum
+	tag: PullMyFinger
 	tag: Shelly
 	tag: Tepoz
 page:05052004
-	desc: Cute and Punky
 	date: 2004-05-05
+	desc: Cute and Punky
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:05032004
-	desc:05-03-2004
 	date: 2004-05-03
-	tag: Shelly
+	desc:05-03-2004
 	tag: Monica
 	tag: Museum
+	tag: Shelly
 page:04302004
-	desc: A badger
 	date: 2004-04-30
+	desc: A Badger
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:04282004
-	desc: It's still moving!
 	date: 2004-04-28
+	desc: It's still moving!
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:04262004
-	desc: I beg your pardon?
 	date: 2004-04-26
+	desc: I beg your pardon?
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:04232004
-	desc: You left your bag
 	date: 2004-04-23
+	desc: You left your bag
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
 page:04212004
-	desc:04-21-2004
 	date: 2004-04-21
+	desc:04-21-2004
 	tag: Kukulcan
 	tag: Museum
 	tag: Tepoz
 page:04192004
-	desc:04-19-2004
 	date: 2004-04-19
+	desc:04-19-2004
 	tag: Kukulcan
 	tag: Museum
 	tag: Tepoz
 page:04162004
-	desc:04-16-2004
 	date: 2004-04-16
+	desc:04-16-2004
 	tag: CalendarMachine
 	tag: Glyphs
 	tag: Kukulcan
@@ -8771,33 +9421,33 @@ page:03312004
 	tag: Knife
 	tag: Shelly
 page:03292004
-	desc: I need to start somewhere...
 	date: 2004-03-29
+	desc: I Need To Start Somewhere...
 	tag: AutoRepair
 	tag: Heather
 	tag: Shelly
 	tag: Tears
 page:03262004
-	desc: I have an idea
 	date: 2004-03-26
+	desc: I have an idea
 	tag: AutoRepair
 	tag: Heather
 	tag: Shelly
 page:03242004
-	desc: I don't like who I am by myself
 	date: 2004-03-24
+	desc: I Don't Like Who I Am By Myself
 	tag: AutoRepair
 	tag: Heather
 	tag: Shelly
 page:03222004
 	date: 2004-03-22
-	desc: Being alone
+	desc: Being Alone
 	tag: AutoRepair
 	tag: Heather
 	tag: Shelly
 page:03192004
 	date: 2004-03-19
-	desc: You're acting like...
+	desc: You're Acting Like...
 	tag: AutoRepair
 	tag: Heather
 	tag: Shelly
@@ -10328,7 +10978,7 @@ page:10212002
 	tag: Jacqueline
 	tag: Shelly
 page:10182002
-	desc:10-18-2002
+	desc: A Daisy On Prozac
 	date: 2002-10-18
 	tag: Monica
 	tag: MuchoMocha
@@ -11393,81 +12043,82 @@ page:10012001
 	tag: Monica
 	tag: Shower
 page:09282001
-	desc:09-28-2001
 	date: 2001-09-28
-	tag: MuchoMocha
-	tag: Monica
+	desc:09-28-2001
 	tag: Becky
+	tag: Cactus
+	tag: Monica
+	tag: MuchoMocha
 page:09262001
-	desc:09-26-2001
 	date: 2001-09-26
-	tag: Daren
+	desc:09-26-2001
 	tag: Bar
-	tag: Shelly
+	tag: Daren
 	tag: Jacqueline
 	tag: Owen
+	tag: Shelly
 page:09242001
-	desc:09-24-2001
 	date: 2001-09-24
-	tag: Monica
+	desc:09-24-2001
 	tag: Amanda
 	tag: LittleBlackDress
-page:09212001
-	desc:09-21-2001
-	date: 2001-09-21
 	tag: Monica
+page:09212001
+	date: 2001-09-21
+	desc:09-21-2001
 	tag: Amanda
 	tag: Bra
+	tag: Monica
 page:09192001
-	desc:09-19-2001
 	date: 2001-09-19
+	desc:09-19-2001
+	tag: Amanda
+	tag: Band
+	tag: FermentedBanana
 	tag: Jacqueline
 	tag: Owen
 	tag: Shelly
-	tag: Amanda
-	tag: FermentedBanana
-	tag: Band
 page:09172001
-	desc:09-17-2001
 	date: 2001-09-17
+	desc:09-17-2001
+	tag: FermentedBanana
 	tag: Monica
 	tag: Toothbrush
-	tag: FermentedBanana
 page:09142001
-	desc:09-14-2001
 	date: 2001-09-14
+	desc:09-14-2001
 	tag: Amanda
-	tag: Camera
 	tag: Bar
+	tag: Camera
 	tag: Monica
 page:09122001
-	desc:09-12-2001
 	date: 2001-09-12
-	tag: Shelly
-	tag: Monica
+	desc:09-12-2001
 	tag: Computer
-page:09112001
-	desc:09-11-2001
-	date: 2001-09-11
 	tag: Monica
+	tag: Shelly
+page:09112001
+	date: 2001-09-11
+	desc:09-11-2001
 	tag: Amanda
-	tag: VoodooDolls
+	tag: Band
+	tag: Monica
+	tag: Owen
 	tag: Peru
 	tag: Shelly
-	tag: Band
-	tag: Owen
+	tag: VoodooDolls
 page:09102001
-	desc:09-10-2001
 	date: 2001-09-10
+	desc:09-10-2001
 	tag: Amanda
 	tag: Monica
+	tag: Peru
 	tag: Roy
 	tag: Shelly
-	tag: Peru
 	tag: VoodooDolls
 page:09092001
-	desc:09-09-2001
 	date: 2001-09-09
-	tag: Monica
+	desc:09-09-2001
 	tag: Amanda
+	tag: Monica
 ; --- index eof ----
