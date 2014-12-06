@@ -14,6 +14,7 @@ Amanda  	Amanda Erlich: photographer, [Monica's](#monica) childhood friend
 AntiqueShop	Part-owned by [Monica](#monica), [Roy](#roy)
 Atsali  	Siren, adopted daughter of [Katherine](#katherine), thus sister of [Castela](#castela)
 AutoRepair	Minneapolis South Auto Repair & Restoration -- Shelly's [dad's](#mrwahnee) business, where [Shelly](#shelly) worked as a mechanic 
+Becky   	occasional barista at Mucho Mocha, baker of cakes, biscuits, _etc_
 Brandi  	Golem, Lioness in the [Chimera](#chimera)
 Bud     	Golem, Goat in the [Chimera](#chimera)
 Calista 	Fae, nickname: Cricket
@@ -35,8 +36,9 @@ Jacqueline	drummer with [Fermented Banana](#fermentedbanana), vet school student
 Jeff    	[museum](#museum) assistant (?)
 Jessie  	Mermaid (long light hair)
 Jin		Golem, Snake in the [Chimera](#chimera)
-Katherine	Katherine Gilchrist, "eyes like a spider", shy woman; textile specialist at the [museum](#museum); daughter of [Lily](#lily)
-Kevin   	Photographer, relationship with Monica for many years; mundane
+Katherine	Katherine Gilchrist, "eyes like a spider", shy woman; textile specialist at the [museum](#museum); daughter of [Lily](#lily)?
+Kevin   	Photographer, relationship with Monica for many years; (mundane?)
+KevinsHome	near the [Sunnyside Up](#sunnysideup) café
 Krystle 	Mermaid (short dark hair)
 LakeCalhoun	Lake and surrounding recreational parkland
 Lakshmi 	Large, strong lady met [Owen](#owen) on a blind date
@@ -44,6 +46,7 @@ Library 	Off-plane library of all books, or perhaps all knowledge
 Lily    	Lily Pratt, vampire
 LittleShelly	[Shelly's](#shelly) internalised self-image from the time of [her mother's](#shellymom) death
 Lydia   	Bra designer; diplomas in architecture and industrial design
+MuchoMocha	coffee shop run by [Tina](#tina)
 Marta   	[Monica's](#monica) cousin in Monterrey
 Monica  	Monica Villarreal, 4\' 11\", Mexican, anthropologist, [antique shop](#antiqueshop) owner
 MonicasDoubt	personal demon of [Monica's](#monica)
@@ -54,10 +57,13 @@ Phix    	Sphinx, librarian at The [Library](#library)
 Roy     	part-owner of the [Antique Shop](#antiqueshop) with [Monica](#monica)
 Sailor		18 year old lad Monica nearly gets out of hand with at a Wedding in Galena. In a broom closet.
 Shelly  	Shelly Wahnee, muscle girl, wrench wench
+ShellyMom	died when Shelly was 10
+SunnysideUp	Sunnyside Up Café, near Kevin's home
 Suzy    	Suzy McBride, vampire
 Tepoz   	Tepoztecal, Aztec god of alcohol, an animate 3\' high blue statue
 ThePlow 	Bar in Des Moines
 Tiffany 	minds the [Antique Shop](#antiqueshop)
+Tina    	Tina Rosario Aldaco Guzmán, barista/proprietor of Mucho Mocha; a demon conglomerate or commune
 VWvan   	Jacqueline's wheels for [Fermented Banana's](#fermentedbanana) transport
 YummyTea	working name of Mexican artist, last name Teran, knew Monica as a kid
 ; --- tags.txt EOF ---

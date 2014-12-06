@@ -25,6 +25,19 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
+page:stupid-flu
+	date: 2014-12-05
+	desc: Stupid Flu
+	tag: Becky
+	tag: MuchoMocha
+	tag: Tina
+	tag: TinaHome
+page:dare-to-trust
+	desc: Dare To Trust
+	date: 2014-12-05
+	tag: Calista
+	tag: Library
+	tag: Monica
 page:such-a-screw-up
 	desc: Such A Screw Up
 	date: 2014-12-03
@@ -7604,135 +7617,219 @@ page:castel-enora-gilchrist
 ;page:putitback
 ;	desc:Putitback
 ;	date: 2005-06-01
-;page:stinky
-;	desc:Stinky
-;	date: 2005-05-31
-;page:05302005
-;	desc:05-30-2005
-;	date: 2005-05-30
-;page:05272005
-;	desc:05-27-2005
-;	date: 2005-05-27
-;page:05262005
-;	desc:05-26-2005
-;	date: 2005-05-26
-;page:05252005
-;	desc:05-25-2005
-;	date: 2005-05-25
-;page:05242005
-;	desc:05-24-2005
-;	date: 2005-05-24
-;page:05232005
-;	desc:05-23-2005
-;	date: 2005-05-23
-;page:05202005
-;	desc:05-20-2005
-;	date: 2005-05-20
-;page:05192005
-;	desc:05-19-2005
-;	date: 2005-05-19
-;page:05182005
-;	desc:05-18-2005
-;	date: 2005-05-18
-;page:05172005
-;	desc:05-17-2005
-;	date: 2005-05-17
-;page:05162005
-;	desc:05-16-2005
-;	date: 2005-05-16
-;page:05132005
-;	desc:05-13-2005
-;	date: 2005-05-13
-;page:05122005
-;	desc:05-12-2005
-;	date: 2005-05-12
-;page:05112005
-;	desc:05-11-2005
-;	date: 2005-05-11
-;page:05102005
-;	desc:05-10-2005
-;	date: 2005-05-10
-;page:05092005
-;	desc:05-09-2005
-;	date: 2005-05-09
-;page:05062005
-;	desc:05-06-2005
-;	date: 2005-05-06
-;page:05052005
-;	desc:05-05-2005
-;	date: 2005-05-05
-;page:05042005
-;	desc:05-04-2005
-;	date: 2005-05-04
-;page:05032005
-;	desc:05-03-2005
-;	date: 2005-05-03
-;page:05022005
-;	desc:05-02-2005
-;	date: 2005-05-02
+page:stinky
+	desc:Stinky
+	date: 2005-05-31
+page:05302005
+	desc:05-30-2005
+	date: 2005-05-30
+page:05272005
+	desc:05-27-2005
+	date: 2005-05-27
+page:05262005
+	desc:05-26-2005
+	date: 2005-05-26
+page:05252005
+	desc:05-25-2005
+	date: 2005-05-25
+page:05242005
+	desc:05-24-2005
+	date: 2005-05-24
+page:05232005
+	desc:05-23-2005
+	date: 2005-05-23
+page:05202005
+	desc:05-20-2005
+	date: 2005-05-20
+page:05192005
+	desc:05-19-2005
+	date: 2005-05-19
+page:05182005
+	desc:05-18-2005
+	date: 2005-05-18
+page:05172005
+	desc:05-17-2005
+	date: 2005-05-17
+page:05162005
+	desc:05-16-2005
+	date: 2005-05-16
+page:05132005
+	desc:05-13-2005
+	date: 2005-05-13
+page:05122005
+	desc:05-12-2005
+	date: 2005-05-12
+page:05112005
+	desc:05-11-2005
+	date: 2005-05-11
+page:05102005
+	desc:05-10-2005
+	date: 2005-05-10
+page:05092005
+	desc:05-09-2005
+	date: 2005-05-09
+page:05062005
+	desc:05-06-2005
+	date: 2005-05-06
+page:05052005
+	desc:05-05-2005
+	date: 2005-05-05
+page:05042005
+	desc:05-04-2005
+	date: 2005-05-04
+page:05032005
+	desc:05-03-2005
+	date: 2005-05-03
+page:05022005
+	desc:05-02-2005
+	date: 2005-05-02
 page:04292005
-	desc:04-29-2005
+	desc: It's Alright To Go Play
 	date: 2005-04-29
+	tag: Heather
+	tag: Shelly
+	tag: ShellyHome
+	tag: GreySpeak
 page:04282005
 	desc:04-28-2005
 	date: 2005-04-28
+	tag: BoilerRoom
+	tag: Chair
+	tag: Heather
+	tag: LittleShelly
+	tag: Scissors
+	tag: Shelly
+	tag: ShellysMom
+	tag: Tears
 page:04272005
 	desc:04-27-2005
 	date: 2005-04-27
+	tag: BoilerRoom
+	tag: Chair
+	tag: Heather
+	tag: LittleShelly
+	tag: Scissors
+	tag: Shelly
 page:04262005
-	desc:04-26-2005
+	desc: This Isn't Fair
 	date: 2005-04-26
+	tag: Shelly
+	tag: ShellyHome
+	tag: Heather
 page:04252005
-	desc:04-25-2005
+	desc: Under Different Circumstances
 	date: 2005-04-25
+	tag: Shelly
+	tag: ShellyHome
+	tag: Heather
 page:04222005
-	desc:04-22-2005
+	desc: Something Else On My Mind
 	date: 2005-04-22
+	tag: Shelly
+	tag: ShellyHome
+	tag: Heather
+	tag: BowlingBall
 page:04212005
-	desc:04-21-2005
+	desc: What I'm Doing Too
 	date: 2005-04-21
+	tag: Shelly
+	tag: ShellyHome
+	tag: Heather
+	tag: GreySpeak
 page:04202005
-	desc:04-20-2005
+	desc: Grrls Juss Wanna Have
 	date: 2005-04-20
+	tag: Shelly
+	tag: ShellyHome
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
 page:04192005
-	desc:04-19-2005
+	desc: Spring Cleaning
+	note: Kid Shelly's drawing features a moon-faced rabbit
 	date: 2005-04-19
+	tag: Shelly
+	tag: ShellyHome
+	tag: Rabbit
 page:04182005
-	desc:04-18-2005
 	date: 2005-04-18
+	desc: Listening to the Radio
+	tag: Monica
+	tag: Speakers
+	tag: Tepoz
 page:04152005
-	desc:04-15-2005
+	desc: Mezmerised By Your Stunning Eyes
 	date: 2005-04-15
+	tag: SunnysideUp
+	tag: Kevin
+	tag: Monica
 page:04142005
-	desc:04-14-2005
+	desc: Put Chest On My Chest
 	date: 2005-04-14
+	tag: SunnysideUp
+	tag: Kevin
+	tag: Monica
 page:04132005
 	desc:04-13-2005
 	date: 2005-04-13
+	tag: Jin
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shower	
+	tag: Snake
 page:04122005
-	desc:04-12-2005
+	desc: All She'll See Are Rabbits
 	date: 2005-04-12
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: SunnysideUp
 page:04112005
-	desc:04-11-2005
 	date: 2005-04-11
+	desc: Switch The Topic
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
 page:04082005
-	desc:04-08-2005
+	desc:Busty Mom Hug
 	date: 2005-04-08
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:04072005
 	desc:04-07-2005
 	date: 2005-04-07
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:04062005
 	desc:04-06-2005
 	date: 2005-04-06
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:04052005
-	desc:04-05-2005
 	date: 2005-04-05
+	desc: Who's Heather
+	tag: Blush
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:04042005
 	desc:04-04-2005
 	date: 2005-04-04
+	tag: GreySpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:04012005
-	desc:04-01-2005
 	date: 2005-04-01
+	desc:04-01-2005
+	tag: GreySpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:03312005
 	date: 2005-03-31
 	desc: You're Shaking All Over
