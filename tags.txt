@@ -22,51 +22,61 @@ Brandi  	Golem, Lioness in the [Chimera](#chimera)
 Bud     	Golem, Goat in the [Chimera](#chimera)
 Calista 	Fae, nickname: Cricket
 Castela 	nickname: Pickle; vine-girl, adopted daughter of [Katherine](#katherine), thus sister of [Atsali](#atsali); "child of the Guardians of the Doorways and a Daughter of the Wood"
-Chimera	possible Sumerian origins... destruction and fertility... mortality... figment of imagination
+Chimera 	possible Sumerian origins... destruction and fertility... mortality... figment of imagination
 Daren   	Barman / sage / confidant of [Daren's Bar](#darensbar), the social hub of the early years  (aka Darin early on)
+Demon   	personal demons: the voices in your head have an independent existance
 Dietzel  	[Monica's](#monica) long-suffering dog
+Doubt   	personal demon of [Monica's](#monica)
+DownstairsBar	below Owen & Lakshmi's bedroom
 FermentedBanana	Band comprising [Jacqueline](#jacqueline), [Owen](#owen), [Shelly](#shelly)
 Galena  	Galena, Illanois -- location of a wedding photo gig for [Amanda](#amanda) and [Monica](#monica)
 Georgette	fashionably thin model, fast metabolism
-GeorgettesDemon2	personal demon, painted mask face
-GeorgettesGuidance	personal demon, appears as a disembodied mask face
 Greg    	Dr Gregory Fields, [Monica's](#monica) boss at the [Museum](#museum)
+Guidance	one of Georgette's personal demons, appears as a disembodied mask face
 GuitarShop	Curly's Guitars
 GutBomb 	Fast food take-away 
 Heather   	singer, guitarist with [Intentional Thumbprint](#intentionalthumbprint)
 IntentionalThumbprint	band from around Des Moines, opened at [The Plow](#theplow) for [Fermented Banana](#fermentedbanana)
-Jacqueline	drummer with [Fermented Banana](#fermentedbanana), vet school student, Yoga teacher
+Jacqui  	Jacqueline Bontemps — drummer with [Fermented Banana](#fermentedbanana), vet school student, Yoga teacher, proprietor: [Punk Yoga](#punkyoga)
 Jeff    	[museum](#museum) assistant (?)
+JimmiesReggaeBar	not to be confused with [JimmysBluesBar](#jimmysbluesbar)
+JimmysBluesBar	not to be confused with [JimmiesReggaeBar](#jimmiesreggaebar)
 Jessie  	Mermaid (long light hair)
 Jin		Golem, Snake in the [Chimera](#chimera)
+Joe     	'mugger' -- actually a psychologist studying reactions to being robbed
 Katherine	Katherine Gilchrist, "eyes like a spider", shy woman; textile specialist at the [museum](#museum); daughter of [Lily](#lily)?
-Kevin   	Photographer, relationship with Monica for many years; (mundane?)
-KevinsHome	near the [Sunnyside Up](#sunnysideup) café
+Kevin   	Photographer, relationship with Monica for many years; (entirely mundane?)
+KevinHome	near the [Sunnyside Up](#sunnysideup) café
 Krystle 	Mermaid (short dark hair)
 LakeCalhoun	Lake and surrounding recreational parkland
-Lakshmi 	Large, strong lady met [Owen](#owen) on a blind date
+Lakshmi 	Large, strong lady, met [Owen](#owen) on a blind date
 Library 	Off-plane library of all books, or perhaps all knowledge
 Lily    	Lily Pratt, vampire
 LittleShelly	[Shelly's](#shelly) internalised self-image from the time of [her mother's](#shellymom) death
+Luci    	receptionist & poster girl for Punk Yoga; Celtic knot-work tattoos
 Lydia   	Bra designer; diplomas in architecture and industrial design
-MuchoMocha	coffee shop run by [Tina](#tina)
 Marta   	[Monica's](#monica) cousin in Monterrey
 Monica  	Monica Villarreal, 4\' 11\", Mexican, anthropologist, [antique shop](#antiqueshop) owner
-MonicasDoubt	personal demon of [Monica's](#monica)
 MrWahnee	Shelly's dad. Half Comanche. 
+MuchoMocha	coffee shop run by [Tina](#tina)
 Museum  	Minneapolis University Historical Museum (?)
+MusicBin	shop where [Owen](#owen) worked
+Nadette 	seer; is immune to [Atsali's](#atsali) siren song
 Owen    	Shelly's childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin), 
 Phix    	Sphinx, librarian at The [Library](#library)
+PunkYoga	[Jacqui's](#jacqui) yoga studio
+Room316 	in (a) Minneapolis hospital
 Roy     	part-owner of the [Antique Shop](#antiqueshop) with [Monica](#monica)
-Sailor		18 year old lad Monica nearly gets out of hand with at a Wedding in Galena. In a broom closet.
+Sailor		18 year old lad Monica nearly gets out of hand with at a wedding in [Galena](#galena). In a broom closet.
 Shelly  	Shelly Wahnee, muscle girl, wrench wench
-ShellyMom	died when Shelly was 10
+ShellyMom	'died' when Shelly was 10
 SunnysideUp	Sunnyside Up Café, near Kevin's home
 Suzy    	Suzy McBride, vampire
 Tepoz   	Tepoztecal, Aztec god of alcohol, an animate 3\' high blue statue
 ThePlow 	Bar in Des Moines
 Tiffany 	minds the [Antique Shop](#antiqueshop)
-Tina    	Tina Rosario Aldaco Guzmán, barista/proprietor of Mucho Mocha; a demon conglomerate or commune
-VWvan   	Jacqueline's wheels for [Fermented Banana's](#fermentedbanana) transport
+Tina    	Tina Rosario Aldaco Guzmán, barista/proprietor of Mucho Mocha; dead; animated by a [demon](#demon) conglomerate or commune
+Vorp	Library teleport/transport system (?)
+VWvan   	[Jacqui's](#jacqui) wheels for [Fermented Banana's](#fermentedbanana) transport
 YummyTea	working name of Mexican artist, last name Teran, knew Monica as a kid
 ; --- tags.txt EOF ---

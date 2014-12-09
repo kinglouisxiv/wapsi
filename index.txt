@@ -25,6 +25,19 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
+page:im-sick
+	date: 2014-12-05
+	desc: I'm Sick
+	tag: Shelly
+	tag: Tina
+	tag: TinaHome
+	tag: Vorp
+page:something-wrong-2
+	date: 2014-12-05
+	desc: Something Wrong
+	tag: Becky
+	tag: MuchoMocha
+	tag: Shelly
 page:stupid-flu
 	date: 2014-12-05
 	desc: Stupid Flu
@@ -334,7 +347,7 @@ page:figure-it-out
 	date: 2014-09-25
 	tag: Library
 	tag: Monica
-	Tag: Phix
+	tag: Phix
 	tag: Shelly
 page:best-idea-ever
 	desc: Best Idea Ever
@@ -576,7 +589,7 @@ page:one-who-could-cry
 	date: 2014-08-05
 	desc: One Who Could Cry
 	tag: Calista
-	tag: Nadine
+	tag: Nadette
 	tag: School
 page:strange-doorway
 	date: 2014-08-04
@@ -584,7 +597,7 @@ page:strange-doorway
 	tag: Atsali
 	tag: Calista
 	tag: Castela
-	tag: Nadine
+	tag: Nadette
 	tag: School
 page:not-tough
 	date: 2014-08-01
@@ -7092,504 +7105,1120 @@ page:castel-enora-gilchrist
 ;page:notmorethanaclerk
 ;	desc:Notmorethanaclerk
 ;	date: 2006-02-01
-;page:workswithinthelaws
-;	desc:Workswithinthelaws
-;	date: 2006-01-31
-;page:neitheroneofushast
-;	desc:Neitheroneofushast
-;	date: 2006-01-30
-;page:areyoulost-2
-;	desc:Areyoulost
-;	date: 2006-01-27
-;page:fictionalmaledeity
-;	desc:Fictionalmaledeity
-;	date: 2006-01-26
-;page:wellletyoutwoalone
-;	desc:Wellletyoutwoalone
-;	date: 2006-01-25
-;page:loudpurring
-;	desc:Loudpurring
-;	date: 2006-01-24
-;page:whattimeisit
-;	desc:Whattimeisit
-;	date: 2006-01-23
-;page:littleescape
-;	desc:Littleescape
-;	date: 2006-01-20
-;page:keepthemdancing
-;	desc:Keepthemdancing
-;	date: 2006-01-19
-;page:didntletyoudownbef
-;	desc:Didntletyoudownbef
-;	date: 2006-01-18
-;page:youbothneedus
-;	desc:Youbothneedus
-;	date: 2006-01-17
-;page:foldyoulikeanapkin
-;	desc:Foldyoulikeanapkin
-;	date: 2006-01-16
-;page:areyoulost
-;	desc:Areyoulost
-;	date: 2006-01-13
-;page:freetojoinus
-;	desc:Freetojoinus
-;	date: 2006-01-12
-;page:nickedthetipofthat
-;	desc:Nickedthetipofthat
-;	date: 2006-01-11
-;page:whatstheretoforget
-;	desc:Whatstheretoforget
-;	date: 2006-01-10
-;page:whosthatwithyou
-;	desc:Whosthatwithyou
-;	date: 2006-01-09
-;page:doyoustilltrustus
-;	desc:Doyoustilltrustus
-;	date: 2006-01-06
-;page:theperfectspot
-;	desc:Theperfectspot
-;	date: 2006-01-05
-;page:needanightout
-;	desc:Needanightout
-;	date: 2006-01-04
-;page:whatssospecial
-;	desc:Whatssospecial
-;	date: 2006-01-03
-;page:thatsyourrequest
-;	desc:Thatsyourrequest
-;	date: 2006-01-02
-;page:hopingyouwouldhave
-;	desc:Hopingyouwouldhave
-;	date: 2005-12-30
-;page:catalystforavision
-;	desc:Catalystforavision
-;	date: 2005-12-29
-;page:didyouhearme
-;	desc:Didyouhearme
-;	date: 2005-12-28
-;page:thatwasntthegoal
-;	desc:Thatwasntthegoal
-;	date: 2005-12-27
-;page:listenrealclose
-;	desc:Listenrealclose
-;	date: 2005-12-26
-;page:visionquestatthirt
-;	desc:Visionquestatthirt
-;	date: 2005-12-23
-;page:connectthedots
-;	desc:Connectthedots
-;	date: 2005-12-22
-;page:feelingonedge
-;	desc:Feelingonedge
-;	date: 2005-12-21
-;page:theyhadachoice
-;	desc:Theyhadachoice
-;	date: 2005-12-20
-;page:wiserandsmarter
-;	desc:Wiserandsmarter
-;	date: 2005-12-19
-;page:doesthatfrightenyou
-;	desc:Doesthatfrightenyou
-;	date: 2005-12-16
-;page:giftwrappedleviathans
-;	desc:Giftwrappedleviathans
-;	date: 2005-12-15
-;page:yourheartstopped
-;	desc:Yourheartstopped
-;	date: 2005-12-14
-;page:justtellmewhy
-;	desc:Justtellmewhy
-;	date: 2005-12-13
-;page:dontwanttodeal
-;	desc:Dontwanttodeal
-;	date: 2005-12-12
-;page:whatdestroyedthem
-;	desc:Whatdestroyedthem
-;	date: 2005-12-09
-;page:lionfacingeast
-;	desc:Lionfacingeast
-;	date: 2005-12-08
-;page:youretheirkeepernow
-;	desc:Youretheirkeepernow
-;	date: 2005-12-07
-;page:everybitasdangerous
-;	desc:Everybitasdangerous
-;	date: 2005-12-06
-;page:thosepoorgirls
-;	desc:Thosepoorgirls
-;	date: 2005-12-05
-;page:justanswerthequestion
-;	desc:Justanswerthequestion
-;	date: 2005-12-02
-;page:itsimportant
-;	desc:Itsimportant
-;	date: 2005-12-01
-;page:illcallyoulater
-;	desc:Illcallyoulater
-;	date: 2005-11-30
-;page:itscomplicatedlikethat
-;	desc:Itscomplicatedlikethat
-;	date: 2005-11-29
-;page:somethingterriblehappened
-;	desc:Somethingterriblehappened
-;	date: 2005-11-28
-;page:enjoytheconversation
-;	desc:Enjoytheconversation
-;	date: 2005-11-25
-;page:grabtheheadboard
-;	desc:Grabtheheadboard
-;	date: 2005-11-24
-;page:didyousaysomething
-;	desc:Didyousaysomething
-;	date: 2005-11-23
-;page:somethingbetter
-;	desc:Somethingbetter
-;	date: 2005-11-22
-;page:gettingclaustrophobic
-;	desc:Gettingclaustrophobic
-;	date: 2005-11-21
-;page:backtoourregularlyscheduledprogram
-;	desc:Backtoourregularlyscheduledprogram
-;	date: 2005-11-18
-;page:pleasejustletmego
-;	desc:Pleasejustletmego
-;	date: 2005-11-17
-;page:whatdoyouknow
-;	desc:Whatdoyouknow
-;	date: 2005-11-16
-;page:shegaveupwedidnt
-;	desc:Shegaveupwedidnt
-;	date: 2005-11-15
-;page:shesquitegoodatthat
-;	desc:Shesquitegoodatthat
-;	date: 2005-11-14
-;page:shewasoneofthem
-;	desc:Shewasoneofthem
-;	date: 2005-11-11
-;page:thepit
-;	desc:Thepit
-;	date: 2005-11-10
-;page:achillesheel
-;	desc:Achillesheel
-;	date: 2005-11-09
-;page:finaldestination
-;	desc:Finaldestination
-;	date: 2005-11-08
-;page:takenaway
-;	desc:Takenaway
-;	date: 2005-11-07
-;page:pleasenotyou
-;	desc:Pleasenotyou
-;	date: 2005-11-04
-;page:whatareyoudoing
-;	desc:Whatareyoudoing
-;	date: 2005-11-03
-;page:illgrabtwo
-;	desc:Illgrabtwo
-;	date: 2005-11-02
-;page:meetyouinthekitchen
-;	desc:Meetyouinthekitchen
-;	date: 2005-11-01
-;page:hasshebeendrinking
-;	desc:Hasshebeendrinking
-;	date: 2005-10-31
-;page:whoareyou
-;	desc:Whoareyou
-;	date: 2005-10-28
-;page:quitshoving
-;	desc:Quitshoving
-;	date: 2005-10-27
-;page:hideinhere
-;	desc:Hideinhere
-;	date: 2005-10-26
-;page:ohdoublecrud
-;	desc:Ohdoublecrud
-;	date: 2005-10-25
-;page:needtotrythesebananas
-;	desc:Needtotrythesebananas
-;	date: 2005-10-24
-;page:heylookbananas
-;	desc:Heylookbananas
-;	date: 2005-10-21
-;page:wasthatyou
-;	desc:Wasthatyou
-;	date: 2005-10-20
-;page:howshemadeit
-;	desc:Howshemadeit
-;	date: 2005-10-19
-;page:inareallygoomood
-;	desc:Inareallygoomood
-;	date: 2005-10-18
-;page:mustbeforhalloween
-;	desc:Mustbeforhalloween
-;	date: 2005-10-17
-;page:winecellar
-;	desc:Winecellar
-;	date: 2005-10-14
-;page:cookingmesupper
-;	desc:Cookingmesupper
-;	date: 2005-10-13
-;page:onmydesklastweek
-;	desc:Onmydesklastweek
-;	date: 2005-10-12
-;page:startingtogetcold
-;	desc:Startingtogetcold
-;	date: 2005-10-11
-;page:wishiknew
-;	desc:Wishiknew
-;	date: 2005-10-10
-;page:threepartsofone
-;	desc:Threepartsofone
-;	date: 2005-10-07
-;page:onadifferentpage
-;	desc:Onadifferentpage
-;	date: 2005-10-06
-;page:pentupaggression
-;	desc:Pentupaggression
-;	date: 2005-10-05
-;page:walkthatdog
-;	desc:Walkthatdog
-;	date: 2005-10-04
-;page:spillitslappy
-;	desc:Spillitslappy
-;	date: 2005-10-03
-;page:bestthingtoeverhappen
-;	desc:Bestthingtoeverhappen
-;	date: 2005-09-30
-;page:adorabledrunk
-;	desc:Adorabledrunk
-;	date: 2005-09-29
-;page:seeyamonday
-;	desc:Seeyamonday
-;	date: 2005-09-28
-;page:lightenup
-;	desc:Lightenup
-;	date: 2005-09-27
-;page:giggleburp
-;	desc:Giggleburp
-;	date: 2005-09-26
-;page:whatifameteorite
-;	desc:Whatifameteorite
-;	date: 2005-09-23
-;page:anyhobbies
-;	desc:Anyhobbies
-;	date: 2005-09-22
-;page:speaksvolumes
-;	desc:Speaksvolumes
-;	date: 2005-09-21
-;page:delayedreaction
-;	desc:Delayedreaction
-;	date: 2005-09-20
-;page:veryinsightful
-;	desc:Veryinsightful
-;	date: 2005-09-19
-;page:toocloseminded
-;	desc:Toocloseminded
-;	date: 2005-09-16
-;page:somewheresafer
-;	desc:Somewheresafer
-;	date: 2005-09-15
-;page:beeinyourbonnet
-;	desc:Beeinyourbonnet
-;	date: 2005-09-14
-;page:thesunstonewas
-;	desc:Thesunstonewas
-;	date: 2005-09-13
-;page:hocuspocuscrap
-;	desc:Hocuspocuscrap
-;	date: 2005-09-12
-;page:nothingofhistory
-;	desc:Nothingofhistory
-;	date: 2005-09-09
-;page:nowyoullbelieveme
-;	desc:Nowyoullbelieveme
-;	date: 2005-09-08
-;page:betteratthecoop
-;	desc:Betteratthecoop
-;	date: 2005-09-07
-;page:youllberightback
-;	desc:Youllberightback
-;	date: 2005-09-06
-;page:yeahwhatever
-;	desc:Yeahwhatever
-;	date: 2005-09-05
-;page:notmeanttobefound
-;	desc:Notmeanttobefound
-;	date: 2005-09-02
-;page:hesagoodlistener
-;	desc:Hesagoodlistener
-;	date: 2005-09-01
-;page:toldmeiwasnice
-;	desc:Toldmeiwasnice
-;	date: 2005-08-31
-;page:lockedsupplyroom
-;	desc:Lockedsupplyroom
-;	date: 2005-08-30
-;page:listentoher
-;	desc:Listentoher
-;	date: 2005-08-29
-;page:youmissedit
-;	desc:Youmissedit
-;	date: 2005-08-26
-;page:quitbeingapoop
-;	desc:Quitbeingapoop
-;	date: 2005-08-25
-;page:feelbetteralready
-;	desc:Feelbetteralready
-;	date: 2005-08-24
-;page:knowinganddoing
-;	desc:Knowinganddoing
-;	date: 2005-08-23
-;page:tellmeiwasnt
-;	desc:Tellmeiwasnt
-;	date: 2005-08-22
-;page:doingmyjob
-;	desc:Doingmyjob
-;	date: 2005-08-19
-;page:likepullingteeth
-;	desc:Likepullingteeth
-;	date: 2005-08-18
-;page:wanttoknowyourlastname
-;	desc:Wanttoknowyourlastname
-;	date: 2005-08-17
-;page:whatwasherebefore
-;	desc:Whatwasherebefore
-;	date: 2005-08-16
-;page:dontknowyou
-;	desc:Dontknowyou
-;	date: 2005-08-15
-;page:tradeproblems
-;	desc:Tradeproblems
-;	date: 2005-08-12
-;page:pleeeeease
-;	desc:Pleeeeease
-;	date: 2005-08-11
-;page:stillagawkykid
-;	desc:Stillagawkykid
-;	date: 2005-08-10
-;page:definingwhoyouare
-;	desc:Definingwhoyouare
-;	date: 2005-08-09
-;page:cantbreathe
-;	desc:Cantbreathe
-;	date: 2005-08-08
-;page:skinnyassclub
-;	desc:Skinnyassclub
-;	date: 2005-08-05
-;page:thesizeofyourhead
-;	desc:Thesizeofyourhead
-;	date: 2005-08-04
-;page:daaaamnright
-;	desc:Daaaamnright
-;	date: 2005-08-03
-;page:hungryminutesfromnow
-;	desc:Hungryminutesfromnow
-;	date: 2005-08-02
-;page:wishilookednormal
-;	desc:Wishilookednormal
-;	date: 2005-08-01
-;page:preconceivednotions
-;	desc:Preconceivednotions
-;	date: 2005-07-29
-;page:justposes
-;	desc:Justposes
-;	date: 2005-07-28
-;page:dorkcheesecake
-;	desc:Dorkcheesecake
-;	date: 2005-07-27
-;page:talkedmeintothat
-;	desc:Talkedmeintothat
-;	date: 2005-07-26
-;page:soundedgreat
-;	desc:Soundedgreat
-;	date: 2005-07-25
-;page:justjacqui
-;	desc:Justjacqui
-;	date: 2005-07-22
-;page:gotomyhead
-;	desc:Gotomyhead
-;	date: 2005-07-21
-;page:gurgle
-;	desc:Gurgle
-;	date: 2005-07-20
-;page:watermyself
-;	desc:Watermyself
-;	date: 2005-07-19
-;page:beautifulday
-;	desc:Beautifulday
-;	date: 2005-07-18
-;page:becauseyourescared
-;	desc:Becauseyourescared
-;	date: 2005-07-15
-;page:workingthroughissues
-;	desc:Workingthroughissues
-;	date: 2005-07-14
-;page:thatsunfair
-;	desc:Thatsunfair
-;	date: 2005-07-13
-;page:mutualtrust
-;	desc:Mutualtrust
-;	date: 2005-07-12
-;page:nocounseling
-;	desc:Nocounseling
-;	date: 2005-07-11
-;page:whatconversation
-;	desc:Whatconversation
-;	date: 2005-07-08
-;page:overeducated
-;	desc:Overeducated
-;	date: 2005-07-07
-;page:callingataxi
-;	desc:Callingataxi
-;	date: 2005-07-06
-;page:inthatcase
-;	desc:Inthatcase
-;	date: 2005-07-05
-;page:quityourarguing
-;	desc:Quityourarguing
-;	date: 2005-07-04
-;page:waitaminute
-;	desc:Waitaminute
-;	date: 2005-07-01
+page:workswithinthelaws
+	desc:Workswithinthelaws
+	date: 2006-01-31
+page:neitheroneofushast
+	desc:Neitheroneofushast
+	date: 2006-01-30
+page:areyoulost-2
+	desc:Areyoulost
+	date: 2006-01-27
+page:fictionalmaledeity
+	desc:Fictionalmaledeity
+	date: 2006-01-26
+page:wellletyoutwoalone
+	desc:Wellletyoutwoalone
+	date: 2006-01-25
+page:loudpurring
+	desc:Loudpurring
+	date: 2006-01-24
+page:whattimeisit
+	desc:Whattimeisit
+	date: 2006-01-23
+page:littleescape
+	desc:Littleescape
+	date: 2006-01-20
+page:keepthemdancing
+	desc:Keepthemdancing
+	date: 2006-01-19
+page:didntletyoudownbef
+	desc:Didntletyoudownbef
+	date: 2006-01-18
+page:youbothneedus
+	desc:Youbothneedus
+	date: 2006-01-17
+page:foldyoulikeanapkin
+	desc:Foldyoulikeanapkin
+	date: 2006-01-16
+page:areyoulost
+	desc:Areyoulost
+	date: 2006-01-13
+page:freetojoinus
+	desc:Freetojoinus
+	date: 2006-01-12
+page:nickedthetipofthat
+	desc:Nickedthetipofthat
+	date: 2006-01-11
+page:whatstheretoforget
+	desc:Whatstheretoforget
+	date: 2006-01-10
+page:whosthatwithyou
+	desc:Whosthatwithyou
+	date: 2006-01-09
+page:doyoustilltrustus
+	desc:Doyoustilltrustus
+	date: 2006-01-06
+page:theperfectspot
+	desc:Theperfectspot
+	date: 2006-01-05
+page:needanightout
+	desc:Needanightout
+	date: 2006-01-04
+page:whatssospecial
+	desc:Whatssospecial
+	date: 2006-01-03
+page:thatsyourrequest
+	desc: That's Your Request
+	date: 2006-01-02
+	tag: AutoRepair
+	tag: Shelly
+	tag: Tepoz
+page:hopingyouwouldhave
+	date: 2005-12-30
+	desc: Hoping You Would Have
+	tag: AutoRepair
+	tag: Aztec
+	tag: ClayDolls
+	tag: Shelly
+	tag: Tepoz
+	tag: Tochtli
+page:catalystforavision
+	date: 2005-12-29
+	desc: Catalyst For A Vision
+	tag: AutoRepair
+	tag: Shelly
+	tag: ShellyMom
+	tag: Tepoz
+page:didyouhearme
+	date: 2005-12-28
+	desc: Did You Hear Me
+	tag: AutoRepair
+	tag: Monica
+	tag: Shelly
+	tag: ShellyMom
+	tag: Tepoz
+	tag: Tochtli
+page:thatwasntthegoal
+	date: 2005-12-27
+	desc: That Wasn't The Goal
+	tag: AutoRepair
+	tag: Engine
+	tag: Monica
+	tag: Shelly
+	tag: Tepoz
+	tag: Tochtli
+page:listenrealclose
+	date: 2005-12-26
+	desc: Listen Real Close
+	tag: AutoRepair
+	tag: Engine
+	tag: Monica
+	tag: MoonFacedRabbit
+	tag: Shelly
+	tag: Tepoz
+	tag: Tochtli
+page:visionquestatthirt
+	date: 2005-12-23
+	desc: Vision Quest At Thirteen
+	tag: AutoRepair
+	tag: MoonFacedRabbit
+	tag: Shelly
+	tag: Tepoz
+page:connectthedots
+	date: 2005-12-22
+	desc: Connect The Dots
+	tag: AutoRepair
+	tag: Kukulcan
+	tag: Museum
+	tag: Shelly
+	tag: Tepoz
+page:feelingonedge
+	date: 2005-12-21
+	desc: Feeling On Edge
+	tag: Demon
+	tag: Doubt
+	tag: GreySpeak	
+	tag: MirrorSpeak
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:theyhadachoice
+	date: 2005-12-20
+	desc: They Had A Choice
+	tag: Demon
+	tag: Doubt
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:wiserandsmarter
+	date: 2005-12-19
+	desc: Wiser And Smarter
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:doesthatfrightenyou
+	date: 2005-12-16
+	desc: Does That Frighten You
+	tag: Demon
+	tag: Doubt
+	tag: Monica
+	tag: Museum
+page:giftwrappedleviathans
+	date: 2005-12-15
+	desc: Gift-Wrapped Leviathans
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:yourheartstopped
+	date: 2005-12-14
+	desc: Your Heart Stopped
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:justtellmewhy
+	date: 2005-12-13
+	desc: Just Tell Me Why
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:dontwanttodeal
+	date: 2005-12-12
+	desc: Don't want to deal
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:whatdestroyedthem
+	date: 2005-12-09
+	desc: What Destroyed Them
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:lionfacingeast
+	date: 2005-12-08
+	desc: Lion Facing East
+	tag: Monica
+	tag: Museum
+	tag: Sphinx
+	tag: Tepoz
+page:youretheirkeepernow
+	date: 2005-12-07
+	desc: You're Their Keeper Now
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:everybitasdangerous
+	date: 2005-12-06
+	desc: Every Bit As Dangerous
+	tag: Brandi
+	tag: Bud
+	tag: Chimera
+	tag: Flashback
+	tag: Jin
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:thosepoorgirls
+	date: 2005-12-05
+	desc: Those Poor Girls
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:justanswerthequestion
+	date: 2005-12-02
+	desc: Just Answer The Question
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:itsimportant
+	date: 2005-12-01
+	desc: It's Important
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:illcallyoulater
+	date: 2005-11-30
+	desc: I'll Call You Later
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+page:itscomplicatedlikethat
+	date: 2005-11-29
+	desc: It's Complicated Like That
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
+page:somethingterriblehappened
+	date: 2005-11-28
+	desc: Something Terrible Happened
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
+page:enjoytheconversation
+	date: 2005-11-25
+	desc: Enjoy The Conversation
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:grabtheheadboard
+	date: 2005-11-24
+	desc: Grab The Headboard
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:didyousaysomething
+	date: 2005-11-23
+	desc: Did You Say Something
+	tag: Bra
+	tag: Kevin
+	tag: Monica
+	tag: Wine
+page:somethingbetter
+	date: 2005-11-22
+	desc: Something Better
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: WineCellar	
+page:gettingclaustrophobic
+	date: 2005-11-21
+	desc: Getting Claustrophobic
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Snake
+	tag: WineCellar	
+page:backtoourregularlyscheduledprogram
+	date: 2005-11-18
+	desc:Back To Our Regularly Scheduled Program
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Poit
+	tag: Skeletons
+	tag: WineCellar
+page:pleasejustletmego
+	date: 2005-11-17
+	desc: Please Just Let Me Go
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: Skeletons
+	tag: Tears
+	tag: WineCellar
+page:whatdoyouknow
+	date: 2005-11-16
+	desc: What Do You Know
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: WineCellar
+page:shegaveupwedidnt
+	date: 2005-11-15
+	desc: She gave up we didn't
+	tag: Blood
+	tag: Bud
+	tag: Corpse
+	tag: Flashback
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: WineCellar
+page:shesquitegoodatthat
+	date: 2005-11-14
+	desc: She's Quite Good At That
+	tag: Bud
+	tag: GreySpeak
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: WineCellar
+page:shewasoneofthem
+	date: 2005-11-11
+	desc: She Was One Of Them
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tears
+	tag: WineCellar
+page:thepit
+	date: 2005-11-10
+	desc: The pit
+	tag: Brandi
+	tag: Bud
+	tag: Flashback
+	tag: HoodRobe
+	tag: Pit
+page:achillesheel
+	date: 2005-11-09
+	desc: Achilles Heel
+	tag: Bud
+	tag: Flashback
+	tag: Hamstring
+	tag: Knife
+page:finaldestination
+	date: 2005-11-08
+	desc: Final Destination
+	tag: Brandi
+	tag: Bud
+	tag: Flashback
+	tag: HoodRobe
+	tag: Ziggurat
+page:takenaway
+	date: 2005-11-07
+	desc: Taken Away
+	tag: Bud
+	tag: Flashback
+	tag: HoodRobe
+	tag: MiddleEast
+page:pleasenotyou
+	date: 2005-11-04
+	desc: Please Not You
+	tag: Bud
+	tag: FlashLight	
+	tag: Glyphs
+	tag: Monica
+	tag: MonicaHouse
+	tag: Skeletons
+	tag: Tears
+	tag: WineCellar
+page:whatareyoudoing
+	date: 2005-11-03
+	desc: What Are You Doing
+	tag: Bud
+	tag: FlashLight	
+	tag: Monica
+	tag: MonicaHouse
+	tag: Skeletons
+	tag: WineCellar
+page:illgrabtwo
+	date: 2005-11-02
+	desc: I'll Grab Two
+	tag: Kevin
+	tag: Monica	
+	tag: MonicaHouse
+page:meetyouinthekitchen
+	date: 2005-11-01
+	desc: Meet You In The Kitchen
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Towel
+page:hasshebeendrinking
+	date: 2005-10-31
+	desc: Has She Been Drinking
+	tag: Bud
+	tag: GreySpeak
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Towel
+page:whoareyou
+	date: 2005-10-28
+	desc: Who Are You
+	tag: Bud
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Towel
+page:quitshoving
+	date: 2005-10-27
+	desc: Quit Shoving
+	tag: Brandi
+	tag: Bud
+	tag: Hatch
+	tag: Jin
+	tag: Kevin
+	tag: MonicaHouse
+	tag: Phone
+	tag: Towel
+page:hideinhere
+	date: 2005-10-26
+	desc: Hide In Here
+	tag: Brandi
+	tag: Bud
+	tag: Hatch
+	tag: Jin
+	tag: Kevin
+	tag: MonicaHouse
+page:ohdoublecrud
+	date: 2005-10-25
+	desc: Oh double crud
+	tag: Brandi
+	tag: Bud
+	tag: Hatch
+	tag: Jin
+	tag: Merchant
+	tag: MonicaHouse
+	tag: Tepoz
+page:needtotrythesebananas
+	date: 2005-10-24
+	desc: Need To Try These Bananas
+	tag: Bananas
+	tag: Brandi
+	tag: Bud
+	tag: Deitzel
+	tag: Jin
+	tag: Kevin
+	tag: MonicaHouse
+page:heylookbananas
+	date: 2005-10-21
+	desc: Hey Look Bananas
+	tag: Bananas
+	tag: Barf
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: MonicaHouse
+page:wasthatyou
+	date: 2005-10-20
+	desc: Was That You
+	tag: Brandi
+	tag: Bud
+	tag: Burp
+	tag: Deitzel
+	tag: Jin
+	tag: Kevin
+	tag: MonicaHouse
+page:howshemadeit
+	date: 2005-10-19
+	desc: Howshemadeit
+	tag: Deitzel
+	tag: Kevin
+	tag: MonicaHouse
+page:inareallygoomood
+	date: 2005-10-18
+	desc: In A Really Good Mood
+	note: crumbling
+	tag: Kevin
+	tag: MonicaHouse
+	tag: Skeletons
+	tag: WineCellar
+page:mustbeforhalloween
+	date: 2005-10-17
+	desc: Must Be For Halloween
+	tag: FlashLight	
+	tag: Kevin
+	tag: MonicaHouse
+	tag: Skeletons
+	tag: WineCellar
+page:winecellar
+	date: 2005-10-14
+	desc: Wine Cellar
+	tag: FlashLight
+	tag: Kevin
+	tag: MonicaHouse
+	tag: Skeleton
+	tag: WineCellar
+page:cookingmesupper
+	date: 2005-10-13
+	desc: Cooking Me Supper
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Museum
+	tag: Phone
+page:onmydesklastweek
+	date: 2005-10-12
+	desc: On My Desk Last Week
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Museum
+	tag: Phone
+page:startingtogetcold
+	date: 2005-10-11
+	desc: Starting To Get Cold
+	note: Ancestry
+	tag: Monica
+page:wishiknew
+	date: 2005-10-10
+	desc: Wish I Knew
+	tag: Glyphs
+	tag: Monica
+page:threepartsofone
+	date: 2005-10-07
+	desc: Three Parts Of One
+	tag: Chimera	
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:onadifferentpage
+	date: 2005-10-06
+	desc: On a different page
+	tag: Chimera
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:pentupaggression
+	date: 2005-10-05
+	desc: Pent Up Aggression
+	tag: Bed
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:walkthatdog
+	date: 2005-10-04
+	desc: Walk That Dog
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:spillitslappy
+	date: 2005-10-03
+	desc: Spill It Slappy
+	tag: Kiss
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+page:bestthingtoeverhappen
+	date: 2005-09-30
+	desc:Bestthingtoeverhappen
+	tag: Bed
+	tag: Brandy
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:adorabledrunk
+	date: 2005-09-29
+	desc: Adorable Drunk
+	tag: Bed
+	tag: Brandy
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:seeyamonday
+	date: 2005-09-28
+	desc: See Ya Monday
+	tag: DarensBar
+	tag: Monica
+	tag: Taxi
+page:lightenup
+	date: 2005-09-27
+	desc: Lighten up
+	tag: Burp
+	tag: DarensBar
+	tag: Katherine
+	tag: Monica
+page:giggleburp
+	date: 2005-09-26
+	desc: Giggle Burp
+	tag: Burp
+	tag: DarensBar
+	tag: Katherine
+	tag: Monica
+page:whatifameteorite
+	date: 2005-09-23
+	desc: What If A Meteorite
+	tag: DarensBar
+	tag: Katherine
+	tag: Monica
+page:anyhobbies
+	date: 2005-09-22
+	desc: Any Hobbies
+	tag: Beer
+	tag: DarensBar
+	tag: Katherine
+	tag: Monica
+page:speaksvolumes
+	date: 2005-09-21
+	desc: Speaks Volumes
+	tag: Beer
+	tag: Daren
+	tag: DarensBar
+	tag: Katherine
+	tag: Monica
+page:delayedreaction
+	date: 2005-09-20
+	desc: Delayed Reaction
+	tag: Monica
+	tag: Museum
+	tag: Sweat
+	tag: Tepoz
+page:veryinsightful
+	date: 2005-09-19
+	desc: Very Insightful
+	tag: Katherine
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:toocloseminded
+	date: 2005-09-16
+	desc: Too Close Minded
+	tag: Katherine
+	tag: Museum
+	tag: Tepoz
+page:somewheresafer
+	date: 2005-09-15
+	desc: Somewhere Safer
+	tag: Brandi
+	tag: Bud
+	tag: Dance
+	tag: Jin
+	tag: Museum
+	tag: Tepoz
+page:beeinyourbonnet
+	date: 2005-09-14
+	desc: Bee In Your Bonnet
+	tag: Monica
+	tag: Museum
+	tag: MuseumVault
+	tag: SecurityGuard
+page:thesunstonewas
+	date: 2005-09-13
+	desc: The Sun Stone Was
+	tag: CeremonialCloth
+	tag: Monica
+	tag: Museum
+	tag: MuseumVault
+page:hocuspocuscrap
+	date: 2005-09-12
+	desc: Hocuspocus Crap
+	tag: CeremonialCloth
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:nothingofhistory
+	date: 2005-09-09
+	desc: Nothing Of History
+	tag: CeremonialCloth
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:nowyoullbelieveme
+	date: 2005-09-08
+	desc: Now You'll Believe Me
+	tag: Axayacatl
+	tag: Aztec
+	tag: CeremonialCloth
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:betteratthecoop
+	date: 2005-09-07
+	desc: Better At The Co-Op
+	tag: Aztec
+	tag: Banana
+	tag: CeremonialCloth
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:youllberightback
+	date: 2005-09-06
+	desc: You'll Be Right Back
+	tag: CeremonialCloth
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:yeahwhatever
+	date: 2005-09-05
+	desc: Yeah Whatever
+	tag: CeremonialCloth
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:notmeanttobefound
+	date: 2005-09-02
+	desc: Not Meant To Be Found
+	tag: Calendar
+	tag: CeremonialCloth
+	tag: Egyptian
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+	tag: Yaxchilan
+page:hesagoodlistener
+	date: 2005-09-01
+	desc: He's A Good Listener
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:toldmeiwasnice
+	date: 2005-08-31
+	desc: Told Me I Was Nice
+	tag: DarensBar
+	tag: Katherine
+	tag: Monica
+	tag: Museum
+page:lockedsupplyroom
+	date: 2005-08-30
+	desc: Locked Supply Room
+	tag: Katherine
+	tag: Monica
+	tag: Museum
+page:listentoher
+	date: 2005-08-29
+	desc: Listen to her
+	tag: GreySpeak
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:youmissedit
+	date: 2005-08-26
+	desc: You missed it
+	tag: Bullhorn
+	tag: Katherine
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:quitbeingapoop
+	date: 2005-08-25
+	desc:Quit Being A Poop
+	tag: LionStatue
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
+page:feelbetteralready
+	date: 2005-08-24
+	desc: Feel Better Already
+	tag: LionStatue
+	tag: Monica
+	tag: Museum
+page:knowinganddoing
+	date: 2005-08-23
+	desc: Knowing And Doing
+	tag: Daren
+	tag: DarensBar
+	tag: Monica
+page:tellmeiwasnt
+	date: 2005-08-22
+	desc: Tell Me I Wasn't
+	tag: Daren
+	tag: DarensBar
+	tag: Monica
+page:doingmyjob
+	date: 2005-08-19
+	desc: Doing My Job
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:likepullingteeth
+	date: 2005-08-18
+	desc: Like Pulling Teeth
+	note: naming Tina
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:wanttoknowyourlastname
+	date: 2005-08-17
+	desc: Want to know your last name
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:whatwasherebefore
+	date: 2005-08-16
+	desc: What Was Here Before
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:dontknowyou
+	date: 2005-08-15
+	desc: Don't know you
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+page:tradeproblems
+	date: 2005-08-12
+	desc: Trade Problems
+	tag: Amanda
+	tag: DarensBar
+	tag: Monica
+page:pleeeeease
+	date: 2005-08-11
+	desc: Pleeeeease
+	tag: Amanda
+	tag: DarensBar
+	tag: Flashback
+	tag: Monica
+page:stillagawkykid
+	date: 2005-08-10
+	desc: Still A Gawky Kid
+	tag: Amanda
+	tag: DarensBar
+	tag: Flashback
+	tag: Monica
+page:definingwhoyouare
+	date: 2005-08-09
+	desc: Defining Who You Are
+	tag: Amanda
+	tag: DarensBar
+	tag: Flashback
+	tag: Mirror
+	tag: Monica
+page:cantbreathe
+	date: 2005-08-08
+	desc: Can't Breathe
+	tag: Amanda
+	tag: DarensBar
+	tag: Flashback
+	tag: Minimiser
+	tag: Monica
+page:skinnyassclub
+	date: 2005-08-05
+	desc: Skinny Ass Club
+	tag: Amanda
+	tag: Beer
+	tag: DarensBar
+	tag: Georgette
+	tag: Monica
+page:thesizeofyourhead
+	date: 2005-08-04
+	desc: The Size Of Your Head
+	tag: Amanda
+	tag: Beer
+	tag: DarensBar
+	tag: Monica
+page:daaaamnright
+	date: 2005-08-03
+	desc: Daaaamn Right
+	tag: Amanda
+	tag: DarensBar
+	tag: Monica
+page:hungryminutesfromnow
+	date: 2005-08-02
+	desc: Hungry Minutes From Now
+	tag: Amanda
+	tag: Burger
+	tag: DarensBar
+	tag: Georgette
+	tag: Monica
+page:wishilookednormal
+	date: 2005-08-01
+	desc: Wish I Looked Normal
+	tag: Amanda
+	tag: Chair
+	tag: DarensBar
+	tag: Georgette
+	tag: Monica
+page:preconceivednotions
+	date: 2005-07-29
+	desc: Preconceived Notions
+	tag: Advert
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+	tag: Tattoo
+page:justposes
+	date: 2005-07-28
+	desc: Just Poses
+	tag: Advert
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+page:dorkcheesecake
+	date: 2005-07-27
+	desc: Dork Cheesecake
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+page:talkedmeintothat
+	date: 2005-07-26
+	desc: Talked Me Into That
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+page:soundedgreat
+	date: 2005-07-25
+	desc: Sounded Great
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+page:justjacqui
+	date: 2005-07-22
+	desc:Just Jacqui
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+page:gotomyhead
+	date: 2005-07-21
+	desc: Go To My Head
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+page:gurgle
+	date: 2005-07-20
+	desc: Gurgle
+	tag: Jacqui
+	tag: JacquiHome
+	tag: Toilet
+page:watermyself
+	date: 2005-07-19
+	desc: Water Myself
+	tag: Jacqui
+	tag: JacquiHome
+page:beautifulday
+	date: 2005-07-18
+	desc: Beautiful Day
+	tag: Jacqui
+	tag: JacquiHome
+page:becauseyourescared
+	date: 2005-07-15
+	desc: Because You're Scared
+	tag: Heather
+	tag: Shelly
+page:workingthroughissues
+	date: 2005-07-14
+	desc: Working Through Issues
+	tag: Heather
+	tag: Joe
+	tag: Shelly
+	tag: Taxi
+page:thatsunfair
+	date: 2005-07-13
+	desc: That's Unfair
+	tag: Heather	
+	tag: Shelly
+page:mutualtrust
+	date: 2005-07-12
+	desc: Mutual Trust
+	tag: Heather
+	tag: Joe
+	tag: Shelly
+page:nocounseling
+	date: 2005-07-11
+	desc: No Counseling
+	tag: Heather
+	tag: Joe
+	tag: Shelly
+page:whatconversation
+	date: 2005-07-08
+	desc: What Conversation
+	tag: Heather
+	tag: Joe
+	tag: Shelly
+page:overeducated
+	date: 2005-07-07
+	desc: Over Educated
+	tag: Heather
+	tag: Shelly
+page:callingataxi
+	date: 2005-07-06
+	desc: Calling A Taxi
+	tag: Fight
+	tag: Heather
+	tag: Joe
+	tag: Knife
+	tag: Phone
+	tag: Shelly
+page:inthatcase
+	date: 2005-07-05
+	desc: In That Case
+	tag: Heather
+	tag: Joe
+	tag: Knife
+page:quityourarguing
+	date: 2005-07-04
+	desc: Quit Your Arguing
+	tag: Heather
+	tag: Joe
+	tag: Knife
+	tag: Phone
+	tag: Shelly
+page:waitaminute
+	date: 2005-07-01
+	desc: Wait A Minute
+	tag: Daren
+	tag: DarensBar
+	tag: Heather
+	tag: Shelly
 page:goinghome
-	desc:Goinghome
 	date: 2005-06-30
+	desc: Going Home
+	tag: DarensBar
+	tag: Heather
+	tag: Shelly
 page:drunkokay
-	desc:Drunkokay
 	date: 2005-06-29
+	desc: Drunk Okay
+	tag: DarensBar
+	tag: Heather
+	tag: Shelly
 page:canthelpit
-	desc:Canthelpit
 	date: 2005-06-28
+	desc: Can't Help It
+	tag: Daren
+	tag: DarensBar
+	tag: Heather
+	tag: Shelly
 page:talktoher
-	desc:Talktoher
 	date: 2005-06-27
+	desc: Talk To Her
+	tag: Daren
+	tag: DarensBar
+	tag: Shelly
 page:thatsit
-	desc:Thatsit
 	date: 2005-06-24
+	desc: That's it
+	tag: DarensBar
+	tag: Heather
+	tag: RestRoom
 page:moredense
-	desc:Moredense
 	date: 2005-06-23
+	desc: More Dense
+	tag: Daren
+	tag: DarensBar
+	tag: Shelly
 page:justclumsy
-	desc:Justclumsy
 	date: 2005-06-22
+	desc: Just Clumsy
+	tag: Daren
+	tag: DarensBar
+	tag: Heather
+	tag: Martini
+	tag: Shelly
 page:distractme
-	desc:Distractme
 	date: 2005-06-21
+	desc: Distract Me
+	tag: DarensBar
+	tag: Heather
+	tag: Shelly
 page:outofsorts
-	desc:Outofsorts
 	date: 2005-06-20
+	desc: Out Of Sorts
+	tag: DarensBar
+	tag: Heather
+	tag: Shelly
 page:worktorelax
-	desc:Worktorelax
 	date: 2005-06-17
+	desc: Work To Relax
+	tag: AutoRepair
+	tag: LakeCalhoun
+	tag: MrWahnee
+	tag: Shelly
 page:soooobored
-	desc:Soooobored
+	desc: Soooo Bored
 	date: 2005-06-16
+	tag: AutoRepair
+	tag: Computer
+	tag: MrWahnee
+	tag: Shelly
 page:notasking
-	desc:Notasking
 	date: 2005-06-15
+	desc: Not Asking
+	tag: AutoRepair
+	tag: MrWahnee
+	tag: Shelly
 page:musclehead
-	desc:Musclehead
 	date: 2005-06-14
+	desc: Muscle Head
+	tag: AutoRepair
+	tag: MrWahnee
+	tag: Shelly
 page:feelfine
 	date: 2005-06-13
 	desc: Feel fine
@@ -7602,7 +8231,7 @@ page:feelfine
 page:upset
 	date: 2005-06-10
 	desc: Upset
-	note: The first "poit" sound effect
+	note: The first actual "poit" sound effect
 	tag: Demon
 	tag: Doubt
 	tag: FaceGlyph
@@ -7863,7 +8492,7 @@ page:04282005
 	tag: LittleShelly
 	tag: Scissors
 	tag: Shelly
-	tag: ShellysMom
+	tag: ShellyMom
 	tag: Tears
 page:04272005
 	desc:04-27-2005
@@ -7910,11 +8539,11 @@ page:04202005
 	tag: Tepoz
 page:04192005
 	desc: Spring Cleaning
-	note: Kid Shelly's drawing features a moon-faced rabbit
 	date: 2005-04-19
 	tag: Shelly
 	tag: ShellyHome
 	tag: Rabbit
+	tag: MoonFacedRabbit
 page:04182005
 	date: 2005-04-18
 	desc: Listening to the Radio
@@ -8472,13 +9101,13 @@ page:12282004
 	date: 2004-12-28
 	desc: Eggnog
 	tag: Cactus
-	Tag: Monica
+	tag: Monica
 	tag: MuchoMocha
 	tag: Tina
 page:12272004
 	date: 2004-12-27
 	desc: You Had A Date?!
-	Tag: Monica
+	tag: Monica
 	tag: MuchoMocha
 	tag: Tina
 page:12252004
@@ -8604,62 +9233,62 @@ page:12032004
 	date: 2004-12-03
 	desc: Wind Chimes And People Chanting
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:12022004
 	date: 2004-12-02
 	desc: Granola Soul Searching
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:12012004
 	date: 2004-12-01
 	desc: Get In Touch With Who They Are
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 	tag: LittleShelly
 page:11302004
 	date: 2004-11-30
 	desc: Built From Scratch
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:11292004
 	date: 2004-11-29
 	desc: Set For Life
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:11262004
 	date: 2004-11-26
 	desc: Kick Boxing Studio
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:11252004
 	date: 2004-11-25
 	desc: Teach Yoga
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:11242004
 	date: 2004-11-24
 	desc:11-24-2004
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:11232004
 	date: 2004-11-23
 	desc:11-23-2004
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:11222004
 	date: 2004-11-22
 	desc:11-22-2004
 	tag: AutoRepair
-	tag: Jacqueline
+	tag: Jacqui
 	tag: MrWahnee
 	tag: Shelly
 page:11192004
@@ -9036,7 +9665,7 @@ page:09102004
 page:09092004
 	date: 2004-09-09
 	desc: Yoga Is Better
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Monica
 	tag: MuchoMocha
 	tag: Shelly
@@ -9044,7 +9673,7 @@ page:09092004
 page:09082004
 	date: Didn't Leave You Sore
 	desc: 09-08-2004
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Monica
 	tag: MuchoMocha
 	tag: Shelly
@@ -9159,7 +9788,7 @@ page:08182004
 	tag: Flashback
 	tag: Roof
 	tag: Shelly
-	tag: ShellysMom
+	tag: ShellyMom
 page:08172004
 	date: 2004-08-17
 	desc:08-17-2004
@@ -9947,7 +10576,7 @@ page:01022004
 	desc:01-02-2004
 	tag: Kevin
 	tag: Monica
-	Tag: YummyTea
+	tag: YummyTea
 page:12312003
 	date: 2003-12-31
 	desc:12-31-2003
@@ -10099,7 +10728,7 @@ page:11142003
 	tag: Lakshmi
 	tag: Shelly
 	tag: Amanda
-	tag: Jacqueline
+	tag: Jacqui
 page:11122003
 	desc:11-12-2003
 	date: 2003-11-12
@@ -10140,7 +10769,7 @@ page:10312003
 	desc: I collect Spiders
 	date: 2003-10-31
 	tag: Amanda
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Katherine
 	tag: Spider
 	tag: Shelly
@@ -10156,7 +10785,7 @@ page:10272003
 	desc:10-27-2003
 	date: 2003-10-27
 	tag: Amanda
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Katherine
 	tag: Shelly
 	tag: DarensBar
@@ -10164,7 +10793,7 @@ page:10242003
 	desc:10-24-2003
 	date: 2003-10-24
 	tag: Amanda
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Katherine
 	tag: Monica
 	tag: Shelly
@@ -10724,9 +11353,9 @@ page:04042003
 	tag: Bar
 	tag: Daren
 	tag: DarensBar
-	Tag: Deitzel
-	Tag: Shelly
-	Tag: Simone
+	tag: Deitzel
+	tag: Shelly
+	tag: Simone
 page:04022003
 	desc:04-02-2003
 	date: 2003-04-02
@@ -10842,7 +11471,7 @@ page:02242003
 	desc: 02-24-2003
 	tag: Band
 	tag: FermentedBanana
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 	tag: VWvan
@@ -10899,7 +11528,7 @@ page:02072003
 	tag: Owen
 	tag: Shelly
 	tag: ThePlow
-	tag: Jacqueline
+	tag: Jacqui
 page:02052003
 	date: 2003-02-05
 	desc: 02-05-2003
@@ -10912,7 +11541,7 @@ page:02032003
 	desc: 02-03-2003
 	tag: Shelly
 	tag: Owen
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Band
 	tag: FermentedBanana
 	tag: ThePlow
@@ -10927,7 +11556,7 @@ page:01292003
 	desc:01-29-2003
 	tag: Band
 	tag: FermentedBanana
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 	tag: ThePlow
@@ -11014,7 +11643,7 @@ page:01032003
 	tag: Band
 	tag: FermentedBanana
 	tag: Heather
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 	tag: ThePlow	
@@ -11035,7 +11664,7 @@ page:12302002
 	tag: FermentedBanana
 	tag: Heather
 	tag: IntentionalThumbprint
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 	tag: ThePlow
@@ -11086,7 +11715,7 @@ page:12132002
 	desc:12-13-2002
 	tag: Band
 	tag: FermentedBanana
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 	tag: ThePlow
@@ -11096,7 +11725,7 @@ page:12112002
 	date: 2002-12-11
 	tag: Band
 	tag: FermentedBanana
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 	tag: VWvan
@@ -11106,7 +11735,7 @@ page:12092002
 	tag: Band
 	tag: FermentedBanana
 	tag: IntentionalThumbprint
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 	tag: VWvan
@@ -11219,36 +11848,36 @@ page:10302002
 	desc:10-30-2002
 	date: 2002-10-30
 	tag: Shelly
-	tag: Jacqueline
+	tag: Jacqui
 page:10282002
 	desc:10-28-2002
 	date: 2002-10-28
 	tag: Shelly
-	tag: Jacqueline
+	tag: Jacqui
 page:10252002
 	desc:10-25-2002
 	date: 2002-10-25
 	tag: Shelly
-	tag: Jacqueline
+	tag: Jacqui
 page:10232002
 	desc:10-23-2002
 	date: 2002-10-23
 	tag: Shelly
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Band
 	tag: FermentedBanana
 page:10212002
 	desc:10-21-2002
 	date: 2002-10-21
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Shelly
 page:10182002
 	desc: A Daisy On Prozac
 	date: 2002-10-18
 	tag: Monica
 	tag: MuchoMocha
-	tag: Jacqueline
+	tag: Jacqui
 page:10162002
 	desc:10-16-2002
 	date: 2002-10-16
@@ -11656,7 +12285,7 @@ page:05102002
 	desc:05-10-2002
 	date: 2002-05-10
 	tag: Owen
-	tag: Jacqueline
+	tag: Jacqui
 page:05082002
 	desc:05-08-2002
 	date: 2002-05-08
@@ -11669,7 +12298,7 @@ page:05062002
 	tag: Band
 	tag: CardTable
 	tag: FermentedBanana
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 page:05032002
@@ -11713,7 +12342,7 @@ page:04242002
 	tag: Band
 	tag: Shelly
 	tag: Owen
-	tag: Jacqueline
+	tag: Jacqui
 	tag: VWvan
 page:04222002
 	desc:04-22-2002
@@ -11722,7 +12351,7 @@ page:04222002
 	tag: Band
 	tag: Shelly
 	tag: Owen
-	tag: Jacqueline
+	tag: Jacqui
 	tag: VWvan
 page:04192002
 	desc:04-19-2002
@@ -11769,7 +12398,7 @@ page:04052002
 	tag: Shelly
 	tag: Spring
 	tag: Shower
-	tag: Jacqueline
+	tag: Jacqui
 page:04032002
 	desc:04-03-2002
 	date: 2002-04-03
@@ -12167,7 +12796,7 @@ page:11192001
 	desc:11-19-2001
 	date: 2001-11-19
 	tag: Shelly
-	tag: Jacqueline
+	tag: Jacqui
 	tag: BubbleWrap
 page:11162001
 	desc:11-16-2001
@@ -12320,7 +12949,7 @@ page:09262001
 	desc:09-26-2001
 	tag: Bar
 	tag: Daren
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 page:09242001
@@ -12341,7 +12970,7 @@ page:09192001
 	tag: Amanda
 	tag: Band
 	tag: FermentedBanana
-	tag: Jacqueline
+	tag: Jacqui
 	tag: Owen
 	tag: Shelly
 page:09172001
