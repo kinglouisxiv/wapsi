@@ -25,15 +25,22 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
+page:bia-did-this
+	date: 2014-12-10
+	desc: Bia Did This
+	tag: Bia
+	tag: Shelly
+	tag: Tina
+	tag: TinaHome
 page:im-sick
-	date: 2014-12-05
+	date: 2014-12-09
 	desc: I'm Sick
 	tag: Shelly
 	tag: Tina
 	tag: TinaHome
 	tag: Vorp
 page:something-wrong-2
-	date: 2014-12-05
+	date: 2014-12-08
 	desc: Something Wrong
 	tag: Becky
 	tag: MuchoMocha
@@ -47,7 +54,7 @@ page:stupid-flu
 	tag: TinaHome
 page:dare-to-trust
 	desc: Dare To Trust
-	date: 2014-12-05
+	date: 2014-12-04
 	tag: Calista
 	tag: Library
 	tag: Monica
