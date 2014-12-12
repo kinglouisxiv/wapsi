@@ -25,6 +25,23 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
+page:so-much-better
+	date: 2014-12-12
+	desc: So Much Better
+	tag: Bia
+	tag: Library
+	tag: Shelly
+	tag: Tina
+	tag: TinaHome
+	tag: TV
+	tag: Vodka
+page:shazowie
+	date: 2014-12-11
+	desc: Shazowie
+	tag: Reboot
+	tag: Shelly
+	tag: Tina
+	tag: TinaHome
 page:bia-did-this
 	date: 2014-12-10
 	desc: Bia Did This
@@ -7052,132 +7069,242 @@ page:castel-enora-gilchrist
 ;page:singlehandedlywipe
 ;	desc:Singlehandedlywipe
 ;	date: 2006-03-01
-;page:loveyouallbetter
-;	desc:Loveyouallbetter
-;	date: 2006-02-28
-;page:nightofcryingandco
-;	desc:Nightofcryingandco
-;	date: 2006-02-27
-;page:anormalpubgirl
-;	desc:Anormalpubgirl
-;	date: 2006-02-24
-;page:charmalreadyestabl
-;	desc:Charmalreadyestabl
-;	date: 2006-02-23
-;page:kicksasswithasmile
-;	desc:Kicksasswithasmile
-;	date: 2006-02-22
-;page:alethatputshairony
-;	desc:Alethatputshairony
-;	date: 2006-02-21
-;page:isthisheaven
-;	desc:Isthisheaven
-;	date: 2006-02-20
-;page:georgettes
-;	desc:Georgettes
-;	date: 2006-02-17
-;page:perfectpostergirl
-;	desc:Perfectpostergirl
-;	date: 2006-02-16
-;page:takingyououttoeat
-;	desc:Takingyououttoeat
-;	date: 2006-02-15
-;page:thatdoessoundexcit
-;	desc:Thatdoessoundexcit
-;	date: 2006-02-14
-;page:normallyquitarticulate
-;	desc:Normallyquitarticulate
-;	date: 2006-02-13
-;page:whatarewewaitingfo
-;	desc:Whatarewewaitingfo
-;	date: 2006-02-10
-;page:illberightthere
-;	desc:Illberightthere
-;	date: 2006-02-09
-;page:ineedafavorhun
-;	desc:Ineedafavorhun
-;	date: 2006-02-08
-;page:shesjustafriend
-;	desc:Shesjustafriend
-;	date: 2006-02-07
-;page:areyougettingbackf
-;	desc:Areyougettingbackf
-;	date: 2006-02-06
-;page:canwebebunniestoo
-;	desc:Canwebebunniestoo
-;	date: 2006-02-03
-;page:saveyoufromyoursel
-;	desc:Saveyoufromyoursel
-;	date: 2006-02-02
-;page:notmorethanaclerk
-;	desc:Notmorethanaclerk
-;	date: 2006-02-01
+page:loveyouallbetter
+	desc:Loveyouallbetter
+	date: 2006-02-28
+page:nightofcryingandco
+	desc:Nightofcryingandco
+	date: 2006-02-27
+page:anormalpubgirl
+	desc:Anormalpubgirl
+	date: 2006-02-24
+page:charmalreadyestabl
+	desc:Charmalreadyestabl
+	date: 2006-02-23
+page:kicksasswithasmile
+	desc:Kicksasswithasmile
+	date: 2006-02-22
+page:alethatputshairony
+	desc:Alethatputshairony
+	date: 2006-02-21
+page:isthisheaven
+	desc:Isthisheaven
+	date: 2006-02-20
+page:georgettes
+	desc:Georgettes
+	date: 2006-02-17
+page:perfectpostergirl
+	desc:Perfectpostergirl
+	date: 2006-02-16
+page:takingyououttoeat
+	desc:Takingyououttoeat
+	date: 2006-02-15
+page:thatdoessoundexcit
+	desc:Thatdoessoundexcit
+	date: 2006-02-14
+page:normallyquitarticulate
+	desc:Normallyquitarticulate
+	date: 2006-02-13
+page:whatarewewaitingfo
+	desc:Whatarewewaitingfo
+	date: 2006-02-10
+page:illberightthere
+	desc:Illberightthere
+	date: 2006-02-09
+page:ineedafavorhun
+	desc:Ineedafavorhun
+	date: 2006-02-08
+page:shesjustafriend
+	desc:Shesjustafriend
+	date: 2006-02-07
+page:areyougettingbackf
+	desc:Areyougettingbackf
+	date: 2006-02-06
+page:canwebebunniestoo
+	desc:Canwebebunniestoo
+	date: 2006-02-03
+page:saveyoufromyoursel
+	desc:Saveyoufromyoursel
+	date: 2006-02-02
+page:notmorethanaclerk
+	desc:Notmorethanaclerk
+	date: 2006-02-01
 page:workswithinthelaws
-	desc:Workswithinthelaws
 	date: 2006-01-31
+	desc: Works within the laws
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:neitheroneofushast
-	desc:Neitheroneofushast
 	date: 2006-01-30
+	desc: Neither One Of Us Has To Worry About
+	tag: Bed
+	tag: Chimera
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+	tag: Jin
+	tag: Tochtli
 page:areyoulost-2
-	desc:Areyoulost
 	date: 2006-01-27
+	desc: Are you lost
+	tag: Bed
+	tag: Chimera
+	tag: Flashback
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+	tag: Tochtli
 page:fictionalmaledeity
-	desc:Fictionalmaledeity
+	desc: Fictional Male Deity
 	date: 2006-01-26
+	tag: Bed
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+	tag: Tochtli
 page:wellletyoutwoalone
-	desc:Wellletyoutwoalone
+	desc: Well Let You Two Alone
 	date: 2006-01-25
+	tag: Bed
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+	tag: Tochtli
+	tag: Poit
 page:loudpurring
-	desc:Loudpurring
 	date: 2006-01-24
+	desc: Loud Purring
+	tag: Bed
+	tag: Brandi
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:whattimeisit
-	desc:Whattimeisit
 	date: 2006-01-23
+	desc: What Time Is It
+	tag: Bed
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:littleescape
-	desc:Littleescape
 	date: 2006-01-20
+	desc: Little Escape
+	tag: Colour	
+	tag: Dancing
+	tag: Monica
+	tag: NightClub
+	tag: Shelly
 page:keepthemdancing
-	desc:Keepthemdancing
 	date: 2006-01-19
+	desc: Keep Them Dancing
+	tag: DJ
+	tag: Jin
+	tag: Monica
+	tag: NightClub
+	tag: Shelly
 page:didntletyoudownbef
-	desc:Didntletyoudownbef
+	desc: Didn't Let You Down Before
 	date: 2006-01-18
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: NightClub
+	tag: Shelly
 page:youbothneedus
-	desc:Youbothneedus
 	date: 2006-01-17
+	desc: You both need us
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: NightClub
+	tag: Shelly
 page:foldyoulikeanapkin
-	desc:Foldyoulikeanapkin
 	date: 2006-01-16
+	desc: Fold You Like A Napkin
+	tag: GreySpeak
+	tag: Jin
+	tag: NightClub
+	tag: SecurityGuy
+	tag: Shelly
 page:areyoulost
-	desc:Areyoulost
 	date: 2006-01-13
+	desc: Are You Lost
+	tag: Jin
+	tag: NightClub
+	tag: SecurityGuy
+	tag: Shelly
 page:freetojoinus
-	desc:Freetojoinus
 	date: 2006-01-12
+	desc: Free To Join Us
+	tag: Jin
+	tag: Museum
+	tag: NightClub
+	tag: Shelly
 page:nickedthetipofthat
-	desc:Nickedthetipofthat
 	date: 2006-01-11
+	desc: Nicked The Tip Of That
+	tag: SecurityGuy
+	tag: EyeBeam
+	tag: Jin
+	tag: Monica
+	tag: NightClub
 page:whatstheretoforget
-	desc:Whatstheretoforget
 	date: 2006-01-10
+	desc: What's There To Forget
+	tag: SecurityGuy
+	tag: DJ
+	tag: Jin
+	tag: Monica
+	tag: NightClub
 page:whosthatwithyou
-	desc:Whosthatwithyou
 	date: 2006-01-09
+	desc: Who's That With You
+	tag: Brandi
+	tag: Bud
+	tag: Jin	
+	tag: Monica
+	tag: NightClub
+	tag: SecurityGuy
 page:doyoustilltrustus
-	desc:Doyoustilltrustus
 	date: 2006-01-06
+	desc: Do You Still Trust Us
+	tag: Blindfold
+	tag: Jin
+	tag: Monica
+	tag: NightClub
 page:theperfectspot
-	desc:Theperfectspot
 	date: 2006-01-05
+	desc: The Perfect Spot
+	tag: Brandi
+	tag: Bud
+	tag: Jin	
+	tag: Monica
 page:needanightout
-	desc:Needanightout
 	date: 2006-01-04
+	desc: Need A Night Out
+	tag: Brandi
+	tag: Bud
+	tag: Jin	
+	tag: Monica
+	tag: Museum
+	tag: Shelly
+	tag: ShellyHome
 page:whatssospecial
-	desc:Whatssospecial
 	date: 2006-01-03
+	desc: What's So Special
+	tag: ClayDolls
+	tag: Shelly
+	tag: ShellyHome
+	tag: Shower
 page:thatsyourrequest
-	desc: That's Your Request
 	date: 2006-01-02
+	desc: That's Your Request
 	tag: AutoRepair
 	tag: Shelly
 	tag: Tepoz
