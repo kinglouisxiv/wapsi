@@ -143,7 +143,7 @@ page:too-grounded
 	date: 2014-11-18
 	desc: Too Grounded 
 	tag: CerebrusClub
-	tag: Georgette
+	tag: Jet
 	tag: Kevin
 	tag: KevinHome
 	tag: Monica
@@ -152,7 +152,7 @@ page:stand-back
 	desc: Stand Back
 	tag: Bud
 	tag: CerebrusClub
-	tag: Georgette
+	tag: Jet
 	tag: Jin
 	tag: Monica
 	tag: Tina
@@ -161,7 +161,7 @@ page:say-so
 	desc: Say so
 	tag: Bud
 	tag: CerebrusClub
-	tag: Georgette
+	tag: Jet
 	tag: Jin
 	tag: Monica
 	tag: Poit
@@ -170,19 +170,19 @@ page:where-are-you
 	desc: Where Are You
 	tag: Bud
 	tag: CerebrusClub
-	tag: Georgette
+	tag: Jet
 	tag: Monica
 page:come-home-with-me
 	date: 2014-11-12
 	desc: Come Home With Me
 	tag: CerebrusClub
-	tag: Georgette
+	tag: Jet
 	tag: Monica
 page:made-their-case
 	date: 2014-11-11
 	desc: Made Their Case
 	tag: Dietzel
-	tag: Georgette
+	tag: Jet
 	tag: Monica
 	tag: Bud
 page:better-show-you
@@ -516,7 +516,7 @@ page:hold-down-the-fort
 	desc: Hold Down The Fort
 	note: mention of Roy's death
 	tag: AntiqueShop
-	tag: Georgette
+	tag: Jet
 	tag: Monica
 	tag: Poit
 	tag: Roy
@@ -529,27 +529,27 @@ page:side-by-side
 	date: 2014-08-21
 	desc: Side By Side
 	tag: Demon
-	tag: Georgette
+	tag: Jet
 	tag: Guidance
 page:oops
 	date: 2014-08-20
 	desc: Oops
 	tag: Demon
-	tag: Georgette
+	tag: Jet
 	tag: Guidance
 page:side-effect
 	date: 2014-08-19
 	desc: Side Effect
 	tag: Demon	
-	tag: Georgette
-	tag: GeorgetteHome
+	tag: Jet
+	tag: JetHome
 	tag: Guidance
 page:not-that-scary
 	date: 2014-08-18
 	desc: Not That Scary
 	tag: Demon
-	tag: Georgette
-	tag: GeorgetteHome
+	tag: Jet
+	tag: JetHome
 	tag: Guidance
 page:do-this-together
 	date: 2014-08-15
@@ -1216,7 +1216,7 @@ page:castel-enora-gilchrist
 ;	desc:Out Of The Blue
 ;	date: 2013-09-03
 ;page:georgettes-kiss
-;	desc:Georgette&#8217;s Kiss
+;	desc:Georgette's Kiss
 ;	date: 2013-09-02
 ;page:really-here
 ;	desc:Really Here
@@ -6937,217 +6937,430 @@ page:castel-enora-gilchrist
 ;page:kindoflikeyou
 ;	desc:Kindoflikeyou
 ;	date: 2006-05-01
-;page:runningsmoothly
-;	desc:Runningsmoothly
-;	date: 2006-04-28
-;page:atanypoint
-;	desc:Atanypoint
-;	date: 2006-04-27
-;page:totallybeyondme
-;	desc:Totallybeyondme
-;	date: 2006-04-26
-;page:talkingaboutwork
-;	desc:Talkingaboutwork
-;	date: 2006-04-25
-;page:gotsomethingforyou
-;	desc:Gotsomethingforyou
-;	date: 2006-04-24
-;page:silvereyes
-;	desc:Silvereyes
-;	date: 2006-04-21
-;page:icewater
-;	desc:Icewater
-;	date: 2006-04-20
-;page:overaglassofwine
-;	desc:Overaglassofwine
-;	date: 2006-04-19
-;page:thinkasamoderate
-;	desc:Thinkasamoderate
-;	date: 2006-04-18
-;page:giveitatry
-;	desc:Giveitatry
-;	date: 2006-04-17
-;page:wabbitseason
-;	desc:Wabbitseason
-;	date: 2006-04-16
-;page:tasteslikechicken
-;	desc:Tasteslikechicken
-;	date: 2006-04-14
-;page:climbingthewalls
-;	desc:Climbingthewalls
-;	date: 2006-04-13
-;page:inafishbowl
-;	desc:Inafishbowl
-;	date: 2006-04-12
-;page:noanalogyunnoticed
-;	desc:Noanalogyunnoticed
-;	date: 2006-04-11
-;page:bettersociallifethanme
-;	desc:Bettersociallifethanme
-;	date: 2006-04-10
-;page:adelicatebalance
-;	desc:Adelicatebalance
-;	date: 2006-04-07
-;page:channelingbubbles
-;	desc:Channelingbubbles
-;	date: 2006-04-06
-;page:somekindofgorilla
-;	desc:Somekindofgorilla
-;	date: 2006-04-05
-;page:mostlygirly
-;	desc:Mostlygirly
-;	date: 2006-04-04
-;page:getmethroughtheday
-;	desc:Getmethroughtheday
-;	date: 2006-04-03
-;page:demonshaveagendas
-;	desc:Demonshaveagendas
-;	date: 2006-03-31
-;page:putthemtowork
-;	desc:Putthemtowork
-;	date: 2006-03-30
-;page:thinkwebothare
-;	desc:Thinkwebothare
-;	date: 2006-03-29
-;page:girderandrebarbra
-;	desc:Girderandrebarbra
-;	date: 2006-03-28
-;page:thatwouldbebad
-;	desc:Thatwouldbebad
-;	date: 2006-03-27
-;page:wellthinkofsomething
-;	desc:Wellthinkofsomething
-;	date: 2006-03-24
-;page:notnightmares
-;	desc:Notnightmares
-;	date: 2006-03-23
-;page:donttreatmelikeavictim
-;	desc:Donttreatmelikeavictim
-;	date: 2006-03-22
-;page:backintothestoneage
-;	desc:Backintothestoneage
-;	date: 2006-03-21
-;page:angryforthewrongre
-;	desc:Angryforthewrongre
-;	date: 2006-03-20
-;page:yourenotamonster
-;	desc:Yourenotamonster
-;	date: 2006-03-17
-;page:wrestlewiththesun
-;	desc:Wrestlewiththesun
-;	date: 2006-03-16
-;page:notevilneverwere
-;	desc:Notevilneverwere
-;	date: 2006-03-15
-;page:tepozmeettochtli
-;	desc:Tepozmeettochtli
-;	date: 2006-03-14
-;page:enjoythesunshine
-;	desc:Enjoythesunshine
-;	date: 2006-03-13
-;page:dontdoastheysay
-;	desc:Dontdoastheysay
-;	date: 2006-03-10
-;page:dontberude
-;	desc:Dontberude
-;	date: 2006-03-09
-;page:youhavenoidea
-;	desc:Youhavenoidea
-;	date: 2006-03-08
-;page:howoldareyouguys
-;	desc:Howoldareyouguys
-;	date: 2006-03-07
-;page:dishitoutbutcantta
-;	desc:Dishitoutbutcantta
-;	date: 2006-03-06
-;page:budstillasleep
-;	desc:Budstillasleep
-;	date: 2006-03-03
-;page:mythbustersison
-;	desc:Mythbustersison
-;	date: 2006-03-02
-;page:singlehandedlywipe
-;	desc:Singlehandedlywipe
-;	date: 2006-03-01
+page:runningsmoothly
+	desc:Runningsmoothly
+	date: 2006-04-28
+page:atanypoint
+	desc:Atanypoint
+	date: 2006-04-27
+page:totallybeyondme
+	desc:Totallybeyondme
+	date: 2006-04-26
+page:talkingaboutwork
+	desc:Talkingaboutwork
+	date: 2006-04-25
+page:gotsomethingforyou
+	desc:Gotsomethingforyou
+	date: 2006-04-24
+page:silvereyes
+	desc:Silvereyes
+	date: 2006-04-21
+page:icewater
+	desc:Icewater
+	date: 2006-04-20
+page:overaglassofwine
+	desc:Overaglassofwine
+	date: 2006-04-19
+page:thinkasamoderate
+	desc:Thinkasamoderate
+	date: 2006-04-18
+page:giveitatry
+	desc:Giveitatry
+	date: 2006-04-17
+page:wabbitseason
+	desc:Wabbitseason
+	date: 2006-04-16
+page:tasteslikechicken
+	desc:Tasteslikechicken
+	date: 2006-04-14
+page:climbingthewalls
+	desc:Climbingthewalls
+	date: 2006-04-13
+page:inafishbowl
+	desc:Inafishbowl
+	date: 2006-04-12
+page:noanalogyunnoticed
+	desc:Noanalogyunnoticed
+	date: 2006-04-11
+page:bettersociallifethanme
+	desc:Bettersociallifethanme
+	date: 2006-04-10
+page:adelicatebalance
+	desc:Adelicatebalance
+	date: 2006-04-07
+page:channelingbubbles
+	desc:Channelingbubbles
+	date: 2006-04-06
+page:somekindofgorilla
+	desc:Somekindofgorilla
+	date: 2006-04-05
+page:mostlygirly
+	desc:Mostlygirly
+	date: 2006-04-04
+page:getmethroughtheday
+	desc:Getmethroughtheday
+	date: 2006-04-03
+page:demonshaveagendas
+	date: 2006-03-31
+	desc: Demons Have Agendas
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
+page:putthemtowork
+	date: 2006-03-30
+	desc: Put Them To Work
+	tag: Demon
+	tag: Fear
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+page:thinkwebothare
+	date: 2006-03-29
+	desc: Think We Both Are
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+page:girderandrebarbra
+	date: 2006-03-28
+	desc: Girder And Rebar Bra
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+page:thatwouldbebad
+	date: 2006-03-27
+	desc: That Would Be Bad
+	tag: ClockKey
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+	tag: WallClock
+page:wellthinkofsomething
+	date: 2006-03-24
+	desc: We'll Think Of Something
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: Snow
+page:notnightmares
+	date: 2006-03-23
+	desc: Not Nightmares
+	tag: Brandy
+	tag: Bud
+	tag: Monica	
+	tag: MonicaHouse
+page:donttreatmelikeavictim
+	date: 2006-03-22
+	desc: Don't Treat Me Like A Victim
+	tag: Brandy
+	tag: Bud
+	tag: FaceGlyph
+	tag: Monica
+	tag: MonicaHouse
+page:backintothestoneage
+	Date: 2006-03-21
+	desc: Back Into The Stone Age
+	tag: Brandy
+	tag: Bud
+	tag: FaceGlyph
+	tag: Monica
+	tag: MonicaHouse
+page:angryforthewrongre
+	date: 2006-03-20
+	desc: Angry For The Wrong Reasons
+	tag: Brandy
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:yourenotamonster
+	date: 2006-03-17
+	desc: You're Not A Monster
+	tag: Brandy
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz	
+page:wrestlewiththesun
+	date: 2006-03-16
+	desc: Wrestle With The Sun
+	tag: Brandy
+	tag: Bud
+	tag: Flashback
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Ziggurat
+page:notevilneverwere
+	date: 2006-03-15
+	desc: Not Evil Never Were
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:tepozmeettochtli
+	date: 2006-03-14
+	desc: Tepoz Meet Tochtli
+	tag: Deitzel
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
+	tag: Tochtli	
+page:enjoythesunshine
+	date: 2006-03-13
+	desc: Enjoy The Sunshine
+	tag: BelinaJensen
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
+page:dontdoastheysay
+	date: 2006-03-10
+	desc: Don't Do As They Say
+	tag: Bud
+	tag: Demon
+	tag: Fear
+	tag: Monica
+	tag: MonicaHouse
+page:dontberude
+	date: 2006-03-09
+	desc: Don't Be Rude
+	tag: Anger
+	tag: Demon
+	tag: Doubt
+	tag: Fear
+	tag: Hatred
+	tag: Jin
+	tag: MirrorSpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: Panic
+page:youhavenoidea
+	date: 2006-03-08
+	desc: You Have No Idea
+	tag: Brandy
+	tag: Bud
+	tag: GreySpeak
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:howoldareyouguys
+	date: 2006-03-07
+	desc: How Old Are You Guys
+	tag: Brandy
+	tag: Bud
+	tag: Jin
+	tag: Lioness
+	tag: Monica
+	tag: MonicaHouse
+page:dishitoutbutcantta
+	date: 2006-03-06
+	desc: Dish It Out But Can't Take It
+	tag: Brandy
+	tag: Bud
+	tag: Jin
+	tag: Lioness
+	tag: Monica
+	tag: MonicaHouse
+	tag: TeddyBear
+page:budstillasleep
+	date: 2006-03-03
+	desc: Bud Still Asleep
+	tag: Brandy
+	tag: Bud
+	tag: Cream
+	tag: Hatch
+	tag: Jin
+	tag: MonicaHouse
+page:mythbustersison
+	date: 2006-03-02
+	desc: Myth Busters Is On
+	tag: Bed
+	tag: Brandy
+	tag: Bud
+	tag: Deitzel
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+page:singlehandedlywipe
+	date: 2006-03-01
+	desc: Single Handedly Wipe
+	tag: Brandy
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:loveyouallbetter
-	desc:Loveyouallbetter
 	date: 2006-02-28
+	desc: Love you all better
+	tag: Brandy
+	tag: Bud
+	tag: Jin
+	tag: Kevin
+	tag: Monica
+	tag: MonicaHouse
 page:nightofcryingandco
-	desc:Nightofcryingandco
 	date: 2006-02-27
+	desc: Night Of Crying And Cooing
+	tag: Brandy
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: PrettyInPink
 page:anormalpubgirl
-	desc:Anormalpubgirl
 	date: 2006-02-24
+	desc: A Normal Pub Girl
+	tag: Bar
+	tag: Darts
+	tag: Georgettes
+	tag: Jet
+	tag: Monica
 page:charmalreadyestabl
-	desc:Charmalreadyestabl
 	date: 2006-02-23
+	desc: Charm Already Established
+	tag: Bar
+	tag: Georgettes
+	tag: Jet
+	tag: Jill
+	tag: Monica
 page:kicksasswithasmile
-	desc:Kicksasswithasmile
 	date: 2006-02-22
+	desc: Kicks Ass With A Smile
+	tag: Bar
+	tag: Georgettes
+	tag: Jet
+	tag: Jill
+	tag: Monica
 page:alethatputshairony
-	desc:Alethatputshairony
 	date: 2006-02-21
+	desc: Ale That Puts Hair On Your Chest
+	tag: Bar
+	tag: Georgettes
+	tag: Jet
+	tag: Jill
+	tag: Monica
 page:isthisheaven
-	desc:Isthisheaven
 	date: 2006-02-20
+	desc: Is This Heaven
+	tag: Bar
+	tag: Georgettes
+	tag: Jet
+	tag: Monica
 page:georgettes
-	desc:Georgettes
 	date: 2006-02-17
+	desc: Georgettes
+	tag: Advert	
+	tag: Jet
+	tag: Monica
 page:perfectpostergirl
-	desc:Perfectpostergirl
 	date: 2006-02-16
+	desc: Perfect Poster Girl
+	tag: Amanda
+	tag: AmandaStudio
+	tag: Jet
+	tag: Monica
 page:takingyououttoeat
-	desc:Takingyououttoeat
 	date: 2006-02-15
+	desc: Taking You Out To Eat
+	tag: AmandaStudio
+	tag: Jet
+	tag: Monica
 page:thatdoessoundexcit
-	desc:Thatdoessoundexcit
 	date: 2006-02-14
+	desc: That Does Sound Exciting
+	tag: AmandaStudio
+	tag: Jet
+	tag: Monica
 page:normallyquitarticulate
-	desc:Normallyquitarticulate
 	date: 2006-02-13
+	desc: Normally Quite Articulate
+	tag: Amanda
+	tag: AmandaStudio
+	tag: Jet
+	tag: Monica
 page:whatarewewaitingfo
-	desc:Whatarewewaitingfo
 	date: 2006-02-10
+	desc: What Are We Waiting For
+	tag: AmandaStudio
+	tag: Jet
+	tag: Monica
 page:illberightthere
-	desc:Illberightthere
 	date: 2006-02-09
+	desc: I'll Be Right There
+	tag: Amanda
+	tag: Bed
+	tag: Deitzel
+	tag: Jet
+	tag: Monica
+	tag: MonicaHouse
+	tag: Phone
 page:ineedafavorhun
-	desc:Ineedafavorhun
 	date: 2006-02-08
+	desc: I Need A Favor Hun
+	tag: Amanda
+	tag: Bed
+	tag: Monica
+	tag: MonicaHouse
+	tag: Phone
 page:shesjustafriend
-	desc:Shesjustafriend
 	date: 2006-02-07
+	desc: She's Just A Friend
+	tag: Heather
+	tag: Shelly
+	tag: ShellyHome
 page:areyougettingbackf
-	desc:Areyougettingbackf
 	date: 2006-02-06
+	desc: Are You Getting Back From Somewhere
+	tag: Heather
+	tag: Shelly
+	tag: ShellyHome
 page:canwebebunniestoo
-	desc:Canwebebunniestoo
 	date: 2006-02-03
+	desc: Can We Be Bunnies Too
+	tag: Brandi
+	tag: Bud
+	tag: Bunnies
+	tag: Jin
+	tag: MonicaHouse
+	tag: WineCellar
 page:saveyoufromyoursel
-	desc:Saveyoufromyoursel
 	date: 2006-02-02
+	desc: Save You From Yourself
+	tag: Chimera
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Moon
+	tag: Shelly
+	tag: Tochtli
 page:notmorethanaclerk
-	desc:Notmorethanaclerk
 	date: 2006-02-01
-page:workswithinthelaws
-	date: 2006-01-31
-	desc: Works within the laws
+	desc: Not More Than A Clerk
+	tag: Jin
 	tag: Monica
 	tag: MonicaHouse
 	tag: Shelly
+	tag: Tochtli
+page:workswithinthelaws
+	date: 2006-01-31
+	desc: Works Within The Laws
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
+	tag: Tochtli
 page:neitheroneofushast
 	date: 2006-01-30
 	desc: Neither One Of Us Has To Worry About
 	tag: Bed
 	tag: Chimera
+	tag: Jin
 	tag: Monica
 	tag: MonicaHouse
 	tag: Shelly
-	tag: Jin
 	tag: Tochtli
 page:areyoulost-2
 	date: 2006-01-27
-	desc: Are you lost
+	desc: Are You Lost
 	tag: Bed
 	tag: Chimera
 	tag: Flashback
@@ -7156,23 +7369,23 @@ page:areyoulost-2
 	tag: Shelly
 	tag: Tochtli
 page:fictionalmaledeity
-	desc: Fictional Male Deity
 	date: 2006-01-26
+	desc: Fictional Male Deity
 	tag: Bed
 	tag: Monica
 	tag: MonicaHouse
 	tag: Shelly
 	tag: Tochtli
 page:wellletyoutwoalone
-	desc: Well Let You Two Alone
 	date: 2006-01-25
+	desc: Well Let You Two Alone
 	tag: Bed
 	tag: Jin
 	tag: Monica
 	tag: MonicaHouse
+	tag: Poit
 	tag: Shelly
 	tag: Tochtli
-	tag: Poit
 page:loudpurring
 	date: 2006-01-24
 	desc: Loud Purring
@@ -7209,8 +7422,8 @@ page:keepthemdancing
 	tag: NightClub
 	tag: Shelly
 page:didntletyoudownbef
-	desc: Didn't Let You Down Before
 	date: 2006-01-18
+	desc: Didn't Let You Down Before
 	tag: Brandi
 	tag: Bud
 	tag: Jin
@@ -8108,7 +8321,7 @@ page:skinnyassclub
 	tag: Amanda
 	tag: Beer
 	tag: DarensBar
-	tag: Georgette
+	tag: Jet
 	tag: Monica
 page:thesizeofyourhead
 	date: 2005-08-04
@@ -8129,7 +8342,7 @@ page:hungryminutesfromnow
 	tag: Amanda
 	tag: Burger
 	tag: DarensBar
-	tag: Georgette
+	tag: Jet
 	tag: Monica
 page:wishilookednormal
 	date: 2005-08-01
@@ -8137,7 +8350,7 @@ page:wishilookednormal
 	tag: Amanda
 	tag: Chair
 	tag: DarensBar
-	tag: Georgette
+	tag: Jet
 	tag: Monica
 page:preconceivednotions
 	date: 2005-07-29
