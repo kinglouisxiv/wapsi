@@ -25,6 +25,15 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
+page:try-that-out
+	date: 2014-12-15
+	desc: Try That Out
+	tag: Atsali
+	tag: Bear
+	tag: Blush
+	tag: Ear
+	tag: Nadette
+	tag: Talisman
 page:so-much-better
 	date: 2014-12-12
 	desc: So Much Better
@@ -70,37 +79,40 @@ page:stupid-flu
 	tag: Tina
 	tag: TinaHome
 page:dare-to-trust
-	desc: Dare To Trust
 	date: 2014-12-04
+	desc: Dare To Trust
 	tag: Calista
 	tag: Library
 	tag: Monica
 page:such-a-screw-up
-	desc: Such A Screw Up
 	date: 2014-12-03
+	desc: Such A Screw Up
+	tag: Blush
 	tag: Calista
 	tag: Library
 	tag: Monica
 page:common-experiences
-	desc: Common Experiences
 	date: 2014-12-02
+	desc: Common Experiences
+	tag: Blush
 	tag: Calista
 	tag: Library
 	tag: Monica
 page:became-self-aware
-	desc: Became Self Aware
 	date: 2014-12-01
-	tag: Calista
+	desc: Became Self Aware
+	tag: Blush
 	tag: Library
 	tag: Monica
 page:happy-thanksgiving
-	tag: Castela
-	tag: Filler
 	date: 2014-11-27
 	desc: Happy Thanksgiving
+	tag: Castela
+	tag: Filler
 page:so-sorry
-	desc: So Sorry
 	date: 2014-11-26
+	desc: So Sorry
+	tag: Blush
 	tag: Calista
 	tag: Library
 	tag: Monica
@@ -108,6 +120,7 @@ page:so-sorry
 page:no-wait
 	date: 2014-11-25
 	desc: No Wait
+	tag: Blush
 	tag: Calista
 	tag: FireBreath
 	tag: Library
@@ -115,9 +128,9 @@ page:no-wait
 page:deal-with-it
 	date: 2014-11-24
 	desc: Deal With It
+	tag: Library
 	tag: Monica
 	tag: Phix
-	tag: Library
 page:still-around-2
 	date: 2014-11-19
 	desc: Still Around
@@ -150,6 +163,7 @@ page:too-grounded
 page:stand-back
 	date: 2014-11-17
 	desc: Stand Back
+	tag: Blush
 	tag: Bud
 	tag: CerebrusClub
 	tag: Jet
@@ -175,16 +189,17 @@ page:where-are-you
 page:come-home-with-me
 	date: 2014-11-12
 	desc: Come Home With Me
+	tag: Blush
 	tag: CerebrusClub
 	tag: Jet
 	tag: Monica
 page:made-their-case
 	date: 2014-11-11
 	desc: Made Their Case
+	tag: Bud
 	tag: Dietzel
 	tag: Jet
 	tag: Monica
-	tag: Bud
 page:better-show-you
 	date: 2014-11-10
 	desc: Better Show You
@@ -196,6 +211,7 @@ page:please-repeat-that
 	date: 2014-11-07
 	desc: Please Repeat That
 	tag: Atsali
+	tag: Blush
 	tag: Castela
 	tag: Computer
 	tag: TeddyBear
@@ -224,6 +240,7 @@ page:you-like-her
 	desc: You Like Her
 	tag: Atsali
 	tag: Berdine
+	tag: Blush
 	tag: Castela
 	tag: Katherine
 	tag: Nadette
@@ -232,13 +249,16 @@ page:one-spare-sister
 	desc: One Spare Sister
 	tag: Atsali
 	tag: Berdine
+	tag: Blush
 	tag: Castela
 	tag: Computer
+	tag: Cookies
 	tag: Nadette
 page:not-wearing-a-bra
 	date: 2014-10-27
 	desc: Not Wearing A Bra
 	tag: Atsali
+	tag: Blush
 	tag: Castela
 	tag: Computer
 	tag: Nadette
@@ -246,21 +266,24 @@ page:hold-your-form
 	date: 2014-10-23
 	desc: Hold Your Form
 	tag: Atsali
+	tag: Blush
 	tag: Castela
 	tag: Computer
 	tag: Nadette
+	tag: Wings
 page:perfect-for-you
 	date: 2014-10-22
 	desc: Perfect For You
 	tag: Atsali
-	tag: Nadette
-	tag: Jacob
 	tag: Computer
+	tag: Jacob
+	tag: Nadette
 	tag: Wings
 page:secret-mission
 	date: 2014-10-21
 	desc: Secret Mission
 	tag: Atsali
+	tag: Blush
 	tag: Castela
 page:call-baby-unicorns
 	date: 2014-10-20
@@ -280,12 +303,16 @@ page:watcha-dooin
 page:midnight-snack
 	date: 2014-10-15
 	desc: Midnight Snack
+	tag: 1-frame
 	tag: Atsali
 	tag: Castela
+	tag: Colour
 page:atsali-angst
 	date: 2014-10-14
 	desc: Atsali Angst
+	tag: 1-frame
 	tag: Atsali
+	tag: Colour
 page:know-what-this-means
 	date: 2014-10-13
 	desc: Know What This Means
@@ -299,6 +326,7 @@ page:need-to-listen
 	desc: Need To Listen
 	tag: Atsali
 	tag: Berdine
+	tag: Blush
 	tag: Island
 	tag: Nadette
 page:my-warmth
@@ -312,6 +340,7 @@ page:the-sound-of-my-voice
 	desc: The Sound Of My Voice
 	tag: Atsali
 	tag: Berdine
+	tag: Blush
 	tag: Island
 	tag: Nadette
 page:just-your-type
@@ -332,17 +361,20 @@ page:bedtime-snack
 page:so-cute
 	date: 2014-10-03
 	desc: So Cute
+	tag: Colour
 	tag: Dietzel
 	tag: Monica
 page:camel-spider-food
 	date: 2014-10-02
 	desc: Camel Spider Food
+	tag: Blush
 	tag: Calista
 	tag: Library
 	tag: Monica
 page:im-sorry
 	date: 2014-10-01
 	desc: I'm Sorry
+	tag: Blush
 	tag: Calista
 	tag: Dietzel
 	tag: Library
@@ -350,6 +382,7 @@ page:im-sorry
 page:dietzel-sweetie
 	date: 2014-09-30
 	desc: Dietzel Sweetie
+	tag: Blush
 	tag: Calista
 	tag: Dietzel
 	tag: Library
@@ -367,15 +400,15 @@ page:lands-on-her-feet
 	desc: Lands On Her Feet
 	tag: Monica
 page:figure-it-out
-	desc: Figure It Out
 	date: 2014-09-25
+	desc: Figure It Out
 	tag: Library
 	tag: Monica
 	tag: Phix
 	tag: Shelly
 page:best-idea-ever
-	desc: Best Idea Ever
 	date: 2014-09-24
+	desc: Best Idea Ever
 	tag: Calista
 	tag: Dietzel
 	tag: JumpingSpider
@@ -400,12 +433,14 @@ page:not-permanent
 	date: 2014-09-19
 	desc: Not Permanent
 	tag: AnxietyArc
+	tag: Blush
 	tag: Calista
 	tag: Dietzel
 	tag: Library
 page:did-you-hear-something
 	date: 2014-09-18
 	desc: Did You Hear Something
+	tag: Blush
 	tag: Calista
 	tag: Dietzel
 	tag: Library
@@ -414,9 +449,11 @@ page:did-you-hear-something
 page:visiting-too
 	date: 2014-09-17
 	desc: Visiting Too
+	tag: Blush
 	tag: Calista
 	tag: Dietzel
 	tag: Library
+	tag: Vorp
 page:soften-her-up
 	date: 2014-09-16
 	desc: Soften Her Up
@@ -437,6 +474,7 @@ page:only-harm-me
 page:far-out
 	date: 2014-09-12
 	desc: Far Out
+	tag: Blush
 	tag: Calista
 	tag: Demon
 	tag: Doubt
@@ -466,6 +504,7 @@ page:there-they-are
 page:own-what-you-do
 	date: 2014-09-08
 	desc: Own What You Do
+	tag: Blush
 	tag: Calista
 	tag: Monica
 page:pickles-wall
@@ -487,6 +526,7 @@ page:hair-did
 	desc: Hair Did
 	tag: Atsali
 	tag: Castela
+	tag: Colour
 page:died-alone-2
 	date: 2014-08-29
 	desc: Died Alone
@@ -529,28 +569,28 @@ page:side-by-side
 	date: 2014-08-21
 	desc: Side By Side
 	tag: Demon
-	tag: Jet
 	tag: Guidance
+	tag: Jet
 page:oops
 	date: 2014-08-20
 	desc: Oops
 	tag: Demon
-	tag: Jet
 	tag: Guidance
+	tag: Jet
 page:side-effect
 	date: 2014-08-19
 	desc: Side Effect
 	tag: Demon	
+	tag: Guidance
 	tag: Jet
 	tag: JetHome
-	tag: Guidance
 page:not-that-scary
 	date: 2014-08-18
 	desc: Not That Scary
 	tag: Demon
+	tag: Guidance
 	tag: Jet
 	tag: JetHome
-	tag: Guidance
 page:do-this-together
 	date: 2014-08-15
 	desc: Do This Together
@@ -576,6 +616,7 @@ page:not-buying-it
 page:not-like-that-2
 	date: 2014-08-12
 	desc: Not Like That
+	tag: Blush
 	tag: Jessie
 	tag: Krystle
 	tag: School
@@ -584,6 +625,7 @@ page:darn-good
 	date: 2014-08-11
 	desc: Darn Good
 	tag: Atsali
+	tag: Blush
 	tag: Calista
 	tag: Jessie
 	tag: Krystle
@@ -592,6 +634,7 @@ page:already-a-princess
 	date: 2014-08-08
 	desc: Already A Princess
 	tag: Atsali
+	tag: Blush
 	tag: Calista
 	tag: Jessie
 	tag: Krystle
@@ -627,12 +670,15 @@ page:not-tough
 	date: 2014-08-01
 	desc: Not Tough
 	tag: Atsali
+	tag: Blush
 	tag: Calista
 	tag: School
 page:castel-enora-gilchrist
 	date: 2014-07-31
 	desc: Castel Enora Gilchrist
 	tag: Atsali
+	tag: Blush
+	tag: Plant
 	tag: Castela
 	tag: Katherine
 	tag: School
