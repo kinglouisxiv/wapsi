@@ -25,8 +25,29 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
+
+page:castela-xmas-eve-2014
+	date: 2014-12-24
+	desc: Castela Xmas Eve 2014
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+page:hold-that-thought
+	date: 2014-12-23
+	desc: Hold That Thought
+	tag: Atsali
+	tag: Jacob
+	tag: Nadette
+	tag: Randi
+page:there-he-is
+	date: 2014-12-22
+	desc: There He Is
+	tag: Atsali
+	tag: Jacob
+	tag: Nadette
+	tag: Randi
 page:atsali-and-nadette
-	date: 2014-12-10
+	date: 2014-12-20
 	desc: Atsali And Nadette
 	tag: 1Frame
 	tag: Atsali
@@ -8206,300 +8227,512 @@ page:rightasrain
 	tag: 0untagged
 page:endofdiscussion
 	date: 2007-04-11
-	desc: Endofdiscussion
-	tag: 0untagged
+	desc: End Of Discussion
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:jogmymemory
 	date: 2007-04-10
-	desc: Jogmymemory
-	tag: 0untagged
+	desc: Jog My Memory
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:whatsmyproblem
 	date: 2007-04-09
-	desc: Whatsmyproblem
-	tag: 0untagged
+	desc: What's My Problem
+	tag: Book
+	tag: Monica
+	tag: MonicaHouse
 page:whatswrongwithme
 	date: 2007-04-06
-	desc: Whatswrongwithme
-	tag: 0untagged
+	desc: What's Wrong With Me
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
 page:howpeoplegetburned
 	date: 2007-04-05
-	desc: Howpeoplegetburned
-	tag: 0untagged
+	desc: How People Get Burned
+	tag: Bud
+	tag: CalendarMachine
+	tag: FireBreath
+	tag: Monica
+	tag: MonicaHouse
 page:agutfeeling
 	date: 2007-04-04
-	desc: Agutfeeling
-	tag: 0untagged
+	desc: A Gut Feeling
+	tag: Bud
+	tag: CalendarMachine
+	tag: Monica
+	tag: MonicaHouse
+	tag: SunStone
+	tag: Yaxchilan
 page:iknewitimnotcrazy
 	date: 2007-04-03
-	desc: Iknewitimnotcrazy
-	tag: 0untagged
+	desc: I Knew It I'm Not Crazy
+	tag: Aztec
+	tag: Bud
+	tag: Giza
+	tag: Monica
+	tag: MonicaHouse
+	tag: Teotihuacan
 page:micaslabs
 	date: 2007-04-02
-	desc: Micaslabs
-	tag: 0untagged
+	desc: Mica Slabs
+	tag: Bud
+	tag: Mica
+	tag: Monica
+	tag: MonicaHouse
+	tag: Teotihuacan
 page:hyperventilating
 	date: 2007-03-30
 	desc: Hyperventilating
-	tag: 0untagged
+	tag: Bud
+	tag: Mica
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
 page:thatwaseasy
 	date: 2007-03-29
-	desc: Thatwaseasy
-	tag: 0untagged
+	desc: That was easy
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
 page:bothithink
 	date: 2007-03-28
-	desc: Bothithink
-	tag: 0untagged
+	desc: Both I Think
+	tag: Beer
+	tag: Bud
+	tag: Daren
+	tag: DarensBar
 page:anotherbeer
 	date: 2007-03-27
-	desc: Anotherbeer
-	tag: 0untagged
+	desc: Another Beer
+	tag: Beer
+	tag: Bud
+	tag: Daren
+	tag: DarensBar
 page:thatswhatyoudo
 	date: 2007-03-26
-	desc: Thatswhatyoudo
-	tag: 0untagged
+	desc: That's What You Do
+	tag: Beer
+	tag: Bud
+	tag: Daren
+	tag: DarensBar
 page:drasticmeasures
 	date: 2007-03-23
-	desc: Drasticmeasures
-	tag: 0untagged
+	desc: Drastic Measures
+	tag: Amanda
+	tag: AmandaHome
+	tag: AmandaStudio
+	tag: Kitten
 page:littlestreeturchin
 	date: 2007-03-22
 	desc: Littlestreeturchin
-	tag: 0untagged
+	tag: Amanda
+	tag: AmandaHome
+	tag: AmandaStudio
+	tag: Kitten
+	tag: Pee
 page:cutsiepoocrap
 	date: 2007-03-21
-	desc: Cutsiepoocrap
-	tag: 0untagged
+	desc: Cutsie-Poo Crap
+	tag: Amanda
+	tag: AmandaHome
+	tag: AmandaStudio
+	tag: Kitten
+	tag: Pee
+	tag: Selenium
 page:foggiestnotion
 	date: 2007-03-20
-	desc: Foggiestnotion
-	tag: 0untagged
+	desc: Foggiest Notion
+	tag: Amanda
+	tag: AmandaHome
+	tag: AmandaStudio
+	tag: Kitten
+	tag: Selenium
 page:noisy
 	date: 2007-03-19
 	desc: Noisy
-	tag: 0untagged
+	tag: Amanda
+	tag: AmandaHome
+	tag: AmandaStudio
+	tag: Kitten
+	tag: Selenium
 page:happystpattys
 	date: 2007-03-17
-	desc: Happystpattys
-	tag: 0untagged
+	desc: Happy St Patrick's Day
+	tag: 1Frame
+	tag: Colour
+	tag: Filler
+	tag: Monica
 page:hernameisjill
 	date: 2007-03-16
-	desc: Hernameisjill
-	tag: 0untagged
+	desc: Her Name Is Jill
+	tag: ElfHouse
+	tag: Jill
+	tag: LakeHarriet
+	tag: Monica
+	tag: Park
 page:thatkindofmagic
 	date: 2007-03-15
-	desc: Thatkindofmagic
-	tag: 0untagged
+	desc: That Kind Of Magic
+	tag: ElfHouse
+	tag: Jill
+	tag: LakeHarriet
+	tag: Monica
+	tag: Park
 page:thatlingeriemodel
 	date: 2007-03-14
-	desc: Thatlingeriemodel
-	tag: 0untagged
+	desc: That Lingerie Model
+	tag: ElfHouse
+	tag: Jill
+	tag: LakeHarriet
+	tag: Monica
+	tag: Park
+	tag: RachelVelazquez
 page:searchfortheelfhouse
 	date: 2007-03-13
-	desc: Searchfortheelfhouse
-	tag: 0untagged
+	desc: Search For The Elf House
+	tag: LakeHarriet
+	tag: Monica
+	tag: Park
 page:pizzagirl
 	date: 2007-03-12
-	desc: Pizzagirl
-	tag: 0untagged
+	desc: Pizza girl
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
 page:fromunderournoses
 	date: 2007-03-09
-	desc: Fromunderournoses
-	tag: 0untagged
+	desc: From Under Our Noses
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:tooclose
 	date: 2007-03-08
-	desc: Tooclose
-	tag: 0untagged
+	desc: Too Close
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:smoresandcider
 	date: 2007-03-07
-	desc: Smoresandcider
-	tag: 0untagged
+	desc: S'mores And Cider
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:snowemergency
 	date: 2007-03-06
-	desc: Snowemergency
-	tag: 0untagged
+	desc: Snow Emergency
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:timetogetup
 	date: 2007-03-05
-	desc: Timetogetup
-	tag: 0untagged
+	desc: Time To Get Up
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:findingsunshine
 	date: 2007-03-02
-	desc: Findingsunshine
-	tag: 0untagged
+	desc: Finding Sunshine
+	tag: Conservatory
+	tag: Katherine
+	tag: KatherineCar
 page:bjarnionice
 	date: 2007-03-01
-	desc: Bjarnionice
-	tag: 0untagged
+	desc: Bjarni On Ice
+	tag: Katherine
+	tag: KatherineCar
 page:sweptaway
 	date: 2007-02-28
-	desc: Sweptaway
-	tag: 0untagged
+	desc: Swept Away
+	tag: Bjarni
+	tag: Katherine
+	tag: KatherineCar
+	tag: VikingLady
 page:asmallouting
 	date: 2007-02-27
-	desc: Asmallouting
-	tag: 0untagged
+	desc: A Small Outing
+	tag: Katherine
+	tag: KatherineHome
 page:stillindoors
 	date: 2007-02-26
-	desc: Stillindoors
-	tag: 0untagged
+	desc: Still Indoors
+	tag: Katherine
+	tag: KatherineHome
 page:clearhermind
 	date: 2007-02-23
-	desc: Clearhermind
-	tag: 0untagged
+	desc: Clear Her Mind
+	tag: Jacqui
+	tag: Luci
+	tag: PunkYoga
+	tag: Shelly
 page:waitingroom
 	date: 2007-02-22
-	desc: Waitingroom
-	tag: 0untagged
+	desc: Waiting Room
+	tag: Luci
+	tag: PunkYoga
+	tag: Shelly
 page:louddistractions
 	date: 2007-02-21
-	desc: Louddistractions
-	tag: 0untagged
+	desc: Loud Distractions
+	tag: Luci
+	tag: PunkYoga
+	tag: Shelly
 page:notimeforgames
 	date: 2007-02-20
-	desc: Notimeforgames
-	tag: 0untagged
+	desc: No Time For Games
+	tag: Luci
+	tag: PunkYoga
+	tag: Shelly
 page:coolness
 	date: 2007-02-19
 	desc: Coolness
-	tag: 0untagged
+	tag: Hammer
+	tag: Shelly
+	tag: ShellyHome
 page:snowstorms
 	date: 2007-02-16
 	desc: Snowstorms
-	tag: 0untagged
+	tag: FluffyBunnySlippers
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
 page:videofireplace
 	date: 2007-02-15
-	desc: Videofireplace
-	tag: 0untagged
+	desc: Video Fireplace
+	tag: Bath
+	tag: FluffyBunnySlippers
+	tag: Monica
+	tag: MonicaHouse
+	tag: Tepoz
 page:bringmeabeer
 	date: 2007-02-14
-	desc: Bringmeabeer
-	tag: 0untagged
+	desc: Bring me a beer
+	tag: FluffyBunnySlippers
+	tag: Monica
+	tag: MonicaHouse
+	tag: Stairs
+	tag: Tepoz
 page:whosaidwhat
 	date: 2007-02-13
-	desc: Whosaidwhat
-	tag: 0untagged
+	desc: Who Said What
+	tag: GreySpeak
+	tag: Monica
+	tag: MonicaHouse
+	tag: Stairs
+	tag: Tepoz
 page:homeagain
 	date: 2007-02-12
-	desc: Homeagain
-	tag: 0untagged
+	desc: Home Again
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Stairs
 page:monsteriwas
 	date: 2007-02-09
-	desc: Monsteriwas
-	tag: 0untagged
+	desc: Monster I Was
+	tag: Library
+	tag: Phix
 page:sureidid
 	date: 2007-02-08
-	desc: Sureidid
-	tag: 0untagged
+	desc: Sure I Did
+	tag: Library
+	tag: Monica
+	tag: Shelly
 page:notthedestination
 	date: 2007-02-07
-	desc: Notthedestination
-	tag: 0untagged
+	desc: Not the destination
+	tag: Library
+	tag: Phix
+	tag: Shelly
 page:closetoher
 	date: 2007-02-06
-	desc: Closetoher
-	tag: 0untagged
+	desc: Close To Her
+	tag: Library
+	tag: Monica
+	tag: Phix
+	tag: Shelly
 page:finalanswer
 	date: 2007-02-05
-	desc: Finalanswer
-	tag: 0untagged
+	desc: Final Answer
+	tag: Hammer
+	tag: Library
+	tag: Phix
+	tag: Shelly
 page:areyouafraid
 	date: 2007-02-02
-	desc: Areyouafraid
-	tag: 0untagged
+	desc: Are You Afraid
+	tag: Library
+	tag: Monica
+	tag: Phix
+	tag: Shelly
 page:girlwiththekeys
 	date: 2007-02-01
-	desc: Girlwiththekeys
-	tag: 0untagged
+	desc: Girl With The Keys
+	tag: Library
+	tag: Monica
+	tag: Phix
+	tag: Shelly
 page:reallytrustme
 	date: 2007-01-31
-	desc: Reallytrustme
-	tag: 0untagged
+	desc: Really Trust Me
+	tag: Monica
+	tag: Poit
+	tag: Shelly
+	tag: ShellyHome
 page:findinganobject
 	date: 2007-01-30
-	desc: Findinganobject
-	tag: 0untagged
+	desc: Finding An Object
+	tag: Book
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:simpletool
 	date: 2007-01-29
-	desc: Simpletool
-	tag: 0untagged
+	desc: Simple Tool
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:anachronism
 	date: 2007-01-26
 	desc: Anachronism
-	tag: 0untagged
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:importance
 	date: 2007-01-25
 	desc: Importance
-	tag: 0untagged
+	tag: Book
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:decipherthebook
 	date: 2007-01-24
-	desc: Decipherthebook
-	tag: 0untagged
+	desc: Decipher The Book
+	tag: Book
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
+	tag: SunStone
 page:becauseofyou
 	date: 2007-01-23
-	desc: Becauseofyou
-	tag: 0untagged
+	desc: Because Of You
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:nordicblend
 	date: 2007-01-22
-	desc: Nordicblend
-	tag: 0untagged
+	desc: Nordic Blend
+	tag: MuchoMocha
+	tag: Heather
+	tag: Tina
 page:nopretending
 	date: 2007-01-19
-	desc: Nopretending
-	tag: 0untagged
+	desc: No Pretending
+	tag: Cafe
+	tag: Heather
+	tag: VickiTalbot
+	tag: Wine
 page:tohellwithem
 	date: 2007-01-18
-	desc: Tohellwithem
-	tag: 0untagged
+	desc: To Hell With ’Em
+	tag: Cafe
+	tag: Heather
+	tag: VickiTalbot
+	tag: Wine
 page:notinkansas
 	date: 2007-01-17
-	desc: Notinkansas
-	tag: 0untagged
+	desc: Not In Kansas
+	tag: Cafe
+	tag: Heather
+	tag: VickiTalbot
 page:gettogether
 	date: 2007-01-16
 	desc: Gettogether
-	tag: 0untagged
+	tag: Heather
+	tag: RadioStation
+	tag: VickiTalbot
+	tag: VickiOffice
+	tag: Phone
 page:imcalling
 	date: 2007-01-15
-	desc: Imcalling
-	tag: 0untagged
+	desc: I'm Calling
+	tag: Heather
+	tag: RadioStation
+	tag: VickiTalbot
+	tag: VickiOffice
+	tag: Phone
 page:shesadumbass
 	date: 2007-01-12
-	desc: Shesadumbass
-	tag: 0untagged
+	desc: She's A Dumbass
+	tag: Amanda
+	tag: DarensBar
+	tag: Monica
+	tag: Shelly
 page:missedyoutoo
 	date: 2007-01-11
-	desc: Missedyoutoo
-	tag: 0untagged
+	desc: Missed You Too
+	tag: Amanda
+	tag: DarensBar
+	tag: Monica
 page:ohthat
 	date: 2007-01-10
 	desc: Ohthat
-	tag: 0untagged
+	tag: Amanda
+	tag: Antikythera
+	tag: CalendarMachine
+	tag: DarensBar
+	tag: Monica
 page:curiousquestions
 	date: 2007-01-09
-	desc: Curiousquestions
-	tag: 0untagged
+	desc: Curious Questions
+	tag: Amanda
+	tag: CalendarMachine
+	tag: DarensBar
+	tag: Monica
+	tag: SpitTake
 page:missedme
 	date: 2007-01-08
-	desc: Missedme
-	tag: 0untagged
+	desc: Missed Me
+	tag: Amanda
+	tag: AmandaHome
+	tag: Monica
+	tag: MonicaHouse
+	tag: Phone
 page:comfortnotspeed
 	date: 2007-01-05
-	desc: Comfortnotspeed
-	tag: 0untagged
+	desc: Comfort Not Speed
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:noquestions
 	date: 2007-01-04
-	desc: Noquestions
-	tag: 0untagged
+	desc: No Questions
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:aclock
 	date: 2007-01-03
-	desc: Aclock
-	tag: 0untagged
+	desc: A Clock
+	tag: ClayDolls
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:veryimportant
 	date: 2007-01-02
-	desc: Veryimportant
-	tag: 0untagged
+	desc: Very Important
+	tag: ClayDolls
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:crackwalnuts
 	date: 2007-01-01
-	desc: Crackwalnuts
-	tag: 0untagged
+	desc: Crack Walnuts
+	tag: ClayDolls
+	tag: Monica
+	tag: Shelly
+	tag: ShellyHome
 page:gimmeahug
 	date: 2006-12-29
 	desc: Gimme A Hug
@@ -8720,7 +8953,7 @@ page:itsabooksilly
 	tag: Library
 	tag: Monica
 	tag: Phix
-	tag: Sunstone
+	tag: SunStone
 page:theanswerissunshine
 	date: 2006-11-16
 	desc: The Answer Is Sunshine
@@ -9119,7 +9352,7 @@ page:lookokay
 page:monicasshirt
 	date: 2006-08-17
 	desc: Monica's Shirt
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Kevin
 	tag: Magic8BallShirt
@@ -9128,7 +9361,7 @@ page:cutenstretchy
 	date: 2006-08-16
 	desc: Cute ’N’ Stretchy
 	tag: Bud
-	tag: Brandy
+	tag: Brandi
 	tag: Magic8BallShirt
 	tag: MonicaHouse
 page:justweird
@@ -9825,14 +10058,14 @@ page:wellthinkofsomething
 page:notnightmares
 	date: 2006-03-23
 	desc: Not Nightmares
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Monica	
 	tag: MonicaHouse
 page:donttreatmelikeavictim
 	date: 2006-03-22
 	desc: Don't Treat Me Like A Victim
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: FaceGlyph
 	tag: Monica
@@ -9840,7 +10073,7 @@ page:donttreatmelikeavictim
 page:backintothestoneage
 	Date: 2006-03-21
 	desc: Back Into The Stone Age
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: FaceGlyph
 	tag: Monica
@@ -9848,14 +10081,14 @@ page:backintothestoneage
 page:angryforthewrongre
 	date: 2006-03-20
 	desc: Angry For The Wrong Reasons
-	tag: Brandy
+	tag: Brandi
 	tag: Jin
 	tag: Monica
 	tag: MonicaHouse
 page:yourenotamonster
 	date: 2006-03-17
 	desc: You're Not A Monster
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Monica
 	tag: MonicaHouse
@@ -9863,7 +10096,7 @@ page:yourenotamonster
 page:wrestlewiththesun
 	date: 2006-03-16
 	desc: Wrestle With The Sun
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Flashback
 	tag: Jin
@@ -9916,7 +10149,7 @@ page:dontberude
 page:youhavenoidea
 	date: 2006-03-08
 	desc: You Have No Idea
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: GreySpeak
 	tag: Jin
@@ -9925,7 +10158,7 @@ page:youhavenoidea
 page:howoldareyouguys
 	date: 2006-03-07
 	desc: How Old Are You Guys
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Jin
 	tag: Lioness
@@ -9934,7 +10167,7 @@ page:howoldareyouguys
 page:dishitoutbutcantta
 	date: 2006-03-06
 	desc: Dish It Out But Can't Take It
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Jin
 	tag: Lioness
@@ -9944,7 +10177,7 @@ page:dishitoutbutcantta
 page:budstillasleep
 	date: 2006-03-03
 	desc: Bud Still Asleep
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Cream
 	tag: Hatch
@@ -9954,7 +10187,7 @@ page:mythbustersison
 	date: 2006-03-02
 	desc: Myth Busters Is On
 	tag: Bed
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Deitzel
 	tag: Jin
@@ -9963,7 +10196,7 @@ page:mythbustersison
 page:singlehandedlywipe
 	date: 2006-03-01
 	desc: Single Handedly Wipe
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Jin
 	tag: Monica
@@ -9971,7 +10204,7 @@ page:singlehandedlywipe
 page:loveyouallbetter
 	date: 2006-02-28
 	desc: Love you all better
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Jin
 	tag: Kevin
@@ -9980,7 +10213,7 @@ page:loveyouallbetter
 page:nightofcryingandco
 	date: 2006-02-27
 	desc: Night Of Crying And Cooing
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Jin
 	tag: Monica
@@ -10812,9 +11045,9 @@ page:spillitslappy
 	tag: Tepoz
 page:bestthingtoeverhappen
 	date: 2005-09-30
-	desc: Bestthingtoeverhappen
+	desc: Best Thing To Ever Happen
 	tag: Bed
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Jin
 	tag: Monica
@@ -10823,7 +11056,7 @@ page:adorabledrunk
 	date: 2005-09-29
 	desc: Adorable Drunk
 	tag: Bed
-	tag: Brandy
+	tag: Brandi
 	tag: Bud
 	tag: Jin
 	tag: Monica
@@ -10905,7 +11138,7 @@ page:beeinyourbonnet
 	tag: Museum
 	tag: MuseumVault
 	tag: SecurityGuard
-page:thesunstonewas
+page:theSunStonewas
 	date: 2005-09-13
 	desc: The Sun Stone Was
 	tag: CeremonialCloth
@@ -10914,7 +11147,7 @@ page:thesunstonewas
 	tag: MuseumVault
 page:hocuspocuscrap
 	date: 2005-09-12
-	desc: Hocuspocus Crap
+	desc: Hocus-pocus Crap
 	tag: CeremonialCloth
 	tag: Monica
 	tag: Museum
