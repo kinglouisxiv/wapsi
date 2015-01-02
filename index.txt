@@ -25,7 +25,42 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
-
+; Atsali
+; Castela
+;
+page:happy-new-year-2
+	date: 2014-12-31
+	desc: Happy New Year
+	tag: 1Frame
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Colour
+	tag: Nadette
+page:meet-tomorrow
+	date: 2014-12-30
+	desc: Meet Tomorrow
+	tag: Atsali
+	tag: CoffeeShop
+	tag: EightBallShirt
+	tag: Horns
+	tag: Jacob
+page:horns-are-showing
+	date: 2014-12-29
+	desc: Horns Are Showing
+	tag: Atsali
+	tag: CoffeeShop
+	tag: EightBallShirt
+	tag: Horns
+	tag: Jacob
+	tag: Nadette
+	tag: Randi
+page:atsali-xmas-2014
+	date: 2014-12-26
+	desc: Atsali Xmas 2014
+	tag: 1Frame
+	tag: Atsali
+	tag: Colour
 page:castela-xmas-eve-2014
 	date: 2014-12-24
 	desc: Castela Xmas Eve 2014
@@ -36,6 +71,8 @@ page:hold-that-thought
 	date: 2014-12-23
 	desc: Hold That Thought
 	tag: Atsali
+	tag: CoffeeShop
+	tag: EightBallShirt
 	tag: Jacob
 	tag: Nadette
 	tag: Randi
@@ -43,6 +80,8 @@ page:there-he-is
 	date: 2014-12-22
 	desc: There He Is
 	tag: Atsali
+	tag: CoffeeShop
+	tag: EightBallShirt
 	tag: Jacob
 	tag: Nadette
 	tag: Randi
@@ -676,1579 +715,1688 @@ page:not-that-scary
 page:do-this-together
 	date: 2014-08-15
 	desc: Do This Together
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Calista
+	tag: GryphonHigh
+	tag: Jessie
+	tag: Krystle
+	tag: Nadette
 page:like-wildfire
 	date: 2014-08-14
 	desc: Like Wildfire
+	tag: Berdine
 	tag: Calista
 	tag: Fart
+	tag: GryphonHigh
 	tag: Jessie
 	tag: Krystle
 	tag: Nadette
 	tag: Phone
-	tag: UnidentifiedGirl
 page:not-buying-it
 	date: 2014-08-13
 	desc: Not Buying It
+	tag: Berdine
 	tag: Fart
+	tag: GryphonHigh
 	tag: Jessie
 	tag: Krystle
 	tag: Phone
-	tag: School
-	tag: UnidentifiedGirl
 page:not-like-that-2
 	date: 2014-08-12
 	desc: Not Like That
+	tag: Berdine
 	tag: Blush
 	tag: Jessie
 	tag: Krystle
 	tag: School
-	tag: UnidentifiedGirl
 page:darn-good
 	date: 2014-08-11
 	desc: Darn Good
 	tag: Atsali
 	tag: Blush
 	tag: Calista
+	tag: GryphonHigh
 	tag: Jessie
 	tag: Krystle
-	tag: School
 page:already-a-princess
 	date: 2014-08-08
 	desc: Already A Princess
 	tag: Atsali
 	tag: Blush
 	tag: Calista
+	tag: GryphonHigh
 	tag: Jessie
 	tag: Krystle
-	tag: School
 page:keep-yer-voice-down
 	date: 2014-08-07
 	desc: Keep Yer Voice Down
 	tag: Atsali
 	tag: Calista
-	tag: School
+	tag: GryphonHigh
 page:deserved-it-2
 	date: 2014-08-06
 	desc: Deserved It
 	tag: Atsali
 	tag: Calista
 	tag: Castela
-	tag: School
+	tag: GryphonHigh
 page:one-who-could-cry
 	date: 2014-08-05
 	desc: One Who Could Cry
 	tag: Calista
 	tag: Nadette
-	tag: School
+	tag: GryphonHigh
 page:strange-doorway
 	date: 2014-08-04
 	desc: Strange Doorway
 	tag: Atsali
 	tag: Calista
 	tag: Castela
+	tag: GryphonHigh
 	tag: Nadette
-	tag: School
+	tag: Tears
 page:not-tough
 	date: 2014-08-01
 	desc: Not Tough
 	tag: Atsali
 	tag: Blush
 	tag: Calista
-	tag: School
+	tag: GryphonHigh
+	tag: Tears
 page:castel-enora-gilchrist
 	date: 2014-07-31
 	desc: Castel Enora Gilchrist
 	tag: Atsali
 	tag: Blush
-	tag: Plant
 	tag: Castela
+	tag: GryphonHigh
 	tag: Katherine
-	tag: School
+	tag: Plant
 page:ancient-guardians
 	date: 2014-07-30
 	desc: Ancient Guardians
-	tag: 0untagged
+	tag: Atsali
+	tag: Calista
+	tag: Castela
+	tag: GryphonHigh
 page:daughter-of-a-blackthorn
 	date: 2014-07-29
 	desc: Daughter Of A Blackthorn
-	tag: 0untagged
+	tag: Atsali
+	tag: Calista
+	tag: Castela
+	tag: GryphonHigh
 page:just-a-fairy
 	date: 2014-07-28
 	desc: Just A Fairy
-	tag: 0untagged
+	tag: Atsali
+	tag: Blush
+	tag: Calista
+	tag: Castela
+	tag: GryphonHigh
+	tag: Jessie
+	tag: Krystal
 page:tuna-girls
 	date: 2014-07-25
 	desc: Tuna Girls
-	tag: 0untagged
+	tag: Calista
+	tag: GryphonHigh
+	tag: Jessie
+	tag: Krystal
 page:your-aunt
 	date: 2014-07-24
 	desc: Your Aunt
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Calista
+	tag: Castela
+	tag: GryphonHigh
+	tag: Jessie
+	tag: Krystal
+	tag: Nadette
 page:outta-here
 	date: 2014-07-23
 	desc: Outta Here
-	tag: 0untagged
+	tag: Calista
+	tag: Castela
+	tag: GryphonHigh
+	tag: Lightning
+	tag: Monica
 page:smiling-at-me
 	date: 2014-07-22
 	desc: Smiling At Me
-	tag: 0untagged
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Monica
 page:used-the-ninjas
 	date: 2014-07-21
 	desc: Used The Ninjas
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Calista
+	tag: GryphonHigh
+	tag: Lydia
+	tag: Monica
+	tag: Nadette
+	tag: Ninja
 page:gift-and-a-curse
 	date: 2014-07-18
 	desc: Gift And A Curse
-	tag: 0untagged
+	tag: Bea
+	tag: Blush
+	tag: Library
+	tag: Phix
 page:one-to-speak
 	date: 2014-07-17
 	desc: One To Speak
-	tag: 0untagged
+	tag: Bea
+	tag: Blush
+	tag: Library
+	tag: Monica
+	tag: Phix
 page:forget-i-said-anything
 	date: 2014-07-16
 	desc: Forget I Said Anything
-	tag: 0untagged
+	tag: Library
+	tag: Monica
+	tag: Phix
 page:heard-this-before
 	date: 2014-07-15
 	desc: Heard This Before
-	tag: 0untagged
+	tag: Library
+	tag: Monica
+	tag: Phix
 page:saturday-too
 	date: 2014-07-14
 	desc: Saturday Too
-	tag: 0untagged
+	tag: Calista
+	tag: Colour
+	tag: GryphonHigh
+	tag: Library
+	tag: Monica
+	tag: Phix
 page:want-to-learn
 	date: 2014-07-11
 	desc: Want To Learn
-	tag: 0untagged
+	tag: Calista
+	tag: Fire
+	tag: GryphonHigh
+	tag: Monica
 page:behind-you
 	date: 2014-07-10
 	desc: Behind You
-	tag: 0untagged
+	tag: Blush
+	tag: Calista
+	tag: Colour
+	tag: Fire
+	tag: GryphonHigh
+	tag: Lightning
+	tag: Monica
+	tag: Tears
 page:up-hill-battle
 	date: 2014-07-09
 	desc: Up Hill Battle
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Calista
+	tag: GryphonHigh
+	tag: Nadette
+	tag: Tears
 page:pep-rally
 	date: 2014-07-08
 	desc: Pep Rally
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Calista
+	tag: GryphonHigh
+	tag: Nadette
+	tag: Tears
 page:very-honest
 	date: 2014-07-07
 	desc: Very Honest
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Calista
+	tag: GryphonHigh
+	tag: Nadette
+	tag: Tears
 page:castela-fourth
 	date: 2014-07-04
 	desc: Castela Fourth
-	tag: 0untagged
+	tag: Castela
+	tag: KatherineHome
+	tag: Firework
 page:need-us
 	date: 2014-07-03
 	desc: Need Us
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Calista
+	tag: GryphonHigh
+	tag: Nadette
 page:glad-to-leave
 	date: 2014-07-02
 	desc: Glad To Leave
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Calista
+	tag: GryphonHigh
+	tag: Nadette
 page:friends-of-jugs
 	date: 2014-07-01
 	desc: Friends Of Jugs
-	tag: 0untagged
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: Calista
+	tag: GryphonHigh
+	tag: Nadette
 page:comfort-food
 	date: 2014-06-30
 	desc: Comfort Food
-	tag: 0untagged
+	tag: Atsali
+	tag: Calista
+	tag: GryphonHigh
+	tag: Spider
 page:stay-clear
 	date: 2014-06-27
 	desc: Stay Clear
-	tag: 0untagged
+	tag: 0-untagged
 page:cricket-and-jugs
 	date: 2014-06-26
 	desc: Cricket And Jugs
-	tag: 0untagged
+	tag: 0-untagged
 page:i-like-you
 	date: 2014-06-25
 	desc: I Like You
-	tag: 0untagged
+	tag: 0-untagged
 page:oh-i-see
 	date: 2014-06-24
 	desc: Oh I See
-	tag: 0untagged
+	tag: 0-untagged
 page:do-not-mess-with-her
 	date: 2014-06-23
 	desc: Do Not Mess With Her
-	tag: 0untagged
+	tag: 0-untagged
 page:jennie-breeden-guest-art-2
 	date: 2014-06-20
 	desc: Jennie Breeden Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:jennie-breeden-guest-art
 	date: 2014-06-19
 	desc: Jennie Breeden Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:sabrina-pandora-guest-art-2
 	date: 2014-06-18
 	desc: Sabrina Pandora Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:sabrina-pandora-guest-art
 	date: 2014-06-17
 	desc: Sabrina Pandora Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:claire-wendling-guest-art
 	date: 2014-06-15
 	desc: Claire Wendling Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:moving
 	date: 2014-05-06
 	desc: Moving
-	tag: 0untagged
+	tag: 0-untagged
 page:chocolate-cake
 	date: 2014-05-05
 	desc: Chocolate Cake
-	tag: 0untagged
+	tag: 0-untagged
 page:eightball-tee-preorder
 	date: 2014-05-03
 	desc: Eightball Tee Preorder
-	tag: 0untagged
+	tag: 0-untagged
 page:just-leave
 	date: 2014-05-02
 	desc: Just Leave
-	tag: 0untagged
+	tag: 0-untagged
 page:my-gosh
 	date: 2014-05-01
 	desc: My Gosh
-	tag: 0untagged
+	tag: 0-untagged
 page:am-i-sick
 	date: 2014-04-30
 	desc: Am I Sick
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-thoughts
 	date: 2014-04-29
 	desc: Happy Thoughts
-	tag: 0untagged
+	tag: 0-untagged
 page:be-still
 	date: 2014-04-28
 	desc: Be Still
-	tag: 0untagged
+	tag: 0-untagged
 page:stay-calm-2
 	date: 2014-04-25
 	desc: Stay Calm
-	tag: 0untagged
+	tag: 0-untagged
 page:stupid-diary
 	date: 2014-04-24
 	desc: Stupid Diary
-	tag: 0untagged
+	tag: 0-untagged
 page:special-fit
 	date: 2014-04-23
 	desc: Special Fit
-	tag: 0untagged
+	tag: 0-untagged
 page:pajama-top
 	date: 2014-04-22
 	desc: Pajama Top
-	tag: 0untagged
+	tag: 0-untagged
 page:resize-these
 	date: 2014-04-21
 	desc: Resize These
-	tag: 0untagged
+	tag: 0-untagged
 page:atsali-cutie-patootie
 	date: 2014-04-18
 	desc: Atsali Cutie Patootie
-	tag: 0untagged
+	tag: 0-untagged
 page:just-children
 	date: 2014-04-17
 	desc: Just Children
-	tag: 0untagged
+	tag: 0-untagged
 page:the-sword
 	date: 2014-04-16
 	desc: The Sword
-	tag: 0untagged
+	tag: 0-untagged
 page:then-that-2
 	date: 2014-04-15
 	desc: Then That
-	tag: 0untagged
+	tag: 0-untagged
 page:grandcritter
 	date: 2014-04-14
 	desc: Grandcritter
-	tag: 0untagged
+	tag: 0-untagged
 page:be-okay-2
 	date: 2014-04-11
 	desc: Be Okay
-	tag: 0untagged
+	tag: 0-untagged
 page:call-it-even
 	date: 2014-04-10
 	desc: Call It Even
-	tag: 0untagged
+	tag: 0-untagged
 page:corrot-sticks
 	date: 2014-04-09
 	desc: Carrot Sticks
-	tag: 0untagged
+	tag: 0-untagged
 page:aunt-tina
 	date: 2014-04-08
 	desc: Aunt Tina
-	tag: 0untagged
+	tag: 0-untagged
 page:marshmallows
 	date: 2014-04-07
 	desc: Marshmallows
-	tag: 0untagged
+	tag: 0-untagged
 page:euryale-medusa-and-stheno
 	date: 2014-04-03
 	desc: Euryale, Medusa, And Stheno
-	tag: 0untagged
+	tag: 0-untagged
 page:just-being-mean
 	date: 2014-04-02
 	desc: Just Being Mean
-	tag: 0untagged
+	tag: 0-untagged
 page:life-strategies
 	date: 2014-04-01
 	desc: Life Strategies
-	tag: 0untagged
+	tag: 0-untagged
 page:at-school
 	date: 2014-03-31
 	desc: At School
-	tag: 0untagged
+	tag: 0-untagged
 page:queen-bee
 	date: 2014-03-27
 	desc: Queen Bee
-	tag: 0untagged
+	tag: 0-untagged
 page:that-stuff
 	date: 2014-03-25
 	desc: That Stuff
-	tag: 0untagged
+	tag: 0-untagged
 page:guess-what
 	date: 2014-03-24
 	desc: Guess What
-	tag: 0untagged
+	tag: 0-untagged
 page:that-is-why
 	date: 2014-03-20
 	desc: That Is Why
-	tag: 0untagged
+	tag: 0-untagged
 page:time-to-think
 	date: 2014-03-19
 	desc: Time To Think
-	tag: 0untagged
+	tag: 0-untagged
 page:tossed-aside
 	date: 2014-03-18
 	desc: Tossed Aside
-	tag: 0untagged
+	tag: 0-untagged
 page:out-of-the-loop
 	date: 2014-03-17
 	desc: Out Of The Loop
-	tag: 0untagged
+	tag: 0-untagged
 page:as-a-girl
 	date: 2014-03-14
 	desc: As A Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:mummy-girl
 	date: 2014-03-13
 	desc: Mummy Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:due-for-a-hug
 	date: 2014-03-12
 	desc: Due For A Hug
-	tag: 0untagged
+	tag: 0-untagged
 page:jinx
 	date: 2014-03-11
 	desc: Jinx
-	tag: 0untagged
+	tag: 0-untagged
 page:plumb-near
 	date: 2014-03-10
 	desc: Plumb Near
-	tag: 0untagged
+	tag: 0-untagged
 page:a-liquor-filled-kiss
 	date: 2014-03-07
 	desc: A Liquor Filled Kiss
-	tag: 0untagged
+	tag: 0-untagged
 page:clear-the-air
 	date: 2014-03-06
 	desc: Clear The Air
-	tag: 0untagged
+	tag: 0-untagged
 page:not-gonna
 	date: 2014-03-05
 	desc: Not Gonna
-	tag: 0untagged
+	tag: 0-untagged
 page:batter-up
 	date: 2014-03-04
 	desc: Batter Up
-	tag: 0untagged
+	tag: 0-untagged
 page:about-that
 	date: 2014-03-03
 	desc: About That
-	tag: 0untagged
+	tag: 0-untagged
 page:please-help-support-wapsi
 	date: 2014-03-01
 	desc: Please Help Support Wapsi
-	tag: 0untagged
+	tag: 0-untagged
 page:what-about-me
 	date: 2014-02-28
 	desc: What About Me
-	tag: 0untagged
+	tag: 0-untagged
 page:sproing
 	date: 2014-02-27
 	desc: Sproing
-	tag: 0untagged
+	tag: 0-untagged
 page:you-what
 	date: 2014-02-26
 	desc: Your What
-	tag: 0untagged
+	tag: 0-untagged
 page:what-the-heck-2
 	date: 2014-02-25
 	desc: What The Heck
-	tag: 0untagged
+	tag: 0-untagged
 page:what-did-you-say
 	date: 2014-02-24
 	desc: What Did You Say
-	tag: 0untagged
+	tag: 0-untagged
 page:just-tell-me
 	date: 2014-02-11
 	desc: Just Tell Me
-	tag: 0untagged
+	tag: 0-untagged
 page:have-a-drink
 	date: 2014-02-10
 	desc: Have A Drink
-	tag: 0untagged
+	tag: 0-untagged
 page:island-party
 	date: 2014-02-07
 	desc: Island Party
-	tag: 0untagged
+	tag: 0-untagged
 page:student-of-mine
 	date: 2014-02-06
 	desc: Student Of Mine
-	tag: 0untagged
+	tag: 0-untagged
 page:evening-agenda
 	date: 2014-02-05
 	desc: Evening Agenda
-	tag: 0untagged
+	tag: 0-untagged
 page:something-is-up
 	date: 2014-02-04
 	desc: Something Is Up
-	tag: 0untagged
+	tag: 0-untagged
 page:day-vacation-to-cafe-u296
 	date: 2014-02-03
 	desc: Day Vacation To Cafe U296
-	tag: 0untagged
+	tag: 0-untagged
 page:hard-rock-atsali
 	date: 2014-01-31
 	desc: Hard Rock Atsali
-	tag: 0untagged
+	tag: 0-untagged
 page:heavy-metal-atsali
 	date: 2014-01-30
 	desc: Heavy Metal Atsali
-	tag: 0untagged
+	tag: 0-untagged
 page:katherine-smiles
 	date: 2014-01-29
 	desc: Katherine Smiles
-	tag: 0untagged
+	tag: 0-untagged
 page:air-guitar
 	date: 2014-01-28
 	desc: Air Guitar
-	tag: 0untagged
+	tag: 0-untagged
 page:is-this-normal
 	date: 2014-01-27
 	desc: Is This Normal
-	tag: 0untagged
+	tag: 0-untagged
 page:order-up
 	date: 2014-01-24
 	desc: Order Up
-	tag: 0untagged
+	tag: 0-untagged
 page:here-i-am
 	date: 2014-01-23
 	desc: Here I Am
-	tag: 0untagged
+	tag: 0-untagged
 page:paying-attention
 	date: 2014-01-22
 	desc: Paying Attention
-	tag: 0untagged
+	tag: 0-untagged
 page:not-like-that
 	date: 2014-01-21
 	desc: Not Like That
-	tag: 0untagged
+	tag: 0-untagged
 page:how-silly-is-that
 	date: 2014-01-20
 	desc: How Silly Is That
-	tag: 0untagged
+	tag: 0-untagged
 page:free-after-work
 	date: 2014-01-17
 	desc: Free After Work
-	tag: 0untagged
+	tag: 0-untagged
 page:an-essential-member
 	date: 2014-01-16
 	desc: An Essential Member
-	tag: 0untagged
+	tag: 0-untagged
 page:wake-up-2
 	date: 2014-01-15
 	desc: Wake Up
-	tag: 0untagged
+	tag: 0-untagged
 page:let-yourselves-feel
 	date: 2014-01-14
 	desc: Let Yourselves Feel
-	tag: 0untagged
+	tag: 0-untagged
 page:what-happened-4
 	date: 2014-01-13
 	desc: What Happened
-	tag: 0untagged
+	tag: 0-untagged
 page:awesomly-innocent
 	date: 2014-01-10
 	desc: Awesomly Innocent
-	tag: 0untagged
+	tag: 0-untagged
 page:hey-sis
 	date: 2014-01-09
 	desc: Hey Sis
-	tag: 0untagged
+	tag: 0-untagged
 page:it-chirped
 	date: 2014-01-08
 	desc: It Chirped
-	tag: 0untagged
+	tag: 0-untagged
 page:stop-chasing-me
 	date: 2014-01-07
 	desc: Stop Chasing Me
-	tag: 0untagged
+	tag: 0-untagged
 page:mom-said
 	date: 2014-01-06
 	desc: Mom Said
-	tag: 0untagged
+	tag: 0-untagged
 page:castela-discovers-video-phones
 	date: 2014-01-03
 	desc: Castela Discovers Video Phones
-	tag: 0untagged
+	tag: 0-untagged
 page:not-even
 	date: 2014-01-02
 	desc: Not Even
-	tag: 0untagged
+	tag: 0-untagged
 page:naive-and-dangerous
 	date: 2014-01-01
 	desc: Naive And Dangerous
-	tag: 0untagged
+	tag: 0-untagged
 page:the-secret-2
 	date: 2013-12-31
 	desc: The Secret
-	tag: 0untagged
+	tag: 0-untagged
 page:scare-for-fun
 	date: 2013-12-30
 	desc: Scare For Fun
-	tag: 0untagged
+	tag: 0-untagged
 page:snuggle-for-christmas
 	date: 2013-12-25
 	desc: Snuggle For Christmas
-	tag: 0untagged
+	tag: 0-untagged
 page:waiting-for-santa
 	date: 2013-12-24
 	desc: Waiting For Santa
-	tag: 0untagged
+	tag: 0-untagged
 page:show-and-tell
 	date: 2013-12-23
 	desc: Show And Tell
-	tag: 0untagged
+	tag: 0-untagged
 page:what-you-did
 	date: 2013-12-19
 	desc: What You Did
-	tag: 0untagged
+	tag: 0-untagged
 page:breaking-my-heart
 	date: 2013-12-18
 	desc: Breaking My Heart
-	tag: 0untagged
+	tag: 0-untagged
 page:keep-concentrating
 	date: 2013-12-17
 	desc: Keep Concentrating
-	tag: 0untagged
+	tag: 0-untagged
 page:do-a-lap
 	date: 2013-12-16
 	desc: Do A Lap
-	tag: 0untagged
+	tag: 0-untagged
 page:not-the-same
 	date: 2013-12-13
 	desc: Not The Same
-	tag: 0untagged
+	tag: 0-untagged
 page:cherokee-wisdom
 	date: 2013-12-12
 	desc: Cherokee Wisdom
-	tag: 0untagged
+	tag: 0-untagged
 page:look-like-me
 	date: 2013-12-11
 	desc: Look Like Me
-	tag: 0untagged
+	tag: 0-untagged
 page:too-dorky
 	date: 2013-12-10
 	desc: Too Dorky
-	tag: 0untagged
+	tag: 0-untagged
 page:we-have-tails
 	date: 2013-12-09
 	desc: We Have Tails
-	tag: 0untagged
+	tag: 0-untagged
 page:breathing-is-good
 	date: 2013-12-06
 	desc: Breathing Is Good
-	tag: 0untagged
+	tag: 0-untagged
 page:grounded-and-smart
 	date: 2013-12-05
 	desc: Grounded And Smart
-	tag: 0untagged
+	tag: 0-untagged
 page:cups-and-bands
 	date: 2013-12-04
 	desc: Cups And Bands
-	tag: 0untagged
+	tag: 0-untagged
 page:my-kung-fu-is-strong
 	date: 2013-12-03
 	desc: My Kung Fu Is Strong
-	tag: 0untagged
+	tag: 0-untagged
 page:great-snuggler
 	date: 2013-12-02
 	desc: Great Snuggler
-	tag: 0untagged
+	tag: 0-untagged
 page:atsali-castela-got-your-back
 	date: 2013-12-01
 	desc: Atsali Castela Got Your Back
-	tag: 0untagged
+	tag: 0-untagged
 page:atsali-castela-monicas-beach
 	date: 2013-11-30
 	desc: Atsali and Castela at Monica&#8217;s Beach
-	tag: 0untagged
+	tag: 0-untagged
 page:andrea-torrejon-wapsi-pinup
 	date: 2013-11-29
 	desc: Andrea Torrej&#243;n Wapsi Pinup
-	tag: 0untagged
+	tag: 0-untagged
 page:leigh-lahav-guest-pinup
 	date: 2013-11-28
 	desc: Leigh Lahav Guest Pinup
-	tag: 0untagged
+	tag: 0-untagged
 page:kell-dewclaw-pinup
 	date: 2013-11-27
 	desc: Kell Dewclaw Pinup
-	tag: 0untagged
+	tag: 0-untagged
 page:aunt-monica
 	date: 2013-11-26
 	desc: Aunt Monica
-	tag: 0untagged
+	tag: 0-untagged
 page:the-wrong-person
 	date: 2013-11-25
 	desc: The Wrong Person
-	tag: 0untagged
+	tag: 0-untagged
 page:called-me-psycho
 	date: 2013-11-22
 	desc: Called Me Psycho
-	tag: 0untagged
+	tag: 0-untagged
 page:nothing-more-than-that
 	date: 2013-11-21
 	desc: Nothing More Than That
-	tag: 0untagged
+	tag: 0-untagged
 page:someone-you-need-to-meet
 	date: 2013-11-20
 	desc: Someone You Need To Meet
-	tag: 0untagged
+	tag: 0-untagged
 page:turning-blue
 	date: 2013-11-19
 	desc: Turning Blue
-	tag: 0untagged
+	tag: 0-untagged
 page:all-at-once
 	date: 2013-11-18
 	desc: All At Once
-	tag: 0untagged
+	tag: 0-untagged
 page:just-stop-talking
 	date: 2013-11-15
 	desc: Just Stop Talking
-	tag: 0untagged
+	tag: 0-untagged
 page:stung-by-a-bee
 	date: 2013-11-14
 	desc: Stung By A Bee
-	tag: 0untagged
+	tag: 0-untagged
 page:someone-we-like
 	date: 2013-11-13
 	desc: Someone We Like
-	tag: 0untagged
+	tag: 0-untagged
 page:beautiful-flower
 	date: 2013-11-12
 	desc: Beautiful Flower
-	tag: 0untagged
+	tag: 0-untagged
 page:not-so-lost
 	date: 2013-11-11
 	desc: Not So Lost
-	tag: 0untagged
+	tag: 0-untagged
 page:ursamorphs
 	date: 2013-11-08
 	desc: Ursamorphs
-	tag: 0untagged
+	tag: 0-untagged
 page:tight-shirts
 	date: 2013-11-07
 	desc: Tight Shirts
-	tag: 0untagged
+	tag: 0-untagged
 page:cutest-things-ever
 	date: 2013-11-06
 	desc: Cutest Things Ever
-	tag: 0untagged
+	tag: 0-untagged
 page:pickles-pot
 	date: 2013-11-05
 	desc: Pickle&#8217;s Pot
-	tag: 0untagged
+	tag: 0-untagged
 page:this-is-better
 	date: 2013-11-04
 	desc: This Is Better
-	tag: 0untagged
+	tag: 0-untagged
 page:over-there-3
 	date: 2013-11-01
 	desc: Over There
-	tag: 0untagged
+	tag: 0-untagged
 page:stuffy-adult
 	date: 2013-10-31
 	desc: Stuffy Adult
-	tag: 0untagged
+	tag: 0-untagged
 page:not-fair
 	date: 2013-10-30
 	desc: Not Fair
-	tag: 0untagged
+	tag: 0-untagged
 page:listen-good
 	date: 2013-10-29
 	desc: Listen Good
-	tag: 0untagged
+	tag: 0-untagged
 page:running-late
 	date: 2013-10-28
 	desc: Running Late
-	tag: 0untagged
+	tag: 0-untagged
 page:moonlight
 	date: 2013-10-25
 	desc: Moonlight
-	tag: 0untagged
+	tag: 0-untagged
 page:whitewing
 	date: 2013-10-24
 	desc: Whitewing
-	tag: 0untagged
+	tag: 0-untagged
 page:out-all-day
 	date: 2013-10-23
 	desc: Out All Day
-	tag: 0untagged
+	tag: 0-untagged
 page:not-alone
 	date: 2013-10-22
 	desc: Not Alone
-	tag: 0untagged
+	tag: 0-untagged
 page:lock-the-doors
 	date: 2013-10-21
 	desc: Lock The Doors
-	tag: 0untagged
+	tag: 0-untagged
 page:be-her-rock
 	date: 2013-10-18
 	desc: Be Her Rock
-	tag: 0untagged
+	tag: 0-untagged
 page:for-jill
 	date: 2013-10-17
 	desc: For Jill
-	tag: 0untagged
+	tag: 0-untagged
 page:something-wrong
 	date: 2013-10-16
 	desc: Something Wrong
-	tag: 0untagged
+	tag: 0-untagged
 page:find-your-way
 	date: 2013-10-15
 	desc: Find Your Way
-	tag: 0untagged
+	tag: 0-untagged
 page:jaguar-girl-2
 	date: 2013-10-14
 	desc: Jaguar Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:get-this-sorted
 	date: 2013-10-09
 	desc: Get This Sorted
-	tag: 0untagged
+	tag: 0-untagged
 page:you-need-to
 	date: 2013-10-08
 	desc: You Need To
-	tag: 0untagged
+	tag: 0-untagged
 page:rescued-a-girl
 	date: 2013-10-07
 	desc: Rescued A Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:not-their-fault
 	date: 2013-10-01
 	desc: Not Their Fault
-	tag: 0untagged
+	tag: 0-untagged
 page:fresher-already
 	date: 2013-09-30
 	desc: Fresher Already
-	tag: 0untagged
+	tag: 0-untagged
 page:return-the-favor-2
 	date: 2013-09-27
 	desc: Return The Favor
-	tag: 0untagged
+	tag: 0-untagged
 page:fishing-you-out
 	date: 2013-09-26
 	desc: Fishing You Out
-	tag: 0untagged
+	tag: 0-untagged
 page:demon-shepherd
 	date: 2013-09-25
 	desc: Demon Shepherd
-	tag: 0untagged
+	tag: 0-untagged
 page:the-wrong-girl
 	date: 2013-09-24
 	desc: The Wrong Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:worst-fing-nightmare
 	date: 2013-09-23
 	desc: Worst F***ing Nightmare
-	tag: 0untagged
+	tag: 0-untagged
 page:the-one-who-loves-you
 	date: 2013-09-20
 	desc: The One Who Loves You
-	tag: 0untagged
+	tag: 0-untagged
 page:respected-her
 	date: 2013-09-19
 	desc: Respected Her
-	tag: 0untagged
+	tag: 0-untagged
 page:come-and-go
 	date: 2013-09-18
 	desc: Come And Go
-	tag: 0untagged
+	tag: 0-untagged
 page:our-guest
 	date: 2013-09-17
 	desc: Our Guest
-	tag: 0untagged
+	tag: 0-untagged
 page:no-excuse
 	date: 2013-09-16
 	desc: No Excuse
-	tag: 0untagged
+	tag: 0-untagged
 page:she-said-no
 	date: 2013-09-13
 	desc: She Said No
-	tag: 0untagged
+	tag: 0-untagged
 page:connection
 	date: 2013-09-12
 	desc: Connection
-	tag: 0untagged
+	tag: 0-untagged
 page:thank-me-later
 	date: 2013-09-11
 	desc: Thank Me Later
-	tag: 0untagged
+	tag: 0-untagged
 page:out-cold
 	date: 2013-09-10
 	desc: Out Cold
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-12-years
 	date: 2013-09-09
 	desc: Wapsi Square 12 Years
-	tag: 0untagged
+	tag: 0-untagged
 page:fell-in-love
 	date: 2013-09-06
 	desc: Fell In Love
-	tag: 0untagged
+	tag: 0-untagged
 page:she-wants-you
 	date: 2013-09-05
 	desc: She Wants You
-	tag: 0untagged
+	tag: 0-untagged
 page:never-touched-you
 	date: 2013-09-04
 	desc: Never Touched You
-	tag: 0untagged
+	tag: 0-untagged
 page:out-of-the-blue
 	date: 2013-09-03
 	desc: Out Of The Blue
-	tag: 0untagged
+	tag: 0-untagged
 page:georgettes-kiss
 	date: 2013-09-02
 	desc: Georgette's Kiss
-	tag: 0untagged
+	tag: 0-untagged
 page:really-here
 	date: 2013-08-30
 	desc: Really Here
-	tag: 0untagged
+	tag: 0-untagged
 page:your-whole-world
 	date: 2013-08-29
 	desc: Your Whole World
-	tag: 0untagged
+	tag: 0-untagged
 page:there-she-is
 	date: 2013-08-28
 	desc: There She Is
-	tag: 0untagged
+	tag: 0-untagged
 page:loss-for-words
 	date: 2013-08-27
 	desc: Loss For Words
-	tag: 0untagged
+	tag: 0-untagged
 page:on-purpose
 	date: 2013-08-26
 	desc: On Purpose
-	tag: 0untagged
+	tag: 0-untagged
 page:mamabear
 	date: 2013-08-23
 	desc: Mamabear
-	tag: 0untagged
+	tag: 0-untagged
 page:afternoon-pickup
 	date: 2013-08-22
 	desc: Afternoon Pickup
-	tag: 0untagged
+	tag: 0-untagged
 page:finish-my-lesson
 	date: 2013-08-21
 	desc: Finish My Lesson
-	tag: 0untagged
+	tag: 0-untagged
 page:like-heroes
 	date: 2013-08-20
 	desc: Like Heroes
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-endings
 	date: 2013-08-19
 	desc: Happy Endings
-	tag: 0untagged
+	tag: 0-untagged
 page:execution-via-fear
 	date: 2013-08-16
 	desc: Execution Via Fear
-	tag: 0untagged
+	tag: 0-untagged
 page:judged-by-history
 	date: 2013-08-15
 	desc: Judged By History
-	tag: 0untagged
+	tag: 0-untagged
 page:better-than-me
 	date: 2013-08-14
 	desc: Better Than Me
-	tag: 0untagged
+	tag: 0-untagged
 page:speak-only-when-spoken-to
 	date: 2013-08-13
 	desc: Speak Only When Spoken To
-	tag: 0untagged
+	tag: 0-untagged
 page:called-on-the-carpet
 	date: 2013-08-12
 	desc: Called On The Carpet
-	tag: 0untagged
+	tag: 0-untagged
 page:trash-talk-of-the-titans
 	date: 2013-08-09
 	desc: Trash Talk Of The Titans
-	tag: 0untagged
+	tag: 0-untagged
 page:a-little-competition
 	date: 2013-08-08
 	desc: A Little Competition
-	tag: 0untagged
+	tag: 0-untagged
 page:still-at-it
 	date: 2013-08-07
 	desc: Still At It
-	tag: 0untagged
+	tag: 0-untagged
 page:castela
 	date: 2013-08-06
 	desc: Castela, &#8220;It&#8217;s Singing!&#8221;
-	tag: 0untagged
+	tag: 0-untagged
 page:castela-running
 	date: 2013-08-05
 	desc: Castela Running
-	tag: 0untagged
+	tag: 0-untagged
 page:ready-for-the-world
 	date: 2013-08-02
 	desc: Ready For The World
-	tag: 0untagged
+	tag: 0-untagged
 page:would-you-like-that
 	date: 2013-08-01
 	desc: Would You Like That
-	tag: 0untagged
+	tag: 0-untagged
 page:part-of-my-adventure
 	date: 2013-07-31
 	desc: Part Of My Adventure
-	tag: 0untagged
+	tag: 0-untagged
 page:and-a-glass-of-milk
 	date: 2013-07-30
 	desc: And A Glass Of Milk
-	tag: 0untagged
+	tag: 0-untagged
 page:little-castela
 	date: 2013-07-29
 	desc: Little Castela
-	tag: 0untagged
+	tag: 0-untagged
 page:threw-me-away
 	date: 2013-07-26
 	desc: Threw Me Away
-	tag: 0untagged
+	tag: 0-untagged
 page:not-real
 	date: 2013-07-25
 	desc: Not Real
-	tag: 0untagged
+	tag: 0-untagged
 page:where-did-you-go
 	date: 2013-07-24
 	desc: Where Did You Go
-	tag: 0untagged
+	tag: 0-untagged
 page:afternoon-tea
 	date: 2013-07-23
 	desc: Little Atsali and Afternoon Tea
-	tag: 0untagged
+	tag: 0-untagged
 page:original-wapsi-square-art-on-ebay
 	date: 2013-07-22
 	desc: Original Wapsi square Art on Ebay!
-	tag: 0untagged
+	tag: 0-untagged
 page:reluctant-adventure-buddy
 	date: 2013-07-22
 	desc: Little Atsali and the Reluctant Adventure Buddy
-	tag: 0untagged
+	tag: 0-untagged
 page:little-atsali-and-the-pirate-ship
 	date: 2013-07-21
 	desc: Little Atsali And The Pirate Ship
-	tag: 0untagged
+	tag: 0-untagged
 page:little-atsali-and-the-dragon
 	date: 2013-07-20
 	desc: Little Atsali And The Dragon
-	tag: 0untagged
+	tag: 0-untagged
 page:monica-free-hugs
 	date: 2013-07-19
 	desc: Monica's Free Hugs
-	tag: 0untagged
+	tag: 0-untagged
 page:stay-out-of-her-way
 	date: 2013-07-18
 	desc: Stay Out Of Her Way
-	tag: 0untagged
+	tag: 0-untagged
 page:leaving-something-out
 	date: 2013-07-17
 	desc: Leaving Something Out
-	tag: 0untagged
+	tag: 0-untagged
 page:a-lot-to-answer-for
 	date: 2013-07-16
 	desc: A Lot To Answer For
-	tag: 0untagged
+	tag: 0-untagged
 page:remember-her-name
 	date: 2013-07-15
 	desc: Remember Her Name
-	tag: 0untagged
+	tag: 0-untagged
 page:waiting-to-be-sent-back
 	date: 2013-07-12
 	desc: Waiting To Be Sent Back
-	tag: 0untagged
+	tag: 0-untagged
 page:an-important-offer
 	date: 2013-07-11
 	desc: An Important Offer
-	tag: 0untagged
+	tag: 0-untagged
 page:all-gone
 	date: 2013-07-10
 	desc: All Gone
-	tag: 0untagged
+	tag: 0-untagged
 page:end-of-story
 	date: 2013-07-09
 	desc: End Of Story
-	tag: 0untagged
+	tag: 0-untagged
 page:crystal-in-the-wall
 	date: 2013-07-08
 	desc: Crystal In The Wall
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-4th
 	date: 2013-07-04
 	desc: Happy 4th of July
-	tag: 0untagged
+	tag: 0-untagged
 page:catch-up-shortly
 	date: 2013-07-03
 	desc: Catch Up Shortly
-	tag: 0untagged
+	tag: 0-untagged
 page:take-this-away
 	date: 2013-07-02
 	desc: Take This Away
-	tag: 0untagged
+	tag: 0-untagged
 page:set-adrift
 	date: 2013-07-01
 	desc: Set Adrift
-	tag: 0untagged
+	tag: 0-untagged
 page:six-special-women
 	date: 2013-06-28
 	desc: Six Special Women
-	tag: 0untagged
+	tag: 0-untagged
 page:in-store-for
 	date: 2013-06-27
 	desc: In Store For
-	tag: 0untagged
+	tag: 0-untagged
 page:all-heck-is-breaking-loose
 	date: 2013-06-26
 	desc: All Heck Is Breaking Loose
-	tag: 0untagged
+	tag: 0-untagged
 page:your-capable-hands
 	date: 2013-06-25
 	desc: Your Capable Hands
-	tag: 0untagged
+	tag: 0-untagged
 page:help-or-break
 	date: 2013-06-24
 	desc: Help Or Break
-	tag: 0untagged
+	tag: 0-untagged
 page:times-up
 	date: 2013-06-21
 	desc: Time's Up
-	tag: 0untagged
+	tag: 0-untagged
 page:follow-my-lead
 	date: 2013-06-20
 	desc: Follow My Lead
-	tag: 0untagged
+	tag: 0-untagged
 page:termination-orders
 	date: 2013-06-19
 	desc: Termination Orders
-	tag: 0untagged
+	tag: 0-untagged
 page:glad-you-could-make-it
 	date: 2013-06-18
 	desc: Glad You Could Make It
-	tag: 0untagged
+	tag: 0-untagged
 page:a-few-favors
 	date: 2013-06-17
 	desc: A Few Favors
-	tag: 0untagged
+	tag: 0-untagged
 page:a-nu-gui-deal
 	date: 2013-06-14
 	desc: A N&uuml; Gui Deal
-	tag: 0untagged
+	tag: 0-untagged
 page:all-clear
 	date: 2013-06-13
 	desc: All Clear
-	tag: 0untagged
+	tag: 0-untagged
 page:stay-calm
 	date: 2013-06-12
 	desc: Stay Calm
-	tag: 0untagged
+	tag: 0-untagged
 page:wrath
 	date: 2013-06-11
 	desc: Wrath
-	tag: 0untagged
+	tag: 0-untagged
 page:follow-her-lead
 	date: 2013-06-10
 	desc: Follow Her Lead
-	tag: 0untagged
+	tag: 0-untagged
 page:no-poit-for-you
 	date: 2013-06-07
 	desc: No Poit For You
-	tag: 0untagged
+	tag: 0-untagged
 page:athena-missile-test
 	date: 2013-06-06
 	desc: Athena Missile Test
-	tag: 0untagged
+	tag: 0-untagged
 page:yaxchilan-detour
 	date: 2013-06-05
 	desc: Yaxchilan Detour
-	tag: 0untagged
+	tag: 0-untagged
 page:the-only-way-out
 	date: 2013-06-04
 	desc: The Only Way Out
-	tag: 0untagged
+	tag: 0-untagged
 page:because-why
 	date: 2013-06-03
 	desc: Because Why
-	tag: 0untagged
+	tag: 0-untagged
 page:self-destruct-device
 	date: 2013-05-31
 	desc: Self Destruct Device
-	tag: 0untagged
+	tag: 0-untagged
 page:escaped-through-me
 	date: 2013-05-30
 	desc: Escaped Through Me
-	tag: 0untagged
+	tag: 0-untagged
 page:empty-slot
 	date: 2013-05-29
 	desc: Empty Slot
-	tag: 0untagged
+	tag: 0-untagged
 page:a-mortal-descendant
 	date: 2013-05-28
 	desc: A Mortal Descendant
-	tag: 0untagged
+	tag: 0-untagged
 page:delayed-comic
 	date: 2013-05-24
 	desc: Delayed Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:sweet-dreams
 	date: 2013-05-23
 	desc: Sweet Dreams
-	tag: 0untagged
+	tag: 0-untagged
 page:the-same-crystal
 	date: 2013-05-22
 	desc: The Same Crystal
-	tag: 0untagged
+	tag: 0-untagged
 page:six-women
 	date: 2013-05-21
 	desc: Six Women
-	tag: 0untagged
+	tag: 0-untagged
 page:working-perfectly
 	date: 2013-05-20
 	desc: Working Perfectly
-	tag: 0untagged
+	tag: 0-untagged
 page:springcon
 	date: 2013-05-17
 	desc: SpringCon
-	tag: 0untagged
+	tag: 0-untagged
 page:buffers-in-place
 	date: 2013-05-16
 	desc: Buffers In Place
-	tag: 0untagged
+	tag: 0-untagged
 page:the-deal
 	date: 2013-05-15
 	desc: The Deal
-	tag: 0untagged
+	tag: 0-untagged
 page:my-location
 	date: 2013-05-14
 	desc: My Location
-	tag: 0untagged
+	tag: 0-untagged
 page:there-were-earthquakes
 	date: 2013-05-13
 	desc: There Were Earthquakes
-	tag: 0untagged
+	tag: 0-untagged
 page:welcome-screen
 	date: 2013-05-10
 	desc: Welcome Screen
-	tag: 0untagged
+	tag: 0-untagged
 page:rosetta-screen
 	date: 2013-05-09
 	desc: Rosetta Screen
-	tag: 0untagged
+	tag: 0-untagged
 page:crystal-things
 	date: 2013-05-08
 	desc: Crystal Things
-	tag: 0untagged
+	tag: 0-untagged
 page:in-the-dark
 	date: 2013-05-07
 	desc: In The Dark
-	tag: 0untagged
+	tag: 0-untagged
 page:a-direct-message
 	date: 2013-05-06
 	desc: A Direct Message
-	tag: 0untagged
+	tag: 0-untagged
 page:stay-on-your-toes
 	date: 2013-05-03
 	desc: Stay On Your Toes
-	tag: 0untagged
+	tag: 0-untagged
 page:but-i-know
 	date: 2013-05-02
 	desc: But I Know
-	tag: 0untagged
+	tag: 0-untagged
 page:crystal-spider
 	date: 2013-05-01
 	desc: Crystal Spider
-	tag: 0untagged
+	tag: 0-untagged
 page:i-have-the-key
 	date: 2013-04-30
 	desc: I Have The Key
-	tag: 0untagged
+	tag: 0-untagged
 page:not-here
 	date: 2013-04-29
 	desc: Not Here
-	tag: 0untagged
+	tag: 0-untagged
 page:get-to-mapimi
 	date: 2013-04-26
 	desc: Get To Mapimi
-	tag: 0untagged
+	tag: 0-untagged
 page:see-you-at-mesa-verde
 	date: 2013-04-25
 	desc: See You At Mesa Verde
-	tag: 0untagged
+	tag: 0-untagged
 page:last-two
 	date: 2013-04-24
 	desc: Last Two
-	tag: 0untagged
+	tag: 0-untagged
 page:awful-convenient
 	date: 2013-04-23
 	desc: Awful Convenient
-	tag: 0untagged
+	tag: 0-untagged
 page:just-me
 	date: 2013-04-22
 	desc: Just Me
-	tag: 0untagged
+	tag: 0-untagged
 page:human-slide-rule
 	date: 2013-04-19
 	desc: Human Slide Rule
-	tag: 0untagged
+	tag: 0-untagged
 page:going-to-mapimi
 	date: 2013-04-18
 	desc: Going To Mapimi
-	tag: 0untagged
+	tag: 0-untagged
 page:taking-charge
 	date: 2013-04-17
 	desc: Taking Charge
-	tag: 0untagged
+	tag: 0-untagged
 page:bad-day
 	date: 2013-04-16
 	desc: Bad Day
-	tag: 0untagged
+	tag: 0-untagged
 page:end-your-suffering
 	date: 2013-04-15
 	desc: End Your Suffering
-	tag: 0untagged
+	tag: 0-untagged
 page:here-with-me
 	date: 2013-04-12
 	desc: Here With Me
-	tag: 0untagged
+	tag: 0-untagged
 page:died-alone
 	date: 2013-04-11
 	desc: Died Alone
-	tag: 0untagged
+	tag: 0-untagged
 page:imagining-things
 	date: 2013-04-10
 	desc: Imagining Things
-	tag: 0untagged
+	tag: 0-untagged
 page:back-off
 	date: 2013-04-09
 	desc: Back Off
-	tag: 0untagged
+	tag: 0-untagged
 page:not-that-simple
 	date: 2013-04-08
 	desc: Not That Simple
-	tag: 0untagged
+	tag: 0-untagged
 page:point-of-entrance
 	date: 2013-04-05
 	desc: Point Of Entrance
-	tag: 0untagged
+	tag: 0-untagged
 page:kerplunk-kerplooie
 	date: 2013-04-04
 	desc: Kerplunk Kerplooie
-	tag: 0untagged
+	tag: 0-untagged
 page:cutting-it-close
 	date: 2013-04-03
 	desc: Cutting It Close
-	tag: 0untagged
+	tag: 0-untagged
 page:keep-it-that-way
 	date: 2013-04-02
 	desc: Keep It That Way
-	tag: 0untagged
+	tag: 0-untagged
 page:flying-itself
 	date: 2013-04-01
 	desc: Flying Itself
-	tag: 0untagged
+	tag: 0-untagged
 page:she-shoots-she-scores
 	date: 2013-03-29
 	desc: She Shoots She Scores
-	tag: 0untagged
+	tag: 0-untagged
 page:do-the-decoy
 	date: 2013-03-28
 	desc: Do The Decoy
-	tag: 0untagged
+	tag: 0-untagged
 page:last-of-eighteen
 	date: 2013-03-27
 	desc: Last Of Eighteen
-	tag: 0untagged
+	tag: 0-untagged
 page:one-of-eighteen
 	date: 2013-03-26
 	desc: One Of Eighteen
-	tag: 0untagged
+	tag: 0-untagged
 page:dead-sea-dig
 	date: 2013-03-25
 	desc: Dead Sea Dig
-	tag: 0untagged
+	tag: 0-untagged
 page:get-these-pix
 	date: 2013-03-22
 	desc: Get These Pix
-	tag: 0untagged
+	tag: 0-untagged
 page:the-professional
 	date: 2013-03-21
 	desc: The Professional
-	tag: 0untagged
+	tag: 0-untagged
 page:once-a-month
 	date: 2013-03-20
 	desc: Once A Month
-	tag: 0untagged
+	tag: 0-untagged
 page:keep-quiet
 	date: 2013-03-19
 	desc: Keep Quiet
-	tag: 0untagged
+	tag: 0-untagged
 page:coming-this-way
 	date: 2013-03-18
 	desc: Coming This Way
-	tag: 0untagged
+	tag: 0-untagged
 page:expecting-anyone
 	date: 2013-03-15
 	desc: Expecting Anyone
-	tag: 0untagged
+	tag: 0-untagged
 page:just-like-that
 	date: 2013-03-14
 	desc: Just Like That
-	tag: 0untagged
+	tag: 0-untagged
 page:who-why-what-where-when
 	date: 2013-03-13
 	desc: Who Why What Where When
-	tag: 0untagged
+	tag: 0-untagged
 page:then-that
 	date: 2013-03-12
 	desc: Then That
-	tag: 0untagged
+	tag: 0-untagged
 page:have-a-fish
 	date: 2013-03-11
 	desc: Have A Fish
-	tag: 0untagged
+	tag: 0-untagged
 page:scared-of-heights
 	date: 2013-03-08
 	desc: Scared Of Heights
-	tag: 0untagged
+	tag: 0-untagged
 page:sense-of-balance
 	date: 2013-03-07
 	desc: Sense Of Balance
-	tag: 0untagged
+	tag: 0-untagged
 page:spider-woman
 	date: 2013-03-06
 	desc: Spider Woman
-	tag: 0untagged
+	tag: 0-untagged
 page:on-the-pot
 	date: 2013-03-05
 	desc: On The Pot
-	tag: 0untagged
+	tag: 0-untagged
 page:kicked-in-the-face
 	date: 2013-03-04
 	desc: Kicked In The Face
-	tag: 0untagged
+	tag: 0-untagged
 page:that-means
 	date: 2013-03-01
 	desc: That Means
-	tag: 0untagged
+	tag: 0-untagged
 page:all-my-fault
 	date: 2013-02-28
 	desc: All My Fault
-	tag: 0untagged
+	tag: 0-untagged
 page:hello-2
 	date: 2013-02-27
 	desc: Hello
-	tag: 0untagged
+	tag: 0-untagged
 page:crushed-to-death
 	date: 2013-02-26
 	desc: Crushed To Death
-	tag: 0untagged
+	tag: 0-untagged
 page:which-way
 	date: 2013-02-25
 	desc: Which Way
-	tag: 0untagged
+	tag: 0-untagged
 page:right-behind-you
 	date: 2013-02-22
 	desc: Right Behind You
-	tag: 0untagged
+	tag: 0-untagged
 page:keep-looking
 	date: 2013-02-21
 	desc: Keep Looking
-	tag: 0untagged
+	tag: 0-untagged
 page:unstable-structure
 	date: 2013-02-20
 	desc: Unstable Structure
-	tag: 0untagged
+	tag: 0-untagged
 page:hold-still
 	date: 2013-02-19
 	desc: Hold Still
-	tag: 0untagged
+	tag: 0-untagged
 page:bottom-floor
 	date: 2013-02-18
 	desc: Bottom Floor, Everyone Out
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-13
 	date: 2013-02-16
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:feet-first
 	date: 2013-02-15
 	desc: Feet First
-	tag: 0untagged
+	tag: 0-untagged
 page:see-a-light
 	date: 2013-02-14
 	desc: See A Light
-	tag: 0untagged
+	tag: 0-untagged
 page:not-rope
 	date: 2013-02-13
 	desc: Not Rope
-	tag: 0untagged
+	tag: 0-untagged
 page:getting-outta-here
 	date: 2013-02-12
 	desc: Getting Outta Here
-	tag: 0untagged
+	tag: 0-untagged
 page:oil-spill
 	date: 2013-02-11
 	desc: Oil Spill
-	tag: 0untagged
+	tag: 0-untagged
 page:smells-fresher
 	date: 2013-02-08
 	desc: Smells Fresher
-	tag: 0untagged
+	tag: 0-untagged
 page:should-be-2
 	date: 2013-02-07
 	desc: Should Be
-	tag: 0untagged
+	tag: 0-untagged
 page:run-for-it
 	date: 2013-02-06
 	desc: Run For It
-	tag: 0untagged
+	tag: 0-untagged
 page:the-directory
 	date: 2013-02-05
 	desc: The Directory
-	tag: 0untagged
+	tag: 0-untagged
 page:i-can-help
 	date: 2013-02-04
 	desc: I Can Help
-	tag: 0untagged
+	tag: 0-untagged
 page:lost-dolls
 	date: 2013-02-03
 	desc: Lost Dolls
-	tag: 0untagged
+	tag: 0-untagged
 page:what-journey
 	date: 2013-02-01
 	desc: What Journey
-	tag: 0untagged
+	tag: 0-untagged
 page:fellow-explorer
 	date: 2013-01-31
 	desc: Fellow Explorer
-	tag: 0untagged
+	tag: 0-untagged
 page:odd-symbols
 	date: 2013-01-30
 	desc: Odd Symbols
-	tag: 0untagged
+	tag: 0-untagged
 page:mapimi-desert
 	date: 2013-01-29
 	desc: Mapimi Desert
-	tag: 0untagged
+	tag: 0-untagged
 page:another-day
 	date: 2013-01-28
 	desc: Another Day
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-11
 	date: 2013-01-26
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:an-adventure
 	date: 2013-01-25
 	desc: An Adventure
-	tag: 0untagged
+	tag: 0-untagged
 page:their-dignity
 	date: 2013-01-24
 	desc: Their Dignity
-	tag: 0untagged
+	tag: 0-untagged
 page:grouchy-pants
 	date: 2013-01-23
 	desc: Grouchy Pants
-	tag: 0untagged
+	tag: 0-untagged
 page:my-attention
 	date: 2013-01-22
 	desc: My Attention
-	tag: 0untagged
+	tag: 0-untagged
 page:listen-to-me
 	date: 2013-01-21
 	desc: Listen To Me
-	tag: 0untagged
+	tag: 0-untagged
 page:more-animal
 	date: 2013-01-18
 	desc: More Animal
-	tag: 0untagged
+	tag: 0-untagged
 page:pumpkin
 	date: 2013-01-17
 	desc: Pumpkin
-	tag: 0untagged
+	tag: 0-untagged
 page:an-accident-2
 	date: 2013-01-16
 	desc: An Accident
-	tag: 0untagged
+	tag: 0-untagged
 page:standing-her-ground
 	date: 2013-01-15
 	desc: Standing Her Ground
-	tag: 0untagged
+	tag: 0-untagged
 page:insects
 	date: 2013-01-14
 	desc: Insects
-	tag: 0untagged
+	tag: 0-untagged
 page:find-your-exit-buddy
 	date: 2013-01-11
 	desc: Find Your Exit Buddy
-	tag: 0untagged
+	tag: 0-untagged
 page:working-together
 	date: 2013-01-10
 	desc: Working Together
-	tag: 0untagged
+	tag: 0-untagged
 page:thankth-to-you
 	date: 2013-01-09
 	desc: Thankth To You
-	tag: 0untagged
+	tag: 0-untagged
 page:her-thithter
 	date: 2013-01-08
 	desc: Her Thithter
-	tag: 0untagged
+	tag: 0-untagged
 page:gonna-love-it
 	date: 2013-01-07
 	desc: Gonna Love It
-	tag: 0untagged
+	tag: 0-untagged
 page:big-teeth
 	date: 2013-01-04
 	desc: Big Teeth
-	tag: 0untagged
+	tag: 0-untagged
 page:all-fours
 	date: 2013-01-03
 	desc: All Fours
-	tag: 0untagged
+	tag: 0-untagged
 page:officially-recog
 	date: 2013-01-02
 	desc: Officially Recog
-	tag: 0untagged
+	tag: 0-untagged
 page:monica-new-year
 	date: 2013-01-01
 	desc: Monica New Year
@@ -2256,5975 +2404,6240 @@ page:monica-new-year
 page:2012-31-12-doggie-smell
 	date: 2012-12-31
 	desc: 2012 31 12 Doggie Smell
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-prints-3
 	date: 2012-12-29
 	desc: Wapsi Prints
-	tag: 0untagged
+	tag: 0-untagged
 page:not-quite-ready
 	date: 2012-12-28
 	desc: Not Quite Ready
-	tag: 0untagged
+	tag: 0-untagged
 page:rosalie-lub
 	date: 2012-12-27
 	desc: Rosalie Lub
-	tag: 0untagged
+	tag: 0-untagged
 page:arianna-fahrenheit
 	date: 2012-12-26
 	desc: Arianna Fahrenheit
-	tag: 0untagged
+	tag: 0-untagged
 page:monica-x-mas
 	date: 2012-12-25
 	desc: Monica X Mas
-	tag: 0untagged
+	tag: 0-untagged
 page:xmas-eve
 	date: 2012-12-24
 	desc: Xmas Eve
-	tag: 0untagged
+	tag: 0-untagged
 page:business-as-usual
 	date: 2012-12-21
 	desc: Business As Usual
-	tag: 0untagged
+	tag: 0-untagged
 page:just-a-vampire
 	date: 2012-12-20
 	desc: Just A Vampire
-	tag: 0untagged
+	tag: 0-untagged
 page:kikai-caldera
 	date: 2012-12-19
 	desc: Kikai Caldera
-	tag: 0untagged
+	tag: 0-untagged
 page:follow-me
 	date: 2012-12-18
 	desc: Follow Me
-	tag: 0untagged
+	tag: 0-untagged
 page:late-popsicle
 	date: 2012-12-17
 	desc: Latte Popsicle
-	tag: 0untagged
+	tag: 0-untagged
 page:now-what
 	date: 2012-12-14
 	desc: Now What
-	tag: 0untagged
+	tag: 0-untagged
 page:out-of-sight
 	date: 2012-12-13
 	desc: Out Of Sight
-	tag: 0untagged
+	tag: 0-untagged
 page:making-sure
 	date: 2012-12-12
 	desc: Making Sure
-	tag: 0untagged
+	tag: 0-untagged
 page:not-like-i-was
 	date: 2012-12-11
 	desc: Not Like I Was
-	tag: 0untagged
+	tag: 0-untagged
 page:morning
 	date: 2012-12-10
 	desc: Morning
-	tag: 0untagged
+	tag: 0-untagged
 page:together
 	date: 2012-12-07
 	desc: Together
-	tag: 0untagged
+	tag: 0-untagged
 page:what-she-needs
 	date: 2012-12-06
 	desc: What She Needs
-	tag: 0untagged
+	tag: 0-untagged
 page:good-enough
 	date: 2012-12-05
 	desc: Good Enough
-	tag: 0untagged
+	tag: 0-untagged
 page:worst-fear
 	date: 2012-12-04
 	desc: Worst Fear
-	tag: 0untagged
+	tag: 0-untagged
 page:land-sakes
 	date: 2012-12-03
 	desc: Land Sakes
-	tag: 0untagged
+	tag: 0-untagged
 page:confession-to-a-shadow
 	date: 2012-11-30
 	desc: Confession To A Shadow
-	tag: 0untagged
+	tag: 0-untagged
 page:like-dreaming
 	date: 2012-11-29
 	desc: Like Dreaming
-	tag: 0untagged
+	tag: 0-untagged
 page:what-the-heck
 	date: 2012-11-28
 	desc: What The Heck
-	tag: 0untagged
+	tag: 0-untagged
 page:and-the-horse-you-road-in-on
 	date: 2012-11-27
 	desc: And The Horse You Rode In On
-	tag: 0untagged
+	tag: 0-untagged
 page:just-getting-by
 	date: 2012-11-26
 	desc: Just Getting By
-	tag: 0untagged
+	tag: 0-untagged
 page:been-important
 	date: 2012-11-21
 	desc: Been Important
-	tag: 0untagged
+	tag: 0-untagged
 page:need-a-beer
 	date: 2012-11-20
 	desc: Need A Beer
-	tag: 0untagged
+	tag: 0-untagged
 page:this-problem
 	date: 2012-11-19
 	desc: This Problem
-	tag: 0untagged
+	tag: 0-untagged
 page:you-guys
 	date: 2012-11-16
 	desc: You Guys
-	tag: 0untagged
+	tag: 0-untagged
 page:over-our-heads
 	date: 2012-11-15
 	desc: Over Our Heads
-	tag: 0untagged
+	tag: 0-untagged
 page:if-i-have-to
 	date: 2012-11-14
 	desc: If I Have To
-	tag: 0untagged
+	tag: 0-untagged
 page:see-in-the-dark-2
 	date: 2012-11-13
 	desc: See In The Dark
-	tag: 0untagged
+	tag: 0-untagged
 page:no-demon
 	date: 2012-11-12
 	desc: No Demon
-	tag: 0untagged
+	tag: 0-untagged
 page:not-here-now
 	date: 2012-11-09
 	desc: Not Here Now
-	tag: 0untagged
+	tag: 0-untagged
 page:in-your-lockers
 	date: 2012-11-08
 	desc: In Your Lockers
-	tag: 0untagged
+	tag: 0-untagged
 page:is-that-official
 	date: 2012-11-07
 	desc: Is That Official
-	tag: 0untagged
+	tag: 0-untagged
 page:the-only-thing
 	date: 2012-11-06
 	desc: The Only Thing
-	tag: 0untagged
+	tag: 0-untagged
 page:a-debriefing
 	date: 2012-11-05
 	desc: A Debriefing
-	tag: 0untagged
+	tag: 0-untagged
 page:let-him-go
 	date: 2012-11-02
 	desc: Let Him Go
-	tag: 0untagged
+	tag: 0-untagged
 page:pratt-and-mcbride
 	date: 2012-11-01
 	desc: Pratt And Mcbride
-	tag: 0untagged
+	tag: 0-untagged
 page:your-liason
 	date: 2012-10-31
 	desc: Your Liaison
-	tag: 0untagged
+	tag: 0-untagged
 page:assigned-to-you
 	date: 2012-10-30
 	desc: Assigned To You
-	tag: 0untagged
+	tag: 0-untagged
 page:guard-dogs
 	date: 2012-10-29
 	desc: Guard Dogs
-	tag: 0untagged
+	tag: 0-untagged
 page:another-time-then
 	date: 2012-10-26
 	desc: Another Time Then
-	tag: 0untagged
+	tag: 0-untagged
 page:lowlifes-like-us
 	date: 2012-10-25
 	desc: Lowlifes Like Us
-	tag: 0untagged
+	tag: 0-untagged
 page:right-of-way
 	date: 2012-10-24
 	desc: Right Of Way
-	tag: 0untagged
+	tag: 0-untagged
 page:taking-her-place
 	date: 2012-10-23
 	desc: Taking Her Place
-	tag: 0untagged
+	tag: 0-untagged
 page:maintain-your-tone
 	date: 2012-10-22
 	desc: Maintain Your Tone
-	tag: 0untagged
+	tag: 0-untagged
 page:a-warning
 	date: 2012-10-19
 	desc: A Warning
-	tag: 0untagged
+	tag: 0-untagged
 page:at-least
 	date: 2012-10-18
 	desc: At Least
-	tag: 0untagged
+	tag: 0-untagged
 page:bounces-back
 	date: 2012-10-17
 	desc: Bounces Back
-	tag: 0untagged
+	tag: 0-untagged
 page:nice-and-tan
 	date: 2012-10-16
 	desc: Nice And Tan
-	tag: 0untagged
+	tag: 0-untagged
 page:my-turn
 	date: 2012-10-15
 	desc: My Turn
-	tag: 0untagged
+	tag: 0-untagged
 page:nice-story
 	date: 2012-10-12
 	desc: Nice Story
-	tag: 0untagged
+	tag: 0-untagged
 page:rainbows
 	date: 2012-10-11
 	desc: Rainbows
-	tag: 0untagged
+	tag: 0-untagged
 page:phoenix-blood
 	date: 2012-10-10
 	desc: Phoenix Blood
-	tag: 0untagged
+	tag: 0-untagged
 page:how-dangerous
 	date: 2012-10-09
 	desc: How Dangerous
-	tag: 0untagged
+	tag: 0-untagged
 page:nothing-serious
 	date: 2012-10-08
 	desc: Nothing Serious
-	tag: 0untagged
+	tag: 0-untagged
 page:not-stuck
 	date: 2012-10-05
 	desc: Not Stuck
-	tag: 0untagged
+	tag: 0-untagged
 page:friggen-dead
 	date: 2012-10-04
 	desc: Friggen Dead
-	tag: 0untagged
+	tag: 0-untagged
 page:pulling-apart
 	date: 2012-10-03
 	desc: Pulling Apart
-	tag: 0untagged
+	tag: 0-untagged
 page:awake-now
 	date: 2012-10-02
 	desc: Awake Now
-	tag: 0untagged
+	tag: 0-untagged
 page:just-fine
 	date: 2012-10-01
 	desc: Just Fine
-	tag: 0untagged
+	tag: 0-untagged
 page:yeah-that
 	date: 2012-09-28
 	desc: Yeah That
-	tag: 0untagged
+	tag: 0-untagged
 page:dragonslayers
 	date: 2012-09-27
 	desc: Dragonslayers
-	tag: 0untagged
+	tag: 0-untagged
 page:going-to-say
 	date: 2012-09-26
 	desc: Going To Say
-	tag: 0untagged
+	tag: 0-untagged
 page:heard-it-all-before
 	date: 2012-09-25
 	desc: Heard It All Before
-	tag: 0untagged
+	tag: 0-untagged
 page:buggy-bumpers
 	date: 2012-09-24
 	desc: Buggy Bumpers
-	tag: 0untagged
+	tag: 0-untagged
 page:antifreeze
 	date: 2012-09-21
 	desc: Antifreeze
-	tag: 0untagged
+	tag: 0-untagged
 page:before-she-melts
 	date: 2012-09-20
 	desc: Before She Melts
-	tag: 0untagged
+	tag: 0-untagged
 page:lifespan
 	date: 2012-09-19
 	desc: Lifespan
-	tag: 0untagged
+	tag: 0-untagged
 page:tolerated-me
 	date: 2012-09-18
 	desc: Tolerated Me
-	tag: 0untagged
+	tag: 0-untagged
 page:closed-doorway
 	date: 2012-09-17
 	desc: Closed Doorway
-	tag: 0untagged
+	tag: 0-untagged
 page:jaguar-girl
 	date: 2012-09-14
 	desc: Jaguar Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:should-be
 	date: 2012-09-13
 	desc: Should Be
-	tag: 0untagged
+	tag: 0-untagged
 page:filling-the-quiet-spaces
 	date: 2012-09-12
 	desc: Filling The Quiet Spaces
-	tag: 0untagged
+	tag: 0-untagged
 page:dare-you
 	date: 2012-09-11
 	desc: Dare You
-	tag: 0untagged
+	tag: 0-untagged
 page:squeee-2
 	date: 2012-09-10
 	desc: Squeee
-	tag: 0untagged
+	tag: 0-untagged
 page:plunk
 	date: 2012-09-07
 	desc: Plunk
-	tag: 0untagged
+	tag: 0-untagged
 page:never-left-their-sides
 	date: 2012-09-06
 	desc: Never Left Their Sides
-	tag: 0untagged
+	tag: 0-untagged
 page:sign-of-weakness-2
 	date: 2012-09-05
 	desc: Sign Of Weakness
-	tag: 0untagged
+	tag: 0-untagged
 page:pond-scum
 	date: 2012-09-04
 	desc: Pond Scum
-	tag: 0untagged
+	tag: 0-untagged
 page:have-a-bite
 	date: 2012-09-03
 	desc: Have A Bite
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-10
 	date: 2012-09-01
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:make-her-stronger
 	date: 2012-08-31
 	desc: Make Her Stronger
-	tag: 0untagged
+	tag: 0-untagged
 page:her-drama
 	date: 2012-08-30
 	desc: Her Drama
-	tag: 0untagged
+	tag: 0-untagged
 page:by-morning-light
 	date: 2012-08-29
 	desc: By Morning Light
-	tag: 0untagged
+	tag: 0-untagged
 page:daybreak
 	date: 2012-08-28
 	desc: Daybreak
-	tag: 0untagged
+	tag: 0-untagged
 page:fallen-angel
 	date: 2012-08-27
 	desc: Fallen Angel
-	tag: 0untagged
+	tag: 0-untagged
 page:golden
 	date: 2012-08-24
 	desc: Golden
-	tag: 0untagged
+	tag: 0-untagged
 page:like-a-sad-sack
 	date: 2012-08-23
 	desc: Like A Sad Sack
-	tag: 0untagged
+	tag: 0-untagged
 page:to-her-face
 	date: 2012-08-22
 	desc: To Her Face
-	tag: 0untagged
+	tag: 0-untagged
 page:worried-about-yo
 	date: 2012-08-21
 	desc: Worried About You
-	tag: 0untagged
+	tag: 0-untagged
 page:cafe-u296
 	date: 2012-08-20
 	desc: Cafe U296
-	tag: 0untagged
+	tag: 0-untagged
 page:hush
 	date: 2012-08-17
 	desc: Hush
-	tag: 0untagged
+	tag: 0-untagged
 page:sit-here
 	date: 2012-08-16
 	desc: Sit Here
-	tag: 0untagged
+	tag: 0-untagged
 page:leave
 	date: 2012-08-15
 	desc: Leave
-	tag: 0untagged
+	tag: 0-untagged
 page:pecking-order
 	date: 2012-08-14
 	desc: Pecking Order
-	tag: 0untagged
+	tag: 0-untagged
 page:so-weak
 	date: 2012-08-13
 	desc: So Weak
-	tag: 0untagged
+	tag: 0-untagged
 page:warmin-kiss
 	date: 2012-08-10
 	desc: Warmin Kiss
-	tag: 0untagged
+	tag: 0-untagged
 page:follow-phix
 	date: 2012-08-09
 	desc: Follow Phix
-	tag: 0untagged
+	tag: 0-untagged
 page:for-a-while
 	date: 2012-08-08
 	desc: For A While
-	tag: 0untagged
+	tag: 0-untagged
 page:cool-down
 	date: 2012-08-07
 	desc: Cool Down
-	tag: 0untagged
+	tag: 0-untagged
 page:self-healing
 	date: 2012-08-06
 	desc: Self Healing
-	tag: 0untagged
+	tag: 0-untagged
 page:quirky-girl
 	date: 2012-08-03
 	desc: Quirky Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:all-better-2
 	date: 2012-08-02
 	desc: All Better
-	tag: 0untagged
+	tag: 0-untagged
 page:for-my-fish
 	date: 2012-08-01
 	desc: For My Fish
-	tag: 0untagged
+	tag: 0-untagged
 page:lactose-intolerant
 	date: 2012-07-31
 	desc: Lactose Intolerant
-	tag: 0untagged
+	tag: 0-untagged
 page:doing-this
 	date: 2012-07-30
 	desc: Doing This
-	tag: 0untagged
+	tag: 0-untagged
 page:sunset
 	date: 2012-07-27
 	desc: Sunset
-	tag: 0untagged
+	tag: 0-untagged
 page:lovely-place
 	date: 2012-07-26
 	desc: Lovely Place
-	tag: 0untagged
+	tag: 0-untagged
 page:here-nor-there
 	date: 2012-07-25
 	desc: Here Nor There
-	tag: 0untagged
+	tag: 0-untagged
 page:for-petesake
 	date: 2012-07-24
 	desc: For Petesake
-	tag: 0untagged
+	tag: 0-untagged
 page:why-is-phix-cryi
 	date: 2012-07-23
 	desc: Why Is Phix Crying
-	tag: 0untagged
+	tag: 0-untagged
 page:space-to-think
 	date: 2012-07-20
 	desc: Space To Think
-	tag: 0untagged
+	tag: 0-untagged
 page:kidding-me-2
 	date: 2012-07-19
 	desc: Kidding Me
-	tag: 0untagged
+	tag: 0-untagged
 page:a-place-to-grow
 	date: 2012-07-18
 	desc: A Place To Grow
-	tag: 0untagged
+	tag: 0-untagged
 page:where-you-come-from
 	date: 2012-07-17
 	desc: Where You Come From
-	tag: 0untagged
+	tag: 0-untagged
 page:the-life-of-a-ti
 	date: 2012-07-16
 	desc: The Life Of A Titan
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsiguest-rampa
 	date: 2012-07-12
 	desc: Wapsiguest Rampa
-	tag: 0untagged
+	tag: 0-untagged
 page:irma-eriksson
 	date: 2012-07-11
 	desc: Irma Eriksson
-	tag: 0untagged
+	tag: 0-untagged
 page:jolene-houser
 	date: 2012-07-10
 	desc: Jolene Houser
-	tag: 0untagged
+	tag: 0-untagged
 page:devilspantieswap
 	date: 2012-07-09
 	desc: DevilsPantiesWap
-	tag: 0untagged
+	tag: 0-untagged
 page:inconjunction
 	date: 2012-07-04
 	desc: InConJunction
-	tag: 0untagged
+	tag: 0-untagged
 page:consequence-of-omnipotence
 	date: 2012-07-03
 	desc: Consequence Of Omnipotence
-	tag: 0untagged
+	tag: 0-untagged
 page:stand-up-straigh
 	date: 2012-07-02
 	desc: Stand Up Straight
-	tag: 0untagged
+	tag: 0-untagged
 page:no-way-to-behave
 	date: 2012-06-29
 	desc: No Way To Behave
-	tag: 0untagged
+	tag: 0-untagged
 page:did-she
 	date: 2012-06-28
 	desc: Did She
-	tag: 0untagged
+	tag: 0-untagged
 page:sphinxed-out
 	date: 2012-06-27
 	desc: Sphinxed Out
-	tag: 0untagged
+	tag: 0-untagged
 page:play-nice
 	date: 2012-06-26
 	desc: Play Nice
-	tag: 0untagged
+	tag: 0-untagged
 page:feel-really-bad
 	date: 2012-06-25
 	desc: Feel Really Bad
-	tag: 0untagged
+	tag: 0-untagged
 page:deserved-it
 	date: 2012-06-22
 	desc: Deserved It
-	tag: 0untagged
+	tag: 0-untagged
 page:lickable
 	date: 2012-06-21
 	desc: Lickable
-	tag: 0untagged
+	tag: 0-untagged
 page:no-mean-kids
 	date: 2012-06-20
 	desc: No Mean Kids
-	tag: 0untagged
+	tag: 0-untagged
 page:this-reaction
 	date: 2012-06-19
 	desc: This Reaction
-	tag: 0untagged
+	tag: 0-untagged
 page:gecko-girl
 	date: 2012-06-18
 	desc: Gecko Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:get-a-room
 	date: 2012-06-15
 	desc: Get A Room
-	tag: 0untagged
+	tag: 0-untagged
 page:lingual-intubation
 	date: 2012-06-14
 	desc: Lingual Intubation
-	tag: 0untagged
+	tag: 0-untagged
 page:pot-vs-kettle
 	date: 2012-06-13
 	desc: Pot Vs Kettle
-	tag: 0untagged
+	tag: 0-untagged
 page:tennis-shark
 	date: 2012-06-12
 	desc: Tennis Shark
-	tag: 0untagged
+	tag: 0-untagged
 page:never-played
 	date: 2012-06-11
 	desc: Never Played
-	tag: 0untagged
+	tag: 0-untagged
 page:game-of-doubles
 	date: 2012-06-08
 	desc: Game Of Doubles
-	tag: 0untagged
+	tag: 0-untagged
 page:talking-with-sibyl
 	date: 2012-06-07
 	desc: Talking With Sibyl
-	tag: 0untagged
+	tag: 0-untagged
 page:time-to-go
 	date: 2012-06-06
 	desc: Time To Go
-	tag: 0untagged
+	tag: 0-untagged
 page:reverse-shadow
 	date: 2012-06-05
 	desc: Reverse Shadow
-	tag: 0untagged
+	tag: 0-untagged
 page:wall-of-fire
 	date: 2012-06-04
 	desc: Wall Of Fire
-	tag: 0untagged
+	tag: 0-untagged
 page:lost-girl
 	date: 2012-06-01
 	desc: Lost Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:got-buns-hun
 	date: 2012-05-31
 	desc: Got Buns Hun
-	tag: 0untagged
+	tag: 0-untagged
 page:stunbutt
 	date: 2012-05-30
 	desc: Stunbutt
-	tag: 0untagged
+	tag: 0-untagged
 page:hornet-sting
 	date: 2012-05-29
 	desc: Hornet Sting
-	tag: 0untagged
+	tag: 0-untagged
 page:exposure-therapy
 	date: 2012-05-28
 	desc: Exposure Therapy
-	tag: 0untagged
+	tag: 0-untagged
 page:killer-squirrel
 	date: 2012-05-25
 	desc: Killer Squirrel
-	tag: 0untagged
+	tag: 0-untagged
 page:a-little-encouragement
 	date: 2012-05-24
 	desc: A Little Encouragement
-	tag: 0untagged
+	tag: 0-untagged
 page:drill-sergeant
 	date: 2012-05-23
 	desc: Drill Sergeant
-	tag: 0untagged
+	tag: 0-untagged
 page:goodbye-to-custard
 	date: 2012-05-22
 	desc: Goodbye To Custard
-	tag: 0untagged
+	tag: 0-untagged
 page:babby-carrots
 	date: 2012-05-21
 	desc: Baby Carrots
-	tag: 0untagged
+	tag: 0-untagged
 page:the-donut-test
 	date: 2012-05-18
 	desc: The Donut Test
-	tag: 0untagged
+	tag: 0-untagged
 page:what-the-frig-newtonians
 	date: 2012-05-17
 	desc: What The Frig Newtonians
-	tag: 0untagged
+	tag: 0-untagged
 page:elite-bra-guard
 	date: 2012-05-16
 	desc: Elite Bra Guard
-	tag: 0untagged
+	tag: 0-untagged
 page:no-weakness
 	date: 2012-05-15
 	desc: No Weakness
-	tag: 0untagged
+	tag: 0-untagged
 page:thrown-the-gauntlet
 	date: 2012-05-14
 	desc: Thrown The Gauntlet
-	tag: 0untagged
+	tag: 0-untagged
 page:find-your-exercise-buddy
 	date: 2012-05-11
 	desc: Find Your Exercise Buddy
-	tag: 0untagged
+	tag: 0-untagged
 page:will-be-poited
 	date: 2012-05-10
 	desc: Will Be Poited
-	tag: 0untagged
+	tag: 0-untagged
 page:gimmee-that
 	date: 2012-05-09
 	desc: Gimmee That
-	tag: 0untagged
+	tag: 0-untagged
 page:feel-compelled
 	date: 2012-05-08
 	desc: Feel Compelled
-	tag: 0untagged
+	tag: 0-untagged
 page:dark-matter
 	date: 2012-05-07
 	desc: Dark Matter
-	tag: 0untagged
+	tag: 0-untagged
 page:not-gym-class
 	date: 2012-05-04
 	desc: Not Gym Class
-	tag: 0untagged
+	tag: 0-untagged
 page:soft-and-spongy
 	date: 2012-05-03
 	desc: Soft And Spongy
-	tag: 0untagged
+	tag: 0-untagged
 page:taking-care
 	date: 2012-05-02
 	desc: Taking Care
-	tag: 0untagged
+	tag: 0-untagged
 page:still-asleep
 	date: 2012-05-01
 	desc: Still Asleep
-	tag: 0untagged
+	tag: 0-untagged
 page:skipping
 	date: 2012-04-30
 	desc: Skipping
-	tag: 0untagged
+	tag: 0-untagged
 page:gain-a-lifespan
 	date: 2012-04-27
 	desc: Gain A Lifespan
-	tag: 0untagged
+	tag: 0-untagged
 page:you-gotta-work
 	date: 2012-04-26
 	desc: You Gotta Work
-	tag: 0untagged
+	tag: 0-untagged
 page:yea-for-us
 	date: 2012-04-25
 	desc: Yea For Us
-	tag: 0untagged
+	tag: 0-untagged
 page:not-a-them
 	date: 2012-04-24
 	desc: Not A Them
-	tag: 0untagged
+	tag: 0-untagged
 page:sink-in
 	date: 2012-04-23
 	desc: Sink In
-	tag: 0untagged
+	tag: 0-untagged
 page:coven-not-covey
 	date: 2012-04-20
 	desc: Coven Not Covey
-	tag: 0untagged
+	tag: 0-untagged
 page:missing-element
 	date: 2012-04-19
 	desc: Missing Element
-	tag: 0untagged
+	tag: 0-untagged
 page:nat-and-marie
 	date: 2012-04-18
 	desc: Nat And Marie
-	tag: 0untagged
+	tag: 0-untagged
 page:demon-memories
 	date: 2012-04-17
 	desc: Demon Memories
-	tag: 0untagged
+	tag: 0-untagged
 page:kept-me-safe
 	date: 2012-04-16
 	desc: Kept Me Safe
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-9
 	date: 2012-04-14
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:ever-bother
 	date: 2012-04-13
 	desc: Ever Bother
-	tag: 0untagged
+	tag: 0-untagged
 page:you-become
 	date: 2012-04-12
 	desc: You Become
-	tag: 0untagged
+	tag: 0-untagged
 page:took-the-phone
 	date: 2012-04-11
 	desc: Took The Phone
-	tag: 0untagged
+	tag: 0-untagged
 page:just-forget
 	date: 2012-04-10
 	desc: Just Forget
-	tag: 0untagged
+	tag: 0-untagged
 page:the-mind-of-shelly
 	date: 2012-04-09
 	desc: The Mind Of Shelly
-	tag: 0untagged
+	tag: 0-untagged
 page:hooked-up
 	date: 2012-04-06
 	desc: Hooked Up
-	tag: 0untagged
+	tag: 0-untagged
 page:i-thought
 	date: 2012-04-05
 	desc: I Thought
-	tag: 0untagged
+	tag: 0-untagged
 page:do-the-eyes
 	date: 2012-04-04
 	desc: Do The Eyes
-	tag: 0untagged
+	tag: 0-untagged
 page:in-layers
 	date: 2012-04-03
 	desc: In Layers
-	tag: 0untagged
+	tag: 0-untagged
 page:let-this-happen
 	date: 2012-04-02
 	desc: Let This Happen
-	tag: 0untagged
+	tag: 0-untagged
 page:time-in-the-timeforest
 	date: 2012-03-30
 	desc: Time In The Timeforest
-	tag: 0untagged
+	tag: 0-untagged
 page:my-bright-sparkle
 	date: 2012-03-29
 	desc: My Bright Sparkle
-	tag: 0untagged
+	tag: 0-untagged
 page:human-like
 	date: 2012-03-28
 	desc: Human Like
-	tag: 0untagged
+	tag: 0-untagged
 page:shes-back
 	date: 2012-03-27
 	desc: She&#8217;s Back
-	tag: 0untagged
+	tag: 0-untagged
 page:we-happened
 	date: 2012-03-26
 	desc: We Happened
-	tag: 0untagged
+	tag: 0-untagged
 page:introspective
 	date: 2012-03-23
 	desc: Introspective
-	tag: 0untagged
+	tag: 0-untagged
 page:do-anything
 	date: 2012-03-22
 	desc: Do Anything
-	tag: 0untagged
+	tag: 0-untagged
 page:early-bird
 	date: 2012-03-21
 	desc: Early Bird
-	tag: 0untagged
+	tag: 0-untagged
 page:echoes
 	date: 2012-03-20
 	desc: Echoes
-	tag: 0untagged
+	tag: 0-untagged
 page:warm-morning
 	date: 2012-03-19
 	desc: Warm Morning
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-8
 	date: 2012-03-17
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:crack-it-open
 	date: 2012-03-16
 	desc: Crack It Open
-	tag: 0untagged
+	tag: 0-untagged
 page:you-are-what-you-eat
 	date: 2012-03-15
 	desc: You Are What You Eat
-	tag: 0untagged
+	tag: 0-untagged
 page:lesson-for-today
 	date: 2012-03-14
 	desc: Lesson For Today
-	tag: 0untagged
+	tag: 0-untagged
 page:saved-us
 	date: 2012-03-13
 	desc: Saved Us
-	tag: 0untagged
+	tag: 0-untagged
 page:rounding-third
 	date: 2012-03-12
 	desc: Rounding Third
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-7
 	date: 2012-03-11
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:washington-post
 	date: 2012-03-10
 	desc: Washington Post
-	tag: 0untagged
+	tag: 0-untagged
 page:and-then
 	date: 2012-03-09
 	desc: And Then
-	tag: 0untagged
+	tag: 0-untagged
 page:this-or-that
 	date: 2012-03-08
 	desc: This Or That
-	tag: 0untagged
+	tag: 0-untagged
 page:sentimental-quality
 	date: 2012-03-07
 	desc: Sentimental Quality
-	tag: 0untagged
+	tag: 0-untagged
 page:all-the-sparklie
 	date: 2012-03-06
 	desc: All The Sparklies
-	tag: 0untagged
+	tag: 0-untagged
 page:via-the-annex
 	date: 2012-03-05
 	desc: Via The Annex
-	tag: 0untagged
+	tag: 0-untagged
 page:stevens-door
 	date: 2012-03-02
 	desc: Stevens Door
-	tag: 0untagged
+	tag: 0-untagged
 page:sage-of-the-forest
 	date: 2012-03-01
 	desc: Sage Of The Forest
-	tag: 0untagged
+	tag: 0-untagged
 page:2012-02029-your-clothes
 	date: 2012-02-29
 	desc: 2012 02029 Your Clothes
-	tag: 0untagged
+	tag: 0-untagged
 page:kidding-me
 	date: 2012-02-28
 	desc: Kidding Me
-	tag: 0untagged
+	tag: 0-untagged
 page:crazy-meter
 	date: 2012-02-27
 	desc: Crazy Meter
-	tag: 0untagged
+	tag: 0-untagged
 page:who-put-the-dogs-out
 	date: 2012-02-25
 	desc: Who Put The Dogs Out
-	tag: 0untagged
+	tag: 0-untagged
 page:snort
 	date: 2012-02-24
 	desc: Snort
-	tag: 0untagged
+	tag: 0-untagged
 page:something
 	date: 2012-02-22
 	desc: Something
-	tag: 0untagged
+	tag: 0-untagged
 page:bare-with-me
 	date: 2012-02-21
 	desc: Bear With Me
-	tag: 0untagged
+	tag: 0-untagged
 page:a-gateway
 	date: 2012-02-20
 	desc: A Gateway
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-6
 	date: 2012-02-18
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:butt-bump
 	date: 2012-02-17
 	desc: Butt Bump
-	tag: 0untagged
+	tag: 0-untagged
 page:twelve-vortices
 	date: 2012-02-16
 	desc: Twelve Vortices
-	tag: 0untagged
+	tag: 0-untagged
 page:a-warm-oasis
 	date: 2012-02-15
 	desc: A Warm Oasis
-	tag: 0untagged
+	tag: 0-untagged
 page:you-guys-rock
 	date: 2012-02-14
 	desc: You Guys Rock
-	tag: 0untagged
+	tag: 0-untagged
 page:about-the-weather
 	date: 2012-02-13
 	desc: About The Weather
-	tag: 0untagged
+	tag: 0-untagged
 page:very-sweet
 	date: 2012-02-10
 	desc: Very Sweet
-	tag: 0untagged
+	tag: 0-untagged
 page:a-better-class
 	date: 2012-02-09
 	desc: A Better Class
-	tag: 0untagged
+	tag: 0-untagged
 page:sweetest-individ
 	date: 2012-02-08
 	desc: Sweetest Individ
-	tag: 0untagged
+	tag: 0-untagged
 page:the-apex
 	date: 2012-02-07
 	desc: The Apex
-	tag: 0untagged
+	tag: 0-untagged
 page:get-that
 	date: 2012-02-06
 	desc: Get That
-	tag: 0untagged
+	tag: 0-untagged
 page:fringe-paranormals
 	date: 2012-02-03
 	desc: Fringe Paranormals
-	tag: 0untagged
+	tag: 0-untagged
 page:neither-are-you
 	date: 2012-02-02
 	desc: Neither Are You
-	tag: 0untagged
+	tag: 0-untagged
 page:get-you-help
 	date: 2012-02-01
 	desc: Get You Help
-	tag: 0untagged
+	tag: 0-untagged
 page:what-they-want
 	date: 2012-01-31
 	desc: What They Want
-	tag: 0untagged
+	tag: 0-untagged
 page:hold-on-3
 	date: 2012-01-30
 	desc: Hold On
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-5
 	date: 2012-01-29
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:come-with-me
 	date: 2012-01-27
 	desc: Come With Me
-	tag: 0untagged
+	tag: 0-untagged
 page:the-truth
 	date: 2012-01-26
 	desc: The Truth
-	tag: 0untagged
+	tag: 0-untagged
 page:not-me
 	date: 2012-01-25
 	desc: Not Me
-	tag: 0untagged
+	tag: 0-untagged
 page:an-accident
 	date: 2012-01-24
 	desc: An Accident
-	tag: 0untagged
+	tag: 0-untagged
 page:ur-bleeding
 	date: 2012-01-23
 	desc: You&#8217;re Bleeding
-	tag: 0untagged
+	tag: 0-untagged
 page:oopsie-doodle
 	date: 2012-01-20
 	desc: Oopsie Doodle
-	tag: 0untagged
+	tag: 0-untagged
 page:jumpiness
 	date: 2012-01-19
 	desc: Jumpiness
-	tag: 0untagged
+	tag: 0-untagged
 page:no-teasing
 	date: 2012-01-18
 	desc: No Teasing
-	tag: 0untagged
+	tag: 0-untagged
 page:coffee-for-you
 	date: 2012-01-17
 	desc: Coffee For You
-	tag: 0untagged
+	tag: 0-untagged
 page:good-morning
 	date: 2012-01-16
 	desc: Good Morning
-	tag: 0untagged
+	tag: 0-untagged
 page:we-can-practice
 	date: 2012-01-13
 	desc: We Can Practice
-	tag: 0untagged
+	tag: 0-untagged
 page:keep-control
 	date: 2012-01-12
 	desc: Keep Control
-	tag: 0untagged
+	tag: 0-untagged
 page:we-know
 	date: 2012-01-11
 	desc: We Know
-	tag: 0untagged
+	tag: 0-untagged
 page:stop-you
 	date: 2012-01-10
 	desc: Stop You
-	tag: 0untagged
+	tag: 0-untagged
 page:happened-so-fast
 	date: 2012-01-09
 	desc: Happened So Fast
-	tag: 0untagged
+	tag: 0-untagged
 page:off-the-target
 	date: 2012-01-06
 	desc: Off The Target
-	tag: 0untagged
+	tag: 0-untagged
 page:a-calming-effect
 	date: 2012-01-05
 	desc: A Calming Effect
-	tag: 0untagged
+	tag: 0-untagged
 page:what-happened-3
 	date: 2012-01-04
 	desc: What Happened
-	tag: 0untagged
+	tag: 0-untagged
 page:let-this-go
 	date: 2012-01-03
 	desc: Let This Go
-	tag: 0untagged
+	tag: 0-untagged
 page:what-now
 	date: 2012-01-02
 	desc: What Now
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-new-year
 	date: 2011-12-30
 	desc: Happy New Year
-	tag: 0untagged
+	tag: 0-untagged
 page:late-teens
 	date: 2011-12-29
 	desc: Late Teens
-	tag: 0untagged
+	tag: 0-untagged
 page:catch-him-smiling
 	date: 2011-12-28
 	desc: Catch Him Smiling
-	tag: 0untagged
+	tag: 0-untagged
 page:nerdy-cop
 	date: 2011-12-27
 	desc: Nerdy Cop
-	tag: 0untagged
+	tag: 0-untagged
 page:not-bored-yet
 	date: 2011-12-26
 	desc: Not Bored Yet
-	tag: 0untagged
+	tag: 0-untagged
 page:faith-erin-hicks-guest-comic
 	date: 2011-12-23
 	desc: Faith Erin Hicks Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:jennie-breeden-guest-comic
 	date: 2011-12-22
 	desc: Jennie Breeden Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:arie-monroe-guest-comic
 	date: 2011-12-21
 	desc: Arie Monroe Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:rachel-dukes-guest-comic
 	date: 2011-12-20
 	desc: Rachel Dukes Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:frank-page-guest-comic
 	date: 2011-12-19
 	desc: Frank Page Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-4
 	date: 2011-12-17
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:over-the-edge
 	date: 2011-12-16
 	desc: Over The Edge
-	tag: 0untagged
+	tag: 0-untagged
 page:howdy-occifer
 	date: 2011-12-15
 	desc: Howdy Occifer
-	tag: 0untagged
+	tag: 0-untagged
 page:grrrrrr
 	date: 2011-12-14
 	desc: Grrrrrr
-	tag: 0untagged
+	tag: 0-untagged
 page:silver-belle
 	date: 2011-12-13
 	desc: Silver Belle
-	tag: 0untagged
+	tag: 0-untagged
 page:the-holy-snowman
 	date: 2011-12-12
 	desc: The Holy Snowman
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-3
 	date: 2011-12-11
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:snowball-ceasefire
 	date: 2011-12-09
 	desc: Snowball Ceasefire
-	tag: 0untagged
+	tag: 0-untagged
 page:a-crush
 	date: 2011-12-08
 	desc: A Crush
-	tag: 0untagged
+	tag: 0-untagged
 page:winter-safety
 	date: 2011-12-07
 	desc: Winter Safety
-	tag: 0untagged
+	tag: 0-untagged
 page:so-peaceful
 	date: 2011-12-06
 	desc: So Peaceful
-	tag: 0untagged
+	tag: 0-untagged
 page:waiting-for-you
 	date: 2011-12-05
 	desc: Waiting For You
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay-2
 	date: 2011-12-04
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:duck-and-cover
 	date: 2011-12-02
 	desc: Duck And Cover
-	tag: 0untagged
+	tag: 0-untagged
 page:human-form
 	date: 2011-12-01
 	desc: Human Form
-	tag: 0untagged
+	tag: 0-untagged
 page:likin-this
 	date: 2011-11-30
 	desc: Likin This
-	tag: 0untagged
+	tag: 0-untagged
 page:all-safe
 	date: 2011-11-29
 	desc: All Safe
-	tag: 0untagged
+	tag: 0-untagged
 page:went-shooting
 	date: 2011-11-28
 	desc: Went Shooting
-	tag: 0untagged
+	tag: 0-untagged
 page:feeling-better
 	date: 2011-11-25
 	desc: Feeling Better
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-thanksgivi
 	date: 2011-11-24
 	desc: Happy Thanksgiving
-	tag: 0untagged
+	tag: 0-untagged
 page:chasing-james-randi
 	date: 2011-11-23
 	desc: Chasing James Randi
-	tag: 0untagged
+	tag: 0-untagged
 page:sister-medusa
 	date: 2011-11-22
 	desc: Sister Medusa
-	tag: 0untagged
+	tag: 0-untagged
 page:one-of-the-sages
 	date: 2011-11-21
 	desc: One Of The Sages
-	tag: 0untagged
+	tag: 0-untagged
 page:still-sound
 	date: 2011-11-18
 	desc: Still Sound
-	tag: 0untagged
+	tag: 0-untagged
 page:nothing-2
 	date: 2011-11-17
 	desc: Nothing
-	tag: 0untagged
+	tag: 0-untagged
 page:kind-of-damage
 	date: 2011-11-16
 	desc: Kind Of Damage
-	tag: 0untagged
+	tag: 0-untagged
 page:fangirl
 	date: 2011-11-15
 	desc: Fangirl
-	tag: 0untagged
+	tag: 0-untagged
 page:fit-in
 	date: 2011-11-14
 	desc: Fit In
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-ebay
 	date: 2011-11-12
 	desc: Wapsi Ebay
-	tag: 0untagged
+	tag: 0-untagged
 page:who-why
 	date: 2011-11-11
 	desc: Who Why
-	tag: 0untagged
+	tag: 0-untagged
 page:the-wrong-folks
 	date: 2011-11-10
 	desc: The Wrong Folks
-	tag: 0untagged
+	tag: 0-untagged
 page:active-roles
 	date: 2011-11-09
 	desc: Active Roles
-	tag: 0untagged
+	tag: 0-untagged
 page:men-in-black
 	date: 2011-11-08
 	desc: Men In Black
-	tag: 0untagged
+	tag: 0-untagged
 page:i-tells-ya
 	date: 2011-11-07
 	desc: I Tells Ya
-	tag: 0untagged
+	tag: 0-untagged
 page:critter-out-there
 	date: 2011-11-04
 	desc: Critter Out There
-	tag: 0untagged
+	tag: 0-untagged
 page:fur-reals
 	date: 2011-11-03
 	desc: Fur Reals
-	tag: 0untagged
+	tag: 0-untagged
 page:local-gal
 	date: 2011-11-02
 	desc: Local Gal
-	tag: 0untagged
+	tag: 0-untagged
 page:dia-de-los-muertos
 	date: 2011-11-01
 	desc: Dia De Los Muertos
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-halloween-2
 	date: 2011-10-31
 	desc: Happy Halloween
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-book-store-6
 	date: 2011-10-29
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:biggest-fan
 	date: 2011-10-28
 	desc: Biggest Fan
-	tag: 0untagged
+	tag: 0-untagged
 page:good-as-new
 	date: 2011-10-27
 	desc: Good As New
-	tag: 0untagged
+	tag: 0-untagged
 page:another-scholar
 	date: 2011-10-26
 	desc: Another Scholar
-	tag: 0untagged
+	tag: 0-untagged
 page:parameters
 	date: 2011-10-25
 	desc: Parameters
-	tag: 0untagged
+	tag: 0-untagged
 page:the-anex
 	date: 2011-10-24
 	desc: The Annex
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-book-store-5
 	date: 2011-10-22
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:be-right-back
 	date: 2011-10-17
 	desc: Be Right Back
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-book-store-4
 	date: 2011-10-15
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:all-better
 	date: 2011-10-14
 	desc: All Better
-	tag: 0untagged
+	tag: 0-untagged
 page:empty-space
 	date: 2011-10-13
 	desc: Empty Space
-	tag: 0untagged
+	tag: 0-untagged
 page:best-plan
 	date: 2011-10-12
 	desc: Best Plan
-	tag: 0untagged
+	tag: 0-untagged
 page:under-pressure
 	date: 2011-10-11
 	desc: Under Pressure
-	tag: 0untagged
+	tag: 0-untagged
 page:no-idea
 	date: 2011-10-10
 	desc: No Idea
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-book-store-3
 	date: 2011-10-08
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:lashing-out
 	date: 2011-10-07
 	desc: Lashing Out
-	tag: 0untagged
+	tag: 0-untagged
 page:afraid-to-be
 	date: 2011-10-06
 	desc: Afraid To Be
-	tag: 0untagged
+	tag: 0-untagged
 page:your-choice
 	date: 2011-10-05
 	desc: Your Choice
-	tag: 0untagged
+	tag: 0-untagged
 page:did-you-know
 	date: 2011-10-04
 	desc: Did You Know
-	tag: 0untagged
+	tag: 0-untagged
 page:just-stop
 	date: 2011-10-03
 	desc: Just Stop
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-book-store-2
 	date: 2011-10-01
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:doing-good
 	date: 2011-09-30
 	desc: Doing Good
-	tag: 0untagged
+	tag: 0-untagged
 page:about-you-2
 	date: 2011-09-29
 	desc: About You
-	tag: 0untagged
+	tag: 0-untagged
 page:carpe-diem
 	date: 2011-09-28
 	desc: Carpe Diem
-	tag: 0untagged
+	tag: 0-untagged
 page:feeling-nostalgi
 	date: 2011-09-27
 	desc: Feeling Nostalgi
-	tag: 0untagged
+	tag: 0-untagged
 page:what-was-that
 	date: 2011-09-26
 	desc: What Was That
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-book-store
 	date: 2011-09-24
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:tell-me
 	date: 2011-09-23
 	desc: Tell Me
-	tag: 0untagged
+	tag: 0-untagged
 page:walk-away
 	date: 2011-09-22
 	desc: Walk Away
-	tag: 0untagged
+	tag: 0-untagged
 page:not-playing
 	date: 2011-09-21
 	desc: Not Playing
-	tag: 0untagged
+	tag: 0-untagged
 page:all-half-asleep
 	date: 2011-09-20
 	desc: All Half Asleep
-	tag: 0untagged
+	tag: 0-untagged
 page:play-the-game
 	date: 2011-09-19
 	desc: Play The Game
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-boo-2
 	date: 2011-09-17
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:no-chew-food
 	date: 2011-09-16
 	desc: No Chew Food
-	tag: 0untagged
+	tag: 0-untagged
 page:the-former
 	date: 2011-09-15
 	desc: The Former
-	tag: 0untagged
+	tag: 0-untagged
 page:better-be
 	date: 2011-09-14
 	desc: Better Be
-	tag: 0untagged
+	tag: 0-untagged
 page:no-answers
 	date: 2011-09-13
 	desc: No Answers
-	tag: 0untagged
+	tag: 0-untagged
 page:made-human
 	date: 2011-09-12
 	desc: Made Human
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsi-square-boo
 	date: 2011-09-10
 	desc: Wapsi Square Book Store
-	tag: 0untagged
+	tag: 0-untagged
 page:free-to-go
 	date: 2011-09-09
 	desc: Free To Go
-	tag: 0untagged
+	tag: 0-untagged
 page:a-normal-life
 	date: 2011-09-08
 	desc: A Normal Life
-	tag: 0untagged
+	tag: 0-untagged
 page:taken-away
 	date: 2011-09-07
 	desc: Taken Away
-	tag: 0untagged
+	tag: 0-untagged
 page:waiting-room
 	date: 2011-09-06
 	desc: Waiting Room
-	tag: 0untagged
+	tag: 0-untagged
 page:better-quality
 	date: 2011-09-05
 	desc: Better Quality
-	tag: 0untagged
+	tag: 0-untagged
 page:what-that-would-do
 	date: 2011-09-02
 	desc: What That Would Do
-	tag: 0untagged
+	tag: 0-untagged
 page:a-hangnail
 	date: 2011-09-01
 	desc: A Hangnail
-	tag: 0untagged
+	tag: 0-untagged
 page:my-shin
 	date: 2011-08-31
 	desc: My Shin
-	tag: 0untagged
+	tag: 0-untagged
 page:feel-space
 	date: 2011-08-30
 	desc: Feel Space
-	tag: 0untagged
+	tag: 0-untagged
 page:feels-cold
 	date: 2011-08-29
 	desc: Feels Cold
-	tag: 0untagged
+	tag: 0-untagged
 page:wrong-answer
 	date: 2011-08-26
 	desc: Wrong Answer
-	tag: 0untagged
+	tag: 0-untagged
 page:that-was-sudden
 	date: 2011-08-25
 	desc: That Was Sudden
-	tag: 0untagged
+	tag: 0-untagged
 page:hang-on
 	date: 2011-08-24
 	desc: Hang On
-	tag: 0untagged
+	tag: 0-untagged
 page:eyes-in-a-fishbowl
 	date: 2011-08-23
 	desc: Eyes In A Fishbowl
-	tag: 0untagged
+	tag: 0-untagged
 page:gone
 	date: 2011-08-22
 	desc: Gone
-	tag: 0untagged
+	tag: 0-untagged
 page:skindiver-monica
 	date: 2011-08-19
 	desc: Skindiver Monica
-	tag: 0untagged
+	tag: 0-untagged
 page:monica-croft
 	date: 2011-08-18
 	desc: Monica Croft
-	tag: 0untagged
+	tag: 0-untagged
 page:cave-monica
 	date: 2011-08-17
 	desc: Cave Monica
-	tag: 0untagged
+	tag: 0-untagged
 page:jungle-monica
 	date: 2011-08-16
 	desc: Jungle Monica
-	tag: 0untagged
+	tag: 0-untagged
 page:a-game-of-chess
 	date: 2011-08-15
 	desc: A Game Of Chess
-	tag: 0untagged
+	tag: 0-untagged
 page:walk-in-the-park
 	date: 2011-08-12
 	desc: Walk In The Park
-	tag: 0untagged
+	tag: 0-untagged
 page:may-and-bud
 	date: 2011-08-11
 	desc: May And Bud
-	tag: 0untagged
+	tag: 0-untagged
 page:scaring-amanda
 	date: 2011-08-10
 	desc: Scaring Amanda
-	tag: 0untagged
+	tag: 0-untagged
 page:ragweed-attack
 	date: 2011-08-09
 	desc: Ragweed Attack
-	tag: 0untagged
+	tag: 0-untagged
 page:freaked-out
 	date: 2011-08-08
 	desc: Freaked Out
-	tag: 0untagged
+	tag: 0-untagged
 page:have-a-nice-day
 	date: 2011-08-05
 	desc: Have A Nice Day
-	tag: 0untagged
+	tag: 0-untagged
 page:sainthood
 	date: 2011-08-04
 	desc: Sainthood
-	tag: 0untagged
+	tag: 0-untagged
 page:gots-the-yummies
 	date: 2011-08-03
 	desc: Gots The Yummies
-	tag: 0untagged
+	tag: 0-untagged
 page:still-far-away
 	date: 2011-08-02
 	desc: Still Far Away
-	tag: 0untagged
+	tag: 0-untagged
 page:apples-to-oranges
 	date: 2011-08-01
 	desc: Apples To Oranges
-	tag: 0untagged
+	tag: 0-untagged
 page:post-tramatic-st
 	date: 2011-07-29
 	desc: Post Traumatic Stress
-	tag: 0untagged
+	tag: 0-untagged
 page:back-to-cool
 	date: 2011-07-28
 	desc: Back To Cool
-	tag: 0untagged
+	tag: 0-untagged
 page:brain-bleaching
 	date: 2011-07-27
 	desc: Brain Bleaching
-	tag: 0untagged
+	tag: 0-untagged
 page:a-sphinx-toy
 	date: 2011-07-26
 	desc: A Sphinx Toy
-	tag: 0untagged
+	tag: 0-untagged
 page:recover-well
 	date: 2011-07-25
 	desc: Recover Well
-	tag: 0untagged
+	tag: 0-untagged
 page:ticklish
 	date: 2011-07-22
 	desc: Ticklish
-	tag: 0untagged
+	tag: 0-untagged
 page:past-scholastics
 	date: 2011-07-21
 	desc: Past Scholastics
-	tag: 0untagged
+	tag: 0-untagged
 page:what-is-it
 	date: 2011-07-20
 	desc: What Is It
-	tag: 0untagged
+	tag: 0-untagged
 page:we-found-this
 	date: 2011-07-19
 	desc: We Found This
-	tag: 0untagged
+	tag: 0-untagged
 page:oh-dear
 	date: 2011-07-18
 	desc: Oh Dear
-	tag: 0untagged
+	tag: 0-untagged
 page:vision-quest
 	date: 2011-07-15
 	desc: Vision Quest
-	tag: 0untagged
+	tag: 0-untagged
 page:sign-of-weakness
 	date: 2011-07-14
 	desc: Sign Of Weakness
-	tag: 0untagged
+	tag: 0-untagged
 page:a-complication
 	date: 2011-07-13
 	desc: A Complication
-	tag: 0untagged
+	tag: 0-untagged
 page:tons-of-question
 	date: 2011-07-12
 	desc: Tons Of Question
-	tag: 0untagged
+	tag: 0-untagged
 page:spider-dreams
 	date: 2011-07-11
 	desc: Spider Dreams
-	tag: 0untagged
+	tag: 0-untagged
 page:monica-dietzel-at-the-sandbar
 	date: 2011-07-08
 	desc: Monica Dietzel At  The Sandbar
-	tag: 0untagged
+	tag: 0-untagged
 page:in-the-center
 	date: 2011-07-07
 	desc: In The Center
-	tag: 0untagged
+	tag: 0-untagged
 page:falling-apart
 	date: 2011-07-06
 	desc: Falling Apart
-	tag: 0untagged
+	tag: 0-untagged
 page:being-childish
 	date: 2011-07-05
 	desc: Being Childish
-	tag: 0untagged
+	tag: 0-untagged
 page:on-your-mind
 	date: 2011-07-04
 	desc: On Your Mind
-	tag: 0untagged
+	tag: 0-untagged
 page:dylan-and-dietze
 	date: 2011-07-01
 	desc: Dylan And Dietzel
-	tag: 0untagged
+	tag: 0-untagged
 page:sugerbear
 	date: 2011-06-30
 	desc: Sugarbear TV
-	tag: 0untagged
+	tag: 0-untagged
 page:moonlight-jin
 	date: 2011-06-29
 	desc: Moonlight Jin
-	tag: 0untagged
+	tag: 0-untagged
 page:dharma-luci
 	date: 2011-06-28
 	desc: Dharma Luci
-	tag: 0untagged
+	tag: 0-untagged
 page:beach-nudge
 	date: 2011-06-27
 	desc: Beach Nudge
-	tag: 0untagged
+	tag: 0-untagged
 page:cerberus-night
 	date: 2011-06-24
 	desc: Cerberus Night
-	tag: 0untagged
+	tag: 0-untagged
 page:pinup-katherine
 	date: 2011-06-23
 	desc: Pinup Katherine
-	tag: 0untagged
+	tag: 0-untagged
 page:water-fight
 	date: 2011-06-22
 	desc: Water Fight
-	tag: 0untagged
+	tag: 0-untagged
 page:older-hopefully
 	date: 2011-06-21
 	desc: Older Hopefully Wiser
-	tag: 0untagged
+	tag: 0-untagged
 page:lazy-afternoon
 	date: 2011-06-20
 	desc: Lazy Afternoon
-	tag: 0untagged
+	tag: 0-untagged
 page:the-secret
 	date: 2011-06-17
 	desc: The Secret
-	tag: 0untagged
+	tag: 0-untagged
 page:so-much
 	date: 2011-06-16
 	desc: So Much
-	tag: 0untagged
+	tag: 0-untagged
 page:feel-nothing
 	date: 2011-06-15
 	desc: Feel Nothing
-	tag: 0untagged
+	tag: 0-untagged
 page:like-a-fable
 	date: 2011-06-14
 	desc: Like A Fable
-	tag: 0untagged
+	tag: 0-untagged
 page:better-decisions
 	date: 2011-06-13
 	desc: Better Decisions
-	tag: 0untagged
+	tag: 0-untagged
 page:not-sure
 	date: 2011-06-10
 	desc: Not Sure
-	tag: 0untagged
+	tag: 0-untagged
 page:reconnecting
 	date: 2011-06-09
 	desc: Reconnecting
-	tag: 0untagged
+	tag: 0-untagged
 page:meet-you-somewhe
 	date: 2011-06-08
 	desc: Meet You Somewhe
-	tag: 0untagged
+	tag: 0-untagged
 page:home-again
 	date: 2011-06-07
 	desc: Home Again
-	tag: 0untagged
+	tag: 0-untagged
 page:hate-that-word
 	date: 2011-06-06
 	desc: Hate That Word
-	tag: 0untagged
+	tag: 0-untagged
 page:ten-minutes-ago
 	date: 2011-06-03
 	desc: Ten Minutes Ago
-	tag: 0untagged
+	tag: 0-untagged
 page:wormholes
 	date: 2011-06-02
 	desc: Wormholes
-	tag: 0untagged
+	tag: 0-untagged
 page:kept-her-safe
 	date: 2011-06-01
 	desc: Kept Her Safe
-	tag: 0untagged
+	tag: 0-untagged
 page:soccor-mom
 	date: 2011-05-31
 	desc: Soccer Mom
-	tag: 0untagged
+	tag: 0-untagged
 page:we-did-it
 	date: 2011-05-30
 	desc: We Did It
-	tag: 0untagged
+	tag: 0-untagged
 page:is-she-back
 	date: 2011-05-27
 	desc: Is She Back
-	tag: 0untagged
+	tag: 0-untagged
 page:little-elemental
 	date: 2011-05-26
 	desc: Little Elemental
-	tag: 0untagged
+	tag: 0-untagged
 page:my-companion
 	date: 2011-05-25
 	desc: My Companion
-	tag: 0untagged
+	tag: 0-untagged
 page:yes-and-no
 	date: 2011-05-24
 	desc: Yes And No
-	tag: 0untagged
+	tag: 0-untagged
 page:always-have-been
 	date: 2011-05-23
 	desc: Always Have Been
-	tag: 0untagged
+	tag: 0-untagged
 page:to-remember
 	date: 2011-05-20
 	desc: To Remember
-	tag: 0untagged
+	tag: 0-untagged
 page:are-you-there-2
 	date: 2011-05-19
 	desc: Are You There
-	tag: 0untagged
+	tag: 0-untagged
 page:blew-her-clothes
 	date: 2011-05-18
 	desc: Blew Her Clothes
-	tag: 0untagged
+	tag: 0-untagged
 page:where-sphinxes-come-from
 	date: 2011-05-17
 	desc: Where Sphinxes Come From
-	tag: 0untagged
+	tag: 0-untagged
 page:so-fragile
 	date: 2011-05-16
 	desc: So Fragile
-	tag: 0untagged
+	tag: 0-untagged
 page:done-here
 	date: 2011-05-13
 	desc: Done Here
-	tag: 0untagged
+	tag: 0-untagged
 page:never-say-never
 	date: 2011-05-12
 	desc: Never Say Never
-	tag: 0untagged
+	tag: 0-untagged
 page:outta-the-park
 	date: 2011-05-11
 	desc: Outta The Park
-	tag: 0untagged
+	tag: 0-untagged
 page:just-do-it
 	date: 2011-05-10
 	desc: Just Do It
-	tag: 0untagged
+	tag: 0-untagged
 page:going-to-let-you
 	date: 2011-05-09
 	desc: Going To Let You
-	tag: 0untagged
+	tag: 0-untagged
 page:what-do-i-do
 	date: 2011-05-06
 	desc: What Do I Do
-	tag: 0untagged
+	tag: 0-untagged
 page:cinco-de-mayo
 	date: 2011-05-05
 	desc: Cinco De Mayo
-	tag: 0untagged
+	tag: 0-untagged
 page:all-my-life
 	date: 2011-05-04
 	desc: All My Life
-	tag: 0untagged
+	tag: 0-untagged
 page:just-clean-up
 	date: 2011-05-03
 	desc: Just Clean Up
-	tag: 0untagged
+	tag: 0-untagged
 page:here-last
 	date: 2011-05-02
 	desc: Here Last
-	tag: 0untagged
+	tag: 0-untagged
 page:i-know-you
 	date: 2011-04-29
 	desc: I Know You
-	tag: 0untagged
+	tag: 0-untagged
 page:easier-said
 	date: 2011-04-28
 	desc: Easier Said
-	tag: 0untagged
+	tag: 0-untagged
 page:scares-me-more
 	date: 2011-04-27
 	desc: Scares Me More
-	tag: 0untagged
+	tag: 0-untagged
 page:you-mean-this
 	date: 2011-04-26
 	desc: You Mean This
-	tag: 0untagged
+	tag: 0-untagged
 page:very-important
 	date: 2011-04-25
 	desc: Very Important
-	tag: 0untagged
+	tag: 0-untagged
 page:not-going
 	date: 2011-04-22
 	desc: Not Going
-	tag: 0untagged
+	tag: 0-untagged
 page:owes-me-a-dollar
 	date: 2011-04-21
 	desc: Owes Me A Dollar
-	tag: 0untagged
+	tag: 0-untagged
 page:let-me-see
 	date: 2011-04-20
 	desc: Let Me See
-	tag: 0untagged
+	tag: 0-untagged
 page:something-happen
 	date: 2011-04-19
 	desc: Something Happen
-	tag: 0untagged
+	tag: 0-untagged
 page:my-what
 	date: 2011-04-18
 	desc: My What
-	tag: 0untagged
+	tag: 0-untagged
 page:serendipitous
 	date: 2011-04-15
 	desc: Serendipitous
-	tag: 0untagged
+	tag: 0-untagged
 page:sink-the-sub
 	date: 2011-04-14
 	desc: Sink The Sub
-	tag: 0untagged
+	tag: 0-untagged
 page:tone-you-down
 	date: 2011-04-13
 	desc: Tone You Down
-	tag: 0untagged
+	tag: 0-untagged
 page:daddy-birthday
 	date: 2011-04-12
 	desc: Daddy Birthday
-	tag: 0untagged
+	tag: 0-untagged
 page:share-the-sunshi
 	date: 2011-04-11
 	desc: Share The Sunshine
-	tag: 0untagged
+	tag: 0-untagged
 page:pull-my-finger
 	date: 2011-04-08
 	desc: Pull My Finger
-	tag: 0untagged
+	tag: 0-untagged
 page:down-with-the-ship
 	date: 2011-04-07
 	desc: Down With The Ship
-	tag: 0untagged
+	tag: 0-untagged
 page:no-zombies
 	date: 2011-04-06
 	desc: No Zombies
-	tag: 0untagged
+	tag: 0-untagged
 page:lead-them-here
 	date: 2011-04-05
 	desc: Lead Them Here
-	tag: 0untagged
+	tag: 0-untagged
 page:a-few-miles
 	date: 2011-04-04
 	desc: A Few Miles
-	tag: 0untagged
+	tag: 0-untagged
 page:little-too-long
 	date: 2011-04-01
 	desc: Little Too Long
-	tag: 0untagged
+	tag: 0-untagged
 page:close-your-eyes
 	date: 2011-03-31
 	desc: Close Your Eyes
-	tag: 0untagged
+	tag: 0-untagged
 page:play-thing
 	date: 2011-03-30
 	desc: Play Thing
-	tag: 0untagged
+	tag: 0-untagged
 page:awful-stench
 	date: 2011-03-29
 	desc: Awful Stench
-	tag: 0untagged
+	tag: 0-untagged
 page:spot-of-heaven
 	date: 2011-03-28
 	desc: Spot Of Heaven
-	tag: 0untagged
+	tag: 0-untagged
 page:fate-of-the-fall
 	date: 2011-03-25
 	desc: Fate Of The Fallen
-	tag: 0untagged
+	tag: 0-untagged
 page:made-me-watch
 	date: 2011-03-24
 	desc: Made Me Watch
-	tag: 0untagged
+	tag: 0-untagged
 page:let-her-fall
 	date: 2011-03-23
 	desc: Let Her Fall
-	tag: 0untagged
+	tag: 0-untagged
 page:answered-prayers
 	date: 2011-03-22
 	desc: Answered Prayers
-	tag: 0untagged
+	tag: 0-untagged
 page:angel-of-evil
 	date: 2011-03-21
 	desc: Angel Of Evil
-	tag: 0untagged
+	tag: 0-untagged
 page:spoiled-now
 	date: 2011-03-18
 	desc: Spoiled Now
-	tag: 0untagged
+	tag: 0-untagged
 page:shamrock-shake
 	date: 2011-03-17
 	desc: Shamrock Shake
-	tag: 0untagged
+	tag: 0-untagged
 page:from-the-source
 	date: 2011-03-16
 	desc: From The Source
-	tag: 0untagged
+	tag: 0-untagged
 page:geeking-out
 	date: 2011-03-15
 	desc: Geeking Out
-	tag: 0untagged
+	tag: 0-untagged
 page:ending-reign
 	date: 2011-03-14
 	desc: Ending Reign
-	tag: 0untagged
+	tag: 0-untagged
 page:run-villarreal
 	date: 2011-03-11
 	desc: Run Villarreal
-	tag: 0untagged
+	tag: 0-untagged
 page:helping-me
 	date: 2011-03-10
 	desc: Helping Me
-	tag: 0untagged
+	tag: 0-untagged
 page:suits-me
 	date: 2011-03-09
 	desc: Suits Me
-	tag: 0untagged
+	tag: 0-untagged
 page:stay-away
 	date: 2011-03-08
 	desc: Stay Away
-	tag: 0untagged
+	tag: 0-untagged
 page:little-girl
 	date: 2011-03-07
 	desc: Little Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:snowing-and-freezing
 	date: 2011-03-04
 	desc: Snowing And Freezing
-	tag: 0untagged
+	tag: 0-untagged
 page:not-going-anywhere
 	date: 2011-03-03
 	desc: Not Going Anywhere
-	tag: 0untagged
+	tag: 0-untagged
 page:try-it-on
 	date: 2011-03-02
 	desc: Try It On
-	tag: 0untagged
+	tag: 0-untagged
 page:stay-positive
 	date: 2011-03-01
 	desc: Stay Positive
-	tag: 0untagged
+	tag: 0-untagged
 page:still-there
 	date: 2011-02-28
 	desc: Still There
-	tag: 0untagged
+	tag: 0-untagged
 page:a-dream
 	date: 2011-02-25
 	desc: A Dream
-	tag: 0untagged
+	tag: 0-untagged
 page:morning-to-night
 	date: 2011-02-24
 	desc: Morning To Night
-	tag: 0untagged
+	tag: 0-untagged
 page:a-start
 	date: 2011-02-23
 	desc: A Start
-	tag: 0untagged
+	tag: 0-untagged
 page:earliest-memory
 	date: 2011-02-22
 	desc: Earliest Memory
-	tag: 0untagged
+	tag: 0-untagged
 page:more-like-you
 	date: 2011-02-21
 	desc: More Like You
-	tag: 0untagged
+	tag: 0-untagged
 page:run-rabbit
 	date: 2011-02-18
 	desc: Run Rabbit
-	tag: 0untagged
+	tag: 0-untagged
 page:all-was-peachy
 	date: 2011-02-17
 	desc: All Was Peachy
-	tag: 0untagged
+	tag: 0-untagged
 page:what-happened-2
 	date: 2011-02-16
 	desc: What Happened
-	tag: 0untagged
+	tag: 0-untagged
 page:in-a-few
 	date: 2011-02-15
 	desc: In A Few
-	tag: 0untagged
+	tag: 0-untagged
 page:no-anchovies
 	date: 2011-02-14
 	desc: No Anchovies
-	tag: 0untagged
+	tag: 0-untagged
 page:at-the-end-of-th
 	date: 2011-02-11
 	desc: At The End Of The Day
-	tag: 0untagged
+	tag: 0-untagged
 page:hard-feelings
 	date: 2011-02-10
 	desc: Hard Feelings
-	tag: 0untagged
+	tag: 0-untagged
 page:pouring-salt
 	date: 2011-02-09
 	desc: Pouring Salt
-	tag: 0untagged
+	tag: 0-untagged
 page:pure-instinct
 	date: 2011-02-08
 	desc: Pure Instinct
-	tag: 0untagged
+	tag: 0-untagged
 page:followed-through
 	date: 2011-02-07
 	desc: Followed Through
-	tag: 0untagged
+	tag: 0-untagged
 page:three-idiots
 	date: 2011-02-04
 	desc: Three Idiots
-	tag: 0untagged
+	tag: 0-untagged
 page:over-there-2
 	date: 2011-02-03
 	desc: Over There
-	tag: 0untagged
+	tag: 0-untagged
 page:demigod
 	date: 2011-02-02
 	desc: Demigod
-	tag: 0untagged
+	tag: 0-untagged
 page:grateful
 	date: 2011-02-01
 	desc: Grateful
-	tag: 0untagged
+	tag: 0-untagged
 page:round-one
 	date: 2011-01-31
 	desc: Round One
-	tag: 0untagged
+	tag: 0-untagged
 page:dish-it-out
 	date: 2011-01-28
 	desc: Dish It Out
-	tag: 0untagged
+	tag: 0-untagged
 page:a-lot-in-common
 	date: 2011-01-27
 	desc: A Lot In Common
-	tag: 0untagged
+	tag: 0-untagged
 page:more-complicated
 	date: 2011-01-26
 	desc: More Complicated
-	tag: 0untagged
+	tag: 0-untagged
 page:let-alone-twice
 	date: 2011-01-25
 	desc: Let Alone Twice
-	tag: 0untagged
+	tag: 0-untagged
 page:simplify-things
 	date: 2011-01-24
 	desc: Simplify Things
-	tag: 0untagged
+	tag: 0-untagged
 page:nine-to-five
 	date: 2011-01-21
 	desc: Nine To Five
-	tag: 0untagged
+	tag: 0-untagged
 page:look-it-up
 	date: 2011-01-20
 	desc: Look It Up
-	tag: 0untagged
+	tag: 0-untagged
 page:you-like-me
 	date: 2011-01-19
 	desc: You Like Me
-	tag: 0untagged
+	tag: 0-untagged
 page:play-in-traffic
 	date: 2011-01-18
 	desc: Play In Traffic
-	tag: 0untagged
+	tag: 0-untagged
 page:independent-cont
 	date: 2011-01-17
 	desc: Independent Contractors
-	tag: 0untagged
+	tag: 0-untagged
 page:save-a-little-girl
 	date: 2011-01-14
 	desc: Save A Little Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:knowing
 	date: 2011-01-13
 	desc: Knowing
-	tag: 0untagged
+	tag: 0-untagged
 page:save-yourself
 	date: 2011-01-12
 	desc: Save Yourself
-	tag: 0untagged
+	tag: 0-untagged
 page:missing-the-poin
 	date: 2011-01-11
 	desc: Missing The Point
-	tag: 0untagged
+	tag: 0-untagged
 page:became-sentient
 	date: 2011-01-10
 	desc: Became Sentient
-	tag: 0untagged
+	tag: 0-untagged
 page:sit-this-out
 	date: 2011-01-07
 	desc: Sit This Out
-	tag: 0untagged
+	tag: 0-untagged
 page:rip-it-apart
 	date: 2011-01-06
 	desc: Rip It Apart
-	tag: 0untagged
+	tag: 0-untagged
 page:need-just-one
 	date: 2011-01-05
 	desc: Need Just One
-	tag: 0untagged
+	tag: 0-untagged
 page:bermuda-triangle-beach
 	date: 2011-01-04
 	desc: Bermuda Triangle Beach
-	tag: 0untagged
+	tag: 0-untagged
 page:that-easy
 	date: 2011-01-03
 	desc: That Easy
-	tag: 0untagged
+	tag: 0-untagged
 page:and-that-too
 	date: 2010-12-31
 	desc: And That Too
-	tag: 0untagged
+	tag: 0-untagged
 page:never-guess
 	date: 2010-12-30
 	desc: Never Guess
-	tag: 0untagged
+	tag: 0-untagged
 page:gentle-crinkle
 	date: 2010-12-29
 	desc: Gentle Crinkle
-	tag: 0untagged
+	tag: 0-untagged
 page:you-got-mail
 	date: 2010-12-28
 	desc: You Got Mail
-	tag: 0untagged
+	tag: 0-untagged
 page:oh-hey
 	date: 2010-12-27
 	desc: Oh Hey
-	tag: 0untagged
+	tag: 0-untagged
 page:seamus-patrick-burke
 	date: 2010-12-24
 	desc: Seamus Patrick Burke
-	tag: 0untagged
+	tag: 0-untagged
 page:lyndsey-raney
 	date: 2010-12-23
 	desc: Lyndsey Raney
-	tag: 0untagged
+	tag: 0-untagged
 page:meaghan-beninati
 	date: 2010-12-22
 	desc: Meaghan Beninati
-	tag: 0untagged
+	tag: 0-untagged
 page:lupi-loops
 	date: 2010-12-21
 	desc: Lupi Loops
-	tag: 0untagged
+	tag: 0-untagged
 page:bea-goz
 	date: 2010-12-20
 	desc: Bea Goz
-	tag: 0untagged
+	tag: 0-untagged
 page:kevin-wreath
 	date: 2010-12-18
 	desc: Kevin Wreath
-	tag: 0untagged
+	tag: 0-untagged
 page:still-getting-re
 	date: 2010-12-17
 	desc: Still Getting Ready
-	tag: 0untagged
+	tag: 0-untagged
 page:own-strengths
 	date: 2010-12-10
 	desc: Own Strengths
-	tag: 0untagged
+	tag: 0-untagged
 page:soap-bubbles
 	date: 2010-12-09
 	desc: Soap Bubbles
-	tag: 0untagged
+	tag: 0-untagged
 page:her-matrix
 	date: 2010-12-08
 	desc: Her Matrix
-	tag: 0untagged
+	tag: 0-untagged
 page:too-late
 	date: 2010-12-07
 	desc: Too Late
-	tag: 0untagged
+	tag: 0-untagged
 page:her-head
 	date: 2010-12-06
 	desc: Her Head
-	tag: 0untagged
+	tag: 0-untagged
 page:that-hurt
 	date: 2010-12-03
 	desc: That Hurt
-	tag: 0untagged
+	tag: 0-untagged
 page:squish-it
 	date: 2010-12-02
 	desc: Squish It
-	tag: 0untagged
+	tag: 0-untagged
 page:lift-weights
 	date: 2010-12-01
 	desc: Lift Weights
-	tag: 0untagged
+	tag: 0-untagged
 page:plans-in-place
 	date: 2010-11-30
 	desc: Plans In Place
-	tag: 0untagged
+	tag: 0-untagged
 page:have-you
 	date: 2010-11-29
 	desc: Have You
-	tag: 0untagged
+	tag: 0-untagged
 page:keeping-warm
 	date: 2010-11-26
 	desc: Keeping Warm
-	tag: 0untagged
+	tag: 0-untagged
 page:need-my-sunshine
 	date: 2010-11-25
 	desc: Need My Sunshine
-	tag: 0untagged
+	tag: 0-untagged
 page:ice-monster
 	date: 2010-11-24
 	desc: Ice Monster
-	tag: 0untagged
+	tag: 0-untagged
 page:an-escape
 	date: 2010-11-23
 	desc: An Escape
-	tag: 0untagged
+	tag: 0-untagged
 page:until-she-fell-asleep
 	date: 2010-11-22
 	desc: Until She Fell Asleep
-	tag: 0untagged
+	tag: 0-untagged
 page:pay-a-visit
 	date: 2010-11-19
 	desc: Pay A Visit
-	tag: 0untagged
+	tag: 0-untagged
 page:name-on-the-cross
 	date: 2010-11-18
 	desc: Name On The Cross
-	tag: 0untagged
+	tag: 0-untagged
 page:get-away
 	date: 2010-11-17
 	desc: Get Away
-	tag: 0untagged
+	tag: 0-untagged
 page:film-at-eleven
 	date: 2010-11-16
 	desc: Film At Eleven
-	tag: 0untagged
+	tag: 0-untagged
 page:every-year
 	date: 2010-11-15
 	desc: Every Year
-	tag: 0untagged
+	tag: 0-untagged
 page:return-the-favor
 	date: 2010-11-12
 	desc: Return The Favor
-	tag: 0untagged
+	tag: 0-untagged
 page:be-okay
 	date: 2010-11-11
 	desc: Be Okay
-	tag: 0untagged
+	tag: 0-untagged
 page:hang-of-this
 	date: 2010-11-10
 	desc: Hang Of This
-	tag: 0untagged
+	tag: 0-untagged
 page:pretty-amazing
 	date: 2010-11-09
 	desc: Pretty Amazing
-	tag: 0untagged
+	tag: 0-untagged
 page:bigger-idiots
 	date: 2010-11-08
 	desc: Bigger Idiots
-	tag: 0untagged
+	tag: 0-untagged
 page:feel-lighter
 	date: 2010-11-05
 	desc: Feel Lighter
-	tag: 0untagged
+	tag: 0-untagged
 page:go-well
 	date: 2010-11-04
 	desc: Go Well
-	tag: 0untagged
+	tag: 0-untagged
 page:via-a-riddle
 	date: 2010-11-03
 	desc: Via A Riddle
-	tag: 0untagged
+	tag: 0-untagged
 page:one-who-helps
 	date: 2010-11-02
 	desc: One Who Helps
-	tag: 0untagged
+	tag: 0-untagged
 page:law-of-the-book
 	date: 2010-11-01
 	desc: Law Of The Book
-	tag: 0untagged
+	tag: 0-untagged
 page:details-details
 	date: 2010-10-29
 	desc: Details Details
-	tag: 0untagged
+	tag: 0-untagged
 page:trickster
 	date: 2010-10-28
 	desc: Trickster
-	tag: 0untagged
+	tag: 0-untagged
 page:eluding-me
 	date: 2010-10-27
 	desc: Eluding Me
-	tag: 0untagged
+	tag: 0-untagged
 page:just-a-nudge
 	date: 2010-10-26
 	desc: Just A Nudge
-	tag: 0untagged
+	tag: 0-untagged
 page:tag
 	date: 2010-10-25
 	desc: Tag
-	tag: 0untagged
+	tag: 0-untagged
 page:doing-their-jobs
 	date: 2010-10-22
 	desc: Doing Their Jobs
-	tag: 0untagged
+	tag: 0-untagged
 page:took-liberties
 	date: 2010-10-21
 	desc: Took Liberties
-	tag: 0untagged
+	tag: 0-untagged
 page:sudden-interest
 	date: 2010-10-20
 	desc: Sudden Interest
-	tag: 0untagged
+	tag: 0-untagged
 page:wild-animals
 	date: 2010-10-19
 	desc: Wild Animals
-	tag: 0untagged
+	tag: 0-untagged
 page:so-is-phix
 	date: 2010-10-18
 	desc: So Is Phix
-	tag: 0untagged
+	tag: 0-untagged
 page:just-a-scratch
 	date: 2010-10-15
 	desc: Just A Scratch
-	tag: 0untagged
+	tag: 0-untagged
 page:silly-girl-sunshine
 	date: 2010-10-14
 	desc: Silly Girl Sunshine
-	tag: 0untagged
+	tag: 0-untagged
 page:so-you-see
 	date: 2010-10-13
 	desc: So You See
-	tag: 0untagged
+	tag: 0-untagged
 page:caught-up
 	date: 2010-10-12
 	desc: Caught Up
-	tag: 0untagged
+	tag: 0-untagged
 page:shut-up
 	date: 2010-10-11
 	desc: Shut Up
-	tag: 0untagged
+	tag: 0-untagged
 page:the-amendment
 	date: 2010-10-08
 	desc: The Amendment
-	tag: 0untagged
+	tag: 0-untagged
 page:an-amendment
 	date: 2010-10-07
 	desc: An Amendment
-	tag: 0untagged
+	tag: 0-untagged
 page:research-work
 	date: 2010-10-06
 	desc: Research Work
-	tag: 0untagged
+	tag: 0-untagged
 page:relish-your-ignorance
 	date: 2010-10-05
 	desc: Relish Your Ignorance
-	tag: 0untagged
+	tag: 0-untagged
 page:about-you
 	date: 2010-10-04
 	desc: About You
-	tag: 0untagged
+	tag: 0-untagged
 page:zombie-apocalypse
 	date: 2010-10-01
 	desc: Zombie Apocalypse
-	tag: 0untagged
+	tag: 0-untagged
 page:gave-it-to-me
 	date: 2010-09-30
 	desc: Gave It To Me
-	tag: 0untagged
+	tag: 0-untagged
 page:catch-bad-guys
 	date: 2010-09-29
 	desc: Catch Bad Guys
-	tag: 0untagged
+	tag: 0-untagged
 page:ahh-chooo
 	date: 2010-09-28
 	desc: Ahh Chooo
-	tag: 0untagged
+	tag: 0-untagged
 page:sick
 	date: 2010-09-27
 	desc: Sick
-	tag: 0untagged
+	tag: 0-untagged
 page:health-care
 	date: 2010-09-24
 	desc: Health Care
-	tag: 0untagged
+	tag: 0-untagged
 page:save-the-world-again
 	date: 2010-09-23
 	desc: Save The World Again
-	tag: 0untagged
+	tag: 0-untagged
 page:cynical-shell
 	date: 2010-09-22
 	desc: Cynical Shell
-	tag: 0untagged
+	tag: 0-untagged
 page:scientific-metho
 	date: 2010-09-21
 	desc: Scientific Method
-	tag: 0untagged
+	tag: 0-untagged
 page:stopped-by
 	date: 2010-09-20
 	desc: Stopped By
-	tag: 0untagged
+	tag: 0-untagged
 page:anything-else
 	date: 2010-09-17
 	desc: Anything Else
-	tag: 0untagged
+	tag: 0-untagged
 page:ignore-her
 	date: 2010-09-16
 	desc: Ignore Her
-	tag: 0untagged
+	tag: 0-untagged
 page:poke-them
 	date: 2010-09-15
 	desc: Poke Them
-	tag: 0untagged
+	tag: 0-untagged
 page:plug-you-in
 	date: 2010-09-14
 	desc: Plug You In
-	tag: 0untagged
+	tag: 0-untagged
 page:good-point
 	date: 2010-09-13
 	desc: Good Point
-	tag: 0untagged
+	tag: 0-untagged
 page:her-friends
 	date: 2010-09-10
 	desc: Her Friends
-	tag: 0untagged
+	tag: 0-untagged
 page:your-auras
 	date: 2010-09-09
 	desc: Your Auras
-	tag: 0untagged
+	tag: 0-untagged
 page:friends-are-obligated
 	date: 2010-09-08
 	desc: Friends Are Obligated
-	tag: 0untagged
+	tag: 0-untagged
 page:awwww-shucks
 	date: 2010-09-07
 	desc: Awwww Shucks
-	tag: 0untagged
+	tag: 0-untagged
 page:harmless
 	date: 2010-09-06
 	desc: Harmless
-	tag: 0untagged
+	tag: 0-untagged
 page:glowing
 	date: 2010-09-03
 	desc: Glowing
-	tag: 0untagged
+	tag: 0-untagged
 page:smiling-at
 	date: 2010-09-02
 	desc: Smiling At
-	tag: 0untagged
+	tag: 0-untagged
 page:over-there
 	date: 2010-09-01
 	desc: Over There
-	tag: 0untagged
+	tag: 0-untagged
 page:its-huge
 	date: 2010-08-31
 	desc: It&#8217;s Huge
-	tag: 0untagged
+	tag: 0-untagged
 page:satisfying
 	date: 2010-08-30
 	desc: Satisfying
-	tag: 0untagged
+	tag: 0-untagged
 page:boo-yaa
 	date: 2010-08-27
 	desc: Boo Yaa
-	tag: 0untagged
+	tag: 0-untagged
 page:the-dork
 	date: 2010-08-26
 	desc: The Dork
-	tag: 0untagged
+	tag: 0-untagged
 page:stuck-with-this
 	date: 2010-08-25
 	desc: Stuck With This
-	tag: 0untagged
+	tag: 0-untagged
 page:i-feel-fun-size
 	date: 2010-08-24
 	desc: I Feel Fun Size
-	tag: 0untagged
+	tag: 0-untagged
 page:balance-issues
 	date: 2010-08-23
 	desc: Balance Issues
-	tag: 0untagged
+	tag: 0-untagged
 page:hold-on-2
 	date: 2010-08-20
 	desc: Hold On
-	tag: 0untagged
+	tag: 0-untagged
 page:still-a-danger
 	date: 2010-08-19
 	desc: Still A Danger
-	tag: 0untagged
+	tag: 0-untagged
 page:earned-the-right
 	date: 2010-08-18
 	desc: Earned The Right
-	tag: 0untagged
+	tag: 0-untagged
 page:catch-the-sunrise
 	date: 2010-08-17
 	desc: Catch The Sunrise
-	tag: 0untagged
+	tag: 0-untagged
 page:hey
 	date: 2010-08-16
 	desc: Hey
-	tag: 0untagged
+	tag: 0-untagged
 page:custard-of-that-magnitude
 	date: 2010-08-13
 	desc: Custard Of That Magnitude
-	tag: 0untagged
+	tag: 0-untagged
 page:crimson-mantis
 	date: 2010-08-12
 	desc: Crimson Mantis
-	tag: 0untagged
+	tag: 0-untagged
 page:poiting-it-on
 	date: 2010-08-11
 	desc: Poiting It On
-	tag: 0untagged
+	tag: 0-untagged
 page:be-expired
 	date: 2010-08-10
 	desc: Be Expired
-	tag: 0untagged
+	tag: 0-untagged
 page:a-comforting-thought
 	date: 2010-08-09
 	desc: A Comforting Thought
-	tag: 0untagged
+	tag: 0-untagged
 page:anaerobic-sex
 	date: 2010-08-06
 	desc: Anaerobic Sex
-	tag: 0untagged
+	tag: 0-untagged
 page:messed-up
 	date: 2010-08-05
 	desc: Messed Up
-	tag: 0untagged
+	tag: 0-untagged
 page:your-outlet
 	date: 2010-08-04
 	desc: Your Outlet
-	tag: 0untagged
+	tag: 0-untagged
 page:still-around
 	date: 2010-08-03
 	desc: Still Around
-	tag: 0untagged
+	tag: 0-untagged
 page:stop-talking
 	date: 2010-08-02
 	desc: Stop Talking
-	tag: 0untagged
+	tag: 0-untagged
 page:i-had-you
 	date: 2010-07-30
 	desc: I Had You
-	tag: 0untagged
+	tag: 0-untagged
 page:sounds-crazy
 	date: 2010-07-29
 	desc: Sounds Crazy
-	tag: 0untagged
+	tag: 0-untagged
 page:witnessed-crazy
 	date: 2010-07-28
 	desc: Witnessed Crazy
-	tag: 0untagged
+	tag: 0-untagged
 page:a-dip-in-the-lake
 	date: 2010-07-27
 	desc: A Dip In The Lake
-	tag: 0untagged
+	tag: 0-untagged
 page:vacationing-manatees
 	date: 2010-07-26
 	desc: Vacationing Manatees
-	tag: 0untagged
+	tag: 0-untagged
 page:ready-to-talk
 	date: 2010-07-23
 	desc: Ready To Talk
-	tag: 0untagged
+	tag: 0-untagged
 page:thinking-the-worst
 	date: 2010-07-22
 	desc: Thinking The Worst
-	tag: 0untagged
+	tag: 0-untagged
 page:my-rock
 	date: 2010-07-21
 	desc: My Rock
-	tag: 0untagged
+	tag: 0-untagged
 page:whadya-say
 	date: 2010-07-20
 	desc: Whadya Say
-	tag: 0untagged
+	tag: 0-untagged
 page:stalling
 	date: 2010-07-19
 	desc: Stalling
-	tag: 0untagged
+	tag: 0-untagged
 page:grant-guest-art
 	date: 2010-07-16
 	desc: Grant Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:terry-guest-art
 	date: 2010-07-15
 	desc: Terry Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:lindsay-guest-comic
 	date: 2010-07-14
 	desc: Lindsay Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:adam-guest-comic
 	date: 2010-07-13
 	desc: Adam Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:eisu-guest-comic
 	date: 2010-07-12
 	desc: Eisu Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:sheena-guest-art
 	date: 2010-07-11
 	desc: Sheena Guest Art
-	tag: 0untagged
+	tag: 0-untagged
 page:jaded-now
 	date: 2010-07-09
 	desc: Jaded Now
-	tag: 0untagged
+	tag: 0-untagged
 page:crap-like-that
 	date: 2010-07-08
 	desc: Crap Like That
-	tag: 0untagged
+	tag: 0-untagged
 page:unscathed
 	date: 2010-07-07
 	desc: Unscathed
-	tag: 0untagged
+	tag: 0-untagged
 page:yet-to-do
 	date: 2010-07-06
 	desc: Yet To Do
-	tag: 0untagged
+	tag: 0-untagged
 page:hard-to-believe
 	date: 2010-07-05
 	desc: Hard To Believe
-	tag: 0untagged
+	tag: 0-untagged
 page:parallel-parking
 	date: 2010-07-02
 	desc: Parallel Parking
-	tag: 0untagged
+	tag: 0-untagged
 page:sign-my-cast
 	date: 2010-07-01
 	desc: Sign My Cast
-	tag: 0untagged
+	tag: 0-untagged
 page:a-bad-feeling
 	date: 2010-06-30
 	desc: A Bad Feeling
-	tag: 0untagged
+	tag: 0-untagged
 page:la-muneca
 	date: 2010-06-29
 	desc: La Mu&#241;eca
-	tag: 0untagged
+	tag: 0-untagged
 page:she-loves-me
 	date: 2010-06-28
 	desc: She Loves Me
-	tag: 0untagged
+	tag: 0-untagged
 page:hope-she-is-okay
 	date: 2010-06-25
 	desc: Hope She Is Okay
-	tag: 0untagged
+	tag: 0-untagged
 page:is-that-you
 	date: 2010-06-24
 	desc: Is That You
-	tag: 0untagged
+	tag: 0-untagged
 page:see-in-the-dark
 	date: 2010-06-23
 	desc: See In The Dark
-	tag: 0untagged
+	tag: 0-untagged
 page:fair-enough
 	date: 2010-06-22
 	desc: Fair Enough
-	tag: 0untagged
+	tag: 0-untagged
 page:not-the-violent-type
 	date: 2010-06-21
 	desc: Not The Violent Type
-	tag: 0untagged
+	tag: 0-untagged
 page:need-to-see-me
 	date: 2010-06-18
 	desc: Need To See Me
-	tag: 0untagged
+	tag: 0-untagged
 page:now-focus
 	date: 2010-06-17
 	desc: Now Focus
-	tag: 0untagged
+	tag: 0-untagged
 page:no-need
 	date: 2010-06-16
 	desc: No Need
-	tag: 0untagged
+	tag: 0-untagged
 page:a-good-kid
 	date: 2010-06-15
 	desc: A Good Kid
-	tag: 0untagged
+	tag: 0-untagged
 page:collect-your-coffee
 	date: 2010-06-14
 	desc: Collect Your Coffee
-	tag: 0untagged
+	tag: 0-untagged
 page:transfer-of-the-address
 	date: 2010-06-11
 	desc: Transfer Of The Address
-	tag: 0untagged
+	tag: 0-untagged
 page:calm-yourself
 	date: 2010-06-10
 	desc: Calm Yourself
-	tag: 0untagged
+	tag: 0-untagged
 page:being-modest
 	date: 2010-06-09
 	desc: Being Modest
-	tag: 0untagged
+	tag: 0-untagged
 page:learn-a-lot
 	date: 2010-06-08
 	desc: Learn A Lot
-	tag: 0untagged
+	tag: 0-untagged
 page:no-froo-froo
 	date: 2010-06-07
 	desc: No Froo Froo
-	tag: 0untagged
+	tag: 0-untagged
 page:come-to-the-light-side
 	date: 2010-06-04
 	desc: Come To The Light Side
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-with-me
 	date: 2010-06-03
 	desc: Happy With Me
-	tag: 0untagged
+	tag: 0-untagged
 page:nothing-to-prove
 	date: 2010-06-02
 	desc: Nothing To Prove
-	tag: 0untagged
+	tag: 0-untagged
 page:water-jugs
 	date: 2010-06-01
 	desc: Water Jugs
-	tag: 0untagged
+	tag: 0-untagged
 page:sizzle-pop
 	date: 2010-05-31
 	desc: Sizzle Pop
-	tag: 0untagged
+	tag: 0-untagged
 page:ton-of-baggage
 	date: 2010-05-28
 	desc: Ton Of Baggage
-	tag: 0untagged
+	tag: 0-untagged
 page:warning-flags
 	date: 2010-05-27
 	desc: Warning Flags
-	tag: 0untagged
+	tag: 0-untagged
 page:every-day-is-a-school-day
 	date: 2010-05-26
 	desc: Every Day Is A School Day
-	tag: 0untagged
+	tag: 0-untagged
 page:talked-to-me
 	date: 2010-05-25
 	desc: Talked To Me
-	tag: 0untagged
+	tag: 0-untagged
 page:wake-up
 	date: 2010-05-24
 	desc: Wake Up
-	tag: 0untagged
+	tag: 0-untagged
 page:smooth-move
 	date: 2010-05-21
 	desc: Smooth Move
-	tag: 0untagged
+	tag: 0-untagged
 page:madness
 	date: 2010-05-20
 	desc: Madness
-	tag: 0untagged
+	tag: 0-untagged
 page:back-in-college
 	date: 2010-05-19
 	desc: Back In College
-	tag: 0untagged
+	tag: 0-untagged
 page:long-hot-shower
 	date: 2010-05-18
 	desc: Long Hot Shower
-	tag: 0untagged
+	tag: 0-untagged
 page:me-time
 	date: 2010-05-17
 	desc: Me Time
-	tag: 0untagged
+	tag: 0-untagged
 page:come-visit-sprin
 	date: 2010-05-14
 	desc: Come Visit SpringCon!
-	tag: 0untagged
+	tag: 0-untagged
 page:hefting-mjollnir
 	date: 2010-05-13
 	desc: Hefting Mj&ouml;llnir
-	tag: 0untagged
+	tag: 0-untagged
 page:herculean-task
 	date: 2010-05-12
 	desc: Herculean Task
-	tag: 0untagged
+	tag: 0-untagged
 page:we-were-bored
 	date: 2010-05-11
 	desc: We Were Bored
-	tag: 0untagged
+	tag: 0-untagged
 page:a-case-of-beer
 	date: 2010-05-10
 	desc: A Case Of Beer
-	tag: 0untagged
+	tag: 0-untagged
 page:a-lot-of-grazes
 	date: 2010-05-07
 	desc: A Lot Of Grazes
-	tag: 0untagged
+	tag: 0-untagged
 page:dodge-bullets
 	date: 2010-05-06
 	desc: Dodge Bullets
-	tag: 0untagged
+	tag: 0-untagged
 page:cinco-de-monica
 	date: 2010-05-05
 	desc: Cinco De Monica
-	tag: 0untagged
+	tag: 0-untagged
 page:i-could-crawl
 	date: 2010-05-04
 	desc: I Could Crawl
-	tag: 0untagged
+	tag: 0-untagged
 page:a-proud-city-girl
 	date: 2010-05-03
 	desc: A Proud City Girl
-	tag: 0untagged
+	tag: 0-untagged
 page:publicize-your-a
 	date: 2010-04-30
 	desc: Publicize Your Assets
-	tag: 0untagged
+	tag: 0-untagged
 page:been-in-view
 	date: 2010-04-29
 	desc: Been In View
-	tag: 0untagged
+	tag: 0-untagged
 page:any-advantage
 	date: 2010-04-28
 	desc: Any Advantage
-	tag: 0untagged
+	tag: 0-untagged
 page:i-trust-tina
 	date: 2010-04-27
 	desc: I Trust Tina
-	tag: 0untagged
+	tag: 0-untagged
 page:sacrificed-untold-legions
 	date: 2010-04-26
 	desc: Sacrificed Untold Legions
-	tag: 0untagged
+	tag: 0-untagged
 page:a-bit-of-darknes
 	date: 2010-04-23
 	desc: A Bit Of Darknes
-	tag: 0untagged
+	tag: 0-untagged
 page:do-tell
 	date: 2010-04-22
 	desc: Do Tell
-	tag: 0untagged
+	tag: 0-untagged
 page:call-me-nudge
 	date: 2010-04-21
 	desc: Call Me Nudge
-	tag: 0untagged
+	tag: 0-untagged
 page:keep-you-safe
 	date: 2010-04-20
 	desc: Keep You Safe
-	tag: 0untagged
+	tag: 0-untagged
 page:change-things-up
 	date: 2010-04-19
 	desc: Change Things Up
-	tag: 0untagged
+	tag: 0-untagged
 page:when-you-were-a-puppy
 	date: 2010-04-16
 	desc: When You Were A Puppy
-	tag: 0untagged
+	tag: 0-untagged
 page:dietzel-speak
 	date: 2010-04-15
 	desc: Dietzel Speak
-	tag: 0untagged
+	tag: 0-untagged
 page:bright-idea
 	date: 2010-04-14
 	desc: Bright Idea
-	tag: 0untagged
+	tag: 0-untagged
 page:the-smell-of-burning-spider
 	date: 2010-04-13
 	desc: The Smell Of Burning Spider
-	tag: 0untagged
+	tag: 0-untagged
 page:an-accessory
 	date: 2010-04-12
 	desc: An Accessory
-	tag: 0untagged
+	tag: 0-untagged
 page:a-negative-influence
 	date: 2010-04-09
 	desc: A Negative Influence
-	tag: 0untagged
+	tag: 0-untagged
 page:the-nudge
 	date: 2010-04-08
 	desc: The Nudge
-	tag: 0untagged
+	tag: 0-untagged
 page:you-ordered-anchovies
 	date: 2010-04-07
 	desc: You Ordered Anchovies
-	tag: 0untagged
+	tag: 0-untagged
 page:only-fair
 	date: 2010-04-06
 	desc: Only Fair
-	tag: 0untagged
+	tag: 0-untagged
 page:gripping-story
 	date: 2010-04-05
 	desc: Gripping Story
-	tag: 0untagged
+	tag: 0-untagged
 page:you-can-count
 	date: 2010-04-02
 	desc: You Can Count
-	tag: 0untagged
+	tag: 0-untagged
 page:you-again
 	date: 2010-04-01
 	desc: You Again
-	tag: 0untagged
+	tag: 0-untagged
 page:getting-his-attention
 	date: 2010-03-31
 	desc: Getting His Attention
-	tag: 0untagged
+	tag: 0-untagged
 page:deal-me-in
 	date: 2010-03-30
 	desc: Deal Me In
-	tag: 0untagged
+	tag: 0-untagged
 page:dammit-jin
 	date: 2010-03-29
 	desc: Dammit Jin
-	tag: 0untagged
+	tag: 0-untagged
 page:i-feel-frightened
 	date: 2010-03-26
 	desc: I Feel Frightened
-	tag: 0untagged
+	tag: 0-untagged
 page:psychological-imperfections
 	date: 2010-03-25
 	desc: Psychological Imperfections
-	tag: 0untagged
+	tag: 0-untagged
 page:fresh-as-a-daisy
 	date: 2010-03-24
 	desc: Fresh As A Daisy
-	tag: 0untagged
+	tag: 0-untagged
 page:i-need-you-help
 	date: 2010-03-23
 	desc: I Need Your Help
-	tag: 0untagged
+	tag: 0-untagged
 page:gone-to-explore
 	date: 2010-03-22
 	desc: Gone To Explore
-	tag: 0untagged
+	tag: 0-untagged
 page:that-problem-again
 	date: 2010-03-19
 	desc: That Problem Again
-	tag: 0untagged
+	tag: 0-untagged
 page:meet-kris-williams
 	date: 2010-03-18
 	desc: Meet Kris Williams
-	tag: 0untagged
+	tag: 0-untagged
 page:next-big-thing
 	date: 2010-03-17
 	desc: Next Big Thing
-	tag: 0untagged
+	tag: 0-untagged
 page:braless-pirouettes
 	date: 2010-03-16
 	desc: Braless Pirouettes
-	tag: 0untagged
+	tag: 0-untagged
 page:dump-the-tiara
 	date: 2010-03-15
 	desc: Dump The Tiara
-	tag: 0untagged
+	tag: 0-untagged
 page:another-adventur
 	date: 2010-03-12
 	desc: Another Adventure
-	tag: 0untagged
+	tag: 0-untagged
 page:arguing-with-a-betta
 	date: 2010-03-11
 	desc: Arguing With A Betta
-	tag: 0untagged
+	tag: 0-untagged
 page:take-that-back
 	date: 2010-03-10
 	desc: Take That Back
-	tag: 0untagged
+	tag: 0-untagged
 page:wine-and-good-conversation
 	date: 2010-03-09
 	desc: Wine And Good Conversation
-	tag: 0untagged
+	tag: 0-untagged
 page:hey-oscar
 	date: 2010-03-08
 	desc: Hey Oscar
-	tag: 0untagged
+	tag: 0-untagged
 page:there-to-catch-u
 	date: 2010-03-05
 	desc: There To Catch Us
-	tag: 0untagged
+	tag: 0-untagged
 page:attack-of-the-ic
 	date: 2010-03-04
 	desc: Attack Of The Ice
-	tag: 0untagged
+	tag: 0-untagged
 page:a-close-eye
 	date: 2010-03-03
 	desc: A Close Eye
-	tag: 0untagged
+	tag: 0-untagged
 page:is-irrelevant
 	date: 2010-03-02
 	desc: Is Irrelevant
-	tag: 0untagged
+	tag: 0-untagged
 page:quite-obvious
 	date: 2010-03-01
 	desc: Quite Obvious
-	tag: 0untagged
+	tag: 0-untagged
 page:packed-up
 	date: 2010-02-26
 	desc: Packed Up
-	tag: 0untagged
+	tag: 0-untagged
 page:smell-of-burning-pine
 	date: 2010-02-25
 	desc: Smell Of Burning Pine
-	tag: 0untagged
+	tag: 0-untagged
 page:you-and-shelly
 	date: 2010-02-24
 	desc: You And Shelly
-	tag: 0untagged
+	tag: 0-untagged
 page:acquired-taste
 	date: 2010-02-23
 	desc: Acquired Taste
-	tag: 0untagged
+	tag: 0-untagged
 page:protecting-them
 	date: 2010-02-22
 	desc: Protecting Them
-	tag: 0untagged
+	tag: 0-untagged
 page:ones-you-should-trust
 	date: 2010-02-19
 	desc: Ones You Should Trust
-	tag: 0untagged
+	tag: 0-untagged
 page:supernatural-hassles
 	date: 2010-02-18
 	desc: Supernatural Hassles
-	tag: 0untagged
+	tag: 0-untagged
 page:no-other-shoe
 	date: 2010-02-17
 	desc: No Other Shoe
-	tag: 0untagged
+	tag: 0-untagged
 page:the-honor-is-min
 	date: 2010-02-16
 	desc: The Honor Is Mine
-	tag: 0untagged
+	tag: 0-untagged
 page:nice-to-meet-you
 	date: 2010-02-15
 	desc: Nice To Meet You
-	tag: 0untagged
+	tag: 0-untagged
 page:emotionally-char
 	date: 2010-02-12
 	desc: Emotionally Char
-	tag: 0untagged
+	tag: 0-untagged
 page:office-phix
 	date: 2010-02-11
 	desc: Office Phix
-	tag: 0untagged
+	tag: 0-untagged
 page:their-own-devices
 	date: 2010-02-10
 	desc: Their Own Devices
-	tag: 0untagged
+	tag: 0-untagged
 page:back-to-normal
 	date: 2010-02-09
 	desc: Back To Normal
-	tag: 0untagged
+	tag: 0-untagged
 page:something-in-myself
 	date: 2010-02-08
 	desc: Something In Myself
-	tag: 0untagged
+	tag: 0-untagged
 page:get-things-sorte
 	date: 2010-02-05
 	desc: Get Things Sorted
-	tag: 0untagged
+	tag: 0-untagged
 page:it-went-phbbbbbb
 	date: 2010-02-04
 	desc: It Went Phbbbbbb
-	tag: 0untagged
+	tag: 0-untagged
 page:sonic-boom
 	date: 2010-02-03
 	desc: Sonic Boom
-	tag: 0untagged
+	tag: 0-untagged
 page:already-there
 	date: 2010-02-02
 	desc: Already There
-	tag: 0untagged
+	tag: 0-untagged
 page:but-what-if
 	date: 2010-02-01
 	desc: But What If
-	tag: 0untagged
+	tag: 0-untagged
 page:kind-of-disturbi
 	date: 2010-01-29
 	desc: Kind Of Disturbing
-	tag: 0untagged
+	tag: 0-untagged
 page:hard-core
 	date: 2010-01-28
 	desc: Hard Core
-	tag: 0untagged
+	tag: 0-untagged
 page:quite-easy
 	date: 2010-01-27
 	desc: Quite Easy
-	tag: 0untagged
+	tag: 0-untagged
 page:where-do-i-start
 	date: 2010-01-26
 	desc: Where Do I Start
-	tag: 0untagged
+	tag: 0-untagged
 page:clouds-are-just-a-veil
 	date: 2010-01-25
 	desc: Clouds Are Just A Veil
-	tag: 0untagged
+	tag: 0-untagged
 page:what-happened
 	date: 2010-01-22
 	desc: What Happened
-	tag: 0untagged
+	tag: 0-untagged
 page:look-at-the-time
 	date: 2010-01-21
 	desc: Look At The Time
-	tag: 0untagged
+	tag: 0-untagged
 page:i-promise
 	date: 2010-01-20
 	desc: I Promise
-	tag: 0untagged
+	tag: 0-untagged
 page:been-waiting
 	date: 2010-01-19
 	desc: Been Waiting
-	tag: 0untagged
+	tag: 0-untagged
 page:how-long-was-i-gone
 	date: 2010-01-18
 	desc: How Long Was I Gone
-	tag: 0untagged
+	tag: 0-untagged
 page:ink-be-gone
 	date: 2010-01-15
 	desc: Ink Be Gone
-	tag: 0untagged
+	tag: 0-untagged
 page:guess-its-my-tur
 	date: 2010-01-14
 	desc: Guess Its My Turn
-	tag: 0untagged
+	tag: 0-untagged
 page:that-was-the-poi
 	date: 2010-01-13
 	desc: That Was The Point
-	tag: 0untagged
+	tag: 0-untagged
 page:bring-her-back
 	date: 2010-01-12
 	desc: Bring Her Back
-	tag: 0untagged
+	tag: 0-untagged
 page:lock-her-down
 	date: 2010-01-11
 	desc: Lock Her Down
-	tag: 0untagged
+	tag: 0-untagged
 page:one-more-bit-of-business
 	date: 2010-01-08
 	desc: One More Bit Of Business
-	tag: 0untagged
+	tag: 0-untagged
 page:suck-her-in
 	date: 2010-01-07
 	desc: Suck Her In
-	tag: 0untagged
+	tag: 0-untagged
 page:we-have-rules
 	date: 2010-01-06
 	desc: We Have Rules
-	tag: 0untagged
+	tag: 0-untagged
 page:hold-on-to-your-ass
 	date: 2010-01-05
 	desc: Hold On To Your Ass
-	tag: 0untagged
+	tag: 0-untagged
 page:your-precious-doorway
 	date: 2010-01-04
 	desc: Your Precious Doorway
-	tag: 0untagged
+	tag: 0-untagged
 page:a-special-place-in-hell
 	date: 2010-01-01
 	desc: A Special Place In Hell
-	tag: 0untagged
+	tag: 0-untagged
 page:change-of-plans
 	date: 2009-12-31
 	desc: Change Of Plans
-	tag: 0untagged
+	tag: 0-untagged
 page:hold-on
 	date: 2009-12-30
 	desc: Hold On
-	tag: 0untagged
+	tag: 0-untagged
 page:expendable-tool
 	date: 2009-12-29
 	desc: Expendable Tool
-	tag: 0untagged
+	tag: 0-untagged
 page:whats-the-worst
 	date: 2009-12-28
 	desc: What's The Worst
-	tag: 0untagged
+	tag: 0-untagged
 page:happy-holidays-2
 	date: 2009-12-25
 	desc: Happy Holidays
-	tag: 0untagged
+	tag: 0-untagged
 page:whats-my-motivat
 	date: 2009-12-24
 	desc: What's My Motivation?
-	tag: 0untagged
+	tag: 0-untagged
 page:on-command
 	date: 2009-12-23
 	desc: On Command
-	tag: 0untagged
+	tag: 0-untagged
 page:welcome-to-my-world
 	date: 2009-12-22
 	desc: Welcome To My World
-	tag: 0untagged
+	tag: 0-untagged
 page:cmon-ladies
 	date: 2009-12-21
 	desc: Cmon Ladies
-	tag: 0untagged
+	tag: 0-untagged
 page:seamus-patrick-burke-wapsi-guest-comic
 	date: 2009-12-18
 	desc: Seamus Patrick Burke Wapsi Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:diana-nock-wapsi-guest-comic
 	date: 2009-12-17
 	desc: Diana Nock Wapsi Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:lindsay-jane-wapsi-guest-comic
 	date: 2009-12-16
 	desc: Lindsay Jane Wapsi Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:duessa-wapsi-guest-comic
 	date: 2009-12-15
 	desc: Duessa Wapsi Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:rachel-dukes-wapsi-guest-comic
 	date: 2009-12-14
 	desc: Rachel Dukes Wapsi Guest Comic
-	tag: 0untagged
+	tag: 0-untagged
 page:pretty-darn-clos
 	date: 2009-12-11
 	desc: Pretty Darn Close
-	tag: 0untagged
+	tag: 0-untagged
 page:before-you-can
 	date: 2009-12-10
 	desc: Before You Can . . .
-	tag: 0untagged
+	tag: 0-untagged
 page:pack-the-bug-spray
 	date: 2009-12-09
 	desc: Pack The Bug Spray
-	tag: 0untagged
+	tag: 0-untagged
 page:you-got-that
 	date: 2009-12-08
 	desc: You Got That
-	tag: 0untagged
+	tag: 0-untagged
 page:the-night-before
 	date: 2009-12-07
 	desc: The Night Before
-	tag: 0untagged
+	tag: 0-untagged
 page:wipe-your-shoes
 	date: 2009-12-04
 	desc: Wipe Your Shoes
-	tag: 0untagged
+	tag: 0-untagged
 page:have-a-cookie
 	date: 2009-12-03
 	desc: Have A Cookie
-	tag: 0untagged
+	tag: 0-untagged
 page:im-honest
 	date: 2009-12-02
 	desc: I&#8217;m Honest
-	tag: 0untagged
+	tag: 0-untagged
 page:wise-words
 	date: 2009-12-01
 	desc: Wise Words
-	tag: 0untagged
+	tag: 0-untagged
 page:im-listening
 	date: 2009-11-30
 	desc: I&#8217;m Listening
-	tag: 0untagged
+	tag: 0-untagged
 page:room-full-of-fem
 	date: 2009-11-27
 	desc: Room Full Of Females
-	tag: 0untagged
+	tag: 0-untagged
 page:i-wont-let-them
 	date: 2009-11-26
 	desc: I Won&#8217;t Let Them
-	tag: 0untagged
+	tag: 0-untagged
 page:we-will-break-her
 	date: 2009-11-25
 	desc: We Will Break Her
-	tag: 0untagged
+	tag: 0-untagged
 page:mood-to-celebrate
 	date: 2009-11-24
 	desc: Mood To Celebrate
-	tag: 0untagged
+	tag: 0-untagged
 page:day-after-tomorrow-night
 	date: 2009-11-23
 	desc: Day After Tomorrow Night
-	tag: 0untagged
+	tag: 0-untagged
 page:into-the-sunset
 	date: 2009-11-20
 	desc: Into The Sunset
-	tag: 0untagged
+	tag: 0-untagged
 page:one-more-loon
 	date: 2009-11-19
 	desc: One More Loon
-	tag: 0untagged
+	tag: 0-untagged
 page:by-your-side
 	date: 2009-11-18
 	desc: By Your Side
-	tag: 0untagged
+	tag: 0-untagged
 page:you-must-know
 	date: 2009-11-17
 	desc: You Must Know
-	tag: 0untagged
+	tag: 0-untagged
 page:how-trivial
 	date: 2009-11-16
 	desc: How Trivial
-	tag: 0untagged
+	tag: 0-untagged
 page:bonkers-in-my-book
 	date: 2009-11-13
 	desc: Bonkers In My Book
-	tag: 0untagged
+	tag: 0-untagged
 page:right-as-rain
 	date: 2009-11-12
 	desc: Right As Rain
-	tag: 0untagged
+	tag: 0-untagged
 page:the-hell-we-do
 	date: 2009-11-11
 	desc: The Hell We Do
-	tag: 0untagged
+	tag: 0-untagged
 page:strictly-a-facade
 	date: 2009-11-10
 	desc: Strictly A Facade
-	tag: 0untagged
+	tag: 0-untagged
 page:you-have-a-tight-rein
 	date: 2009-11-09
 	desc: You Have A Tight Rein
-	tag: 0untagged
+	tag: 0-untagged
 page:your-own-misgivi
 	date: 2009-11-06
 	desc: Your Own Misgiving
-	tag: 0untagged
+	tag: 0-untagged
 page:take-this-and-do-this
 	date: 2009-11-05
 	desc: Take This And Do This
-	tag: 0untagged
+	tag: 0-untagged
 page:what-are-you
 	date: 2009-11-04
 	desc: What Are You
-	tag: 0untagged
+	tag: 0-untagged
 page:puts-up-with-you
 	date: 2009-11-03
 	desc: Puts Up With You
-	tag: 0untagged
+	tag: 0-untagged
 page:the-one-time
 	date: 2009-11-02
 	desc: The One Time
-	tag: 0untagged
+	tag: 0-untagged
 page:just-a-dream
 	date: 2009-10-30
 	desc: Just A Dream
-	tag: 0untagged
+	tag: 0-untagged
 page:she-followed-you
 	date: 2009-10-29
 	desc: She Followed You
-	tag: 0untagged
+	tag: 0-untagged
 page:see-me
 	date: 2009-10-28
 	desc: See Me
-	tag: 0untagged
+	tag: 0-untagged
 page:hear-her-already
 	date: 2009-10-27
 	desc: Hear Her Already
-	tag: 0untagged
+	tag: 0-untagged
 page:follow-some-scri
 	date: 2009-10-26
 	desc: Follow Some Script
-	tag: 0untagged
+	tag: 0-untagged
 page:hit-your-mark
 	date: 2009-10-23
 	desc: Hit Your Mark
-	tag: 0untagged
+	tag: 0-untagged
 page:how-would-you-feel
 	date: 2009-10-22
 	desc: How Would You Feel
-	tag: 0untagged
+	tag: 0-untagged
 page:viscerally-scares-me
 	date: 2009-10-21
 	desc: Viscerally Scares Me
-	tag: 0untagged
+	tag: 0-untagged
 page:all-hell-broke-loose
 	date: 2009-10-20
 	desc: All Hell Broke Loose
-	tag: 0untagged
+	tag: 0-untagged
 page:i-brought-coffee
 	date: 2009-10-19
 	desc: I Brought Coffee
-	tag: 0untagged
+	tag: 0-untagged
 page:what-possible-reason
 	date: 2009-10-16
 	desc: What Possible Reason
-	tag: 0untagged
+	tag: 0-untagged
 page:whats-the-catch
 	date: 2009-10-15
 	desc: What&#8217;s The Catch
-	tag: 0untagged
+	tag: 0-untagged
 page:dark-as-a-new-mo
 	date: 2009-10-14
 	desc: Dark As A New Moon
-	tag: 0untagged
+	tag: 0-untagged
 page:do-it
 	date: 2009-10-13
 	desc: Do It
-	tag: 0untagged
+	tag: 0-untagged
 page:no-doubt-here
 	date: 2009-10-12
 	desc: No Doubt Here
-	tag: 0untagged
+	tag: 0-untagged
 page:aw-cmon
 	date: 2009-10-09
 	desc: Aw Cmon
-	tag: 0untagged
+	tag: 0-untagged
 page:time-for-bed
 	date: 2009-10-08
 	desc: Time For Bed
-	tag: 0untagged
+	tag: 0-untagged
 page:tiramisu-worth-living-for
 	date: 2009-10-07
 	desc: Tiramisu Worth Living For
-	tag: 0untagged
+	tag: 0-untagged
 page:laughing-her-ass-off
 	date: 2009-10-06
 	desc: Laughing Her Ass Off
-	tag: 0untagged
+	tag: 0-untagged
 page:are-you-there
 	date: 2009-10-05
 	desc: Are You There
-	tag: 0untagged
+	tag: 0-untagged
 page:inside-a-clay-do
 	date: 2009-10-02
 	desc: Inside A Clay Doll
-	tag: 0untagged
+	tag: 0-untagged
 page:wow
 	date: 2009-10-01
 	desc: Wow
-	tag: 0untagged
+	tag: 0-untagged
 page:lewd-comment
 	date: 2009-09-30
 	desc: Lewd Comment
-	tag: 0untagged
+	tag: 0-untagged
 page:grow-old-togethe
 	date: 2009-09-29
 	desc: Grow Old Togethe
-	tag: 0untagged
+	tag: 0-untagged
 page:never-be-fixed
 	date: 2009-09-28
 	desc: Never Be Fixed
-	tag: 0untagged
+	tag: 0-untagged
 page:became-human
 	date: 2009-09-25
 	desc: Became Human
-	tag: 0untagged
+	tag: 0-untagged
 page:argumentum-ad-personam
 	date: 2009-09-24
 	desc: Argumentum Ad Personam
-	tag: 0untagged
+	tag: 0-untagged
 page:didforherself
 	date: 2009-09-23
 	desc: Didforherself
-	tag: 0untagged
+	tag: 0-untagged
 page:ourdoorway
 	date: 2009-09-22
 	desc: Ourdoorway
-	tag: 0untagged
+	tag: 0-untagged
 page:reallygrasps
 	date: 2009-09-21
 	desc: Reallygrasps
-	tag: 0untagged
+	tag: 0-untagged
 page:portholesanddoorwa
 	date: 2009-09-18
 	desc: Portholesanddoorwa
-	tag: 0untagged
+	tag: 0-untagged
 page:notmortality
 	date: 2009-09-17
 	desc: Notmortality
-	tag: 0untagged
+	tag: 0-untagged
 page:theyloveyou
 	date: 2009-09-16
 	desc: Theyloveyou
-	tag: 0untagged
+	tag: 0-untagged
 page:blissful
 	date: 2009-09-15
 	desc: Blissful
-	tag: 0untagged
+	tag: 0-untagged
 page:afreshstart
 	date: 2009-09-14
 	desc: Afreshstart
-	tag: 0untagged
+	tag: 0-untagged
 page:ihavemyown
 	date: 2009-09-11
 	desc: Ihavemyown
-	tag: 0untagged
+	tag: 0-untagged
 page:weallbelongtoyou
 	date: 2009-09-10
 	desc: Weallbelongtoyou
-	tag: 0untagged
+	tag: 0-untagged
 page:funnyhuh
 	date: 2009-09-09
 	desc: Funnyhuh
-	tag: 0untagged
+	tag: 0-untagged
 page:littlevisit
 	date: 2009-09-08
 	desc: Littlevisit
-	tag: 0untagged
+	tag: 0-untagged
 page:yourenotmine
 	date: 2009-09-07
 	desc: Yourenotmine
-	tag: 0untagged
+	tag: 0-untagged
 page:rescueeveryone
 	date: 2009-09-04
 	desc: Rescueeveryone
-	tag: 0untagged
+	tag: 0-untagged
 page:sheacelebrity
 	date: 2009-09-03
 	desc: Sheacelebrity
-	tag: 0untagged
+	tag: 0-untagged
 page:aboutyounow
 	date: 2009-09-02
 	desc: Aboutyounow
-	tag: 0untagged
+	tag: 0-untagged
 page:saysher
 	date: 2009-09-01
 	desc: Saysher
-	tag: 0untagged
+	tag: 0-untagged
 page:stinksofphix
 	date: 2009-08-31
 	desc: Stinksofphix
-	tag: 0untagged
+	tag: 0-untagged
 page:underjinsnose
 	date: 2009-08-28
 	desc: Underjinsnose
-	tag: 0untagged
+	tag: 0-untagged
 page:inthefaceofdoubt
 	date: 2009-08-27
 	desc: Inthefaceofdoubt
-	tag: 0untagged
+	tag: 0-untagged
 page:techtalk
 	date: 2009-08-26
 	desc: Techtalk
-	tag: 0untagged
+	tag: 0-untagged
 page:somethingmissing
 	date: 2009-08-25
 	desc: Somethingmissing
-	tag: 0untagged
+	tag: 0-untagged
 page:whatabout
 	date: 2009-08-24
 	desc: Whatabout
-	tag: 0untagged
+	tag: 0-untagged
 page:askwayemayaterlay
 	date: 2009-08-21
 	desc: Askwayemayaterlay
-	tag: 0untagged
+	tag: 0-untagged
 page:sillyus
 	date: 2009-08-20
 	desc: Sillyus
-	tag: 0untagged
+	tag: 0-untagged
 page:mentallymopthefloo
 	date: 2009-08-19
 	desc: Mentallymopthefloo
-	tag: 0untagged
+	tag: 0-untagged
 page:letsgo
 	date: 2009-08-18
 	desc: Letsgo
-	tag: 0untagged
+	tag: 0-untagged
 page:ivebeenstuck
 	date: 2009-08-17
 	desc: Ivebeenstuck
-	tag: 0untagged
+	tag: 0-untagged
 page:knowmorethanme
 	date: 2009-08-14
 	desc: Knowmorethanme
-	tag: 0untagged
+	tag: 0-untagged
 page:knowmore
 	date: 2009-08-13
 	desc: Knowmore
-	tag: 0untagged
+	tag: 0-untagged
 page:talkwithtina
 	date: 2009-08-12
 	desc: Talkwithtina
-	tag: 0untagged
+	tag: 0-untagged
 page:didistutter
 	date: 2009-08-11
 	desc: Didistutter
-	tag: 0untagged
+	tag: 0-untagged
 page:knowingme
 	date: 2009-08-10
 	desc: Knowingme
-	tag: 0untagged
+	tag: 0-untagged
 page:akindofkey
 	date: 2009-08-07
 	desc: Akindofkey
-	tag: 0untagged
+	tag: 0-untagged
 page:donthesitate
 	date: 2009-08-06
 	desc: Donthesitate
-	tag: 0untagged
+	tag: 0-untagged
 page:nocodetobreak
 	date: 2009-08-05
 	desc: Nocodetobreak
-	tag: 0untagged
+	tag: 0-untagged
 page:abitawkward
 	date: 2009-08-04
 	desc: Abitawkward
-	tag: 0untagged
+	tag: 0-untagged
 page:doasisay
 	date: 2009-08-03
 	desc: Doasisay
-	tag: 0untagged
+	tag: 0-untagged
 page:onecouldtell
 	date: 2009-07-31
 	desc: Onecouldtell
-	tag: 0untagged
+	tag: 0-untagged
 page:talkingtomyself
 	date: 2009-07-30
 	desc: Talkingtomyself
-	tag: 0untagged
+	tag: 0-untagged
 page:whatthehell
 	date: 2009-07-29
 	desc: Whatthehell
-	tag: 0untagged
+	tag: 0-untagged
 page:imsunshine
 	date: 2009-07-28
 	desc: Imsunshine
-	tag: 0untagged
+	tag: 0-untagged
 page:howdoyouremember
 	date: 2009-07-27
 	desc: Howdoyouremember
-	tag: 0untagged
+	tag: 0-untagged
 page:thefourthlight
 	date: 2009-07-17
 	desc: Thefourthlight
-	tag: 0untagged
+	tag: 0-untagged
 page:madetheconnection
 	date: 2009-07-16
 	desc: Madetheconnection
-	tag: 0untagged
+	tag: 0-untagged
 page:doubtstrick
 	date: 2009-07-15
 	desc: Doubtstrick
-	tag: 0untagged
+	tag: 0-untagged
 page:ouractions
 	date: 2009-07-14
 	desc: Ouractions
-	tag: 0untagged
+	tag: 0-untagged
 page:talkingaboutyourse
 	date: 2009-07-13
 	desc: Talkingaboutyourse
-	tag: 0untagged
+	tag: 0-untagged
 page:haveusback
 	date: 2009-07-10
 	desc: Haveusback
-	tag: 0untagged
+	tag: 0-untagged
 page:allgone
 	date: 2009-07-09
 	desc: Allgone
-	tag: 0untagged
+	tag: 0-untagged
 page:notmetalking
 	date: 2009-07-08
 	desc: Notmetalking
-	tag: 0untagged
+	tag: 0-untagged
 page:takingherplace
 	date: 2009-07-07
 	desc: Takingherplace
-	tag: 0untagged
+	tag: 0-untagged
 page:nightssleep
 	date: 2009-07-06
 	desc: Nightssleep
-	tag: 0untagged
+	tag: 0-untagged
 page:ilikethat
 	date: 2009-07-03
 	desc: Ilikethat
-	tag: 0untagged
+	tag: 0-untagged
 page:comfortfromplants
 	date: 2009-07-02
 	desc: Comfortfromplants
-	tag: 0untagged
+	tag: 0-untagged
 page:patchesofgrass
 	date: 2009-07-01
 	desc: Patchesofgrass
-	tag: 0untagged
+	tag: 0-untagged
 page:makeshortwork
 	date: 2009-06-30
 	desc: Makeshortwork
-	tag: 0untagged
+	tag: 0-untagged
 page:greenbodyparts
 	date: 2009-06-29
 	desc: Greenbodyparts
-	tag: 0untagged
+	tag: 0-untagged
 page:cumulativejournal
 	date: 2009-06-26
 	desc: Cumulativejournal
-	tag: 0untagged
+	tag: 0-untagged
 page:mycoffee
 	date: 2009-06-25
 	desc: Mycoffee
-	tag: 0untagged
+	tag: 0-untagged
 page:itsimpoitant
 	date: 2009-06-24
 	desc: Itsimpoitant
-	tag: 0untagged
+	tag: 0-untagged
 page:fellinplace
 	date: 2009-06-23
 	desc: Fellinplace
-	tag: 0untagged
+	tag: 0-untagged
 page:enjoyyourevening
 	date: 2009-06-22
 	desc: Enjoyyourevening
-	tag: 0untagged
+	tag: 0-untagged
 page:twophilosophers
 	date: 2009-06-19
 	desc: Twophilosophers
-	tag: 0untagged
+	tag: 0-untagged
 page:howsitimportant
 	date: 2009-06-18
 	desc: Howsitimportant
-	tag: 0untagged
+	tag: 0-untagged
 page:dothehonors
 	date: 2009-06-17
 	desc: Dothehonors
-	tag: 0untagged
+	tag: 0-untagged
 page:showyousomething
 	date: 2009-06-16
 	desc: Showyousomething
-	tag: 0untagged
+	tag: 0-untagged
 page:getthatplease
 	date: 2009-06-15
 	desc: Getthatplease
-	tag: 0untagged
+	tag: 0-untagged
 page:onemoreplease
 	date: 2009-06-12
 	desc: Onemoreplease
-	tag: 0untagged
+	tag: 0-untagged
 page:therapeutic
 	date: 2009-06-11
 	desc: Therapeutic
-	tag: 0untagged
+	tag: 0-untagged
 page:lookingfor
 	date: 2009-06-10
 	desc: Lookingfor
-	tag: 0untagged
+	tag: 0-untagged
 page:onebowlingball
 	date: 2009-06-09
 	desc: Onebowlingball
-	tag: 0untagged
+	tag: 0-untagged
 page:neededsupplies
 	date: 2009-06-08
 	desc: Neededsupplies
-	tag: 0untagged
+	tag: 0-untagged
 page:doesnthelp
 	date: 2009-06-05
 	desc: Doesnthelp
-	tag: 0untagged
+	tag: 0-untagged
 page:naturaldoorways
 	date: 2009-06-04
 	desc: Naturaldoorways
-	tag: 0untagged
+	tag: 0-untagged
 page:wallofplasma
 	date: 2009-06-03
 	desc: Wallofplasma
-	tag: 0untagged
+	tag: 0-untagged
 page:demonsshellenergy
 	date: 2009-06-02
 	desc: Demonsshellenergy
-	tag: 0untagged
+	tag: 0-untagged
 page:iknewit
 	date: 2009-06-01
 	desc: Iknewit
-	tag: 0untagged
+	tag: 0-untagged
 page:wealthofknowledge
 	date: 2009-05-29
 	desc: Wealthofknowledge
-	tag: 0untagged
+	tag: 0-untagged
 page:talkingwiththedead
 	date: 2009-05-28
 	desc: Talkingwiththedead
-	tag: 0untagged
+	tag: 0-untagged
 page:recordsenergy
 	date: 2009-05-27
 	desc: Recordsenergy
-	tag: 0untagged
+	tag: 0-untagged
 page:demonsarentghosts
 	date: 2009-05-26
 	desc: Demonsarentghosts
-	tag: 0untagged
+	tag: 0-untagged
 page:deathandtaxes
 	date: 2009-05-25
 	desc: Deathandtaxes
-	tag: 0untagged
+	tag: 0-untagged
 page:seleniumsaveus
 	date: 2009-05-22
 	desc: Seleniumsaveus
-	tag: 0untagged
+	tag: 0-untagged
 page:stuntedlikeme
 	date: 2009-05-21
 	desc: Stuntedlikeme
-	tag: 0untagged
+	tag: 0-untagged
 page:glomp
 	date: 2009-05-20
 	desc: Glomp
-	tag: 0untagged
+	tag: 0-untagged
 page:backtoback
 	date: 2009-05-19
 	desc: Backtoback
-	tag: 0untagged
+	tag: 0-untagged
 page:marathontonight
 	date: 2009-05-18
 	desc: Marathontonight
-	tag: 0untagged
+	tag: 0-untagged
 page:nopouting
 	date: 2009-05-15
 	desc: Nopouting
-	tag: 0untagged
+	tag: 0-untagged
 page:freshsqueezed
 	date: 2009-05-14
 	desc: Freshsqueezed
-	tag: 0untagged
+	tag: 0-untagged
 page:ignoreoutbursts
 	date: 2009-05-13
 	desc: Ignoreoutbursts
-	tag: 0untagged
+	tag: 0-untagged
 page:moresensitive
 	date: 2009-05-12
 	desc: Moresensitive
-	tag: 0untagged
+	tag: 0-untagged
 page:saturdayallday
 	date: 2009-05-11
 	desc: Saturdayallday
-	tag: 0untagged
+	tag: 0-untagged
 page:tinycrisisaverted
 	date: 2009-05-08
 	desc: Tinycrisisaverted
-	tag: 0untagged
+	tag: 0-untagged
 page:explaintome
 	date: 2009-05-07
 	desc: Explaintome
-	tag: 0untagged
+	tag: 0-untagged
 page:beforeitstoolate
 	date: 2009-05-06
 	desc: Beforeitstoolate
-	tag: 0untagged
+	tag: 0-untagged
 page:whatsnext
 	date: 2009-05-05
 	desc: Whatsnext
-	tag: 0untagged
+	tag: 0-untagged
 page:inhisprogramming
 	date: 2009-05-04
 	desc: Inhisprogramming
-	tag: 0untagged
+	tag: 0-untagged
 page:moodywhensober
 	date: 2009-05-01
 	desc: Moodywhensober
-	tag: 0untagged
+	tag: 0-untagged
 page:howmuchtheydrank
 	date: 2009-04-30
 	desc: Howmuchtheydrank
-	tag: 0untagged
+	tag: 0-untagged
 page:dontupsether
 	date: 2009-04-29
 	desc: Dontupsether
-	tag: 0untagged
+	tag: 0-untagged
 page:illlive
 	date: 2009-04-28
 	desc: Illlive
-	tag: 0untagged
+	tag: 0-untagged
 page:echidnamartini
 	date: 2009-04-27
 	desc: Echidnamartini
-	tag: 0untagged
+	tag: 0-untagged
 page:dontsaythat
 	date: 2009-04-24
 	desc: Dontsaythat
-	tag: 0untagged
+	tag: 0-untagged
 page:areyoulost-3
 	date: 2009-04-23
 	desc: Areyoulost
-	tag: 0untagged
+	tag: 0-untagged
 page:holeathercore
 	date: 2009-04-22
 	desc: Holeathercore
-	tag: 0untagged
+	tag: 0-untagged
 page:understanding
 	date: 2009-04-21
 	desc: Understanding
-	tag: 0untagged
+	tag: 0-untagged
 page:dontmindme
 	date: 2009-04-20
 	desc: Dontmindme
-	tag: 0untagged
+	tag: 0-untagged
 page:justus
 	date: 2009-04-17
 	desc: Justus
-	tag: 0untagged
+	tag: 0-untagged
 page:fauxtimetraveler
 	date: 2009-04-16
 	desc: Fauxtimetraveler
-	tag: 0untagged
+	tag: 0-untagged
 page:nomoreloop
 	date: 2009-04-15
 	desc: Nomoreloop
-	tag: 0untagged
+	tag: 0-untagged
 page:comedancing
 	date: 2009-04-14
 	desc: Comedancing
-	tag: 0untagged
+	tag: 0-untagged
 page:theytalk
 	date: 2009-04-13
 	desc: Theytalk
-	tag: 0untagged
+	tag: 0-untagged
 page:demonlaw
 	date: 2009-04-10
 	desc: Demonlaw
-	tag: 0untagged
+	tag: 0-untagged
 page:wisewords
 	date: 2009-04-09
 	desc: Wisewords
-	tag: 0untagged
+	tag: 0-untagged
 page:soangry
 	date: 2009-04-08
 	desc: Soangry
-	tag: 0untagged
+	tag: 0-untagged
 page:naughtynaughty
 	date: 2009-04-07
 	desc: Naughtynaughty
-	tag: 0untagged
+	tag: 0-untagged
 page:femoralartery
 	date: 2009-04-06
 	desc: Femoralartery
-	tag: 0untagged
+	tag: 0-untagged
 page:touchebabe
 	date: 2009-04-03
 	desc: Touchebabe
-	tag: 0untagged
+	tag: 0-untagged
 page:ohplease
 	date: 2009-04-02
 	desc: Ohplease
-	tag: 0untagged
+	tag: 0-untagged
 page:nofoolin
 	date: 2009-04-01
 	desc: Nofoolin
-	tag: 0untagged
+	tag: 0-untagged
 page:toobusyboinking
 	date: 2009-03-31
 	desc: Toobusyboinking
-	tag: 0untagged
+	tag: 0-untagged
 page:joinusguys
 	date: 2009-03-30
 	desc: Joinusguys
-	tag: 0untagged
+	tag: 0-untagged
 page:backoff
 	date: 2009-03-27
 	desc: Backoff
-	tag: 0untagged
+	tag: 0-untagged
 page:partofyoudid
 	date: 2009-03-26
 	desc: Partofyoudid
-	tag: 0untagged
+	tag: 0-untagged
 page:justtweaking
 	date: 2009-03-25
 	desc: Justtweaking
-	tag: 0untagged
+	tag: 0-untagged
 page:itsawus
 	date: 2009-03-24
 	desc: Itsawus
-	tag: 0untagged
+	tag: 0-untagged
 page:hadaheartbeat
 	date: 2009-03-23
 	desc: Hadaheartbeat
-	tag: 0untagged
+	tag: 0-untagged
 page:itsbreathing
 	date: 2009-03-20
 	desc: Itsbreathing
-	tag: 0untagged
+	tag: 0-untagged
 page:cutebroom
 	date: 2009-03-19
 	desc: Cutebroom
-	tag: 0untagged
+	tag: 0-untagged
 page:bitoftheatrics
 	date: 2009-03-18
 	desc: Bitoftheatrics
-	tag: 0untagged
+	tag: 0-untagged
 page:hairlikestraw
 	date: 2009-03-17
 	desc: Hairlikestraw
-	tag: 0untagged
+	tag: 0-untagged
 page:washmybrain
 	date: 2009-03-16
 	desc: Washmybrain
-	tag: 0untagged
+	tag: 0-untagged
 page:grandpagettinsome
 	date: 2009-03-13
 	desc: Grandpagettinsome
-	tag: 0untagged
+	tag: 0-untagged
 page:grabsomebeer
 	date: 2009-03-12
 	desc: Grabsomebeer
-	tag: 0untagged
+	tag: 0-untagged
 page:youoldfart
 	date: 2009-03-11
 	desc: Youoldfart
-	tag: 0untagged
+	tag: 0-untagged
 page:morecivilized
 	date: 2009-03-10
 	desc: Morecivilized
-	tag: 0untagged
+	tag: 0-untagged
 page:followgrandpa
 	date: 2009-03-09
 	desc: Followgrandpa
-	tag: 0untagged
+	tag: 0-untagged
 page:irrationalfear
 	date: 2009-03-06
 	desc: Irrationalfear
-	tag: 0untagged
+	tag: 0-untagged
 page:abitdisturbing
 	date: 2009-03-05
 	desc: Abitdisturbing
-	tag: 0untagged
+	tag: 0-untagged
 page:legalstimulants
 	date: 2009-03-04
 	desc: Legalstimulants
-	tag: 0untagged
+	tag: 0-untagged
 page:pickthisuplater
 	date: 2009-03-03
 	desc: Pickthisuplater
-	tag: 0untagged
+	tag: 0-untagged
 page:whatsthedeal
 	date: 2009-03-02
 	desc: Whatsthedeal
-	tag: 0untagged
+	tag: 0-untagged
 page:therebemonsters
 	date: 2009-02-27
 	desc: Therebemonsters
-	tag: 0untagged
+	tag: 0-untagged
 page:igotnothing
 	date: 2009-02-26
 	desc: Igotnothing
-	tag: 0untagged
+	tag: 0-untagged
 page:wherestherestroom
 	date: 2009-02-25
 	desc: Wherestherestroom
-	tag: 0untagged
+	tag: 0-untagged
 page:adventureorknowledge
 	date: 2009-02-24
 	desc: Adventureorknowledge
-	tag: 0untagged
+	tag: 0-untagged
 page:asphinxiated
 	date: 2009-02-23
 	desc: Asphinxiated
-	tag: 0untagged
+	tag: 0-untagged
 page:spititout
 	date: 2009-02-20
 	desc: Spititout
-	tag: 0untagged
+	tag: 0-untagged
 page:okaywiththat
 	date: 2009-02-19
 	desc: Okaywiththat
-	tag: 0untagged
+	tag: 0-untagged
 page:myonlyenemy
 	date: 2009-02-18
 	desc: Myonlyenemy
-	tag: 0untagged
+	tag: 0-untagged
 page:fairytale
 	date: 2009-02-17
 	desc: Fairytale
-	tag: 0untagged
+	tag: 0-untagged
 page:debunked
 	date: 2009-02-16
 	desc: Debunked
-	tag: 0untagged
+	tag: 0-untagged
 page:watchathink
 	date: 2009-02-13
 	desc: Watchathink
-	tag: 0untagged
+	tag: 0-untagged
 page:awscrewit
 	date: 2009-02-12
 	desc: Awscrewit
-	tag: 0untagged
+	tag: 0-untagged
 page:fishsauce
 	date: 2009-02-11
 	desc: Fishsauce
-	tag: 0untagged
+	tag: 0-untagged
 page:charades
 	date: 2009-02-10
 	desc: Charades
-	tag: 0untagged
+	tag: 0-untagged
 page:laterdorks
 	date: 2009-02-09
 	desc: Laterdorks
-	tag: 0untagged
+	tag: 0-untagged
 page:priceless
 	date: 2009-02-06
 	desc: Priceless
-	tag: 0untagged
+	tag: 0-untagged
 page:iwontletyou
 	date: 2009-02-05
 	desc: Iwontletyou
-	tag: 0untagged
+	tag: 0-untagged
 page:notmyproblem
 	date: 2009-02-04
 	desc: Notmyproblem
-	tag: 0untagged
+	tag: 0-untagged
 page:cantbehurt
 	date: 2009-02-03
 	desc: Cantbehurt
-	tag: 0untagged
+	tag: 0-untagged
 page:stayoutofthis
 	date: 2009-02-02
 	desc: Stayoutofthis
-	tag: 0untagged
+	tag: 0-untagged
 page:youscared
 	date: 2009-01-30
 	desc: Youscared
-	tag: 0untagged
+	tag: 0-untagged
 page:somekindofmagician
 	date: 2009-01-29
 	desc: Somekindofmagician
-	tag: 0untagged
+	tag: 0-untagged
 page:screeeee
 	date: 2009-01-28
 	desc: Screeeee
-	tag: 0untagged
+	tag: 0-untagged
 page:losthermarbles
 	date: 2009-01-27
 	desc: Losthermarbles
-	tag: 0untagged
+	tag: 0-untagged
 page:getinhere
 	date: 2009-01-26
 	desc: Getinhere
-	tag: 0untagged
+	tag: 0-untagged
 page:expectinganyone
 	date: 2009-01-23
 	desc: Expectinganyone
-	tag: 0untagged
+	tag: 0-untagged
 page:drinkofwater
 	date: 2009-01-22
 	desc: Drinkofwater
-	tag: 0untagged
+	tag: 0-untagged
 page:throwingusaway
 	date: 2009-01-21
 	desc: Throwingusaway
-	tag: 0untagged
+	tag: 0-untagged
 page:cheersbabe
 	date: 2009-01-20
 	desc: Cheersbabe
-	tag: 0untagged
+	tag: 0-untagged
 page:youreincharge
 	date: 2009-01-19
 	desc: Youreincharge
-	tag: 0untagged
+	tag: 0-untagged
 page:uponatime
 	date: 2009-01-16
 	desc: Uponatime
-	tag: 0untagged
+	tag: 0-untagged
 page:theutmostfinesse
 	date: 2009-01-15
 	desc: Theutmostfinesse
-	tag: 0untagged
+	tag: 0-untagged
 page:shootingatme
 	date: 2009-01-14
 	desc: Shootingatme
-	tag: 0untagged
+	tag: 0-untagged
 page:phonecallaway
 	date: 2009-01-13
 	desc: Phonecallaway
-	tag: 0untagged
+	tag: 0-untagged
 page:whattodo
 	date: 2009-01-12
 	desc: Whattodo
-	tag: 0untagged
+	tag: 0-untagged
 page:therewasagirl
 	date: 2009-01-09
 	desc: Therewasagirl
-	tag: 0untagged
+	tag: 0-untagged
 page:nolongerathreat
 	date: 2009-01-08
 	desc: Nolongerathreat
-	tag: 0untagged
+	tag: 0-untagged
 page:motherhen
 	date: 2009-01-07
 	desc: Motherhen
-	tag: 0untagged
+	tag: 0-untagged
 page:notyourfault
 	date: 2009-01-06
 	desc: Notyourfault
-	tag: 0untagged
+	tag: 0-untagged
 page:badshots
 	date: 2009-01-05
 	desc: Badshots
-	tag: 0untagged
+	tag: 0-untagged
 page:kalashnikovdodgeba
 	date: 2009-01-02
 	desc: Kalashnikovdodgeba
-	tag: 0untagged
+	tag: 0-untagged
 page:justafewholes
 	date: 2009-01-01
 	desc: Justafewholes
-	tag: 0untagged
+	tag: 0-untagged
 page:noplacelikehome
 	date: 2008-12-31
 	desc: Noplacelikehome
-	tag: 0untagged
+	tag: 0-untagged
 page:oopsiepoit
 	date: 2008-12-30
 	desc: Oopsiepoit
-	tag: 0untagged
+	tag: 0-untagged
 page:leavetheguntakethecloth
 	date: 2008-12-29
 	desc: Leavetheguntakethecloth
-	tag: 0untagged
+	tag: 0-untagged
 page:notanyfruitmarket
 	date: 2008-12-26
 	desc: Notanyfruitmarket
-	tag: 0untagged
+	tag: 0-untagged
 page:asimpleplan
 	date: 2008-12-25
 	desc: Asimpleplan
-	tag: 0untagged
+	tag: 0-untagged
 page:thefruitmarket
 	date: 2008-12-24
 	desc: Thefruitmarket
-	tag: 0untagged
+	tag: 0-untagged
 page:anotherpizza
 	date: 2008-12-23
 	desc: Anotherpizza
-	tag: 0untagged
+	tag: 0-untagged
 page:forcryinoutloud
 	date: 2008-12-22
 	desc: Forcryinoutloud
-	tag: 0untagged
+	tag: 0-untagged
 page:boilerroom
 	date: 2008-12-19
 	desc: Boilerroom
-	tag: 0untagged
+	tag: 0-untagged
 page:alewapsi
 	date: 2008-12-18
 	desc: Alewapsi
-	tag: 0untagged
+	tag: 0-untagged
 page:lindwapsi
 	date: 2008-12-17
 	desc: Lindwapsi
-	tag: 0untagged
+	tag: 0-untagged
 page:wapsiba
 	date: 2008-12-16
 	desc: Wapsiba
-	tag: 0untagged
+	tag: 0-untagged
 page:duwapsi
 	date: 2008-12-15
 	desc: Duwapsi
-	tag: 0untagged
+	tag: 0-untagged
 page:oneofhermoments
 	date: 2008-12-12
 	desc: Oneofhermoments
-	tag: 0untagged
+	tag: 0-untagged
 page:unlikeindianajones
 	date: 2008-12-11
 	desc: Unlikeindianajones
-	tag: 0untagged
+	tag: 0-untagged
 page:anyideas
 	date: 2008-12-10
 	desc: Anyideas
-	tag: 0untagged
+	tag: 0-untagged
 page:payattention
 	date: 2008-12-09
 	desc: Payattention
-	tag: 0untagged
+	tag: 0-untagged
 page:sunlightandmoirror
 	date: 2008-12-08
 	desc: Sunlightandmoirror
-	tag: 0untagged
+	tag: 0-untagged
 page:outgrowingyourbras
 	date: 2008-12-05
 	desc: Outgrowingyourbras
-	tag: 0untagged
+	tag: 0-untagged
 page:illdial
 	date: 2008-12-04
 	desc: Illdial
-	tag: 0untagged
+	tag: 0-untagged
 page:careaboutme
 	date: 2008-12-03
 	desc: Careaboutme
-	tag: 0untagged
+	tag: 0-untagged
 page:findyourworth
 	date: 2008-12-02
 	desc: Findyourworth
-	tag: 0untagged
+	tag: 0-untagged
 page:morethanginormoushooters
 	date: 2008-12-01
 	desc: Morethanginormoushooters
-	tag: 0untagged
+	tag: 0-untagged
 page:notthereyet
 	date: 2008-11-28
 	desc: Notthereyet
-	tag: 0untagged
+	tag: 0-untagged
 page:coffeeeclair
 	date: 2008-11-27
 	desc: Coffeeeclair
-	tag: 0untagged
+	tag: 0-untagged
 page:ourguidance
 	date: 2008-11-26
 	desc: Ourguidance
-	tag: 0untagged
+	tag: 0-untagged
 page:dontyouknock
 	date: 2008-11-25
 	desc: Dontyouknock
-	tag: 0untagged
+	tag: 0-untagged
 page:thefallguy
 	date: 2008-11-24
 	desc: Thefallguy
-	tag: 0untagged
+	tag: 0-untagged
 page:compresseddiamonds
 	date: 2008-11-21
 	desc: Compresseddiamonds
-	tag: 0untagged
+	tag: 0-untagged
 page:ancientdiscoball
 	date: 2008-11-20
 	desc: Ancientdiscoball
-	tag: 0untagged
+	tag: 0-untagged
 page:outofyourhair
 	date: 2008-11-19
 	desc: Outofyourhair
-	tag: 0untagged
+	tag: 0-untagged
 page:lanthianchotskis
 	date: 2008-11-18
 	desc: Lanthianchotskis
-	tag: 0untagged
+	tag: 0-untagged
 page:workingsupper
 	date: 2008-11-17
 	desc: Workingsupper
-	tag: 0untagged
+	tag: 0-untagged
 page:itsfamiliar
 	date: 2008-11-14
 	desc: Itsfamiliar
-	tag: 0untagged
+	tag: 0-untagged
 page:imsneaky
 	date: 2008-11-13
 	desc: Imsneaky
-	tag: 0untagged
+	tag: 0-untagged
 page:leftmeclues
 	date: 2008-11-12
 	desc: Leftmeclues
-	tag: 0untagged
+	tag: 0-untagged
 page:anotherbook
 	date: 2008-11-11
 	desc: Anotherbook
-	tag: 0untagged
+	tag: 0-untagged
 page:notjinsbook
 	date: 2008-11-10
 	desc: Notjinsbook
-	tag: 0untagged
+	tag: 0-untagged
 page:feltimportant
 	date: 2008-10-31
 	desc: Feltimportant
-	tag: 0untagged
+	tag: 0-untagged
 page:looksfamiliar
 	date: 2008-10-30
 	desc: Looksfamiliar
-	tag: 0untagged
+	tag: 0-untagged
 page:mostlybenign
 	date: 2008-10-29
 	desc: Mostlybenign
-	tag: 0untagged
+	tag: 0-untagged
 page:plentyoftime
 	date: 2008-10-28
 	desc: Plentyoftime
-	tag: 0untagged
+	tag: 0-untagged
 page:wellgeeze
 	date: 2008-10-27
 	desc: Wellgeeze
-	tag: 0untagged
+	tag: 0-untagged
 page:wontwanttodo
 	date: 2008-10-24
 	desc: Wontwanttodo
-	tag: 0untagged
+	tag: 0-untagged
 page:doneitbefore
 	date: 2008-10-23
 	desc: Doneitbefore
-	tag: 0untagged
+	tag: 0-untagged
 page:readingforfun
 	date: 2008-10-22
 	desc: Readingforfun
-	tag: 0untagged
+	tag: 0-untagged
 page:fiftysixtimes
 	date: 2008-10-21
 	desc: Fiftysixtimes
-	tag: 0untagged
+	tag: 0-untagged
 page:didiwriteit
 	date: 2008-10-20
 	desc: Didiwriteit
-	tag: 0untagged
+	tag: 0-untagged
 page:knowstheauthor
 	date: 2008-10-17
 	desc: Knowstheauthor
-	tag: 0untagged
+	tag: 0-untagged
 page:gotchaleaf
 	date: 2008-10-16
 	desc: Gotchaleaf
-	tag: 0untagged
+	tag: 0-untagged
 page:diametricday
 	date: 2008-10-15
 	desc: Diametricday
-	tag: 0untagged
+	tag: 0-untagged
 page:stickynotes
 	date: 2008-10-14
 	desc: Stickynotes
-	tag: 0untagged
+	tag: 0-untagged
 page:becomingfriends
 	date: 2008-10-13
 	desc: Becomingfriends
-	tag: 0untagged
+	tag: 0-untagged
 page:whythesubterfuge
 	date: 2008-10-10
 	desc: Whythesubterfuge
-	tag: 0untagged
+	tag: 0-untagged
 page:expectmehappy
 	date: 2008-10-09
 	desc: Expectmehappy
-	tag: 0untagged
+	tag: 0-untagged
 page:caringagain
 	date: 2008-10-08
 	desc: Caringagain
-	tag: 0untagged
+	tag: 0-untagged
 page:putonsomesocks
 	date: 2008-10-07
 	desc: Putonsomesocks
-	tag: 0untagged
+	tag: 0-untagged
 page:frozentoes
 	date: 2008-10-06
 	desc: Frozentoes
-	tag: 0untagged
+	tag: 0-untagged
 page:thinkingaboutsex
 	date: 2008-10-03
 	desc: Thinkingaboutsex
-	tag: 0untagged
+	tag: 0-untagged
 page:takealook
 	date: 2008-10-02
 	desc: Takealook
-	tag: 0untagged
+	tag: 0-untagged
 page:appearsolid
 	date: 2008-10-01
 	desc: Appearsolid
-	tag: 0untagged
+	tag: 0-untagged
 page:partsvibrate
 	date: 2008-09-30
 	desc: Partsvibrate
-	tag: 0untagged
+	tag: 0-untagged
 page:punishmentenough
 	date: 2008-09-29
 	desc: Punishmentenough
-	tag: 0untagged
+	tag: 0-untagged
 page:everythingiknow
 	date: 2008-09-26
 	desc: Everythingiknow
-	tag: 0untagged
+	tag: 0-untagged
 page:saneones
 	date: 2008-09-25
 	desc: Saneones
-	tag: 0untagged
+	tag: 0-untagged
 page:whatbananas
 	date: 2008-09-24
 	desc: Whatbananas
-	tag: 0untagged
+	tag: 0-untagged
 page:outoforder
 	date: 2008-09-23
 	desc: Outoforder
-	tag: 0untagged
+	tag: 0-untagged
 page:lockeddoorway
 	date: 2008-09-22
 	desc: Lockeddoorway
-	tag: 0untagged
+	tag: 0-untagged
 page:ilikehim
 	date: 2008-09-19
 	desc: Ilikehim
-	tag: 0untagged
+	tag: 0-untagged
 page:agoodquestion
 	date: 2008-09-18
 	desc: Agoodquestion
-	tag: 0untagged
+	tag: 0-untagged
 page:ryansurprise
 	date: 2008-09-17
 	desc: Ryansurprise
-	tag: 0untagged
+	tag: 0-untagged
 page:lingeringmysteries
 	date: 2008-09-16
 	desc: Lingeringmysteries
-	tag: 0untagged
+	tag: 0-untagged
 page:beingasmartass
 	date: 2008-09-15
 	desc: Beingasmartass
-	tag: 0untagged
+	tag: 0-untagged
 page:ohigetit
 	date: 2008-09-12
 	desc: Ohigetit
-	tag: 0untagged
+	tag: 0-untagged
 page:knotholes
 	date: 2008-09-11
 	desc: Knotholes
-	tag: 0untagged
+	tag: 0-untagged
 page:likeanadventure
 	date: 2008-09-10
 	desc: Likeanadventure
-	tag: 0untagged
+	tag: 0-untagged
 page:poitlogistics
 	date: 2008-09-09
 	desc: Poitlogistics
-	tag: 0untagged
+	tag: 0-untagged
 page:dontfreak
 	date: 2008-09-08
 	desc: Dontfreak
-	tag: 0untagged
+	tag: 0-untagged
 page:hesakeeper
 	date: 2008-09-05
 	desc: Hesakeeper
-	tag: 0untagged
+	tag: 0-untagged
 page:howcouldyou-2
 	date: 2008-09-04
 	desc: Howcouldyou
-	tag: 0untagged
+	tag: 0-untagged
 page:idontshare
 	date: 2008-09-03
 	desc: Idontshare
-	tag: 0untagged
+	tag: 0-untagged
 page:justsomeguy
 	date: 2008-09-02
 	desc: Justsomeguy
-	tag: 0untagged
+	tag: 0-untagged
 page:sotouched
 	date: 2008-09-01
 	desc: Sotouched
-	tag: 0untagged
+	tag: 0-untagged
 page:downtherabbithole
 	date: 2008-08-29
 	desc: Downtherabbithole
-	tag: 0untagged
+	tag: 0-untagged
 page:doyouloveher
 	date: 2008-08-28
 	desc: Doyouloveher
-	tag: 0untagged
+	tag: 0-untagged
 page:howigotthere
 	date: 2008-08-27
 	desc: Howigotthere
-	tag: 0untagged
+	tag: 0-untagged
 page:hopewedidnt
 	date: 2008-08-26
 	desc: Hopewedidnt
-	tag: 0untagged
+	tag: 0-untagged
 page:whowhatwhere
 	date: 2008-08-25
 	desc: Whowhatwhere
-	tag: 0untagged
+	tag: 0-untagged
 page:sewhattimeitis
 	date: 2008-08-22
 	desc: Sewhattimeitis
-	tag: 0untagged
+	tag: 0-untagged
 page:herskivvies
 	date: 2008-08-21
 	desc: Herskivvies
-	tag: 0untagged
+	tag: 0-untagged
 page:verywrong
 	date: 2008-08-20
 	desc: Verywrong
-	tag: 0untagged
+	tag: 0-untagged
 page:poithimhome
 	date: 2008-08-19
 	desc: Poithimhome
-	tag: 0untagged
+	tag: 0-untagged
 page:cantremember
 	date: 2008-08-18
 	desc: Cantremember
-	tag: 0untagged
+	tag: 0-untagged
 page:davidmonicabud
 	date: 2008-08-15
 	desc: Davidmonicabud
-	tag: 0untagged
+	tag: 0-untagged
 page:trudyshellymonica
 	date: 2008-08-14
 	desc: Trudyshellymonica
-	tag: 0untagged
+	tag: 0-untagged
 page:giselemonicashelly
 	date: 2008-08-13
 	desc: Giselemonicashelly
-	tag: 0untagged
+	tag: 0-untagged
 page:ryanmonicatepoz
 	date: 2008-08-12
 	desc: Ryanmonicatepoz
-	tag: 0untagged
+	tag: 0-untagged
 page:scottbustynastajia
 	date: 2008-08-11
 	desc: Scottbustynastajia
-	tag: 0untagged
+	tag: 0-untagged
 page:enoughphilosophy
 	date: 2008-08-08
 	desc: Enoughphilosophy
-	tag: 0untagged
+	tag: 0-untagged
 page:sunnydaffodil
 	date: 2008-08-07
 	desc: Sunnydaffodil
-	tag: 0untagged
+	tag: 0-untagged
 page:notharmingthem
 	date: 2008-08-06
 	desc: Notharmingthem
-	tag: 0untagged
+	tag: 0-untagged
 page:peoplewantthat
 	date: 2008-08-05
 	desc: Peoplewantthat
-	tag: 0untagged
+	tag: 0-untagged
 page:healthyoutlook
 	date: 2008-08-04
 	desc: Healthyoutlook
-	tag: 0untagged
+	tag: 0-untagged
 page:timewouldstopdead
 	date: 2008-08-01
 	desc: Timewouldstopdead
-	tag: 0untagged
+	tag: 0-untagged
 page:realsweetie
 	date: 2008-07-31
 	desc: Realsweetie
-	tag: 0untagged
+	tag: 0-untagged
 page:tripleshots
 	date: 2008-07-30
 	desc: Tripleshots
-	tag: 0untagged
+	tag: 0-untagged
 page:tookheroffguard
 	date: 2008-07-29
 	desc: Tookheroffguard
-	tag: 0untagged
+	tag: 0-untagged
 page:slickerthansnot
 	date: 2008-07-28
 	desc: Slickerthansnot
-	tag: 0untagged
+	tag: 0-untagged
 page:aintaboobjob
 	date: 2008-07-25
 	desc: Aintaboobjob
-	tag: 0untagged
+	tag: 0-untagged
 page:jugsrealornot
 	date: 2008-07-24
 	desc: Jugsrealornot
-	tag: 0untagged
+	tag: 0-untagged
 page:pertlittleteacups
 	date: 2008-07-23
 	desc: Pertlittleteacups
-	tag: 0untagged
+	tag: 0-untagged
 page:callednetworking
 	date: 2008-07-22
 	desc: Callednetworking
-	tag: 0untagged
+	tag: 0-untagged
 page:whosthedork
 	date: 2008-07-21
 	desc: Whosthedork
-	tag: 0untagged
+	tag: 0-untagged
 page:oldtimes
 	date: 2008-07-18
 	desc: Oldtimes
-	tag: 0untagged
+	tag: 0-untagged
 page:damagecontrol
 	date: 2008-07-17
 	desc: Damagecontrol
-	tag: 0untagged
+	tag: 0-untagged
 page:badstart
 	date: 2008-07-16
 	desc: Badstart
-	tag: 0untagged
+	tag: 0-untagged
 page:figureitoutyoursel
 	date: 2008-07-15
 	desc: Figureitoutyoursel
-	tag: 0untagged
+	tag: 0-untagged
 page:howsmyhair
 	date: 2008-07-14
 	desc: Howsmyhair
-	tag: 0untagged
+	tag: 0-untagged
 page:yesplease
 	date: 2008-07-11
 	desc: Yesplease
-	tag: 0untagged
+	tag: 0-untagged
 page:idloveto
 	date: 2008-07-10
 	desc: Idloveto
-	tag: 0untagged
+	tag: 0-untagged
 page:enduplikeme
 	date: 2008-07-09
 	desc: Enduplikeme
-	tag: 0untagged
+	tag: 0-untagged
 page:extremelydangerous
 	date: 2008-07-08
 	desc: Extremelydangerous
-	tag: 0untagged
+	tag: 0-untagged
 page:didntknowtochtli
 	date: 2008-07-07
 	desc: Didntknowtochtli
-	tag: 0untagged
+	tag: 0-untagged
 page:justremember
 	date: 2008-07-04
 	desc: Justremember
-	tag: 0untagged
+	tag: 0-untagged
 page:stopbeingsmart
 	date: 2008-07-03
 	desc: Stopbeingsmart
-	tag: 0untagged
+	tag: 0-untagged
 page:goingclay
 	date: 2008-07-02
 	desc: Goingclay
-	tag: 0untagged
+	tag: 0-untagged
 page:littlecaretaker
 	date: 2008-07-01
 	desc: Littlecaretaker
-	tag: 0untagged
+	tag: 0-untagged
 page:shewasaboy
 	date: 2008-06-30
 	desc: Shewasaboy
-	tag: 0untagged
+	tag: 0-untagged
 page:beatsfacecream
 	date: 2008-06-27
 	desc: Beatsfacecream
-	tag: 0untagged
+	tag: 0-untagged
 page:dont-wanna
 	date: 2008-06-26
 	desc: Dont Wanna
-	tag: 0untagged
+	tag: 0-untagged
 page:shellgrowold
 	date: 2008-06-25
 	desc: Shellgrowold
-	tag: 0untagged
+	tag: 0-untagged
 page:thereismoretoit
 	date: 2008-06-24
 	desc: Thereismoretoit
-	tag: 0untagged
+	tag: 0-untagged
 page:whatdidisay
 	date: 2008-06-23
 	desc: Whatdidisay
-	tag: 0untagged
+	tag: 0-untagged
 page:dontlikethesound
 	date: 2008-06-20
 	desc: Dontlikethesound
-	tag: 0untagged
+	tag: 0-untagged
 page:footsoldier
 	date: 2008-06-19
 	desc: Footsoldier
-	tag: 0untagged
+	tag: 0-untagged
 page:mayanheaddress
 	date: 2008-06-18
 	desc: Mayanheaddress
-	tag: 0untagged
+	tag: 0-untagged
 page:hatinhand
 	date: 2008-06-17
 	desc: Hatinhand
-	tag: 0untagged
+	tag: 0-untagged
 page:animalcontrol
 	date: 2008-06-16
 	desc: Animalcontrol
-	tag: 0untagged
+	tag: 0-untagged
 page:prettysailboat
 	date: 2008-06-13
 	desc: Prettysailboat
-	tag: 0untagged
+	tag: 0-untagged
 page:ignorewhatisaid
 	date: 2008-06-12
 	desc: Ignorewhatisaid
-	tag: 0untagged
+	tag: 0-untagged
 page:youbrat
 	date: 2008-06-11
 	desc: Youbrat
-	tag: 0untagged
+	tag: 0-untagged
 page:meltingalready
 	date: 2008-06-10
 	desc: Meltingalready
-	tag: 0untagged
+	tag: 0-untagged
 page:feelslikeadream
 	date: 2008-06-09
 	desc: Feelslikeadream
-	tag: 0untagged
+	tag: 0-untagged
 page:slatheryourself
 	date: 2008-06-06
 	desc: Slatheryourself
-	tag: 0untagged
+	tag: 0-untagged
 page:goodtogo
 	date: 2008-06-05
 	desc: Goodtogo
-	tag: 0untagged
+	tag: 0-untagged
 page:newbikini
 	date: 2008-06-04
 	desc: Newbikini
-	tag: 0untagged
+	tag: 0-untagged
 page:racehorselegs
 	date: 2008-06-03
 	desc: Racehorselegs
-	tag: 0untagged
+	tag: 0-untagged
 page:calhounbeach
 	date: 2008-06-02
 	desc: Calhounbeach
-	tag: 0untagged
+	tag: 0-untagged
 page:stuckshoe
 	date: 2008-05-30
 	desc: Stuckshoe
-	tag: 0untagged
+	tag: 0-untagged
 page:onmyfront
 	date: 2008-05-29
 	desc: Onmyfront
-	tag: 0untagged
+	tag: 0-untagged
 page:cryingoutloud
 	date: 2008-05-28
 	desc: Cryingoutloud
-	tag: 0untagged
+	tag: 0-untagged
 page:ancientsymbols
 	date: 2008-05-27
 	desc: Ancientsymbols
-	tag: 0untagged
+	tag: 0-untagged
 page:seewhatimean
 	date: 2008-05-26
 	desc: Seewhatimean
-	tag: 0untagged
+	tag: 0-untagged
 page:superficialandcurs
 	date: 2008-05-23
 	desc: Superficialandcurs
-	tag: 0untagged
+	tag: 0-untagged
 page:speakfreely
 	date: 2008-05-22
 	desc: Speakfreely
-	tag: 0untagged
+	tag: 0-untagged
 page:worstinme
 	date: 2008-05-21
 	desc: Worstinme
-	tag: 0untagged
+	tag: 0-untagged
 page:shemeanswell
 	date: 2008-05-20
 	desc: Shemeanswell
-	tag: 0untagged
+	tag: 0-untagged
 page:acceptedthis
 	date: 2008-05-19
 	desc: Acceptedthis
-	tag: 0untagged
+	tag: 0-untagged
 page:workwithher
 	date: 2008-05-16
 	desc: Workwithher
-	tag: 0untagged
+	tag: 0-untagged
 page:walkingrelic
 	date: 2008-05-15
 	desc: Walkingrelic
-	tag: 0untagged
+	tag: 0-untagged
 page:thatsnotfair
 	date: 2008-05-14
 	desc: Thatsnotfair
-	tag: 0untagged
+	tag: 0-untagged
 page:piratemovie
 	date: 2008-05-13
 	desc: Piratemovie
-	tag: 0untagged
+	tag: 0-untagged
 page:atattoo
 	date: 2008-05-12
 	desc: Atattoo
-	tag: 0untagged
+	tag: 0-untagged
 page:somewheresafe
 	date: 2008-05-09
 	desc: Somewheresafe
-	tag: 0untagged
+	tag: 0-untagged
 page:tellheryourself
 	date: 2008-05-08
 	desc: Tellheryourself
-	tag: 0untagged
+	tag: 0-untagged
 page:almostinteresting
 	date: 2008-05-07
 	desc: Almostinteresting
-	tag: 0untagged
+	tag: 0-untagged
 page:wrongoffice
 	date: 2008-05-06
 	desc: Wrongoffice
-	tag: 0untagged
+	tag: 0-untagged
 page:imbecilicnotion
 	date: 2008-05-05
 	desc: Imbecilicnotion
-	tag: 0untagged
+	tag: 0-untagged
 page:greatinbed
 	date: 2008-05-02
 	desc: Greatinbed
-	tag: 0untagged
+	tag: 0-untagged
 page:despiseandnurture
 	date: 2008-05-01
 	desc: Despiseandnurture
-	tag: 0untagged
+	tag: 0-untagged
 page:shesthebookworm
 	date: 2008-04-30
 	desc: Shesthebookworm
-	tag: 0untagged
+	tag: 0-untagged
 page:shesuseful
 	date: 2008-04-29
 	desc: Shesuseful
-	tag: 0untagged
+	tag: 0-untagged
 page:specificnote
 	date: 2008-04-28
 	desc: Specificnote
-	tag: 0untagged
+	tag: 0-untagged
 page:ashortnote
 	date: 2008-04-25
 	desc: Ashortnote
-	tag: 0untagged
+	tag: 0-untagged
 page:andyou
 	date: 2008-04-24
 	desc: Andyou
-	tag: 0untagged
+	tag: 0-untagged
 page:squeee
 	date: 2008-04-23
 	desc: Squeee
-	tag: 0untagged
+	tag: 0-untagged
 page:handledthatwell
 	date: 2008-04-22
 	desc: Handledthatwell
-	tag: 0untagged
+	tag: 0-untagged
 page:thatlittle
 	date: 2008-04-21
 	desc: Thatlittle
-	tag: 0untagged
+	tag: 0-untagged
 page:includeher
 	date: 2008-04-18
 	desc: Includeher
-	tag: 0untagged
+	tag: 0-untagged
 page:letthatslide
 	date: 2008-04-17
 	desc: Letthatslide
-	tag: 0untagged
+	tag: 0-untagged
 page:thatsimpossible
 	date: 2008-04-16
 	desc: Thatsimpossible
-	tag: 0untagged
+	tag: 0-untagged
 page:moresecretive
 	date: 2008-04-15
 	desc: Moresecretive
-	tag: 0untagged
+	tag: 0-untagged
 page:gottenhere
 	date: 2008-04-14
 	desc: Gottenhere
-	tag: 0untagged
+	tag: 0-untagged
 page:talk
 	date: 2008-04-11
 	desc: Talk
-	tag: 0untagged
+	tag: 0-untagged
 page:ringingears
 	date: 2008-04-10
 	desc: Ringingears
-	tag: 0untagged
+	tag: 0-untagged
 page:notme
 	date: 2008-04-09
 	desc: Notme
-	tag: 0untagged
+	tag: 0-untagged
 page:toucheditlast
 	date: 2008-04-08
 	desc: Toucheditlast
-	tag: 0untagged
+	tag: 0-untagged
 page:justpeachy
 	date: 2008-04-07
 	desc: Justpeachy
-	tag: 0untagged
+	tag: 0-untagged
 page:itsempty
 	date: 2008-04-04
 	desc: Itsempty
-	tag: 0untagged
+	tag: 0-untagged
 page:feelinggrownup
 	date: 2008-04-03
 	desc: Feelinggrownup
-	tag: 0untagged
+	tag: 0-untagged
 page:beenawake
 	date: 2008-04-02
 	desc: Beenawake
-	tag: 0untagged
+	tag: 0-untagged
 page:forgetyourworries
 	date: 2008-04-01
 	desc: Forgetyourworries
-	tag: 0untagged
+	tag: 0-untagged
 page:anaphylaxisexcuse
 	date: 2008-03-31
 	desc: Anaphylaxisexcuse
-	tag: 0untagged
+	tag: 0-untagged
 page:crypticmenudo
 	date: 2008-03-28
 	desc: Crypticmenudo
-	tag: 0untagged
+	tag: 0-untagged
 page:junebugcrash
 	date: 2008-03-27
 	desc: Junebugcrash
-	tag: 0untagged
+	tag: 0-untagged
 page:honkthehorn
 	date: 2008-03-26
 	desc: Honkthehorn
-	tag: 0untagged
+	tag: 0-untagged
 page:scumonmytounge
 	date: 2008-03-25
 	desc: Scumonmytounge
-	tag: 0untagged
+	tag: 0-untagged
 page:dreamcantcatch
 	date: 2008-03-24
 	desc: Dreamcantcatch
-	tag: 0untagged
+	tag: 0-untagged
 page:ihaveresearch
 	date: 2008-03-21
 	desc: Ihaveresearch
-	tag: 0untagged
+	tag: 0-untagged
 page:fromyou
 	date: 2008-03-20
 	desc: Fromyou
-	tag: 0untagged
+	tag: 0-untagged
 page:hellourpbarf
 	date: 2008-03-19
 	desc: Hellourpbarf
-	tag: 0untagged
+	tag: 0-untagged
 page:needtoknock
 	date: 2008-03-18
 	desc: Needtoknock
-	tag: 0untagged
+	tag: 0-untagged
 page:irishwhiskey
 	date: 2008-03-17
 	desc: Irishwhiskey
-	tag: 0untagged
+	tag: 0-untagged
 page:shouldallblowover
 	date: 2008-03-14
 	desc: Shouldallblowover
-	tag: 0untagged
+	tag: 0-untagged
 page:thesewerebrains
 	date: 2008-03-13
 	desc: Thesewerebrains
-	tag: 0untagged
+	tag: 0-untagged
 page:callinsick
 	date: 2008-03-12
 	desc: Callinsick
-	tag: 0untagged
+	tag: 0-untagged
 page:writtenoff
 	date: 2008-03-11
 	desc: Writtenoff
-	tag: 0untagged
+	tag: 0-untagged
 page:takemeseriously
 	date: 2008-03-10
 	desc: Takemeseriously
-	tag: 0untagged
+	tag: 0-untagged
 page:whereitcamefrom
 	date: 2008-03-07
 	desc: Whereitcamefrom
-	tag: 0untagged
+	tag: 0-untagged
 page:complicatethefutur
 	date: 2008-03-06
 	desc: Complicatethefutur
-	tag: 0untagged
+	tag: 0-untagged
 page:sothetrickis
 	date: 2008-03-05
 	desc: Sothetrickis
-	tag: 0untagged
+	tag: 0-untagged
 page:intheirfaces
 	date: 2008-03-04
 	desc: Intheirfaces
-	tag: 0untagged
+	tag: 0-untagged
 page:makewaves
 	date: 2008-03-03
 	desc: Makewaves
-	tag: 0untagged
+	tag: 0-untagged
 page:contraryevidence
 	date: 2008-02-29
 	desc: Contraryevidence
-	tag: 0untagged
+	tag: 0-untagged
 page:wildtheory
 	date: 2008-02-28
 	desc: Wildtheory
-	tag: 0untagged
+	tag: 0-untagged
 page:soexciting
 	date: 2008-02-27
 	desc: Soexciting
-	tag: 0untagged
+	tag: 0-untagged
 page:youtellme
 	date: 2008-02-26
 	desc: Youtellme
-	tag: 0untagged
+	tag: 0-untagged
 page:tellmeagain
 	date: 2008-02-25
 	desc: Tellmeagain
-	tag: 0untagged
+	tag: 0-untagged
 page:pickedlast
 	date: 2008-02-22
 	desc: Pickedlast
-	tag: 0untagged
+	tag: 0-untagged
 page:assembleateam
 	date: 2008-02-21
 	desc: Assembleateam
-	tag: 0untagged
+	tag: 0-untagged
 page:clothfragments
 	date: 2008-02-20
 	desc: Clothfragments
-	tag: 0untagged
+	tag: 0-untagged
 page:ancientundies
 	date: 2008-02-19
 	desc: Ancientundies
-	tag: 0untagged
+	tag: 0-untagged
 page:learntorespect
 	date: 2008-02-18
 	desc: Learntorespect
-	tag: 0untagged
+	tag: 0-untagged
 page:thatonetime
 	date: 2008-02-15
 	desc: Thatonetime
-	tag: 0untagged
+	tag: 0-untagged
 page:dontignore
 	date: 2008-02-14
 	desc: Dontignore
-	tag: 0untagged
+	tag: 0-untagged
 page:nobodymessed
 	date: 2008-02-13
 	desc: Nobodymessed
-	tag: 0untagged
+	tag: 0-untagged
 page:foundanymice
 	date: 2008-02-12
 	desc: Foundanymice
-	tag: 0untagged
+	tag: 0-untagged
 page:flush
 	date: 2008-02-11
 	desc: Flush
-	tag: 0untagged
+	tag: 0-untagged
 page:greatpower
 	date: 2008-02-08
 	desc: Greatpower
-	tag: 0untagged
+	tag: 0-untagged
 page:bikinipower
 	date: 2008-02-07
 	desc: Bikinipower
-	tag: 0untagged
+	tag: 0-untagged
 page:naughtycheerful
 	date: 2008-02-06
 	desc: Naughtycheerful
-	tag: 0untagged
+	tag: 0-untagged
 page:attitudeboost
 	date: 2008-02-05
 	desc: Attitudeboost
-	tag: 0untagged
+	tag: 0-untagged
 page:prettyunderwear
 	date: 2008-02-04
 	desc: Prettyunderwear
-	tag: 0untagged
+	tag: 0-untagged
 page:wisdomnuggets
 	date: 2008-02-01
 	desc: Wisdomnuggets
-	tag: 0untagged
+	tag: 0-untagged
 page:dealwiththiscrap
 	date: 2008-01-31
 	desc: Dealwiththiscrap
-	tag: 0untagged
+	tag: 0-untagged
 page:sexuallyfrustrated
 	date: 2008-01-30
 	desc: Sexuallyfrustrated
-	tag: 0untagged
+	tag: 0-untagged
 page:fixedsoon
 	date: 2008-01-29
 	desc: Fixedsoon
-	tag: 0untagged
+	tag: 0-untagged
 page:frozenland
 	date: 2008-01-28
 	desc: Frozenland
-	tag: 0untagged
+	tag: 0-untagged
 page:makesunshine
 	date: 2008-01-25
 	desc: Makesunshine
-	tag: 0untagged
+	tag: 0-untagged
 page:scrapeverything
 	date: 2008-01-24
 	desc: Scrapeverything
-	tag: 0untagged
+	tag: 0-untagged
 page:verycoldouthere
 	date: 2008-01-23
 	desc: Verycoldouthere
-	tag: 0untagged
+	tag: 0-untagged
 page:shovelthestreets
 	date: 2008-01-22
 	desc: Shovelthestreets
-	tag: 0untagged
+	tag: 0-untagged
 page:tinaisntmean
 	date: 2008-01-21
 	desc: Tinaisntmean
-	tag: 0untagged
+	tag: 0-untagged
 page:peptalk
 	date: 2008-01-18
 	desc: Peptalk
-	tag: 0untagged
+	tag: 0-untagged
 page:lostappetite
 	date: 2008-01-17
 	desc: Lostappetite
-	tag: 0untagged
+	tag: 0-untagged
 page:thatsenough
 	date: 2008-01-16
 	desc: Thatsenough
-	tag: 0untagged
+	tag: 0-untagged
 page:voicingopinion
 	date: 2008-01-15
 	desc: Voicingopinion
-	tag: 0untagged
+	tag: 0-untagged
 page:bodylanguage
 	date: 2008-01-14
 	desc: Bodylanguage
-	tag: 0untagged
+	tag: 0-untagged
 page:bestofluck
 	date: 2008-01-11
 	desc: Bestofluck
-	tag: 0untagged
+	tag: 0-untagged
 page:frightenme
 	date: 2008-01-10
 	desc: Frightenme
-	tag: 0untagged
+	tag: 0-untagged
 page:wisdomofbuffness
 	date: 2008-01-09
 	desc: Wisdomofbuffness
-	tag: 0untagged
+	tag: 0-untagged
 page:othersnotice
 	date: 2008-01-08
 	desc: Othersnotice
-	tag: 0untagged
+	tag: 0-untagged
 page:newcareer
 	date: 2008-01-07
 	desc: Newcareer
-	tag: 0untagged
+	tag: 0-untagged
 page:powerofthebra
 	date: 2008-01-04
 	desc: Powerofthebra
-	tag: 0untagged
+	tag: 0-untagged
 page:drunkpower
 	date: 2008-01-03
 	desc: Drunkpower
-	tag: 0untagged
+	tag: 0-untagged
 page:brainsandpower
 	date: 2008-01-02
 	desc: Brainsandpower
-	tag: 0untagged
+	tag: 0-untagged
 page:electingthesameone
 	date: 2008-01-01
 	desc: Electingthesameone
-	tag: 0untagged
+	tag: 0-untagged
 page:golemsandnasties
 	date: 2007-12-31
 	desc: Golemsandnasties
-	tag: 0untagged
+	tag: 0-untagged
 page:nocontrol
 	date: 2007-12-28
 	desc: Nocontrol
-	tag: 0untagged
+	tag: 0-untagged
 page:golemmom
 	date: 2007-12-27
 	desc: Golemmom
-	tag: 0untagged
+	tag: 0-untagged
 page:everybook
 	date: 2007-12-26
 	desc: Everybook
-	tag: 0untagged
+	tag: 0-untagged
 page:thebook
 	date: 2007-12-25
 	desc: Thebook
-	tag: 0untagged
+	tag: 0-untagged
 page:freebooze
 	date: 2007-12-24
 	desc: Freebooze
-	tag: 0untagged
+	tag: 0-untagged
 page:spikekatherine
 	date: 2007-12-22
 	desc: Spikekatherine
-	tag: 0untagged
+	tag: 0-untagged
 page:jessamandaselenium
 	date: 2007-12-21
 	desc: Jessamandaselenium
-	tag: 0untagged
+	tag: 0-untagged
 page:randykath
 	date: 2007-12-20
 	desc: Randykath
-	tag: 0untagged
+	tag: 0-untagged
 page:katiemonicadietzel
 	date: 2007-12-19
 	desc: Katiemonicadietzel
-	tag: 0untagged
+	tag: 0-untagged
 page:tylermonicakevin
 	date: 2007-12-18
 	desc: Tylermonicakevin
-	tag: 0untagged
+	tag: 0-untagged
 page:wesmuchomocha
 	date: 2007-12-17
 	desc: Wesmuchomocha
-	tag: 0untagged
+	tag: 0-untagged
 page:cornhuskangels
 	date: 2007-12-14
 	desc: Cornhuskangels
-	tag: 0untagged
+	tag: 0-untagged
 page:thatswhy
 	date: 2007-12-13
 	desc: Thatswhy
-	tag: 0untagged
+	tag: 0-untagged
 page:mummifiedtrees
 	date: 2007-12-12
 	desc: Mummifiedtrees
-	tag: 0untagged
+	tag: 0-untagged
 page:naturehatesme
 	date: 2007-12-11
 	desc: Naturehatesme
-	tag: 0untagged
+	tag: 0-untagged
 page:arealtree
 	date: 2007-12-10
 	desc: Arealtree
-	tag: 0untagged
+	tag: 0-untagged
 page:priceofatv
 	date: 2007-12-07
 	desc: Priceofatv
-	tag: 0untagged
+	tag: 0-untagged
 page:luckygirl
 	date: 2007-12-06
 	desc: Luckygirl
-	tag: 0untagged
+	tag: 0-untagged
 page:putmyhands
 	date: 2007-12-05
 	desc: Putmyhands
-	tag: 0untagged
+	tag: 0-untagged
 page:thebest
 	date: 2007-12-04
 	desc: Thebest
-	tag: 0untagged
+	tag: 0-untagged
 page:learntodance
 	date: 2007-12-03
 	desc: Learntodance
-	tag: 0untagged
+	tag: 0-untagged
 page:notworthit
 	date: 2007-11-30
 	desc: Notworthit
-	tag: 0untagged
+	tag: 0-untagged
 page:youngerbyfar
 	date: 2007-11-29
 	desc: Youngerbyfar
-	tag: 0untagged
+	tag: 0-untagged
 page:nocoffee
 	date: 2007-11-28
 	desc: Nocoffee
-	tag: 0untagged
+	tag: 0-untagged
 page:angerstone
 	date: 2007-11-27
 	desc: Angerstone
-	tag: 0untagged
+	tag: 0-untagged
 page:creepyfriend
 	date: 2007-11-26
 	desc: Creepyfriend
-	tag: 0untagged
+	tag: 0-untagged
 page:commonthreads
 	date: 2007-11-23
 	desc: Commonthreads
-	tag: 0untagged
+	tag: 0-untagged
 page:badhabit
 	date: 2007-11-22
 	desc: Badhabit
-	tag: 0untagged
+	tag: 0-untagged
 page:grainofsalt
 	date: 2007-11-21
 	desc: Grainofsalt
-	tag: 0untagged
+	tag: 0-untagged
 page:demonbarista
 	date: 2007-11-20
 	desc: Demonbarista
-	tag: 0untagged
+	tag: 0-untagged
 page:thingslikeme
 	date: 2007-11-19
 	desc: Thingslikeme
-	tag: 0untagged
+	tag: 0-untagged
 page:letmehelpyou
 	date: 2007-11-16
 	desc: Letmehelpyou
-	tag: 0untagged
+	tag: 0-untagged
 page:anythingstupid
 	date: 2007-11-15
 	desc: Anythingstupid
-	tag: 0untagged
+	tag: 0-untagged
 page:creepycoffee
 	date: 2007-11-14
 	desc: Creepycoffee
-	tag: 0untagged
+	tag: 0-untagged
 page:coffeeaddict
 	date: 2007-11-13
 	desc: Coffeeaddict
-	tag: 0untagged
+	tag: 0-untagged
 page:flattentheearth
 	date: 2007-11-12
 	desc: Flattentheearth
-	tag: 0untagged
+	tag: 0-untagged
 page:anotherdiamond
 	date: 2007-11-09
 	desc: Anotherdiamond
-	tag: 0untagged
+	tag: 0-untagged
 page:betteryourself
 	date: 2007-11-08
 	desc: Betteryourself
-	tag: 0untagged
+	tag: 0-untagged
 page:noodlearms
 	date: 2007-11-07
 	desc: Noodlearms
-	tag: 0untagged
+	tag: 0-untagged
 page:fairlycertain
 	date: 2007-11-06
 	desc: Fairlycertain
-	tag: 0untagged
+	tag: 0-untagged
 page:winterreminder
 	date: 2007-11-05
 	desc: Winterreminder
-	tag: 0untagged
+	tag: 0-untagged
 page:yourepersuasive
 	date: 2007-11-02
 	desc: Yourepersuasive
-	tag: 0untagged
+	tag: 0-untagged
 page:pricetopay
 	date: 2007-11-01
 	desc: Pricetopay
-	tag: 0untagged
+	tag: 0-untagged
 page:hardpart
 	date: 2007-10-31
 	desc: Hardpart
-	tag: 0untagged
+	tag: 0-untagged
 page:hellfrozeover
 	date: 2007-10-30
 	desc: Hellfrozeover
-	tag: 0untagged
+	tag: 0-untagged
 page:orderabeer
 	date: 2007-10-29
 	desc: Orderabeer
-	tag: 0untagged
+	tag: 0-untagged
 page:crookedsmile
 	date: 2007-10-26
 	desc: Crookedsmile
-	tag: 0untagged
+	tag: 0-untagged
 page:sharpknife
 	date: 2007-10-25
 	desc: Sharpknife
-	tag: 0untagged
+	tag: 0-untagged
 page:pumpkineater
 	date: 2007-10-24
 	desc: Pumpkineater
-	tag: 0untagged
+	tag: 0-untagged
 page:loveofpumpkinseeds
 	date: 2007-10-23
 	desc: Loveofpumpkinseeds
-	tag: 0untagged
+	tag: 0-untagged
 page:prettyhairy
 	date: 2007-10-22
 	desc: Prettyhairy
-	tag: 0untagged
+	tag: 0-untagged
 page:chickenout
 	date: 2007-10-19
 	desc: Chickenout
-	tag: 0untagged
+	tag: 0-untagged
 page:damnsnow
 	date: 2007-10-18
 	desc: Damnsnow
-	tag: 0untagged
+	tag: 0-untagged
 page:optimismclub
 	date: 2007-10-17
 	desc: Optimismclub
-	tag: 0untagged
+	tag: 0-untagged
 page:theanomaly
 	date: 2007-10-16
 	desc: Theanomaly
-	tag: 0untagged
+	tag: 0-untagged
 page:frightenyou
 	date: 2007-10-15
 	desc: Frightenyou
-	tag: 0untagged
+	tag: 0-untagged
 page:nothingspooky
 	date: 2007-10-12
 	desc: Nothingspooky
-	tag: 0untagged
+	tag: 0-untagged
 page:freaksmeout
 	date: 2007-10-11
 	desc: Freaksmeout
-	tag: 0untagged
+	tag: 0-untagged
 page:lyingstill
 	date: 2007-10-10
 	desc: Lyingstill
-	tag: 0untagged
+	tag: 0-untagged
 page:runningacoffeeshop
 	date: 2007-10-09
 	desc: Runningacoffeeshop
-	tag: 0untagged
+	tag: 0-untagged
 page:toopersonal
 	date: 2007-10-08
 	desc: Toopersonal
-	tag: 0untagged
+	tag: 0-untagged
 page:appropriately
 	date: 2007-10-05
 	desc: Appropriately
-	tag: 0untagged
+	tag: 0-untagged
 page:thatsthepoint
 	date: 2007-10-04
 	desc: Thatsthepoint
-	tag: 0untagged
+	tag: 0-untagged
 page:attentiongrabber
 	date: 2007-10-03
 	desc: Attentiongrabber
-	tag: 0untagged
+	tag: 0-untagged
 page:liketheyardstick
 	date: 2007-10-02
 	desc: Liketheyardstick
-	tag: 0untagged
+	tag: 0-untagged
 page:mychoice
 	date: 2007-10-01
 	desc: Mychoice
-	tag: 0untagged
+	tag: 0-untagged
 page:noanswers
 	date: 2007-09-28
 	desc: Noanswers
-	tag: 0untagged
+	tag: 0-untagged
 page:adultsbody
 	date: 2007-09-27
 	desc: Adultsbody
-	tag: 0untagged
+	tag: 0-untagged
 page:immaturebrat
 	date: 2007-09-26
 	desc: Immaturebrat
-	tag: 0untagged
+	tag: 0-untagged
 page:winterstuff
 	date: 2007-09-25
 	desc: Winterstuff
-	tag: 0untagged
+	tag: 0-untagged
 page:gettingolder
 	date: 2007-09-24
 	desc: Gettingolder
-	tag: 0untagged
+	tag: 0-untagged
 page:neverthought
 	date: 2007-09-21
 	desc: Neverthought
-	tag: 0untagged
+	tag: 0-untagged
 page:thingslikethat
 	date: 2007-09-20
 	desc: Thingslikethat
-	tag: 0untagged
+	tag: 0-untagged
 page:restoftheworld
 	date: 2007-09-19
 	desc: Restoftheworld
-	tag: 0untagged
+	tag: 0-untagged
 page:abitelusive
 	date: 2007-09-18
 	desc: Abitelusive
-	tag: 0untagged
+	tag: 0-untagged
 page:likeandtrust
 	date: 2007-09-17
 	desc: Likeandtrust
-	tag: 0untagged
+	tag: 0-untagged
 page:peacefulfirelight
 	date: 2007-09-14
 	desc: Peacefulfirelight
-	tag: 0untagged
+	tag: 0-untagged
 page:feelslikehome
 	date: 2007-09-13
 	desc: Feelslikehome
-	tag: 0untagged
+	tag: 0-untagged
 page:keepingitsimple
 	date: 2007-09-12
 	desc: Keepingitsimple
-	tag: 0untagged
+	tag: 0-untagged
 page:morehuman
 	date: 2007-09-11
 	desc: Morehuman
-	tag: 0untagged
+	tag: 0-untagged
 page:makingdo
 	date: 2007-09-10
 	desc: Makingdo
-	tag: 0untagged
+	tag: 0-untagged
 page:hateyouthistime
 	date: 2007-09-07
 	desc: Hateyouthistime
-	tag: 0untagged
+	tag: 0-untagged
 page:youredoinitagain
 	date: 2007-09-06
 	desc: Youredoinitagain
-	tag: 0untagged
+	tag: 0-untagged
 page:itscomplicated
 	date: 2007-09-05
 	desc: Itscomplicated
-	tag: 0untagged
+	tag: 0-untagged
 page:cyclicalenergy
 	date: 2007-09-04
 	desc: Cyclicalenergy
-	tag: 0untagged
+	tag: 0-untagged
 page:endoftheconversation
 	date: 2007-09-03
 	desc: Endoftheconversation
-	tag: 0untagged
+	tag: 0-untagged
 page:nothingtoyou
 	date: 2007-08-31
 	desc: Nothingtoyou
-	tag: 0untagged
+	tag: 0-untagged
 page:beingapawn
 	date: 2007-08-30
 	desc: Beingapawn
-	tag: 0untagged
+	tag: 0-untagged
 page:stilllost
 	date: 2007-08-29
 	desc: Stilllost
-	tag: 0untagged
+	tag: 0-untagged
 page:negativeenergy
 	date: 2007-08-28
 	desc: Negativeenergy
-	tag: 0untagged
+	tag: 0-untagged
 page:enoughdevotion
 	date: 2007-08-27
 	desc: Enoughdevotion
-	tag: 0untagged
+	tag: 0-untagged
 page:inthefirstplace
 	date: 2007-08-24
 	desc: Inthefirstplace
-	tag: 0untagged
+	tag: 0-untagged
 page:clearsup
 	date: 2007-08-23
 	desc: Clearsup
-	tag: 0untagged
+	tag: 0-untagged
 page:cityofficials
 	date: 2007-08-22
 	desc: Cityofficials
-	tag: 0untagged
+	tag: 0-untagged
 page:politicsofwork
 	date: 2007-08-21
 	desc: Politicsofwork
-	tag: 0untagged
+	tag: 0-untagged
 page:workrelated
 	date: 2007-08-20
 	desc: Workrelated
-	tag: 0untagged
+	tag: 0-untagged
 page:whatamidoing
 	date: 2007-08-17
 	desc: Whatamidoing
-	tag: 0untagged
+	tag: 0-untagged
 page:weeksworries
 	date: 2007-08-16
 	desc: Weeksworries
-	tag: 0untagged
+	tag: 0-untagged
 page:dateaspa
 	date: 2007-08-15
 	desc: Dateaspa
-	tag: 0untagged
+	tag: 0-untagged
 page:houseworkstress
 	date: 2007-08-14
 	desc: Houseworkstress
-	tag: 0untagged
+	tag: 0-untagged
 page:compensatednicely
 	date: 2007-08-13
 	desc: Compensatednicely
-	tag: 0untagged
+	tag: 0-untagged
 page:letthingshappen
 	date: 2007-08-10
 	desc: Letthingshappen
-	tag: 0untagged
+	tag: 0-untagged
 page:sexuallybossy
 	date: 2007-08-09
 	desc: Sexuallybossy
-	tag: 0untagged
+	tag: 0-untagged
 page:tappingmyphone
 	date: 2007-08-08
 	desc: Tappingmyphone
-	tag: 0untagged
+	tag: 0-untagged
 page:takeyourvitamins
 	date: 2007-08-07
 	desc: Takeyourvitamins
-	tag: 0untagged
+	tag: 0-untagged
 page:toostunned
 	date: 2007-08-06
 	desc: Toostunned
-	tag: 0untagged
+	tag: 0-untagged
 page:watchingyourun
 	date: 2007-08-03
 	desc: Watchingyourun
-	tag: 0untagged
+	tag: 0-untagged
 page:givememyfish
 	date: 2007-08-02
 	desc: Givememyfish
-	tag: 0untagged
+	tag: 0-untagged
 page:whatareyoudoing-2
 	date: 2007-08-01
-	desc: Whatareyoudoing
-	tag: 0untagged
+	desc: What Are You Doing
+	tag: Katherine
+	tag: LakeCalhoun
+	tag: Oscar
+	tag: Soccerball
+	tag: SoccerGuy
 page:gettingwet
 	date: 2007-07-31
-	desc: Gettingwet
-	tag: 0untagged
+	desc: Getting Wet
+	tag: Katherine
+	tag: LakeCalhoun
+	tag: Oscar
+	tag: Soccerball
+	tag: SoccerGuy
 page:beingexposed
 	date: 2007-07-30
-	desc: Beingexposed
-	tag: 0untagged
+	desc: Being Exposed
+	tag: Katherine
+	tag: LakeCalhoun
+	tag: Oscar
 page:staringatme
 	date: 2007-07-27
-	desc: Staringatme
-	tag: 0untagged
+	desc: Staring At Me
+	tag: Katherine
+	tag: LakeCalhoun
+	tag: Oscar
 page:gowithme
 	date: 2007-07-26
-	desc: Gowithme
-	tag: 0untagged
+	desc: Go With Me
+	tag: Katherine
+	tag: KatherineHome
+	tag: Oscar
 page:monicaextravert
 	date: 2007-07-25
-	desc: Monicaextravert
-	tag: 0untagged
+	desc: Monica Extravert
+	tag: Coconuts
+	tag: Katherine
+	tag: KatherineHome
+	tag: Oscar
+	tag: Tomatoes
 page:gorgeoustomatoes
 	date: 2007-07-24
-	desc: Gorgeoustomatoes
-	tag: 0untagged
+	desc: Gorgeous Tomatoes
+	tag: Katherine
+	tag: KatherineHome
+	tag: Oscar
+	tag: Tomatoes
 page:feelnormal
 	date: 2007-07-23
-	desc: Feelnormal
-	tag: 0untagged
+	desc: Feel Normal
+	tag: MuchoMocha
+	tag: Tina
 page:dorkslikeus
 	date: 2007-07-20
-	desc: Dorkslikeus
-	tag: 0untagged
+	desc: Dorks Like Us
+	tag: Monica
+	tag: Shelly	
 page:startingoveragain
 	date: 2007-07-19
-	desc: Startingoveragain
-	tag: 0untagged
+	desc: Starting Over Again
+	tag: 56
+	tag: 2012
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly	
 page:wontletusdie
 	date: 2007-07-18
-	desc: Wontletusdie
-	tag: 0untagged
+	desc: Won't Let Us Die
+	tag: Doorway
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly	
 page:kindoflimbo
 	date: 2007-07-17
-	desc: Kindoflimbo
-	tag: 0untagged
+	desc: Kind Of Limbo
+	tag: CalendarMachine
+	tag: Doorway
+	tag: GreySpeak
+	tag: JinMother
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: SunStone
 page:fillmein
 	date: 2007-07-16
-	desc: Fillmein
-	tag: 0untagged
+	desc: Fill Me In
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
+	tag: Monica
 page:heresacookie
 	date: 2007-07-13
 	desc: Heresacookie
-	tag: 0untagged
+	tag: Cookie
+	tag: GreatGrandmother
+	tag: JinMother
+	tag: Library
+	tag: Monica
+	tag: Phix
 page:theconnection
 	date: 2007-07-12
-	desc: Theconnection
-	tag: 0untagged
+	desc: The Connection
+	tag: CalendarMachine
+	tag: Doorway
+	tag: Glyph
+	tag: JinMother
+	tag: Library
+	tag: Monica
+	tag: Phix
 page:protectingyou
 	date: 2007-07-11
-	desc: Protectingyou
-	tag: 0untagged
+	desc: Protecting You
+	tag: CalendarMachine
+	tag: Jin
+	tag: JinMother
+	tag: Lanthis
+	tag: Library
+	tag: Mica
+	tag: Monica
+	tag: Phix
+	tag: TimeKeepers
 page:stoicandsagelike
 	date: 2007-07-10
-	desc: Stoicandsagelike
-	tag: 0untagged
+	desc: Stoic and sage-like
+	tag: Libary
+	tag: Monica
+	tag: Phix
+	tag: Jin
+	tag: GlyphReader
 page:talkingincircles
 	date: 2007-07-09
-	desc: Talkingincircles
-	tag: 0untagged
+	desc: Talking In Circles
+	tag: Libary
+	tag: Monica
+	tag: Phix
 page:worthsomething
 	date: 2007-07-06
-	desc: Worthsomething
-	tag: 0untagged
+	desc: Worth Something
+	tag: Jin
+	tag: MuchoMocha
+	tag: Shelly
 page:yourbuttormybutt
 	date: 2007-07-05
-	desc: Yourbuttormybutt
-	tag: 0untagged
+	desc: Your Butt Or My Butt
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:dojustfine
 	date: 2007-07-04
-	desc: Dojustfine
-	tag: 0untagged
+	desc: Do Just Fine
+	tag: Heather
+	tag: MuchoMocha
+	tag: Shelly
 page:soundsgreat
 	date: 2007-07-03
-	desc: Soundsgreat
-	tag: 0untagged
+	desc: Sounds Great
+	tag: Heather
+	tag: MuchoMocha
+	tag: Shelly
 page:refinetheirfunnybone
 	date: 2007-07-02
-	desc: Refinetheirfunnybone
-	tag: 0untagged
+	desc: Refine Their Funny Bone
+	tag: Heather
+	tag: Jin
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:howcouldyou
 	date: 2007-06-29
-	desc: Howcouldyou
-	tag: 0untagged
+	desc: How could you
+	tag: Heather
+	tag: Jin
+	tag: MuchoMocha
+	tag: Shelly
 page:heyheather
 	date: 2007-06-28
-	desc: Heyheather
-	tag: 0untagged
+	desc: Hey Heather
+	tag: Heather
+	tag: Jin
+	tag: MuchoMocha
+	tag: Shelly
 page:thatmonstrosity
 	date: 2007-06-27
-	desc: Thatmonstrosity
-	tag: 0untagged
+	desc: That Monstrosity
+	tag: Jin
+	tag: JinMother
+	tag: MuchoMocha
+	tag: Shelly
 page:neithergodnordemon
 	date: 2007-06-26
-	desc: Neithergodnordemon
-	tag: 0untagged
+	desc: Neither God Nor Demon
+	tag: Jin
+	tag: MuchoMocha
+	tag: Shelly
 page:portapoopoit
 	date: 2007-06-25
-	desc: Portapoopoit
-	tag: 0untagged
+	desc: Portapoo Poit
+	tag: Jin
+	tag: Monica
+	tag: MuchoMocha
+	tag: PortaLoo
+	tag: Shelly
 page:runningtoward
 	date: 2007-06-22
-	desc: Runningtoward
-	tag: 0untagged
+	desc: Running Toward
+	tag: Jin
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
 page:justlearnedthat
 	date: 2007-06-21
-	desc: Justlearnedthat
-	tag: 0untagged
+	desc: Just Learned That
+	tag: Demon
+	tag: Doubt
+	tag: Fear
+	tag: Flashback
+	tag: FlowerStall
+	tag: Jin
+	tag: Lust
+	tag: Monica
+	tag: Panic
 page:shetrustedyou
 	date: 2007-06-20
-	desc: Shetrustedyou
-	tag: 0untagged
+	desc: She Trusted You
+	tag: Flashback
+	tag: Jin
+	tag: JinMother
+	tag: Monica
 page:selfishlittlebitch
 	date: 2007-06-19
-	desc: Selfishlittlebitch
-	tag: 0untagged
+	desc: Selfish Little Bitch
+	tag: Bus
+	tag: Car
+	tag: Crash
+	tag: Flashback
+	tag: FlowerStall
+	tag: Jin
+	tag: Monica
+	tag: Tina
 page:stoptalkingtome
 	date: 2007-06-18
-	desc: Stoptalkingtome
-	tag: 0untagged
+	desc: Stop Talking To Me
+	note: "Ten years ago..."
+	tag: Flashback
+	tag: Monica
+	tag: Jin
+	tag: Bus
 page:itsshorthand
 	date: 2007-06-15
-	desc: Itsshorthand
-	tag: 0untagged
+	desc: It's Shorthand
+	note: as well as 'greyspeak' text from Monica, there's black white and grey presumably from the Tina demons
+	tag: Diary
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
+	tag: GreySpeak
+	tag: Demon
 page:writteningibberish
 	date: 2007-06-14
-	desc: Writteningibberish
-	tag: 0untagged
+	desc: Written In Gibberish
+	tag: Diary
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:bouncesback
 	date: 2007-06-13
-	desc: Bouncesback
-	tag: 0untagged
+	desc: Bounces Back
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:prettymetaphorical
 	date: 2007-06-12
-	desc: Prettymetaphorical
-	tag: 0untagged
+	desc: Pretty Metaphorical
+	tag: Monica
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:morningdialogue
 	date: 2007-06-11
-	desc: Morningdialogue
-	tag: 0untagged
+	desc: Morning Dialogue
+	tag: Alarm
+	tag: Tina
+	tag: TinaHome
 page:stuckwithme
 	date: 2007-06-08
 	desc: Stuckwithme
-	tag: 0untagged
+	tag: Alan
+	tag: CerberusClub
+	tag: Jin
 page:testingthem
 	date: 2007-06-07
-	desc: Testingthem
-	tag: 0untagged
+	desc: Testing Them
+	tag: Alan
+	tag: CerberusClub
+	tag: Jin
 page:kindofdangerous
 	date: 2007-06-06
-	desc: Kindofdangerous
-	tag: 0untagged
+	desc: Kind Of Dangerous
+	tag: Alan
+	tag: CerberusClub
+	tag: Jin
 page:breakingmyheart
 	date: 2007-06-05
-	desc: Breakingmyheart
-	tag: 0untagged
+	desc: Breaking My Heart
+	tag: Alan
+	tag: CerberusClub
+	tag: Jin
 page:hurtingyou
 	date: 2007-06-04
-	desc: Hurtingyou
-	tag: 0untagged
+	desc: Hurting You
+	tag: Alan
+	tag: CerberusClub
+	tag: GreySpeak
+	tag: Jin
 page:likeyoualot
 	date: 2007-06-01
-	desc: Likeyoualot
-	tag: 0untagged
+	desc: Like You A Lot
+	tag: Alan
+	tag: CerberusClub
+	tag: Jin
 page:notgethurt
 	date: 2007-05-31
-	desc: Notgethurt
-	tag: 0untagged
+	desc: Not Get Hurt
+	tag: Alan
+	tag: CerberusClub
+	tag: Jin
 page:leavingdetailsout
 	date: 2007-05-30
-	desc: Leavingdetailsout
-	tag: 0untagged
+	desc: Leaving Details Out
+	note: First time the Cerberus Club is named?
+	tag: Alan
+	tag: CerberusClub
+	tag: Jin
+	tag: Pentacle
 page:corporatescrewup
 	date: 2007-05-29
-	desc: Corporatescrewup
-	tag: 0untagged
+	desc: Corporate Screwup
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:awalkingdoorway
 	date: 2007-05-28
-	desc: Awalkingdoorway
-	tag: 0untagged
+	desc: A Walking Doorway
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:didntlikewhatshefound
 	date: 2007-05-25
-	desc: Didntlikewhatshefound
-	tag: 0untagged
+	desc: Didn't Like What She Found
+	tag: BlackRabbit 
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:nevercontrol
 	date: 2007-05-24
-	desc: Nevercontrol
-	tag: 0untagged
+	desc: Never Control
+	tag: Crash
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:neverknowinglylie
 	date: 2007-05-23
-	desc: Neverknowinglylie
-	tag: 0untagged
+	desc: Never Knowingly Lie
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:dealingwith
 	date: 2007-05-22
-	desc: Dealingwith
-	tag: 0untagged
+	desc: Dealing With
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:mostlikely
 	date: 2007-05-21
-	desc: Mostlikely
-	tag: 0untagged
+	desc: Most Likely
+	tag: Brandi
+	tag: Dream
+	tag: Monica
+	tag: PrettyInPink
 page:compelledme
 	date: 2007-05-18
-	desc: Compelledme
-	tag: 0untagged
+	desc: Compelled Me
+	tag: Crash
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:imstillinhere
 	date: 2007-05-17
-	desc: Imstillinhere
-	tag: 0untagged
+	desc: I'm Still In Here
+	note: One or more of Monica's demons speak from inside her, but which isn't visible (guess: Doubt)
+	tag: Crash
+	tag: Demon
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:understand-2
 	date: 2007-05-16
 	desc: Understand
-	tag: 0untagged
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:educateme
 	date: 2007-05-15
-	desc: Educateme
-	tag: 0untagged
+	desc: Educate Me
+	note: "A conglomerate of emotional and psychological elements with an entrepreneurial spirit!"
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:tellyouwhat
 	date: 2007-05-14
-	desc: Tellyouwhat
-	tag: 0untagged
+	desc: Tell You What
+	tag: Flashback
+	tag: Car
+	tag: Crash
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:youcantellme
 	date: 2007-05-11
-	desc: Youcantellme
-	tag: 0untagged
+	desc: You Can Tell Me
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:whatifwe
 	date: 2007-05-10
-	desc: Whatifwe
-	tag: 0untagged
+	desc: What If We
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:speakingmetaphoric
 	date: 2007-05-09
-	desc: Speakingmetaphoric
-	tag: 0untagged
+	desc: Speaking Metaphorically
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:theirownagendas
 	date: 2007-05-08
-	desc: Theirownagendas
-	tag: 0untagged
+	desc: Their Own Agendas
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:byyourself
 	date: 2007-05-07
-	desc: Byyourself
-	tag: 0untagged
+	desc: By Yourself
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:dontruinmycrap
 	date: 2007-05-04
-	desc: Dontruinmycrap
-	tag: 0untagged
+	desc: Don't Ruin My Crap
+	tag: Amanda
+	tag: AmandaHome
+	tag: Selenium
 page:nobiggerthanconfet
 	date: 2007-05-03
-	desc: Nobiggerthanconfet
-	tag: 0untagged
+	desc: No bigger than confetti
+	tag: Amanda
+	tag: AmandaHome
+	tag: RazorClaws
+	tag: Selenium
 page:understand
 	date: 2007-05-02
 	desc: Understand
-	tag: 0untagged
+	tag: Amanda
+	tag: AmandaHome
+	tag: RazorClaws
+	tag: Selenium
 page:eggsinstead
 	date: 2007-05-01
 	desc: Eggsinstead
-	tag: 0untagged
+	tag: Amanda
+	tag: AmandaHome
+	tag: Selenium
 page:drooledalloverme
 	date: 2007-04-30
-	desc: Drooledalloverme
-	tag: 0untagged
+	desc: Drooled All Over Me
+	tag: Amanda
+	tag: AmandaHome
+	tag: Selenium
 page:shewasoccupied
 	date: 2007-04-27
-	desc: Shewasoccupied
-	tag: 0untagged
+	desc: She Was Occupied
+	tag: Bud
+	tag: Monica
+	tag: Museum
 page:withalittlegrace
 	date: 2007-04-26
-	desc: Withalittlegrace
-	tag: 0untagged
+	desc: With A Little Grace
+	tag: Demon
+	tag: Doubt
+	tag: Monica
+	tag: Museum
+	tag: Panic
 page:someoneiscoming
 	date: 2007-04-25
-	desc: Someoneiscoming
-	tag: 0untagged
+	desc: Someone Is Coming
+	tag: Demon
+	tag: Doubt
+	tag: Monica
+	tag: Museum
+	tag: Panic
 page:justhavetotrustme
 	date: 2007-04-24
-	desc: Justhavetotrustme
-	tag: 0untagged
+	desc: Just Have To Trust Me
+	tag: Demon
+	tag: Doubt
+	tag: GreySpeak
+	tag: Lust
+	tag: Monica
+	tag: Museum
+	tag: Tongue
 page:andayachttoo
 	date: 2007-04-23
-	desc: Andayachttoo
-	tag: 0untagged
+	desc: And A Yacht Too
+	tag: Demon
+	tag: Doubt
+	tag: Lust
+	tag: Monica
+	tag: Museum
 page:stealingmyprey
 	date: 2007-04-20
-	desc: Stealingmyprey
-	tag: 0untagged
+	desc: Stealing My Prey
+	tag: Demon
+	tag: Doubt
+	tag: Lust
+	tag: Monica
+	tag: Museum
+	tag: Panic
+	tag: Vanity
 page:likeyourqueen
 	date: 2007-04-19
-	desc: Likeyourqueen
-	tag: 0untagged
+	desc: Like Your Queen
+	tag: Demon
+	tag: Vanity
+	tag: Monica
+	tag: Museum
 page:questionsanyone
 	date: 2007-04-18
-	desc: Questionsanyone
-	tag: 0untagged
+	desc: Questions Anyone
+	tag: Demon
+	tag: Doubt
+	tag: Monica
+	tag: Museum
+	tag: Tongue
 page:dontyouwonder
 	date: 2007-04-17
-	desc: Dontyouwonder
-	tag: 0untagged
+	desc: Don't You Wonder
+	tag: Demon
+	tag: Doubt
+	tag: Monica
+	tag: Museum
 page:youlookravishing
 	date: 2007-04-16
-	desc: Youlookravishing
-	tag: 0untagged
+	desc: You Look Ravishing
+	tag: Demon
+	tag: Doubt
+	tag: MirrorSpeak
+	tag: Monica
+	tag: Museum
+	tag: Vanity
 page:fromalackofsleep
 	date: 2007-04-13
 	desc: Fromalackofsleep
-	tag: 0untagged
+	tag: Monica
+	tag: Demon
+	tag: Vanity
+	tag: Panic
+	tag: Doubt
+	tag: Lust
 page:rightasrain
 	date: 2007-04-12
-	desc: Rightasrain
-	tag: 0untagged
+	desc: Right As Rain
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:endofdiscussion
 	date: 2007-04-11
 	desc: End Of Discussion
@@ -8293,7 +8706,7 @@ page:hyperventilating
 	tag: Tepoz
 page:thatwaseasy
 	date: 2007-03-29
-	desc: That was easy
+	desc: That Was Easy
 	tag: Bud
 	tag: Monica
 	tag: MonicaHouse
@@ -8327,7 +8740,7 @@ page:drasticmeasures
 	tag: Kitten
 page:littlestreeturchin
 	date: 2007-03-22
-	desc: Littlestreeturchin
+	desc: Little Street Urchin
 	tag: Amanda
 	tag: AmandaHome
 	tag: AmandaStudio
@@ -9308,7 +9721,7 @@ page:notthatselfish
 	tag: FaceGlyph
 	tag: Fire
 	tag: Glyph
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: MonicaHouse
 	tag: Tepoz
 page:someonenoticed
@@ -9316,21 +9729,21 @@ page:someonenoticed
 	desc: Someone Noticed
 	tag: Brandi
 	tag: Bud
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: MonicaHouse
 page:whatwasthat
 	date: 2006-08-23
 	desc: What Was That
 	tag: Brandi
 	tag: Bud
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: MonicaHouse
 page:bringbackanything
 	date: 2006-08-22
 	desc: Bringbackanything
 	tag: Bud
 	tag: Kevin
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: Monica
 	tag: MonicaHouse
 page:havelunchyet
@@ -9338,7 +9751,7 @@ page:havelunchyet
 	desc: Havelunchyet
 	tag: Bud
 	tag: Kevin
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: Monica
 	tag: MonicaHouse
 page:lookokay
@@ -9346,7 +9759,7 @@ page:lookokay
 	desc: Look Okay
 	tag: Bud
 	tag: Kevin
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: Monica
 	tag: MonicaHouse
 page:monicasshirt
@@ -9355,14 +9768,14 @@ page:monicasshirt
 	tag: Brandi
 	tag: Bud
 	tag: Kevin
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: MonicaHouse
 page:cutenstretchy
 	date: 2006-08-16
 	desc: Cute ’N’ Stretchy
 	tag: Bud
 	tag: Brandi
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 	tag: MonicaHouse
 page:justweird
 	date: 2006-08-15
@@ -15967,7 +16380,7 @@ page:01252002
 	desc: 01-25-2002
 	tag: Shelly
 	tag: Monica
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 page:01232002
 	date: 2002-01-23
 	desc: 01-23-2002
@@ -16040,7 +16453,7 @@ page:12312001
 	tag: Monica
 	tag: ExerciseMat
 	tag: TV
-	tag: Magic8BallShirt
+	tag: EightBallShirt
 page:12282001
 	date: 2001-12-28
 	desc: 12-28-2001
