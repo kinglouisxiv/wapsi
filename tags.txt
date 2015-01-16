@@ -8,19 +8,27 @@
 ;
 0-untagged	counts how far I have to go...
 1Frame	art page rather than storyline (usually)
-2012	Mesoamerican long count calendar 5,126-year cycle rolled over on 21 Dec
+2012	Mesoamerican long count calendar's 5,126-year cycle rolled over on 21 Dec 2012
 56	the number of times the [Calendar Machine](#calendarmachine) has reset the world 
+400Bar	Bar, music venue
 AaronSullivan	[Monica's](#monica) grandfather; WWII motorcycle dispatch rider; adventure archaeologist post-war; met [Jin](#jin)
 Abuela	Grandmother (Spanish)
 AcaciaBudur	[Bud](#bud)
+Advert	An in-comic advert created by / involving the characters
+Alan	first appears as a friend of [Kevin](#kevin). Becomes close to [Jin](#jin) 
 Amanda	Amanda Erlich: photographer, [Monica's](#monica) childhood friend
+AmandaHome	part of / connected to [Amanda's](#amanda) [studio](#AmandaStudio)
 AmandaPA	[Amanda's](#amanda) personal assistant on a photo shoot
 AmandaStudio	[Amanda's](#amanda) photographic studio
 AnaphrodisicTea	ingredients include hops, valerian and skullcaps
+Anger	A personal [demon](#demon)
 AntiqueShop	Part-owned by [Monica](#monica), [Roy](#roy)
+ArcWelder	Tickles [Bud](#bud)
+Antikythera	Wikipedia: [Antikythera Mechanism](http://en.wikipedia.org/wiki/Antikythera_mechanism)
 Atsali	Siren, adopted daughter of [Katherine](#katherine), thus sister of [Castela](#castela)
 AutoRepair	Minneapolis South Auto Repair & Restoration -- Shelly's [dad's](#mrwahnee) business, where [Shelly](#shelly) worked as a mechanic
-Becky	occasional barista at Mucho Mocha, baker of cakes, biscuits, _etc_
+Axayacatl	Aztec ruler. Wikipedia: [Axayacatl](http://en.wikipedia.org/wiki/Axayacatl)
+Becky	occasional barista at Mucho Mocha, baker of cakes, biscuits, _etc_, requires OCD medication
 Berdine	were-bear; sister of [Nadette](#nadette)
 Bibliothiki	&beta;&iota;&beta;&iota;&omicron;&theta;&eta;&kappa;&eta;, Ancient Greek name for the [Library](#library)
 BlackRabbit	Image in Central american style manifested by [Jin](#jin)
@@ -32,13 +40,14 @@ CalendarMachine	Resets the world at the Mayan Apocalypse rollover (December 2012
 Calista	Princess Calista Foxglove, a Fae, nickname: Cricket
 Castela	nickname: Pickle; a whatsit: sentient thorny vine girl, adopted daughter of [Katherine](#katherine), thus sister of [Atsali](#atsali); "child of the Guardians of the Doorways and a Daughter of the Wood", daughter of a Blackthorn and (thus?) immune to Fae
 Chimera	A magical ultimate weapon built from [Brandi](#brandi), [Bud](#bud) and [Jin](#jin) (who sabotaged it)
+ClayDolls	given to [Shelly](#shelly) by her [mother](#shellymom). 
 Crash	Tina's car hit a bus avoiding young (14) Monica, years before Wapsi Square opens
 Cricket	nickname for [Calista](#calista)
 DanceSchool	where [Bud](#bud) works
 DanceReception	front desk lady at the [Dance School](#danceschool); unnamed? 
 Daren	_a.k.a_ Darin early on: proprietor / sage / confidant of [Daren's Bar](#darensbar)
 DarensBar	the after-work social hub of the early years
-Demon	personal demons: the voices in your head _do_ have an independent existance
+Demon	anthropomorphised personal demons: the voices in your head _do_ have an independent existance
 Dietzel	[Monica's](#monica) long-suffering bull terrier
 Doubt	personal demon of [Monica's](#monica)
 DownstairsBar	below Owen & Lakshmi's bedroom
@@ -48,16 +57,16 @@ Georgette	see [Jet](#jet)
 Georgettes	gastro-pub owned and run by [Jet](#jet) and [Jill](#jill)
 Glyph	an ancient, magical, writing
 GlyphReader	"There are others who can read Glyph, but that does not make them Glyph Readers" ---[Phix](#phix)
-Golem	a near indestructable magitech ceramic construct. Ritual requires burning a conscious living being and mixing the ashes with clay
+Golem	a near indestructable magitech ceramic construct. Ritual requires burning a living being and mixing the ashes with clay
 Greg	Dr Gregory Fields, [Monica's](#monica) boss at the [Museum](#museum)
-GreySpeak	speech in light grey seems to indicate whispers, under-the-breath or _Sotto Voce_ commentary
-GryphonHigh	Gryphon High School for paranormal kids
+GreySpeak	speech in light grey seems to indicate whispers, under-the-breath or _Sotto Voce_ commentary or suggestion
+GryphonHigh	Gryphon High School -- for paranormal kids
 Guidance	one of [Jet's](#jet) personal demons, appears as a disembodied mask face
 GuitarShop	Curly's Guitars
 GutBomb	Fast food take-away
 Heather	Heather Mills works in a radio station, also singer, guitarist with [Intentional Thumbprint](#intentionalthumbprint)
 IntentionalThumbprint	band from around Des Moines, opened at [The Plow](#theplow) for [Fermented Banana](#fermentedbanana)
-Jacob	[Atsali's](#atsali) crush, works in a coffee shop with his sister Randi
+Jacob	[Atsali's](#atsali) crush, attends [Gryphon High](#gryphonhigh), works in a coffee shop with his sister Randi. Satyr
 Jacqui	Jacqueline Bontemps — drummer with [Fermented Banana](#fermentedbanana), vet school student, becomes Yoga teacher, proprietor: [Punk Yoga](#punkyoga)
 Jeff	[museum](#museum) assistant (?)
 Jessie	[Mermaid](#mermaid) (long light hair)
@@ -65,7 +74,7 @@ Jet	Georgette, fashionably thin model; fast metabolism; sister of [Jill](#jill)
 Jill	Jill Sundhal, [’Jet's](#jet) large-framed sister, cook/manager at [Georgette's](#georgettes), the pub/restaurant
 JimmiesReggaeBar	not to be confused with [JimmysBluesBar](#jimmysbluesbar)
 JimmysBluesBar	not to be confused with [JimmiesReggaeBar](#jimmiesreggaebar)
-Jin	[Golem](#golem) girl, Snake in the [Chimera](#chimera); the Time Keeper's daughter
+Jin	[Golem](#golem) girl, Snake in the [Chimera](#chimera); the Time Keeper's daughter; _a.k.a_ [Tochtli](#tochtli)
 JinMother	one of the time keepers of [Lanthis](#lanthis); designed the [Calender Machine](#calendarmachine) and the [Golem](#golem) ritual, which she underwent herself
 JoAnne	unseen instructor at the [Dance School](#danceschool)
 Joe	'mugger' -- actually a psychologist studying reactions to being robbed
@@ -75,27 +84,31 @@ KevinHome	near the [Sunnyside Up](#sunnysideup) café
 Krystle	young Mermaid, attending [Gryphon High School](#gryphonhigh)
 LakeCalhoun	Lake and surrounding recreational parkland
 Lakshmi	Large, strong lady, construction worker. Met [Owen](#owen) on a blind date
-Lanthis	an unrecorded pre-historical magical-technical civilisation which built the [Calendar Machine](#calendarmachine) but was destroyed by the [Chimera](#chimera). Known in modern myth as Atlantis
-Library	Off-plane library of all books ever written
+Lanthis	An unrecorded pre-historical magical-technical civilisation which built the [Calendar Machine](#calendarmachine) but was destroyed by the [Chimera](#chimera). Known in modern myth as Atlantis
+Library	Off-plane library of all books ever written, run by the Librarian [Phix](#phix)
 Lily	Lily Pratt, vampire
 LittleShelly	[Shelly's](#shelly) internalised self-image from the time of [her mother's](#shellymom) death
 Luci	receptionist & poster girl for Punk Yoga; Celtic knot-work tattoos
 Lydia	Bra designer; diplomas in architecture and industrial design
-Marta	[Monica's](#monica) cousin in Monterrey
+Marta	[Monica's](#monica) cousin in [Monterrey](#monterrey)
 Mermaid	a.k.a 'TunaGirls' [Krystal](#krystal), [Jessie](#jessie)
 Monica	Monica Villarreal, 4\' 11\", Mexican, anthropologist, [antique shop](#antiqueshop) owner
-MrWahnee	[Shelly's](#shelly) dad. Half Comanche.
+MonicasAunt	unnamed? Lives in [Monterrey](#monterrey)
+Monterrey	Mexican city where [Monica](#monica) has family: her [uncle](#tio), [aunt](#MonicasAunt), cousins [Rigo](#rigo) and [Marta](#marta)
+MrWahnee	[Shelly's](#shelly) dad. Half Comanche. Owner of [Minneapolis South Auto Repair & Restoration](#autorepair)
 MuchoMocha	coffee shop run by [Tina](#tina)
 Museum	Minneapolis University Historical Museum (?)
 MusicBin	shop where [Owen](#owen) worked
-Nadette	were-bear; sister of [Berdine](#berdine); seer; immune to [Atsali's](#atsali) siren song
+Nadette	were-bear; sister of [Berdine](#berdine); seer; immune to [Atsali's](#atsali) siren song, but not to Atsali
 Owen	[Shelly's](#shelly) childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin)
 Phix	[Sphinx](#sphinx), librarian of The [Library](#library)
 PunkYoga	[Jacqui's](#jacqui) yoga studio
-Randi	coffee shop worker, sister of [Jacob](#jacob)
+Randi	coffee shop worker, sister of [Jacob](#jacob). Satyr
+Rigo	[Monica's](#monica) cousin in [Monterrey](#monterrey)
 Room316	in (a) Minneapolis hospital
 Roy	part-owner of the [Antique Shop](#antiqueshop) with [Monica](#monica)
 Sailor		18 year old lad Monica nearly gets out of hand with at a wedding in [Galena](#galena). In a broom closet.
+Selenium	street cat who adopts Amanda as his (?) servant 
 Shelly	Shelly Wahnee, muscle girl, wrench wench. [Sphinx](#sphinx)
 ShellyMom	'died' when Shelly was 10
 Sphinx	long-lived creature, of more than human scale, with lion hindquarters, eagle wings, human torso, arms and head. Mostly protect humanity from rogue demons, but used to kill humans to save them, causing misunderstandings
@@ -103,9 +116,11 @@ SunnysideUp	Sunnyside Up Café, near [Kevin's home](#kevinhome)
 Suzy	Suzy McBride, vampire
 Teeth	some characters have unusual dentition by mainstream human standards
 Tepoz	Tepoztecal, Aztec god of alcohol: an animate 3\' high blue statue or [golem](#golem)
+Tio	Spanish: "uncle". Specifically [Monica's](#monica) uncle in [Monterrey](#monterrey) 
+Tochtli	another identity of [Jin's](#jin), apparently independent of the [Chimera](#chimera) -- Tochtli-Jin was acting while Chimaera-Jin was hidden/inactivated. Tochtli's symbol is a [black rabbit](#blackrabbit), her role is to "keep things running smoothly".
 ThePlow	Bar in Des Moines
 Tiffany	minds the [Antique Shop](#antiqueshop)
-Tina	Tina Rosario Aldaco Guzmán, the demon barista. Proprietor of Mucho Mocha. Dead, animated by her [demon](#demon) conglomerate or commune then the Tina personality died in a car cra
+Tina	Tina Rosario Aldaco Guzmán, the demon barista. Proprietor of Mucho Mocha. Dead, animated by her [demon](#demon) conglomerate or commune when the Tina personality died in a car [crash](#crash)
 Vorp	Library teleport/transport system's sound (?)
 VWvan	[Jacqui's](#jacqui) wheels for [Fermented Banana's](#fermentedbanana) transport
 Wings	a suddenly display of, or reference to wings on a character

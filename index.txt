@@ -33,7 +33,7 @@
 ;     - general location (Monica's House not Monica's Bedroom)
 ;     - Dreams - from daydreams to nightmares
 ; What
-;     - props and details _when significant_: typically Phone is tagged when used, not just background: a phone on a desk
+;     - props and details _when significant_: typically Phone is tagged when used, not just shown in background as a phone on a desk
 ;     - symbolism (when blatant enough for yr humble tagger to spot it)
 ; When
 ;     - in-comic significant dates, e.g. Halloween
@@ -49,6 +49,86 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Atsali
 ; Castela
 ;
+page:not-a-problem
+	date: 2015-01-16
+	desc: Not A Problem
+	tag: Atsali
+	tag: EightBallShirt
+	tag: Mapimi
+	tag: Nadette
+	tag: Tsillah
+	tag: Wings
+page:not-gonna-bite
+	date: 2015-01-15
+	desc: Not Gonna Bite
+	tag: Atsali
+	tag: Blush
+	tag: EightBallShirt
+	tag: Facemarks
+	tag: Mapimi
+	tag: Nadette
+	tag: Tsillah
+	tag: Wings
+page:trust-us
+	date: 2015-01-14
+	desc: Trust Us
+	tag: Atsali
+	tag: Blush
+	tag: EightBallShirt
+	tag: Mapimi
+	tag: Nadette
+	tag: Wings
+page:super-sturdy
+	date: 2015-01-13
+	desc: Super Sturdy
+	tag: Atsali
+	tag: Blush
+	tag: EightBallShirt
+	tag: Mapimi
+	tag: Nadette
+page:hold-on-4
+	date: 2015-01-12
+	desc: Hold On
+	tag: Atsali
+	tag: Blush
+	tag: EightBallShirt
+	tag: Mapimi
+	tag: Nadette
+page:get-in-the-car
+	date: 2015-01-09
+	desc: Get In The Car
+	tag: Car
+	tag: Lily
+page:gate-door
+	date: 2015-01-08
+	desc: Gate Door
+	tag: Atsali
+	tag: EightBallShirt
+	tag: Library
+	tag: Nadette
+page:did-you-hear-that
+	date: 2015-01-07
+	desc: Did You Hear That
+	tag: Atsali
+	tag: EightBallShirt
+	tag: Lily
+	tag: Nadette
+page:a-signal
+	date: 2015-01-06
+	desc: A Signal
+	tag: Atsali
+	tag: EightBallShirt
+	tag: Etheitian
+	tag: Lily
+	tag: Nadette
+page:on-the-path
+	date: 2015-01-05
+	desc: On The Path
+	tag: Atsali
+	tag: CoffeeShop
+	tag: Nadette
+	tag: Randi
+	tag: EightBallShirt
 page:happy-new-year-2
 	date: 2014-12-31
 	desc: Happy New Year
@@ -381,7 +461,7 @@ page:one-spare-sister
 	tag: Blush
 	tag: Castela
 	tag: Computer
-	tag: Cookies
+	tag: Cookie
 	tag: KatherineHome
 	tag: Nadette
 page:not-wearing-a-bra
@@ -1829,7 +1909,7 @@ page:afternoon-tea
 page:original-wapsi-square-art-on-ebay
 	date: 2013-07-22
 	desc: Original Wapsi square Art on Ebay!
-	tag: 0-untagged
+	tag: Filler
 page:reluctant-adventure-buddy
 	date: 2013-07-22
 	desc: Little Atsali and the Reluctant Adventure Buddy
@@ -2277,7 +2357,7 @@ page:bottom-floor
 page:wapsi-ebay-13
 	date: 2013-02-16
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:feet-first
 	date: 2013-02-15
 	desc: Feet First
@@ -2345,7 +2425,7 @@ page:another-day
 page:wapsi-ebay-11
 	date: 2013-01-26
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:an-adventure
 	date: 2013-01-25
 	desc: An Adventure
@@ -2765,7 +2845,7 @@ page:have-a-bite
 page:wapsi-ebay-10
 	date: 2012-09-01
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:make-her-stronger
 	date: 2012-08-31
 	desc: Make Her Stronger
@@ -3157,7 +3237,7 @@ page:kept-me-safe
 page:wapsi-ebay-9
 	date: 2012-04-14
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:ever-bother
 	date: 2012-04-13
 	desc: Ever Bother
@@ -3241,7 +3321,7 @@ page:warm-morning
 page:wapsi-ebay-8
 	date: 2012-03-17
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:crack-it-open
 	date: 2012-03-16
 	desc: Crack It Open
@@ -3265,7 +3345,7 @@ page:rounding-third
 page:wapsi-ebay-7
 	date: 2012-03-11
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:washington-post
 	date: 2012-03-10
 	desc: Washington Post
@@ -3300,7 +3380,7 @@ page:sage-of-the-forest
 	tag: 0-untagged
 page:2012-02029-your-clothes
 	date: 2012-02-29
-	desc: 2012 02029 Your Clothes
+	desc: Burnt Your Clothes
 	tag: 0-untagged
 page:kidding-me
 	date: 2012-02-28
@@ -3333,7 +3413,7 @@ page:a-gateway
 page:wapsi-ebay-6
 	date: 2012-02-18
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:butt-bump
 	date: 2012-02-17
 	desc: Butt Bump
@@ -3397,7 +3477,7 @@ page:hold-on-3
 page:wapsi-ebay-5
 	date: 2012-01-29
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:come-with-me
 	date: 2012-01-27
 	desc: Come With Me
@@ -3416,7 +3496,7 @@ page:an-accident
 	tag: 0-untagged
 page:ur-bleeding
 	date: 2012-01-23
-	desc: You&#8217;re Bleeding
+	desc: You're Bleeding
 	tag: 0-untagged
 page:oopsie-doodle
 	date: 2012-01-20
@@ -3501,27 +3581,27 @@ page:not-bored-yet
 page:faith-erin-hicks-guest-comic
 	date: 2011-12-23
 	desc: Faith Erin Hicks Guest Comic
-	tag: 0-untagged
+	tag: Filler
 page:jennie-breeden-guest-comic
 	date: 2011-12-22
 	desc: Jennie Breeden Guest Comic
-	tag: 0-untagged
+	tag: Filler
 page:arie-monroe-guest-comic
 	date: 2011-12-21
 	desc: Arie Monroe Guest Comic
-	tag: 0-untagged
+	tag: Filler
 page:rachel-dukes-guest-comic
 	date: 2011-12-20
 	desc: Rachel Dukes Guest Comic
-	tag: 0-untagged
+	tag: Filler
 page:frank-page-guest-comic
 	date: 2011-12-19
 	desc: Frank Page Guest Comic
-	tag: 0-untagged
+	tag: Filler
 page:wapsi-ebay-4
 	date: 2011-12-17
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:over-the-edge
 	date: 2011-12-16
 	desc: Over The Edge
@@ -3545,7 +3625,7 @@ page:the-holy-snowman
 page:wapsi-ebay-3
 	date: 2011-12-11
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:snowball-ceasefire
 	date: 2011-12-09
 	desc: Snowball Ceasefire
@@ -3569,7 +3649,7 @@ page:waiting-for-you
 page:wapsi-ebay-2
 	date: 2011-12-04
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:duck-and-cover
 	date: 2011-12-02
 	desc: Duck And Cover
@@ -3633,7 +3713,7 @@ page:fit-in
 page:wapsi-ebay
 	date: 2011-11-12
 	desc: Wapsi Ebay
-	tag: 0-untagged
+	tag: Filler
 page:who-why
 	date: 2011-11-11
 	desc: Who Why
@@ -8647,7 +8727,7 @@ page:prettymetaphorical
 page:morningdialogue
 	date: 2007-06-11
 	desc: Morning Dialogue
-	tag: Alarm
+	tag: AlarmClock
 	tag: Tina
 	tag: TinaHome
 page:stuckwithme
@@ -10213,34 +10293,29 @@ page:staringyouintheface
 	date: 2006-07-21
 	desc: Staring You In The Face
 	tag: Alan
-	tag: Bar
 	tag: Jin
 	tag: NightClub
 page:morevariables
 	date: 2006-07-20
 	desc: More Variables
 	tag: Alan
-	tag: Bar
 	tag: Jin
 	tag: NightClub
 page:wrongguys
 	date: 2006-07-19
 	desc: Wrong guys
 	tag: Alan
-	tag: Bar
 	tag: Jin
 	tag: NightClub
 page:smartasscomedian
 	date: 2006-07-18
 	desc: Smartass Comedian
 	tag: Alan
-	tag: Bar
 	tag: Jin
 	tag: NightClub
 page:strongestthing
 	date: 2006-07-17
 	desc: Strongest Thing
-	tag: Bar
 	tag: Jin
 	tag: MonicaHouse
 	tag: NightClub
@@ -10952,7 +11027,6 @@ page:nightofcryingandco
 page:anormalpubgirl
 	date: 2006-02-24
 	desc: A Normal Pub Girl
-	tag: Bar
 	tag: Darts
 	tag: Georgettes
 	tag: Jet
@@ -10960,7 +11034,6 @@ page:anormalpubgirl
 page:charmalreadyestabl
 	date: 2006-02-23
 	desc: Charm Already Established
-	tag: Bar
 	tag: Georgettes
 	tag: Jet
 	tag: Jill
@@ -10968,7 +11041,6 @@ page:charmalreadyestabl
 page:kicksasswithasmile
 	date: 2006-02-22
 	desc: Kicks Ass With A Smile
-	tag: Bar
 	tag: Georgettes
 	tag: Jet
 	tag: Jill
@@ -10976,7 +11048,6 @@ page:kicksasswithasmile
 page:alethatputshairony
 	date: 2006-02-21
 	desc: Ale That Puts Hair On Your Chest
-	tag: Bar
 	tag: Georgettes
 	tag: Jet
 	tag: Jill
@@ -10984,7 +11055,6 @@ page:alethatputshairony
 page:isthisheaven
 	date: 2006-02-20
 	desc: Is This Heaven
-	tag: Bar
 	tag: Georgettes
 	tag: Jet
 	tag: Monica
@@ -11152,7 +11222,7 @@ page:littleescape
 	date: 2006-01-20
 	desc: Little Escape
 	tag: Colour	
-	tag: Dancing
+	tag: Dance
 	tag: Monica
 	tag: NightClub
 	tag: Shelly
@@ -11575,7 +11645,7 @@ page:pleasenotyou
 	desc: Please Not You
 	tag: Bud
 	tag: FlashLight	
-	tag: Glyphs
+	tag: Glyph
 	tag: Monica
 	tag: MonicaHouse
 	tag: Skeletons
@@ -11735,7 +11805,7 @@ page:startingtogetcold
 page:wishiknew
 	date: 2005-10-10
 	desc: Wish I Knew
-	tag: Glyphs
+	tag: Glyph
 	tag: Monica
 page:threepartsofone
 	date: 2005-10-07
@@ -12503,7 +12573,7 @@ page:05122005
 	tag: Monica
 	tag: MonicaHouse
 	tag: Bounce
-	tag: Green
+	tag: Colour
 page:05112005
 	date: 2005-05-11
 	desc: You Initiated Everything
@@ -12665,6 +12735,7 @@ page:04122005
 	date: 2005-04-12
 	desc: All She'll See Are Rabbits
 	tag: Jin
+	tag: Rabbit
 	tag: Monica
 	tag: MonicaHouse
 	tag: SunnysideUp
@@ -12782,6 +12853,7 @@ page:03182005
 page:03172005
 	date: 2005-03-17
 	desc: St Patrick's Day 2005
+	tag: Colour
 	tag: Kevin
 	tag: Monica
 page:03162005
@@ -12813,29 +12885,25 @@ page:03112005
 page:03102005
 	date: 2005-03-10
 	desc: Allowing Someone In
-	tag: 400Club
-	tag: Bar
+	tag: 400Bar
 	tag: Heather
 	tag: Shelly
 page:03092005
 	date: 2005-03-09
 	desc: Allowing Someone Special
-	tag: 400Club
-	tag: Bar
+	tag: 400Bar
 	tag: Heather
 	tag: Shelly	
 page:03082005
 	date: 2005-03-08
 	desc: Misinterpret
-	tag: 400Club
-	tag: Bar
+	tag: 400Bar
 	tag: Heather
 	tag: Shelly	
 page:03072005
 	date: 2005-03-07
 	desc: What's With The Butterflies
-	tag: 400Club
-	tag: Bar
+	tag: 400Bar
 	tag: Heather
 	tag: Shelly	
 page:03042005
@@ -12858,8 +12926,7 @@ page:03022005
 page:03012005
 	date: 2005-03-01
 	desc: Is That Car Gonna Live
-	tag: 400Club
-	tag: Bar
+	tag: 400Bar
 	tag: AutoRepair
 	tag: Heather
 	tag: Shelly
@@ -13265,7 +13332,7 @@ page:12152004
 	note: "Crazy as a goat"
 	tag: Bud
 	tag: EyeGlow
-	tag: Glyphs
+	tag: Glyph
 	tag: Monica
 	tag: MonicaHouse
 	tag: Pillow
@@ -13302,7 +13369,7 @@ page:12092004
 page:12082004
 	date: 2004-12-08
 	desc: Was That Dutch
-	tag: Glyphs
+	tag: Glyph
 	tag: Kevin
 	tag: Kiss
 	tag: Monica
@@ -13310,7 +13377,6 @@ page:12082004
 page:12072004
 	date: 2004-12-07
 	desc: Hey Sailor
-	tag: Bar
 	tag: Kevin
 	tag: Monica
 page:12062004
@@ -13599,14 +13665,12 @@ page:10132004
 page:10122004
 	date: 2004-10-12
 	desc: 10-12-2004
-	tag: Bar
 	tag: JimmiesReggaeBar
 	tag: Martini
 	tag: Shelly
 page:10112004
 	date: 2004-10-11
 	desc: 10-11-2004
-	tag: Bar
 	tag: JimmiesReggaeBar
 	tag: JimmysBluesBar
 	tag: Kevin
@@ -14229,7 +14293,7 @@ page:05312004
 page:05282004
 	date: 2004-05-28
 	desc: 05-28-2004
-	tag: Glyphs
+	tag: Glyph
 	tag: Monica
 	tag: Museum
 	tag: Shelly
@@ -14355,7 +14419,7 @@ page:04162004
 	date: 2004-04-16
 	desc: 04-16-2004
 	tag: CalendarMachine
-	tag: Glyphs
+	tag: Glyph
 	tag: Kukulcan
 	tag: Museum
 	tag: Tepoz
@@ -14368,7 +14432,7 @@ page:04142004
 page:04122004
 	date: 2004-04-12
 	desc: 04-12-2004
-	tag: Glyphs
+	tag: Glyph
 	tag: Monica
 	tag: Museum	
 	tag: Tepoz
@@ -14473,7 +14537,7 @@ page:03062004
 	date: 2004-03-06
 	desc: 03-06-2004
 	tag: Galena
-	tag: Glyphs
+	tag: Glyph
 	tag: Monica
 	tag: Orion
 page:03052004
@@ -14541,7 +14605,7 @@ date: 2004-02-13
 	desc: 02-13-2004
 	tag: Amanda
 	tag: Galena
-	tag: Glyphs
+	tag: Glyph
 	tag: Monica
 	tag: Truck
 page:02112004
@@ -15417,7 +15481,6 @@ page:04142003
 page:04112003
 	date: 2003-04-11
 	desc: The "F" word!
-	tag: Bar
 	tag: DarensBar
 	tag: Friend
 	tag: Owen
@@ -15426,21 +15489,18 @@ page:04112003
 page:04092003
 	date: 2003-04-09
 	desc: 04-09-2003
-	tag: Bar
 	tag: DarensBar
 	tag: Owen
 	tag: Shelly
 page:04072003
 	date: 2003-04-07
 	desc: 04-07-2003
-	tag: Shelly
-	tag: Owen
 	tag: DarensBar
-	tag: Bar
+	tag: Owen
+	tag: Shelly
 page:04042003
 	date: 2003-04-04
 	desc: 04-04-2003
-	tag: Bar
 	tag: Daren
 	tag: DarensBar
 	tag: Deitzel
@@ -15510,7 +15570,6 @@ page:03172003
 page:03142003
 	date: 2003-03-14
 	desc: 03-14-2003
-	tag: Bar
 	tag: DarensBar
 	tag: Dietzel
 	tag: SpinTheBottle
@@ -16148,7 +16207,7 @@ page:08092002
 	date: 2002-08-09
 	desc: 08-09-2002
 	tag: Daren
-	tag: Bar
+	tag: DarensBar
 	tag: Amanda
 	tag: Monica
 page:08072002
@@ -16292,7 +16351,7 @@ page:06192002
 	tag: Daren
 	tag: Owen
 	tag: Shelly
-	tag: Bar
+	tag: DarensBar
 page:06172002
 	date: 2002-06-17
 	desc: 06-17-2002
@@ -16305,7 +16364,7 @@ page:06142002
 	tag: Amanda
 	tag: Shelly
 	tag: TV
-	tag: Bar
+	tag: DarensBar
 page:06122002
 	date: 2002-06-12
 	desc: 06-12-2002
@@ -16623,28 +16682,24 @@ page:02222002
 	desc: 02-22-2002
 	tag: SallysBar
 	tag: BarMan
-	tag: Bar
 	tag: Monica
 page:02202002
 	date: 2002-02-20
 	desc: 02-20-2002
 	tag: SallysBar
 	tag: Bikers
-	tag: Bar
 	tag: Monica
 page:02182002
 	date: 2002-02-18
 	desc: 02-18-2002
 	tag: SallysBar
 	tag: Bikers
-	tag: Bar
 	tag: Monica
 page:02152002
 	date: 2002-02-15
 	desc: 02-15-2002
 	tag: SallysBar
 	tag: Motorbike
-	tag: Bar
 	tag: Monica
 page:02132002
 	date: 2002-02-13
@@ -16753,74 +16808,74 @@ page:01072002
 page:01042002
 	date: 2002-01-04
 	desc: 01-04-2002
-	tag: Bar
-	tag: Daren
-	tag: Monica
 	tag: Amanda
+	tag: Daren
+	tag: DarensBar
+	tag: Monica
 page:01022002
 	date: 2002-01-02
 	desc: 01-02-2002
-	tag: Poster
-	tag: PickleDippers
 	tag: Monica
+	tag: PickleDippers
+	tag: Poster
 	tag: Shelly
 page:12312001
 	date: 2001-12-31
 	desc: 12-31-2001
-	tag: Monica
-	tag: ExerciseMat
-	tag: TV
 	tag: EightBallShirt
+	tag: ExerciseMat
+	tag: Monica
+	tag: TV
 page:12282001
 	date: 2001-12-28
 	desc: 12-28-2001
-	tag: Shelly
-	tag: Owen
 	tag: Bar
+	tag: Owen
+	tag: Shelly
 page:12262001
 	date: 2001-12-26
 	desc: 12-26-2001
-	tag: Snow
-	tag: Monica
-	tag: Car
 	tag: AntiqueShop
+	tag: Car
+	tag: Monica
+	tag: Snow
 page:12242001
 	date: 2001-12-24
 	desc: 12-24-2001
+	tag: Dietzel
 	tag: Monica
 	tag: Snow
 	tag: Snowman
-	tag: Dietzel
 page:12212001
 	date: 2001-12-21
 	desc: 12-21-2001
-	tag: Monica
 	tag: Amanda
 	tag: Beach
+	tag: Dream
+	tag: Monica
 	tag: Snow
-	tag: Daydream
 page:12192001
 	date: 2001-12-19
 	desc: 12-19-2001
-	tag: Shelly
-	tag: Owen
 	tag: Amanda
 	tag: Monica
+	tag: Owen
+	tag: Shelly
 page:12172001
 	date: 2001-12-17
 	desc: 12-17-2001
-	tag: Shelly
 	tag: Owen
+	tag: Shelly
 page:12142001
 	date: 2001-12-14
 	desc: 12-14-2001
-	tag: Shelly
 	tag: Owen
+	tag: Shelly
 page:12122001
 	date: 2001-12-12
 	desc: 12-12-2001
-	tag: Shelly
 	tag: Owen
+	tag: Shelly
 page:12102001
 	date: 2001-12-10
 	desc: 12-10-2001
@@ -16843,7 +16898,8 @@ page:12032001
 	desc: 12-03-2001
 	tag: Amanda
 	tag: Monica
-	tag: BalletCostume
+	tag: Ballet
+	tag: Costume
 	tag: Bottle
 	tag: Bar	
 page:11302001
@@ -16852,20 +16908,23 @@ page:11302001
 	tag: Band
 	tag: Monica
 	tag: Amanda
-	tag: BalletCostume
+	tag: Ballet
+	tag: Costume
 	tag: Dance
 page:11282001
 	date: 2001-11-28
 	desc: 11-28-2001
 	tag: Monica
-	tag: BalletCostume
+	tag: Ballet
+	tag: Costume
 	tag: Amanda
 	tag: Bar
 page:11262001
 	date: 2001-11-26
 	desc: 11-26-2001
 	tag: Monica
-	tag: BalletCostume
+	tag: Ballet
+	tag: Costume
 	tag: Amanda
 page:11232001
 	date: 2001-11-23
@@ -16948,7 +17007,7 @@ page:10292001
 	desc: 10-29-2001
 	tag: Monica
 	tag: Daren
-	tag: Bar
+	tag: DarensBar
 	tag: SchoolKids
 page:10262001
 	date: 2001-10-26
@@ -16999,7 +17058,7 @@ page:10122001
 page:10102001
 	date: 2001-10-10
 	desc: 10-10-2001
-	tag: Bar
+	tag: DarensBar
 	tag: Daren
 	tag: Monica
 	tag: Shelly
@@ -17037,7 +17096,7 @@ page:09282001
 page:09262001
 	date: 2001-09-26
 	desc: 09-26-2001
-	tag: Bar
+	tag: DarensBar
 	tag: Daren
 	tag: Jacqui
 	tag: Owen
