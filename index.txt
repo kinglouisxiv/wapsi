@@ -7456,256 +7456,418 @@ page:beenawake
 	tag: 0-untagged
 page:forgetyourworries
 	date: 2008-04-01
-	desc: Forgetyourworries
-	tag: 0-untagged
+	desc: Forget Your Worries
+	tag: Alan
+	tag: Bed
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:anaphylaxisexcuse
 	date: 2008-03-31
-	desc: Anaphylaxisexcuse
-	tag: 0-untagged
+	desc: Anaphylaxis Excuse
+	tag: Anaphylaxis
+	tag: Katherine
+	tag: KatherineHome
+	tag: Monica
+	tag: MonicaHouse
+	tag: Oscar
+	tag: Strawberry
 page:crypticmenudo
 	date: 2008-03-28
-	desc: Crypticmenudo
-	tag: 0-untagged
+	desc: Cryptic Menudo
+	tag: Anchovy
+	tag: Deitzel
+	tag: Menudo
+	tag: Monica
+	tag: Pizza
 page:junebugcrash
 	date: 2008-03-27
-	desc: Junebugcrash
-	tag: 0-untagged
+	desc: Junebug Crash
+	tag: Deitzel
+	tag: Flashback
+	tag: JuneBug
+	tag: Monica
+	tag: MonicaCar
+	tag: Puppy
 page:honkthehorn
 	date: 2008-03-26
-	desc: Honkthehorn
-	tag: 0-untagged
+	desc: Honk The Horn
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaCar
+	tag: MonicaHouse
 page:scumonmytounge
 	date: 2008-03-25
-	desc: Scumonmytounge
-	tag: 0-untagged
+	desc: Scum On My Tounge
+	tag: Monica
+	tag: MonicaHouse
 page:dreamcantcatch
 	date: 2008-03-24
-	desc: Dreamcantcatch
-	tag: 0-untagged
+	desc: Dream Can't Catch
+	tag: Katherine
+	tag: KatherineHome
+	tag: Oscar
 page:ihaveresearch
 	date: 2008-03-21
-	desc: Ihaveresearch
-	tag: 0-untagged
+	desc: I Have Research
+	tag: Katherine
+	tag: Monica
+	tag: MonicaHouse
 page:fromyou
 	date: 2008-03-20
-	desc: Fromyou
-	tag: 0-untagged
+	desc: From You
+	tag: Katherine
+	tag: Monica
+	tag: MonicaHouse
+	tag: Toilet
 page:hellourpbarf
 	date: 2008-03-19
-	desc: Hellourpbarf
-	tag: 0-untagged
+	desc: Hello -Urp- Barf
+	tag: Barf
+	tag: Katherine
+	tag: Monica
+	tag: MonicaHouse
 page:needtoknock
 	date: 2008-03-18
-	desc: Needtoknock
-	tag: 0-untagged
+	desc: Need To Knock
+	tag: Katherine
+	tag: Monica
+	tag: MonicaHouse
+	tag: Whiskey
 page:irishwhiskey
 	date: 2008-03-17
-	desc: Irishwhiskey
-	tag: 0-untagged
+	desc: Irish Whiskey
+	tag: IceCream
+	tag: Monica
+	tag: MonicaHouse
+	tag: Whiskey
 page:shouldallblowover
 	date: 2008-03-14
-	desc: Shouldallblowover
-	tag: 0-untagged
+	desc: Should All Blow Over
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: MuseumVault
+	tag: PortalCloth
 page:thesewerebrains
 	date: 2008-03-13
-	desc: Thesewerebrains
-	tag: 0-untagged
+	desc: These Were Brains
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
 page:callinsick
 	date: 2008-03-12
-	desc: Callinsick
-	tag: 0-untagged
+	desc: Call In Sick
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
 page:writtenoff
 	date: 2008-03-11
-	desc: Writtenoff
-	tag: 0-untagged
+	desc: Written Off
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
 page:takemeseriously
 	date: 2008-03-10
-	desc: Takemeseriously
-	tag: 0-untagged
+	desc: Take Me Seriously
+	tag: Atlantis
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
 page:whereitcamefrom
 	date: 2008-03-07
-	desc: Whereitcamefrom
-	tag: 0-untagged
+	desc: Where It Came From
+	tag: Deitzel
+	tag: Lanthis
+	tag: Monica
+	tag: MonicaHouse
 page:complicatethefutur
 	date: 2008-03-06
-	desc: Complicatethefutur
-	tag: 0-untagged
+	desc: Complicate The Future
+	tag: Deitzel
+	tag: Jacks
+	tag: Monica
+	tag: MonicaHouse
 page:sothetrickis
 	date: 2008-03-05
-	desc: Sothetrickis
-	tag: 0-untagged
+	desc: So The Trick Is
+	tag: Daren
+	tag: DarensBar
+	tag: Katherine
 page:intheirfaces
 	date: 2008-03-04
-	desc: Intheirfaces
-	tag: 0-untagged
+	desc: In Their Faces
+	tag: Beer
+	tag: Daren
+	tag: DarensBar
+	tag: Katherine
 page:makewaves
 	date: 2008-03-03
-	desc: Makewaves
-	tag: 0-untagged
+	desc: Make Waves
+	tag: Daren
+	tag: DarensBar
+	tag: Katherine
+	tag: Vodka
 page:contraryevidence
 	date: 2008-02-29
-	desc: Contraryevidence
-	tag: 0-untagged
+	desc: Contrary Evidence
+	tag: Katherine
+	tag: Monica
+	tag: Museum
 page:wildtheory
 	date: 2008-02-28
-	desc: Wildtheory
-	tag: 0-untagged
+	desc: Wild Theory
+	tag: Katherine
+	tag: Monica
+	tag: Museum
 page:soexciting
 	date: 2008-02-27
-	desc: Soexciting
-	tag: 0-untagged
+	desc: So Exciting
+	tag: Egyptian
+	tag: Katherine
+	tag: Monica
+	tag: Museum
+	tag: Olmecs
 page:youtellme
 	date: 2008-02-26
-	desc: Youtellme
-	tag: 0-untagged
+	desc: You Tell Me
+	tag: Katherine
+	tag: Monica
+	tag: Museum
 page:tellmeagain
 	date: 2008-02-25
-	desc: Tellmeagain
-	tag: 0-untagged
+	desc: Tell Me Again
+	tag: DerekInEgyptology
+	tag: Katherine
+	tag: Monica
+	tag: Museum
 page:pickedlast
 	date: 2008-02-22
-	desc: Pickedlast
-	tag: 0-untagged
+	desc: Picked Last
+	tag: Katherine
+	tag: Monica
+	tag: Museum
+	tag: Tunic
 page:assembleateam
 	date: 2008-02-21
-	desc: Assembleateam
-	tag: 0-untagged
+	desc: Assemble A Team
+	tag: Katherine
+	tag: Museum
+	tag: Tunic
 page:clothfragments
 	date: 2008-02-20
-	desc: Clothfragments
-	tag: 0-untagged
+	desc: Cloth Fragments
+	tag: Katherine
+	tag: Museum
+	tag: Tunic
 page:ancientundies
 	date: 2008-02-19
-	desc: Ancientundies
-	tag: 0-untagged
+	desc: Ancient Undies
+	tag: Katherine
+	tag: Museum
 page:learntorespect
 	date: 2008-02-18
-	desc: Learntorespect
-	tag: 0-untagged
+	desc: Learn To Respect
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:thatonetime
 	date: 2008-02-15
-	desc: Thatonetime
-	tag: 0-untagged
+	desc: That One Time
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Golem
+	tag: PyramidOfTheMoon
 page:dontignore
 	date: 2008-02-14
-	desc: Dontignore
-	tag: 0-untagged
+	desc: Don't Ignore
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:nobodymessed
 	date: 2008-02-13
-	desc: Nobodymessed
-	tag: 0-untagged
+	desc: Nobody Messed
+	tag: Aztec
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Mayan
+	tag: PamGrier
 page:foundanymice
 	date: 2008-02-12
-	desc: Foundanymice
-	tag: 0-untagged
+	desc: Found Any Mice
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
 page:flush
 	date: 2008-02-11
 	desc: Flush
-	tag: 0-untagged
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Fly
+	tag: Toilet
 page:greatpower
 	date: 2008-02-08
-	desc: Greatpower
-	tag: 0-untagged
+	desc: Great Power
+	tag: Monica
+	tag: Museum
 page:bikinipower
 	date: 2008-02-07
-	desc: Bikinipower
-	tag: 0-untagged
+	desc: Bikini Power
+	tag: Greg
+	tag: Monica
+	tag: Museum
+	tag: Yaxchilan
 page:naughtycheerful
 	date: 2008-02-06
-	desc: Naughtycheerful
-	tag: 0-untagged
+	desc: Naughty Cheerful
+	tag: Monica
 page:attitudeboost
 	date: 2008-02-05
-	desc: Attitudeboost
-	tag: 0-untagged
+	desc: Attitude Boost
+	tag: Deitzel
+	tag: Monica
+	tag: MonicaHouse
 page:prettyunderwear
 	date: 2008-02-04
-	desc: Prettyunderwear
-	tag: 0-untagged
+	desc: Pretty Underwear
+	tag: Bed
+	tag: BraShopReceptionist
+	tag: Monica
+	tag: MonicaHouse
+	tag: Phone
 page:wisdomnuggets
 	date: 2008-02-01
-	desc: Wisdomnuggets
-	tag: 0-untagged
+	desc: Wisdom Nuggets
+	tag: GreySpeak
+	tag: Jin
+	tag: JinHome
 page:dealwiththiscrap
 	date: 2008-01-31
-	desc: Dealwiththiscrap
-	tag: 0-untagged
+	desc: Deal With This Crap
+	tag: Demon
+	tag: Jin
+	tag: JinHome
+	tag: PortalCloth
 page:sexuallyfrustrated
 	date: 2008-01-30
-	desc: Sexuallyfrustrated
-	tag: 0-untagged
+	desc: Sexually Frustrated
+	note: Jin's demons or Monica's again, manifesting as 'asian' for Jin?
+	tag: Demon
+	tag: Jin
+	tag: JinHome
 page:fixedsoon
 	date: 2008-01-29
-	desc: Fixedsoon
-	tag: 0-untagged
+	desc: Fixed Soon
+	note: From the next page that seems to be one of Monica's demons
+	tag: Demon
+	tag: Jin
+	tag: JinHome
 page:frozenland
 	date: 2008-01-28
-	desc: Frozenland
-	tag: 0-untagged
+	desc: Frozen Land
+	tag: Jin
+	tag: JinHome
 page:makesunshine
 	date: 2008-01-25
-	desc: Makesunshine
-	tag: 0-untagged
+	desc: Make Sunshine
+	tag: Bud
+	tag: Monica
 page:scrapeverything
 	date: 2008-01-24
-	desc: Scrapeverything
-	tag: 0-untagged
+	desc: Scrap Everything
+	tag: Bud
+	tag: Monica
 page:verycoldouthere
 	date: 2008-01-23
-	desc: Verycoldouthere
-	tag: 0-untagged
+	desc: Very Cold Out Here
+	tag: Bud
+	tag: Monica
 page:shovelthestreets
 	date: 2008-01-22
-	desc: Shovelthestreets
-	tag: 0-untagged
+	desc: Shovel the Streets
+	tag: Bud
+	tag: Monica
 page:tinaisntmean
 	date: 2008-01-21
-	desc: Tinaisntmean
-	tag: 0-untagged
+	desc: Tina Isn't Mean
+	tag: Bud
+	tag: Monica
+	tag: SnowPlough
 page:peptalk
 	date: 2008-01-18
-	desc: Peptalk
-	tag: 0-untagged
+	desc: Pep Talk
+	tag: Bud
+	tag: Monica
+	tag: Snow
 page:lostappetite
 	date: 2008-01-17
-	desc: Lostappetite
-	tag: 0-untagged
+	desc: Lost Appetite
+	tag: Bud
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:thatsenough
 	date: 2008-01-16
-	desc: Thatsenough
-	tag: 0-untagged
+	desc: That's Enough
+	tag: Bud
+	tag: GreySpeak
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:voicingopinion
 	date: 2008-01-15
-	desc: Voicingopinion
-	tag: 0-untagged
+	desc: Voicing Opinion
+	tag: Bud
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:bodylanguage
 	date: 2008-01-14
-	desc: Bodylanguage
-	tag: 0-untagged
+	desc: Body Language
+	tag: Bud
+	tag: MuchoMocha
+	tag: Tina
 page:bestofluck
 	date: 2008-01-11
-	desc: Bestofluck
-	tag: 0-untagged
+	desc: Best of luck
+	note: Shelly: music theory degree
+	tag: GreySpeak
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:frightenme
 	date: 2008-01-10
-	desc: Frightenme
-	tag: 0-untagged
+	desc: Frighten Me
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:wisdomofbuffness
 	date: 2008-01-09
-	desc: Wisdomofbuffness
-	tag: 0-untagged
+	desc: Wisdom Of Buffness
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:othersnotice
 	date: 2008-01-08
-	desc: Othersnotice
-	tag: 0-untagged
+	desc: Others Notice
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:newcareer
 	date: 2008-01-07
-	desc: Newcareer
-	tag: 0-untagged
+	desc: New Career
+	tag: MuchoMocha
+	tag: Shelly
+	tag: Tina
 page:powerofthebra
 	date: 2008-01-04
-	desc: Powerofthebra
-	tag: 0-untagged
+	desc: Power Of The Bra
+	tag: Monica
+	tag: MonicaHouse
+	tag: Bra
+	tag: Poit
 page:drunkpower
 	date: 2008-01-03
 	desc: Drunk Power
@@ -8922,7 +9084,7 @@ page:understand
 	tag: Selenium
 page:eggsinstead
 	date: 2007-05-01
-	desc: Eggsinstead
+	desc: Eggs Instead
 	tag: Amanda
 	tag: AmandaHome
 	tag: Selenium
@@ -9015,7 +9177,7 @@ page:youlookravishing
 	tag: Vanity
 page:fromalackofsleep
 	date: 2007-04-13
-	desc: Fromalackofsleep
+	desc: From A Lack Of Sleep
 	tag: Monica
 	tag: Demon
 	tag: Vanity
@@ -11941,21 +12103,21 @@ page:beeinyourbonnet
 page:theSunStonewas
 	date: 2005-09-13
 	desc: The Sun Stone Was
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Monica
 	tag: Museum
 	tag: MuseumVault
 page:hocuspocuscrap
 	date: 2005-09-12
 	desc: Hocus-pocus Crap
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
 page:nothingofhistory
 	date: 2005-09-09
 	desc: Nothing Of History
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
@@ -11964,7 +12126,7 @@ page:nowyoullbelieveme
 	desc: Now You'll Believe Me
 	tag: Axayacatl
 	tag: Aztec
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
@@ -11973,21 +12135,21 @@ page:betteratthecoop
 	desc: Better At The Co-Op
 	tag: Aztec
 	tag: Banana
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
 page:youllberightback
 	date: 2005-09-06
 	desc: You'll Be Right Back
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
 page:yeahwhatever
 	date: 2005-09-05
 	desc: Yeah Whatever
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
@@ -11995,7 +12157,7 @@ page:notmeanttobefound
 	date: 2005-09-02
 	desc: Not Meant To Be Found
 	tag: Calendar
-	tag: CeremonialCloth
+	tag: PortalCloth
 	tag: Egyptian
 	tag: Monica
 	tag: Museum
@@ -14076,7 +14238,7 @@ page:07262004
 	desc: 07-26-2004
 	tag: Bra
 	tag: BraShop
-	tag: Lydia
+	tag: BraShopReceptionist
 	tag: Monica
 	tag: Shelly
 page:07232004
