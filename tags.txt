@@ -28,9 +28,11 @@ Antikythera	Wikipedia: [Antikythera Mechanism](http://en.wikipedia.org/wiki/Anti
 Atsali	Siren, adopted daughter of [Katherine](#katherine), thus sister of [Castela](#castela)
 AutoRepair	Minneapolis South Auto Repair & Restoration -- Shelly's [dad's](#mrwahnee) business, where [Shelly](#shelly) worked as a mechanic
 Axayacatl	Aztec ruler. Wikipedia: [Axayacatl](http://en.wikipedia.org/wiki/Axayacatl)
+Band	a popular beat combo
 Becky	occasional barista at Mucho Mocha, baker of cakes, biscuits, _etc_, requires OCD medication
 Berdine	were-bear; sister of [Nadette](#nadette)
 Bibliothiki	&beta;&iota;&beta;&iota;&omicron;&theta;&eta;&kappa;&eta;, Ancient Greek name for the [Library](#library)
+Bikers	Motorcycle riders
 BlackRabbit	Image in Central american style manifested by [Jin](#jin)
 BoilerRoom	a part of [Shelly's](#shelly) subconscious where [Little Shelly](#littleshelly) hides
 Brandi	[Golem](#golem) girl, Lioness in the [Chimera](#chimera)
@@ -75,11 +77,11 @@ Jill	Jill Sundhal, [’Jet's](#jet) large-framed sister, cook/manager at [George
 JimmiesReggaeBar	not to be confused with [JimmysBluesBar](#jimmysbluesbar)
 JimmysBluesBar	not to be confused with [JimmiesReggaeBar](#jimmiesreggaebar)
 Jin	[Golem](#golem) girl, Snake in the [Chimera](#chimera); the Time Keeper's daughter; _a.k.a_ [Tochtli](#tochtli)
-JinMother	one of the time keepers of [Lanthis](#lanthis); designed the [Calender Machine](#calendarmachine) and the [Golem](#golem) ritual, which she underwent herself
+JinMother	[Mayahuel](#mayahuel), [Jin's](#jin) mother
 JoAnne	unseen instructor at the [Dance School](#danceschool)
 Joe	'mugger' -- actually a psychologist studying reactions to being robbed
 Katherine	Katherine Gilchrist, "eyes like a spider", shy woman; textile specialist at the [museum](#museum); daughter of [Lily](#lily)?
-Kevin	Photographer, relationship with Monica for many years; (an entirely mundane character?)
+Kevin	Photographer, relationship with Monica for many years; (an entirely mundane character???)
 KevinHome	near the [Sunnyside Up](#sunnysideup) café
 Krystle	young Mermaid, attending [Gryphon High School](#gryphonhigh)
 LakeCalhoun	Lake and surrounding recreational parkland
@@ -91,7 +93,9 @@ LittleShelly	[Shelly's](#shelly) internalised self-image from the time of [her m
 Luci	receptionist & poster girl for Punk Yoga; Celtic knot-work tattoos
 Lydia	Bra designer; diplomas in architecture and industrial design
 Marta	[Monica's](#monica) cousin in [Monterrey](#monterrey)
+Mayahuel	[Jin's](#jin) [Mother](#jinmother); one of the time keepers of [Lanthis](#lanthis); designed the [Calender Machine](#calendarmachine) and the [Golem](#golem) ritual, which she underwent herself
 Mermaid	a.k.a 'TunaGirls' [Krystal](#krystal), [Jessie](#jessie)
+Mike	[Security Guard](#securityguard) at the [Museum](#museum)
 Monica	Monica Villarreal, 4\' 11\", Mexican, anthropologist, [antique shop](#antiqueshop) owner
 MonicasAunt	unnamed? Lives in [Monterrey](#monterrey)
 Monterrey	Mexican city where [Monica](#monica) has family: her [uncle](#tio), [aunt](#MonicasAunt), cousins [Rigo](#rigo) and [Marta](#marta)
@@ -101,26 +105,31 @@ Museum	Minneapolis University Historical Museum (?)
 MusicBin	shop where [Owen](#owen) worked
 Nadette	were-bear; sister of [Berdine](#berdine); seer; immune to [Atsali's](#atsali) siren song, but not to Atsali
 Owen	[Shelly's](#shelly) childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin)
-Phix	[Sphinx](#sphinx), librarian of The [Library](#library)
+Phix	a [sphinx](#sphinx), librarian of The [Library](#library)
+PortalCloth	Printed with a meshwork design of a face; discovered in Yaxchilán but has Egyptian connotations
+PortalTattoo	The PortalCloth's face design transferred to [Shelly](#shelly)
 PunkYoga	[Jacqui's](#jacqui) yoga studio
 Randi	coffee shop worker, sister of [Jacob](#jacob). Satyr
 Rigo	[Monica's](#monica) cousin in [Monterrey](#monterrey)
 Room316	in (a) Minneapolis hospital
 Roy	part-owner of the [Antique Shop](#antiqueshop) with [Monica](#monica)
 Sailor		18 year old lad Monica nearly gets out of hand with at a wedding in [Galena](#galena). In a broom closet.
+SecurityGuard	[Mike](#mike), at the [Museum](#museum)
+SecurityGuy	at a nightclub
 Selenium	street cat who adopts Amanda as his (?) servant 
 Shelly	Shelly Wahnee, muscle girl, wrench wench. [Sphinx](#sphinx)
 ShellyMom	'died' when Shelly was 10
 Sphinx	long-lived creature, of more than human scale, with lion hindquarters, eagle wings, human torso, arms and head. Mostly protect humanity from rogue demons, but used to kill humans to save them, causing misunderstandings
 SunnysideUp	Sunnyside Up Café, near [Kevin's home](#kevinhome)
 Suzy	Suzy McBride, vampire
-Teeth	some characters have unusual dentition by mainstream human standards
+Teeth	some characters have unusual dentition by mainstream human standards, tagged when particularly startling or first revealed
 Tepoz	Tepoztecal, Aztec god of alcohol: an animate 3\' high blue statue or [golem](#golem)
 Tio	Spanish: "uncle". Specifically [Monica's](#monica) uncle in [Monterrey](#monterrey) 
 Tochtli	another identity of [Jin's](#jin), apparently independent of the [Chimera](#chimera) -- Tochtli-Jin was acting while Chimaera-Jin was hidden/inactivated. Tochtli's symbol is a [black rabbit](#blackrabbit), her role is to "keep things running smoothly".
 ThePlow	Bar in Des Moines
 Tiffany	minds the [Antique Shop](#antiqueshop)
 Tina	Tina Rosario Aldaco Guzmán, the demon barista. Proprietor of Mucho Mocha. Dead, animated by her [demon](#demon) conglomerate or commune when the Tina personality died in a car [crash](#crash)
+Tsillah	She is the Darkness, her 'shadow' appears as a short goblin-girl. Daughter of Charon, the ferryman, and [Thymbris](#thymbris).
 Vorp	Library teleport/transport system's sound (?)
 VWvan	[Jacqui's](#jacqui) wheels for [Fermented Banana's](#fermentedbanana) transport
 Wings	a suddenly display of, or reference to wings on a character
