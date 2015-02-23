@@ -6396,151 +6396,312 @@ page:enjoyyourevening
 	tag: 0-untagged
 page:twophilosophers
 	date: 2009-06-19
-	desc: Twophilosophers
-	tag: 0-untagged
+	desc: Two philosophers
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:howsitimportant
 	date: 2009-06-18
-	desc: Howsitimportant
-	tag: 0-untagged
+	desc: How's it important
+	tag: 2012
+	tag: Bud
+	tag: CalendarMachine
+	tag: ClayDolls
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:dothehonors
 	date: 2009-06-17
-	desc: Dothehonors
-	tag: 0-untagged
+	desc: Do the honors
+	tag: Bud
+	tag: ClayDolls
+	tag: FlashLight
+	tag: Hammer
+	tag: MiddleC
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:showyousomething
 	date: 2009-06-16
-	desc: Showyousomething
-	tag: 0-untagged
+	desc: Show you something
+	note: dolls referred to as 'stone' here
+	tag: Bud
+	tag: ClayDolls
+	tag: FlashLight
+	tag: Monica
+	tag: MonicaHouse
+	tag: Shelly
 page:getthatplease
 	date: 2009-06-15
-	desc: Getthatplease
-	tag: 0-untagged
+	desc: Get that please
+	tag: Bud
+	tag: Dietzel
+	tag: Monica
+	tag: MonicaHouse
+	tag: Popcorn
+	tag: Shelly
 page:onemoreplease
 	date: 2009-06-12
-	desc: Onemoreplease
-	tag: 0-untagged
+	desc: One more please
+	tag: Brandi
+	tag: BowlingBall
+	tag: BowlingBallShop
+	tag: Mirrors
 page:therapeutic
 	date: 2009-06-11
 	desc: Therapeutic
-	tag: 0-untagged
+	tag: Brandi
+	tag: BowlingBall
 page:lookingfor
 	date: 2009-06-10
-	desc: Lookingfor
-	tag: 0-untagged
+	desc: Looking for
+	tag: BowlingBall
+	tag: BowlingBallShop
+	tag: BowlingBallShopGuy
+	tag: Brandi
 page:onebowlingball
 	date: 2009-06-09
-	desc: Onebowlingball
-	tag: 0-untagged
+	desc: One bowling ball
+	tag: Book
+	tag: BowlingBall
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Mirror
+	tag: PlayingCards
 page:neededsupplies
 	date: 2009-06-08
-	desc: Neededsupplies
-	tag: 0-untagged
+	desc: Needed supplies
+	tag: Book
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: PlayingCards
 page:doesnthelp
 	date: 2009-06-05
-	desc: Doesnthelp
-	tag: 0-untagged
+	desc: Doesn't help
+	tag: Bud
+	tag: LittleGirl
+	tag: Monica
+	tag: MuchoMocha
 page:naturaldoorways
 	date: 2009-06-04
-	desc: Naturaldoorways
-	tag: 0-untagged
+	desc: Natural doorways
+	tag: Bud
+	tag: DemonWorld
+	tag: JinMother
+	tag: Monica
+	tag: MuchoMocha
+	tag: TempleOfJaguars
 page:wallofplasma
 	date: 2009-06-03
-	desc: Wallofplasma
-	tag: 0-untagged
+	desc: Wall of plasma
+	tag: 12Kyears
+	tag: Bud
+	tag: Fire
+	tag: Glasses
+	tag: LittleGirl
+	tag: Monica
+	tag: MuchoMocha
+	tag: Plasma
 page:demonsshellenergy
 	date: 2009-06-02
-	desc: Demonsshellenergy
-	tag: 0-untagged
+	desc: Demons, shell, energy
+	tag: 12Kyears
+	tag: Bud
+	tag: Glasses
+	tag: Monica
+	tag: MuchoMocha
+	tag: TempleOfJaguars
 page:iknewit
 	date: 2009-06-01
-	desc: Iknewit
-	tag: 0-untagged
+	desc: I knew it
+	tag: Bud
+	tag: Glasses
+	tag: Monica
+	tag: MuchoMocha
+	tag: TempleOfJaguars
 page:wealthofknowledge
 	date: 2009-05-29
-	desc: Wealthofknowledge
-	tag: 0-untagged
+	desc: Wealth of knowledge
+	tag: Glasses
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:talkingwiththedead
 	date: 2009-05-28
-	desc: Talkingwiththedead
-	tag: 0-untagged
+	desc: Talking with the dead
+	tag: Glasses
+	tag: Monica
+	tag: MuchoMocha
+	tag: PlagioclaseFeldspar
+	tag: Quartz
+	tag: TempleOfJaguars
+	tag: Tina
 page:recordsenergy
 	date: 2009-05-27
-	desc: Recordsenergy
-	tag: 0-untagged
+	desc: Records energy
+	tag: Ghosts
+	tag: Glasses
+	tag: Monica
+	tag: MuchoMocha
+	tag: StoneTape
+	tag: Tina
 page:demonsarentghosts
 	date: 2009-05-26
-	desc: Demonsarentghosts
-	tag: 0-untagged
+	desc: Demons aren't ghosts
+	tag: Ghosts
+	tag: Glasses
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:deathandtaxes
 	date: 2009-05-25
-	desc: Deathandtaxes
-	tag: 0-untagged
+	desc: Death and taxes
+	tag: Ghosts
+	tag: Glasses
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:seleniumsaveus
 	date: 2009-05-22
-	desc: Seleniumsaveus
-	tag: 0-untagged
+	desc: Selenium save us
+	tag: Amanda
+	tag: AmandaHome
+	tag: Monica
+	tag: Selenium
 page:stuntedlikeme
 	date: 2009-05-21
-	desc: Stuntedlikeme
-	tag: 0-untagged
+	desc: Stunted like me
+	note: Selenium is ~4 years
+	tag: Amanda
+	tag: AmandaHome
+	tag: Monica
+	tag: Selenium
 page:glomp
 	date: 2009-05-20
 	desc: Glomp
-	tag: 0-untagged
+	tag: Amanda
+	tag: AmandaHome
+	tag: Glomp
+	tag: Monica
+	tag: Purr
+	tag: Selenium
 page:backtoback
 	date: 2009-05-19
-	desc: Backtoback
-	tag: 0-untagged
+	desc: Back to back
+	tag: Amanda
+	tag: AmandaHome
+	tag: Monica
+	tag: Selenium
 page:marathontonight
 	date: 2009-05-18
-	desc: Marathontonight
-	tag: 0-untagged
+	desc: Marathon to night
+	tag: Amanda
+	tag: AmandaHome
+	tag: Monica
+	tag: MonicaHouse
+	tag: Phone
+	tag: Selenium
 page:nopouting
 	date: 2009-05-15
-	desc: Nopouting
-	tag: 0-untagged
+	desc: No pouting
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Jin
+	tag: Pout
 page:freshsqueezed
 	date: 2009-05-14
 	desc: Freshsqueezed
-	tag: 0-untagged
+	tag: BloodOrange
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Ginger	
+	tag: Ginseng
+	tag: Jin
 page:ignoreoutbursts
 	date: 2009-05-13
-	desc: Ignoreoutbursts
-	tag: 0-untagged
+	desc: Ignore outbursts
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Jin
 page:moresensitive
 	date: 2009-05-12
-	desc: Moresensitive
-	tag: 0-untagged
+	desc: More sensitive
+	tag: 2012
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Coffee
+	tag: Jin
+	tag: Saturday
 page:saturdayallday
 	date: 2009-05-11
 	desc: Saturdayallday
-	tag: 0-untagged
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Saturday
 page:tinycrisisaverted
 	date: 2009-05-08
-	desc: Tinycrisisaverted
-	tag: 0-untagged
+	desc: Tiny crisis averted
+	tag: Bud
+	tag: CerberusClub
+	tag: Jin
+	tag: Monica
+	tag: Poit
+	tag: Tepoz
+	tag: Tina
 page:explaintome
 	date: 2009-05-07
-	desc: Explaintome
-	tag: 0-untagged
+	desc: Explain to me
+	tag: BackBrush
+	tag: Bud
+	tag: CerberusClub
+	tag: Jin
+	tag: ShowerCap
+	tag: Tepoz
 page:beforeitstoolate
 	date: 2009-05-06
-	desc: Beforeitstoolate
-	tag: 0-untagged
+	desc: Before it's too late
+	tag: BackBrush
+	tag: Bud
+	tag: CerberusClub
+	tag: Jin
+	tag: Shelly
+	tag: ShowerCap
+	tag: Tepoz
 page:whatsnext
 	date: 2009-05-05
-	desc: Whatsnext
-	tag: 0-untagged
+	desc: What's next
+	tag: BackBrush
+	tag: Bud
+	tag: CerberusClub
+	tag: Poit
+	tag: Shelly
+	tag: ShowerCap
+	tag: Tepoz
 page:inhisprogramming
 	date: 2009-05-04
-	desc: Inhisprogramming
-	tag: 0-untagged
+	desc: In his programming
+	tag: Bud
+	tag: CerberusClub
+	tag: Shelly
+	tag: Tina
 page:moodywhensober
 	date: 2009-05-01
 	desc: Moodywhensober
-	tag: 0-untagged
+	tag: Bud
+	tag: CerberusClub
+	tag: Jin
+	tag: Monica
+	tag: Shelly
+	tag: Tina
 page:howmuchtheydrank
 	date: 2009-04-30
-	desc: Howmuchtheydrank
+	desc: How much they drank
 	tag: CerberusClub
 	tag: Jin
 	tag: Monica
@@ -11861,9 +12022,11 @@ page:dontwanttoremember
 	desc: Don’t Want To Remember
 	tag: Bud
 	tag: Chimera
+	tag: Fire
 	tag: FireBreath
 	tag: Flashback
 	tag: LittleGirl
+	tag: Plasma
 	tag: Skeleton
 page:friggeninsect
 	date: 2006-06-06
