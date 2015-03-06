@@ -49,6 +49,114 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Atsali
 ; Castela
 ;
+page:cat-suit
+	date: 2015-03-06
+	desc: Cat suit
+	tag: Atsali
+	tag: CatSuit
+	tag: Lily
+	tag: Mapimi
+	tag: Nadette
+page:chest-cold
+	date: 2015-03-05
+	desc: Chest cold
+	tag: Atsali
+	tag: CatSuit
+	tag: Lily
+	tag: Mapimi
+	tag: Nadette
+	tag: Sneeze
+page:just-a-radio
+	date: 2015-03-04
+	desc: Just a radio
+	tag: Atsali
+	tag: Blush
+	tag: Crater
+	tag: Golem
+	tag: CatSuit
+	tag: Lily
+	tag: Mapimi
+	tag: Nadette
+	tag: Rocket
+	tag: StoneTape
+	tag: WorldGrid
+page:stop-and-think
+	date: 2015-03-03
+	desc: Stop and think
+	tag: Atsali
+	tag: Blush
+	tag: CatSuit
+	tag: Lily
+	tag: Mapimi
+	tag: Nadette
+page:glowing-2
+	date: 2015-03-02
+	desc: Glowing
+	tag: Atsali
+	tag: Blush
+	tag: Crater
+	tag: CatSuit
+	tag: Lily
+	tag: Mapimi
+	tag: NORAD
+	tag: Nadette
+page:got-her-covered
+	date: 2015-02-27
+	desc: Got Her Covered
+	tag: Atsali
+	tag: Blush
+	tag: EightBallShirt
+	tag: Facemarks
+	tag: CatSuit
+	tag: Mapimi
+	tag: Nadette
+	tag: Rocket
+	tag: Wings
+page:seperation
+	date: 2015-02-26
+	desc: Seperation
+	tag: Atsali
+	tag: Crater
+	tag: EightBallShirt
+	tag: Explosion
+	tag: Mapimi
+	tag: Nadette
+	tag: Rocket
+page:dead-end
+	date: 2015-02-25
+	desc: Dead end
+	tag: Atsali
+	tag: EightBallShirt
+	tag: Explosion
+	tag: Mapimi
+	tag: Nadette
+	tag: ReleaseButton
+page:positive-angle
+	date: 2015-02-24
+	desc: Positive Angle
+	tag: AntiMatter
+	tag: Atsali
+	tag: EightBallShirt
+	tag: Mapimi
+	tag: Nadette
+	tag: Door
+page:listen-to-me-2
+	date: 2015-02-23
+	desc: Listen to me
+	tag: AntiMatter
+	tag: Atsali
+	tag: Blush
+	tag: BulletHoles
+	tag: EightBallShirt
+	tag: ElderGods
+	tag: Golem
+	tag: Mapimi
+	tag: Nadette
+	tag: NuGui
+	tag: Senator
+	tag: StasisChamber
+	tag: Teeth
+	tag: WorldGrid
 page:get-out-of-the-way
 	date: 2015-02-20
 	desc: Get Out Of The Way
@@ -6188,218 +6296,423 @@ page:funnyhuh
 	tag: 0-untagged
 page:littlevisit
 	date: 2009-09-08
-	desc: Littlevisit
-	tag: 0-untagged
+	desc: Little visit
+	tag: Monica
+	tag: MonicaHouse
+	tag: Demon
+	tag: JinDoubt
 page:yourenotmine
 	date: 2009-09-07
-	desc: Yourenotmine
-	tag: 0-untagged
+	desc: You're not mine
+	note: Jin's demon Doubt
+	tag: Monica
+	tag: MonicaHouse
+	tag: Demon
+	tag: JinDoubt
 page:rescueeveryone
 	date: 2009-09-04
-	desc: Rescueeveryone
-	tag: 0-untagged
+	desc: Rescue everyone
+	tag: Bud
+	tag: Brandi
 page:sheacelebrity
 	date: 2009-09-03
-	desc: Sheacelebrity
-	tag: 0-untagged
+	desc: She's a celebrity
+	tag: Bud
+	tag: Brandi
 page:aboutyounow
 	date: 2009-09-02
-	desc: Aboutyounow
-	tag: 0-untagged
+	desc: About you now
+	tag: Brandi
+	tag: Bud
 page:saysher
 	date: 2009-09-01
-	desc: Saysher
-	tag: 0-untagged
+	desc: Says her!
+	tag: Brandi
+	tag: Bud
 page:stinksofphix
 	date: 2009-08-31
-	desc: Stinksofphix
-	tag: 0-untagged
+	desc: Stinks of phix
+	tag: Brandi
+	tag: Bud
+	tag: Phix
 page:underjinsnose
 	date: 2009-08-28
-	desc: Underjinsnose
-	tag: 0-untagged
+	desc: Under Jin's nose
+	tag: MuchoMocha
+	tag: Tina
+	tag: Brandi
+	tag: Jin
+	tag: Shelly
+	tag: PortalTattoo
 page:inthefaceofdoubt
 	date: 2009-08-27
-	desc: Inthefaceofdoubt
-	tag: 0-untagged
+	desc: In the face of doubt
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: PortalTattoo
+	tag: Shelly
 page:techtalk
 	date: 2009-08-26
 	desc: Techtalk
-	tag: 0-untagged
+	tag: Monica
+	tag: MonicaHouse
+	tag: PortalTattoo
+	tag: Shelly
 page:somethingmissing
 	date: 2009-08-25
-	desc: Somethingmissing
-	tag: 0-untagged
+	desc: Something missing
+	tag: Brandi
+	tag: Bud
+	tag: Schizophasia
+	tag: Monica
+	tag: MonicaHouse
+	tag: PortalTattoo
+	tag: Shelly
 page:whatabout
 	date: 2009-08-24
 	desc: Whatabout
-	tag: 0-untagged
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: PortalTattoo
+	tag: Shelly
 page:askwayemayaterlay
 	date: 2009-08-21
-	desc: Askwayemayaterlay
-	tag: 0-untagged
+	desc: Askway emay aterlay
+	tag: Brandi
+	tag: Bud
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: PortalTattoo
+	tag: Shelly
 page:sillyus
 	date: 2009-08-20
-	desc: Sillyus
-	tag: 0-untagged
+	desc: Silly us
+	tag: Brandi
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
+	tag: PortalTattoo
+	tag: Shelly
 page:mentallymopthefloo
 	date: 2009-08-19
-	desc: Mentallymopthefloo
-	tag: 0-untagged
+	desc: Mentally mop the floor
+	tag: Bud
+	tag: Monica
+	tag: MonicaHouse
 page:letsgo
 	date: 2009-08-18
-	desc: Letsgo
-	tag: 0-untagged
+	desc: Let's go
+	tag: Brandi
+	tag: MuchoMocha
+	tag: PortalTattoo
+	tag: Shelly
+	tag: Tina
 page:ivebeenstuck
 	date: 2009-08-17
-	desc: Ivebeenstuck
-	tag: 0-untagged
+	desc: I've been stuck
+	tag: Brandi
+	tag: Demon
+	tag: MuchoMocha
+	tag: Tina
 page:knowmorethanme
 	date: 2009-08-14
-	desc: Knowmorethanme
-	tag: 0-untagged
+	desc: Know more than me
+	tag: Brandi
+	tag: Demon
+	tag: MuchoMocha
+	tag: Tina
 page:knowmore
 	date: 2009-08-13
-	desc: Knowmore
-	tag: 0-untagged
+	desc: Know more
+	tag: Brandi
+	tag: MuchoMocha
+	tag: Tina
+	tag: PortalTattoo
+	tag: Shelly
 page:talkwithtina
 	date: 2009-08-12
-	desc: Talkwithtina
-	tag: 0-untagged
+	desc: Talk with Tina
+	tag: Brandi
+	tag: AutoRepair
+	tag: PortalTattoo
+	tag: Shelly
 page:didistutter
 	date: 2009-08-11
-	desc: Didistutter
-	tag: 0-untagged
+	desc: Did I stutter
+	tag: Brandi
+	tag: AutoRepair
+	tag: ClockKeyBlade
+	tag: Goggles
+	tag: PortalTattoo
+	tag: Shelly
 page:knowingme
 	date: 2009-08-10
-	desc: Knowingme
-	tag: 0-untagged
+	desc: Knowing me
+	tag: 56
+	tag: Brandi
+	tag: AutoRepair
+	tag: ClockKeyBlade
+	tag: Goggles
+	tag: PortalTattoo
+	tag: Shelly
 page:akindofkey
 	date: 2009-08-07
-	desc: Akindofkey
-	tag: 0-untagged
+	desc: A kind of key
+	tag: Brandi
+	tag: AutoRepair
+	tag: ClockKeyBlade
+	tag: Goggles
+	tag: PortalTattoo
+	tag: Shelly
 page:donthesitate
 	date: 2009-08-06
-	desc: Donthesitate
-	tag: 0-untagged
+	desc: Don't hesitate
+	tag: Brandi
+	tag: AutoRepair
+	tag: ClockKeyBlade
+	tag: Goggles
+	tag: PortalTattoo
+	tag: Shelly
 page:nocodetobreak
 	date: 2009-08-05
-	desc: Nocodetobreak
-	tag: 0-untagged
+	desc: No code to break
+	tag: Book
+	tag: Brandi
+	tag: AutoRepair
+	tag: PortalTattoo
+	tag: Shelly
+	tag: Goggles
 page:abitawkward
 	date: 2009-08-04
-	desc: Abitawkward
-	tag: 0-untagged
+	desc: A bit awkward
+	tag: ArcWelder
+	tag: AutoRepair
+	tag: Brandi
+	tag: Poit
+	tag: PortalTattoo
+	tag: Shelly
 page:doasisay
 	date: 2009-08-03
-	desc: Doasisay
-	tag: 0-untagged
+	desc: Do as I say
+	tag: Brandi
+	tag: Book
+	tag: BrandiBudAppt
+	tag: Monica
+	tag: Shelly
+	tag: Janet
+	tag: Michelle
 page:onecouldtell
 	date: 2009-07-31
-	desc: Onecouldtell
-	tag: 0-untagged
+	desc: One could tell
+	tag: Brandi
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:talkingtomyself
 	date: 2009-07-30
-	desc: Talkingtomyself
-	tag: 0-untagged
+	desc: Talking to myself
+	tag: Mirror
+	tag: Monica
+	tag: MonicaHouse
 page:whatthehell
 	date: 2009-07-29
-	desc: Whatthehell
-	tag: 0-untagged
+	desc: What the hell
+	tag: ArcWelder
+	tag: AutoRepair
+	tag: Jin
+	tag: Poit
+	tag: PortalTattoo
+	tag: Shelly
 page:imsunshine
 	date: 2009-07-28
-	desc: Imsunshine
-	tag: 0-untagged
+	desc: I'm sunshine
+	tag: CalendarMachine
+	tag: Jin
+	tag: JinMother
+	tag: Monica
+	tag: MonicaHouse
+	tag: Poit
+	tag: Shelly
 page:howdoyouremember
 	date: 2009-07-27
-	desc: Howdoyouremember
-	tag: 0-untagged
+	desc: How do you remember
+	tag: Brandi
+	tag: ClayDolls
+	tag: Jin
+	tag: JinMother
+	tag: Monica
+	tag: MonicaHouse
 page:thefourthlight
 	date: 2009-07-17
-	desc: Thefourthlight
-	tag: 0-untagged
+	desc: The fourth light
+	tag: ClayDolls
+	tag: FaceGlyph
+	tag: Jin
+	tag: JinMother
+	tag: Monica
+	tag: MonicaHouse
 page:madetheconnection
 	date: 2009-07-16
 	desc: Madetheconnection
-	tag: 0-untagged
+	tag: FaceGlyph
+	tag: Mirror
+	tag: Monica
+	tag: MonicaHouse
+	tag: Poit
+	tag: Jin
+	tag: JinMother
 page:doubtstrick
 	date: 2009-07-15
-	desc: Doubtstrick
-	tag: 0-untagged
+	desc: Doubt's tricks
+	tag: Dietzel
+	tag: FaceGlyph
+	tag: Mirror
+	tag: Monica
+	tag: MonicaHouse
 page:ouractions
 	date: 2009-07-14
-	desc: Ouractions
-	tag: 0-untagged
+	desc: Our actions
+	tag: FaceGlyph
+	tag: Mirror
+	tag: Monica
+	tag: MonicaHouse
 page:talkingaboutyourse
 	date: 2009-07-13
-	desc: Talkingaboutyourse
-	tag: 0-untagged
+	desc: Talking about your self
+	tag: Demon
+	tag: Doubt
+	tag: Monica
+	tag: MonicaHouse
 page:haveusback
 	date: 2009-07-10
-	desc: Haveusback
-	tag: 0-untagged
+	desc: Have us back
+	tag: Demon
+	tag: Doubt
+	tag: EmptyEyes
+	tag: Monica
+	tag: Skull
 page:allgone
 	date: 2009-07-09
-	desc: Allgone
-	tag: 0-untagged
+	desc: All gone
+	tag: Demon
+	tag: Doubt
+	tag: EmptyEyes
+	tag: Monica
+	tag: MonicaHouse
+	tag: Skull
 page:notmetalking
 	date: 2009-07-08
-	desc: Notmetalking
-	tag: 0-untagged
+	desc: Not me talking
+	tag: CalendarMachine
+	tag: Demon
+	tag: Doubt
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
 page:takingherplace
 	date: 2009-07-07
-	desc: Takingherplace
-	tag: 0-untagged
+	desc: Taking her place
+	tag: CalendarMachine
+	tag: Jin
+	tag: Monica
+	tag: MonicaHouse
+	tag: Pizza
 page:nightssleep
 	date: 2009-07-06
-	desc: Nightssleep
-	tag: 0-untagged
+	desc: Night's sleep
+	tag: CalendarMachine
+	tag: GerardButler
+	tag: Monica
+	tag: MonicaHouse
 page:ilikethat
 	date: 2009-07-03
-	desc: Ilikethat
-	tag: 0-untagged
+	desc: I like that
+	tag: BackYard
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Fireplace
 page:comfortfromplants
 	date: 2009-07-02
-	desc: Comfortfromplants
-	tag: 0-untagged
+	desc: Comfort from plants
+	tag: BackYard
+	tag: BrandiBudAppt
+	tag: Bud
 page:patchesofgrass
 	date: 2009-07-01
-	desc: Patchesofgrass
-	tag: 0-untagged
+	desc: Patches of grass
+	tag: BackYard
+	tag: BrandiBudAppt
+	tag: Bud
 page:makeshortwork
 	date: 2009-06-30
-	desc: Makeshortwork
-	tag: 0-untagged
+	desc: Make short work
+	tag: BackYard
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: BudFamily
 page:greenbodyparts
 	date: 2009-06-29
-	desc: Greenbodyparts
-	tag: 0-untagged
+	desc: Green body parts
+	tag: BackYard
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: OrionSlaveGirl
 page:cumulativejournal
 	date: 2009-06-26
-	desc: Cumulativejournal
-	tag: 0-untagged
+	desc: Cumulative journal
+	note: Tina very dark, shadowed, here
+	tag: BowlingBall
+	tag: Brandi
+	tag: Library
+	tag: Mirror
+	tag: Monica
+	tag: MuchoMocha
+	tag: Poit
+	tag: Tina
 page:mycoffee
 	date: 2009-06-25
-	desc: Mycoffee
-	tag: 0-untagged
+	desc: My coffee
+	tag: 2012
+	tag: BowlingBall
+	tag: Brandi
+	tag: Mirror
+	tag: Monica
+	tag: MuchoMocha
+	tag: Poit
+	tag: Tina
 page:itsimpoitant
 	date: 2009-06-24
-	desc: Itsimpoitant
-	tag: 0-untagged
+	desc: It's impoitant
+	tag: BowlingBall
+	tag: Brandi
+	tag: Mirror
+	tag: Monica
+	tag: MuchoMocha
+	tag: Poit
+	tag: Tina
 page:fellinplace
 	date: 2009-06-23
-	desc: Fellinplace
-	tag: 0-untagged
+	desc: Fell in place
+	tag: MuchoMocha
+	tag: Monica
+	tag: Tina
 page:enjoyyourevening
 	date: 2009-06-22
-	desc: Enjoyyourevening
-	tag: 0-untagged
+	desc: Enjoy your evening
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: BowlingBall
+	tag: Mirror
 page:twophilosophers
 	date: 2009-06-19
 	desc: Two philosophers
 	tag: Bud
 	tag: Monica
 	tag: MonicaHouse
+	tag: PortalTattoo
 	tag: Shelly
 page:howsitimportant
 	date: 2009-06-18
@@ -6410,6 +6723,7 @@ page:howsitimportant
 	tag: ClayDolls
 	tag: Monica
 	tag: MonicaHouse
+	tag: PortalTattoo
 	tag: Shelly
 page:dothehonors
 	date: 2009-06-17
@@ -6421,6 +6735,7 @@ page:dothehonors
 	tag: MiddleC
 	tag: Monica
 	tag: MonicaHouse
+	tag: PortalTattoo
 	tag: Shelly
 page:showyousomething
 	date: 2009-06-16
@@ -6431,6 +6746,7 @@ page:showyousomething
 	tag: FlashLight
 	tag: Monica
 	tag: MonicaHouse
+	tag: PortalTattoo
 	tag: Shelly
 page:getthatplease
 	date: 2009-06-15
@@ -6440,6 +6756,7 @@ page:getthatplease
 	tag: Monica
 	tag: MonicaHouse
 	tag: Popcorn
+	tag: PortalTattoo
 	tag: Shelly
 page:onemoreplease
 	date: 2009-06-12
