@@ -49,12 +49,60 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Atsali
 ; Castela
 ;
+page:come-quick
+	date: 2015-03-23
+	desc: Come Quick
+	tag: Atsali
+	tag: Calista
+	tag: Flashback
+	tag: MrMeadows
+	tag: Orphanage
+	tag: Suicide
+page:from-her-past
+	date: 2015-03-20
+	desc: From Her Past
+	tag: Atsali
+	tag: Berdine
+	tag: BerdNadHome
+	tag: Flashback
+	tag: MrMeadows
+	tag: Nadette
+	tag: Orphanage
+	tag: Suicide
+page:going-to-worry
+	date: 2015-03-19
+	desc: Going To Worry
+	tag: Berdine
+	tag: BerdNadHome
+	tag: BerdNadMom
+	tag: Nadette
+page:worried
+	date: 2015-03-18
+	desc: Worried
+	tag: Atsali
+	tag: Castela
+	tag: KatherineHome
+page:so-bent
+	date: 2015-03-17
+	desc: So Bent
+	tag: Atsali
+	tag: Castela
+	tag: KatherineHome
+	tag: Cookies
+page:psych
+	date: 2015-03-16
+	desc: Psych
+	tag: Atsali
+	tag: Castela
+	tag: KatherineHome
+	tag: Facemarks
 page:like-omg
 	date: 2015-03-12
 	desc: Like OMG
 	tag: 1Frame
 	tag: Atsali
 	tag: Castela
+	tag: Colour
 page:a-boy-calling
 	date: 2015-03-12
 	desc: A boy calling
@@ -1350,11 +1398,11 @@ page:saturday-too
 	date: 2014-07-14
 	desc: Saturday Too
 	tag: Calista
-	tag: Colour
 	tag: GryphonHigh
 	tag: Library
 	tag: Monica
 	tag: Phix
+	tags: Vampire
 page:want-to-learn
 	date: 2014-07-11
 	desc: Want To Learn
@@ -1406,6 +1454,7 @@ page:very-honest
 page:castela-fourth
 	date: 2014-07-04
 	desc: Castela Fourth
+	tag: Filler
 	tag: Castela
 	tag: KatherineHome
 	tag: Firework
@@ -1445,363 +1494,742 @@ page:comfort-food
 page:stay-clear
 	date: 2014-06-27
 	desc: Stay Clear
-	tag: 0-untagged
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Berdine
+	tag: Nadette
 page:cricket-and-jugs
 	date: 2014-06-26
 	desc: Cricket And Jugs
-	tag: 0-untagged
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Calista
 page:i-like-you
 	date: 2014-06-25
 	desc: I Like You
-	tag: 0-untagged
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Calista
+	tag: Fight
 page:oh-i-see
 	date: 2014-06-24
 	desc: Oh I See
-	tag: 0-untagged
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Calista
 page:do-not-mess-with-her
 	date: 2014-06-23
 	desc: Do Not Mess With Her
-	tag: 0-untagged
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Calista
+	tag: Blush
+	tag: Fight
 page:jennie-breeden-guest-art-2
 	date: 2014-06-20
 	desc: Jennie Breeden Guest Art
-	tag: 0-untagged
+	tag: Filler
 page:jennie-breeden-guest-art
 	date: 2014-06-19
 	desc: Jennie Breeden Guest Art
-	tag: 0-untagged
+	tag: Filler
 page:sabrina-pandora-guest-art-2
 	date: 2014-06-18
 	desc: Sabrina Pandora Guest Art
-	tag: 0-untagged
+	tag: Filler
 page:sabrina-pandora-guest-art
 	date: 2014-06-17
 	desc: Sabrina Pandora Guest Art
-	tag: 0-untagged
+	tag: Filler
 page:claire-wendling-guest-art
 	date: 2014-06-15
 	desc: Claire Wendling Guest Art
-	tag: 0-untagged
+	tag: Filler
 page:moving
 	date: 2014-05-06
 	desc: Moving
-	tag: 0-untagged
+	tag: Filler
+	tag: Atsali
 page:chocolate-cake
 	date: 2014-05-05
 	desc: Chocolate Cake
-	tag: 0-untagged
+	tag: Atsali
+	tag: Bed
+	tag: Blush
+	tag: Castela
+	tag: ChocolateCake
+	tag: Katherine
+	tag: KatherineHome
 page:eightball-tee-preorder
 	date: 2014-05-03
-	desc: Eightball Tee Preorder
-	tag: 0-untagged
+	desc: Advert: Eightball Tee Preorder
+	tag: Filler
 page:just-leave
 	date: 2014-05-02
 	desc: Just Leave
-	tag: 0-untagged
+	tag: Atsali
+	tag: Bed
+	tag: Blush
+	tag: Castela
+	tag: Katherine
+	tag: KatherineHome
 page:my-gosh
 	date: 2014-05-01
 	desc: My Gosh
-	tag: 0-untagged
+	tag: Atsali
+	tag: Bed
+	tag: Blush
+	tag: HappyTime
+	tag: Katherine
+	tag: KatherineHome
 page:am-i-sick
 	date: 2014-04-30
 	desc: Am I Sick
-	tag: 0-untagged
+	tag: Atsali
+	tag: Bed
+	tag: Blush
+	tag: Castela
+	tag: KatherineHome
+	tag: Pot
+	tag: Wings
 page:happy-thoughts
 	date: 2014-04-29
 	desc: Happy Thoughts
-	tag: 0-untagged
+	tag: Atsali
+	tag: Bed
+	tag: Blush
+	tag: KatherineHome
+	tag: Wings
 page:be-still
 	date: 2014-04-28
 	desc: Be Still
-	tag: 0-untagged
+	tag: Atsali
+	tag: Castela
+	tag: Claws
+	tag: Facemarks
+	tag: Katherine
+	tag: KatherineHome
+	tag: Teeth
+	tag: Wings
 page:stay-calm-2
 	date: 2014-04-25
 	desc: Stay Calm
-	tag: 0-untagged
+	tag: Atsali
+	tag: Castela
+	tag: Claws
+	tag: Facemarks
+	tag: Katherine
+	tag: KatherineHome
+	tag: Teeth
+	tag: Wings
 page:stupid-diary
 	date: 2014-04-24
 	desc: Stupid Diary
-	tag: 0-untagged
+	tag: Atsali
+	tag: Castela
+	tag: Diary
+	tag: Katherine
+	tag: KatherineHome
+	tag: Scissors
 page:special-fit
 	date: 2014-04-23
 	desc: Special Fit
-	tag: 0-untagged
+	tag: Atsali
+	tag: Castela
+	tag: Blush
+	tag: Katherine
+	tag: KatherineHome
+	tag: PyjamaTop
+	tag: Scissors
+	tag: WaterPump
 page:pajama-top
 	date: 2014-04-22
 	desc: Pajama Top
-	tag: 0-untagged
+	tag: Atsali
+	tag: Castela
+	tag: Katherine
+	tag: KatherineHome
+	tag: PyjamaTop
+	tag: Scissors
+	tag: Teletubby
 page:resize-these
 	date: 2014-04-21
 	desc: Resize These
-	tag: 0-untagged
+	tag: Atsali
+	tag: Katherine
+	tag: KatherineHome
+	tag: Vorp
 page:atsali-cutie-patootie
 	date: 2014-04-18
 	desc: Atsali Cutie Patootie
-	tag: 0-untagged
+	tag: Atsali
+	tag: Wings
+	tag: 1Frame
+	tag: Colour
 page:just-children
 	date: 2014-04-17
 	desc: Just Children
-	tag: 0-untagged
+	note: Castela: a bundle of branches. Also: Castela is 6
+	tag: Atsali
+	tag: Booze
+	tag: Bud
+	tag: CafeU296
+	tag: Castela
+	tag: Scissors
 page:the-sword
 	date: 2014-04-16
 	desc: The Sword
-	tag: 0-untagged
+	tag: Booze
+	tag: Bud
+	tag: CafeU296
+	tag: Castela
+	tag: Katherine
+	tag: Scissors
 page:then-that-2
 	date: 2014-04-15
 	desc: Then That
-	tag: 0-untagged
+	tag: Atsali
+	tag: Booze
+	tag: Bud
+	tag: CafeU296
+	tag: Castela
+	tag: Katherine
+	tag: Scissors
 page:grandcritter
 	date: 2014-04-14
 	desc: Grandcritter
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Castela
+	tag: Lily
+	tag: Scissors
+	tag: Suzy
+	tag: Tina
 page:be-okay-2
 	date: 2014-04-11
 	desc: Be Okay
-	tag: 0-untagged
+	tag: Suzy
+	tag: Lily
+	tag: CafeU296
+	tag: Atsali
+	tag: Castela
+	tag: TRex
 page:call-it-even
 	date: 2014-04-10
 	desc: Call It Even
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Lily
+	tag: Castela
+	tag: Bagel
+	tag: Cigarette
+	tag: Marshmallows
 page:corrot-sticks
 	date: 2014-04-09
 	desc: Carrot Sticks
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Tina
+	tag: Castela
+	tag: Donut
+	tag: Carrot
 page:aunt-tina
 	date: 2014-04-08
 	desc: Aunt Tina
-	tag: 0-untagged
+	tag: Booze
+	tag: CafeU296
+	tag: Castela
+	tag: Katherine
+	tag: Monica
+	tag: Vorp
 page:marshmallows
 	date: 2014-04-07
 	desc: Marshmallows
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Castela
+	tag: MarshmMllow
+	tag: Tina
 page:euryale-medusa-and-stheno
 	date: 2014-04-03
 	desc: Euryale, Medusa, And Stheno
-	tag: 0-untagged
+	tag: 1Frame
+	tag: Colour
+	tag: Euryale
+	tag: Medusa
+	tag: Stheno
 page:just-being-mean
 	date: 2014-04-02
 	desc: Just Being Mean
-	tag: 0-untagged
+	note: Castela transforms
+	tag: CafeU296
+	tag: Castela
+	tag: Tina
 page:life-strategies
 	date: 2014-04-01
 	desc: Life Strategies
-	tag: 0-untagged
+	note: Castela is 5
+	tag: CafeU296
+	tag: Castela
+	tag: Tina
 page:at-school
 	date: 2014-03-31
 	desc: At School
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Castela
+	tag: Phix
 page:queen-bee
 	date: 2014-03-27
 	desc: Queen Bee
-	tag: 0-untagged
+	tag: Atsali
+	tag: CafeU296
+	tag: Euryale
+	tag: Snakes
 page:that-stuff
 	date: 2014-03-25
 	desc: That Stuff
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Euryale
+	tag: Atsali
 page:guess-what
 	date: 2014-03-24
 	desc: Guess What
-	tag: 0-untagged
+	tag: Bud
+	tag: CafeU296
+	tag: Castela
+	tag: Jin
+	tag: JinMother
 page:that-is-why
 	date: 2014-03-20
 	desc: That Is Why
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Bud
+	tag: Booze
+	tag: Alan
+	tag: Jin
+	tag: Blush
 page:time-to-think
 	date: 2014-03-19
 	desc: Time To Think
-	tag: 0-untagged
+	tag: Bud
+	tag: CafeU296
+	tag: Atsali
+	tag: Jin
 page:tossed-aside
 	date: 2014-03-18
 	desc: Tossed Aside
-	tag: 0-untagged
+	tag: Atsali
+	tag: Brandi
+	tag: Brandi
+	tag: CafeU296
+	tag: Jin
+	tag: Lanthian
+	tag: MiB
+	tag: Monica
+	tag: NuGui
 page:out-of-the-loop
 	date: 2014-03-17
 	desc: Out Of The Loop
-	tag: 0-untagged
+	tag: Atsali
+	tag: CafeU296
+	tag: Castela
+	tag: Jin
+	tag: Monica
 page:as-a-girl
 	date: 2014-03-14
 	desc: As A Girl
-	tag: 0-untagged
+	tag: Bia
+	tag: Booze
+	tag: CafeU296
+	tag: Jin
+	tag: LittleShelly
+	tag: Monica
 page:mummy-girl
 	date: 2014-03-13
 	desc: Mummy Girl
-	tag: 0-untagged
+	tag: Bia
+	tag: CafeU296
+	tag: Jin
+	tag: Monica
 page:due-for-a-hug
 	date: 2014-03-12
 	desc: Due For A Hug
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Euryale
+	tag: Shelly
+	tag: Snakes
+	tag: Sphinx
+	tag: Wings
 page:jinx
 	date: 2014-03-11
 	desc: Jinx
-	tag: 0-untagged
+	tag: ApotropaicShinx
+	tag: Blush
+	tag: Brandi
+	tag: Bud
+	tag: CafeU296
+	tag: Cannibal
+	tag: Jin
+	tag: Monica
+	tag: Poit
+	tag: Shelly
 page:plumb-near
 	date: 2014-03-10
 	desc: Plumb Near
-	tag: 0-untagged
+	tag: Bia
+	tag: Booze
+	tag: CafeU296
+	tag: Euryale
+	tag: Snakes
 page:a-liquor-filled-kiss
 	date: 2014-03-07
 	desc: A Liquor Filled Kiss
-	tag: 0-untagged
+	tag: Booze
+	tag: CafeU296
+	tag: Euryale
+	tag: LittleShelly
+	tag: Snakes
 page:clear-the-air
 	date: 2014-03-06
 	desc: Clear The Air
-	tag: 0-untagged
+	tag: Bia
+	tag: CafeU296
+	tag: DemonShepherd
+	tag: Elemental
+	tag: Fight
+	tag: LittleShelly
+	tag: Monica
+	tag: Tina
+	tag: Titan
 page:not-gonna
 	date: 2014-03-05
 	desc: Not Gonna
-	tag: 0-untagged
+	tag: Bia
+	tag: CafeU296
+	tag: Elemental
+	tag: Fight
+	tag: LittleShelly
+	tag: Monica
+	tag: Shelly
 page:batter-up
 	date: 2014-03-04
 	desc: Batter Up
-	tag: 0-untagged
+	tag: Bia
+	tag: Bud
+	tag: CafeU296
+	tag: Conscience
+	tag: Fight
+	tag: Lanthis
+	tag: LittleShelly
+	tag: Monica
+	tag: Tina
 page:about-that
 	date: 2014-03-03
 	desc: About That
-	tag: 0-untagged
+	note: Bia is Tina's (body's) great grand mother on her father's side
+	tag: Tina
+	tag: Bia
+	tag: Child
+	tag: CafeU296
 page:please-help-support-wapsi
 	date: 2014-03-01
-	desc: Please Help Support Wapsi
-	tag: 0-untagged
+	desc: Patreon advert
+	tag: Filler
 page:what-about-me
 	date: 2014-02-28
 	desc: What About Me
-	tag: 0-untagged
+	tag: Tina
+	tag: 1Frame
+	tag: Colour
 page:sproing
 	date: 2014-02-27
 	desc: Sproing
-	tag: 0-untagged
+	note: Phix is Shelly's grandmother
+	tag: Bia
+	tag: Blush
+	tag: Bud
+	tag: CafeU296
+	tag: Kachina
+	tag: Monica
+	tag: Phix
+	tag: Shelly
+	tag: ShellyMom
+	tag: Tilt
 page:you-what
 	date: 2014-02-26
 	desc: Your What
-	tag: 0-untagged
+	tag: Bia
+	tag: Blush
+	tag: Bud
+	tag: CafeU296
+	tag: Monica
+	tag: Shelly
+	tag: ShellyMom
 page:what-the-heck-2
 	date: 2014-02-25
 	desc: What The Heck
-	tag: 0-untagged
+	tag: Acacia
+	tag: Blush
+	tag: Bud
+	tag: CafeU296
+	tag: EyeGlow
+	tag: Golem
+	tag: Monica
+	tag: Teeth
 page:what-did-you-say
 	date: 2014-02-24
 	desc: What Did You Say
-	tag: 0-untagged
+	tag: Bud
+	tag: CafeU296
+	tag: Phix
+	tag: Tina
+	tag: Bia
+	tag: Thoom
 page:just-tell-me
 	date: 2014-02-11
 	desc: Just Tell Me
-	tag: 0-untagged
+	tag: Bud
+	tag: Burp
+	tag: CafeU296
+	tag: GreySpeak
+	tag: Phix
+	tag: Tina
 page:have-a-drink
 	date: 2014-02-10
 	desc: Have A Drink
-	tag: 0-untagged
+	tag: Tina
+	tag: CafeU296
+	tag: Phix
+	tag: Bud
 page:island-party
 	date: 2014-02-07
 	desc: Island Party
-	tag: 0-untagged
+	tag: 1Frame
+	tag: Colour
+	tag: Keg
+	tag: Nudge
 page:student-of-mine
 	date: 2014-02-06
 	desc: Student Of Mine
-	tag: 0-untagged
+	tag: Blush
+	tag: CafeU296
+	tag: Euryale
+	tag: Monica
+	tag: Phix
+	tag: Shelly
+	tag: Snakes
+	tag: Tina
 page:evening-agenda
 	date: 2014-02-05
 	desc: Evening Agenda
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Monica
+	tag: Phix
+	tag: Tina
+	tag: Vorp
 page:something-is-up
 	date: 2014-02-04
 	desc: Something Is Up
-	tag: 0-untagged
+	tag: CafeU296
+	tag: Monica
+	tag: Tina
+	tag: Bia
 page:day-vacation-to-cafe-u296
 	date: 2014-02-03
 	desc: Day Vacation To Cafe U296
-	tag: 0-untagged
+	tag: MuchoMocha
+	tag: Tina
+	tag: Monica
+	tag: Atsali
+	tag: Bud
+	tag: CafeU296
 page:hard-rock-atsali
 	date: 2014-01-31
 	desc: Hard Rock Atsali
-	tag: 0-untagged
+	tag: Atsali
+	tag: 1Frame
+	tag: Colour
+	tag: ACDC
+	tag: Headphones
 page:heavy-metal-atsali
 	date: 2014-01-30
 	desc: Heavy Metal Atsali
-	tag: 0-untagged
+	tag: Atsali
+	tag: 1Frame
+	tag: Colour
+	tag: ACDC
 page:katherine-smiles
 	date: 2014-01-29
 	desc: Katherine Smiles
-	tag: 0-untagged
+	tag: 1Frame
+	tag: Colour
+	tag: Katherine
 page:air-guitar
 	date: 2014-01-28
 	desc: Air Guitar
-	tag: 0-untagged
+	tag: 1Frame
+	tag: Atsali
+	tag: Boombox
+	tag: Broom
+	tag: Castela
+	tag: Colour
+	tag: Filler
 page:is-this-normal
 	date: 2014-01-27
 	desc: Is This Normal
-	tag: 0-untagged
+	tag: Atsali
+	tag: Bud
+	tag: Demon
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tentacle
+	tag: Tina
 page:order-up
 	date: 2014-01-24
 	desc: Order Up
-	tag: 0-untagged
+	tag: Atsali
+	tag: Bud
+	tag: Demon
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tentacle
 page:here-i-am
 	date: 2014-01-23
 	desc: Here I Am
-	tag: 0-untagged
+	tag: Atsali
+	tag: Demon
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tentacle
+	tag: Tina
 page:paying-attention
 	date: 2014-01-22
 	desc: Paying Attention
-	tag: 0-untagged
+	tag: Atsali
+	tag: Corpse
+	tag: Monica
+	tag: MuchoMocha
+	tag: Puppet
+	tag: Tina
+	tag: Zombie
 page:not-like-that
 	date: 2014-01-21
 	desc: Not Like That
-	tag: 0-untagged
+	tag: Atsali
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tears
 page:how-silly-is-that
 	date: 2014-01-20
 	desc: How Silly Is That
-	tag: 0-untagged
+	tag: Atsali
+	tag: Demon
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:free-after-work
 	date: 2014-01-17
 	desc: Free After Work
-	tag: 0-untagged
+	tag: Atsali
+	tag: Monica
+	tag: MuchoMocha
+	tag: Tina
 page:an-essential-member
 	date: 2014-01-16
 	desc: An Essential Member
-	tag: 0-untagged
+	tag: AnimalSkull
+	tag: BathTub
+	tag: CashRegister
+	tag: Demon
+	tag: Tentacle
+	tag: Tina
+	tag: TinaHome
 page:wake-up-2
 	date: 2014-01-15
 	desc: Wake Up
-	tag: 0-untagged
+	tag: Bea
+	tag: Demon
+	tag: Dream
+	tag: EmptyEyes
+	tag: Eyes
+	tag: Tentacle
+	tag: Tina
+	tag: TinaHome
 page:let-yourselves-feel
 	date: 2014-01-14
 	desc: Let Yourselves Feel
-	tag: 0-untagged
+	tag: Tina
+	tag: TinaHome
+	tag: Dream
+	tag: Eyes
+	tag: Bea
 page:what-happened-4
 	date: 2014-01-13
 	desc: What Happened
-	tag: 0-untagged
+	tag: Tina
+	tag: TinaHome
+	tag: Wings
+	tag: Eyes
 page:awesomly-innocent
 	date: 2014-01-10
 	desc: Awesomly Innocent
-	tag: 0-untagged
+	tag: 1Frame
+	tag: Atsali
+	tag: Colour
+	tag: Katherine
+	tag: KatherineHome
+	tag: Phone
 page:hey-sis
 	date: 2014-01-09
 	desc: Hey Sis
-	tag: 0-untagged
+	tag: 1Frame
+	tag: Atsali
+	tag: Castela
+	tag: Colour
+	tag: KatherineHome
+	tag: Phone
 page:it-chirped
 	date: 2014-01-08
 	desc: It Chirped
-	tag: 0-untagged
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: KatherineHome
+	tag: Phone
+	tag: TVRemote
 page:stop-chasing-me
 	date: 2014-01-07
 	desc: Stop Chasing Me
-	tag: 0-untagged
+	tag: Atsali
+	tag: Castela
+	tag: KatherineHome
+	tag: Phone
 page:mom-said
 	date: 2014-01-06
 	desc: Mom Said
-	tag: 0-untagged
+	tag: Atsali
+	tag: Castela
+	tag: KatherineHome
+	tag: Phone
 page:castela-discovers-video-phones
 	date: 2014-01-03
 	desc: Castela Discovers Video Phones
-	tag: 0-untagged
+	tag: 1Frame
+	tag: Atsali
+	tag: Castela
+	tag: Colour
+	tag: KatherineHome
+	tag: Phone
 page:not-even
 	date: 2014-01-02
 	desc: Not Even
-	tag: 0-untagged
+	tag: Amanda
+	tag: AmandaHome
+	tag: Booze
+	tag: Monica
 page:naive-and-dangerous
 	date: 2014-01-01
 	desc: Naive And Dangerous
-	tag: 0-untagged
+	tag: Amanda
+	tag: AmandaHome
+	tag: Booze
+	tag: Monica
 page:the-secret-2
 	date: 2013-12-31
 	desc: The Secret
@@ -5000,7 +5428,7 @@ page:and-that-too
 	tag: Monica
 	tag: MonicaHouse
 	tag: Phone
-	tag: VacuumTube-m
+	tag: VacuumTube
 page:never-guess
 	date: 2010-12-30
 	desc: Never Guess
@@ -5070,9 +5498,9 @@ page:still-getting-re
 page:own-strengths
 	date: 2010-12-10
 	desc: Own Strengths
-	tag: Brandi-m
+	tag: Brandi
 	tag: Bud
-	tag: Chess-m
+	tag: Chess
 	tag: HennepinAve
 	tag: Shelly
 	tag: Snow
@@ -5087,9 +5515,9 @@ page:her-matrix
 	date: 2010-12-08
 	desc: Her Matrix
 	tag: Bud
-	tag: Ireland-m
-	tag: Jin-m
-	tag: Monica-m
+	tag: Ireland
+	tag: Jin
+	tag: Monica
 	tag: MuchoMocha
 	tag: Shelly
 page:too-late
@@ -5128,8 +5556,8 @@ page:lift-weights
 page:plans-in-place
 	date: 2010-11-30
 	desc: Plans In Place
-	tag: Justin-m
-	tag: Monica-m
+	tag: Justin
+	tag: Monica
 	tag: MuchoMocha
 	tag: Shelly
 	tag: Tina
@@ -5169,8 +5597,8 @@ page:until-she-fell-asleep
 	date: 2010-11-22
 	desc: Until She Fell Asleep
 	tag: Amanda
-	tag: AmandaParents-m
-	tag: Manhattan-m
+	tag: AmandaParents
+	tag: Manhattan
 	tag: Monica
 	tag: Museum
 page:pay-a-visit
@@ -5185,11 +5613,11 @@ page:name-on-the-cross
 	desc: Name On The Cross
 	tag: Amanda
 	tag: CelticCross
-	tag: Ireland-m
+	tag: Ireland
 	tag: Monica
 	tag: Museum
 	tag: Norse
-	tag: Yggdrasil-m
+	tag: Yggdrasil
 page:get-away
 	date: 2010-11-17
 	desc: Get Away
@@ -5262,7 +5690,7 @@ page:go-well
 	tag: Monica
 	tag: Nudge
 	tag: Phix
-	tag: Sphinx-m
+	tag: Sphinx
 page:via-a-riddle
 	date: 2010-11-03
 	desc: Via A Riddle
@@ -5271,7 +5699,7 @@ page:via-a-riddle
 	tag: Monica
 	tag: Nudge
 	tag: Phix
-	tag: Sphinx-m
+	tag: Sphinx
 page:one-who-helps
 	date: 2010-11-02
 	desc: One Who Helps
@@ -5285,17 +5713,17 @@ page:law-of-the-book
 	tag: Library
 	tag: Monica
 	tag: Nudge
-	tag: Oedipus-m
+	tag: Oedipus
 	tag: Phix
-	tag: Sphinx-m
+	tag: Sphinx
 page:details-details
 	date: 2010-10-29
 	desc: Details Details
 	tag: Library
 	tag: Nudge
-	tag: Oedipus-m
+	tag: Oedipus
 	tag: Phix
-	tag: Sphinx-m
+	tag: Sphinx
 page:trickster
 	date: 2010-10-28
 	desc: Trickster
@@ -5308,7 +5736,7 @@ page:eluding-me
 	desc: Eluding Me
 	tag: Library
 	tag: Monica
-	tag: Nudge-m
+	tag: Nudge
 	tag: Phix
 	tag: Tina
 page:just-a-nudge
@@ -5325,7 +5753,7 @@ page:tag
 	desc: Tag
 	tag: Library
 	tag: Monica
-	tag: Nudge-m
+	tag: Nudge
 	tag: Phix
 	tag: Tina
 page:doing-their-jobs
@@ -5334,18 +5762,18 @@ page:doing-their-jobs
 	tag: Library
 	tag: Monica
 	tag: MuchoMocha
-	tag: Nudge-m
+	tag: Nudge
 	tag: Phix
-	tag: Sphinx-m
+	tag: Sphinx
 	tag: Tina
 page:took-liberties
 	date: 2010-10-21
 	desc: Took Liberties
-	tag: Demon-m
-	tag: Library-m
+	tag: Demon
+	tag: Library
 	tag: Monica
 	tag: MuchoMocha
-	tag: Sphinx-m
+	tag: Sphinx
 	tag: Tina
 page:sudden-interest
 	date: 2010-10-20
@@ -5353,7 +5781,7 @@ page:sudden-interest
 	tag: Demon
 	tag: Monica
 	tag: MuchoMocha
-	tag: Phix-m
+	tag: Phix
 	tag: Tina
 page:wild-animals
 	date: 2010-10-19
@@ -5361,15 +5789,15 @@ page:wild-animals
 	tag: MuchoMocha
 	tag: Monica
 	tag: Tina
-	tag: Phix-m
-	tag: Sphinx-m
+	tag: Phix
+	tag: Sphinx
 page:so-is-phix
 	date: 2010-10-18
 	desc: So Is Phix
 	tag: MuchoMocha
 	tag: Monica
 	tag: Tina
-	tag: Phix-m
+	tag: Phix
 page:just-a-scratch
 	date: 2010-10-15
 	desc: Just A Scratch
@@ -5377,7 +5805,7 @@ page:just-a-scratch
 	tag: Monica
 	tag: Tina
 	tag: GreySpeak
-	tag: Phix-m
+	tag: Phix
 page:silly-girl-sunshine
 	date: 2010-10-14
 	desc: Silly Girl Sunshine
@@ -5393,10 +5821,10 @@ page:so-you-see
 page:caught-up
 	date: 2010-10-12
 	desc: Caught Up
-	tag: CalendarMachine-m
-	tag: Jin-m
+	tag: CalendarMachine
+	tag: Jin
 	tag: Kevin
-	tag: Mayahuel-m
+	tag: Mayahuel
 	tag: Monica
 	tag: MonicaHouse
 page:shut-up
@@ -5405,9 +5833,9 @@ page:shut-up
 	tag: Monica
 	tag: MonicaHouse
 	tag: Kevin
-	tag: StellasFishCafe-m
-	tag: Otters-m
-	tag: DuckBlind-m
+	tag: StellasFishCafe
+	tag: Otters
+	tag: DuckBlind
 page:the-amendment
 	date: 2010-10-08
 	desc: The Amendment
@@ -5537,10 +5965,10 @@ page:plug-you-in
 	date: 2010-09-14
 	desc: Plug You In
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
-	tag: Mayahuel-m
-	tag: WardencliffeTower-m
+	tag: Mayahuel
+	tag: WardencliffeTower
 page:good-point
 	date: 2010-09-13
 	desc: Good Point
@@ -5552,7 +5980,7 @@ page:her-friends
 	tag: Monica
 	tag: MuchoMocha
 	tag: Shelly
-	tag: Tina-m
+	tag: Tina
 page:your-auras
 	date: 2010-09-09
 	desc: Your Auras
@@ -5655,14 +6083,14 @@ page:hold-on-2
 	desc: Hold On
 	tag: Bud
 	tag: Jin
-	tag: Monica-m
+	tag: Monica
 	tag: Pyramid
 	tag: Sphinx
 page:still-a-danger
 	date: 2010-08-19
 	desc: Still A Danger
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: Pyramid
 	tag: Sphinx
@@ -5693,7 +6121,7 @@ page:custard-of-that-magnitude
 	desc: Custard Of That Magnitude
 	tag: Monica
 	tag: MonicaHouse
-	tag: CrimsonMantis-m
+	tag: CrimsonMantis
 	tag: DrCustard
 page:crimson-mantis
 	date: 2010-08-12
@@ -5704,7 +6132,7 @@ page:crimson-mantis
 	tag: CrimsonMantis
 	tag: Dietzel
 	tag: BumblingBumbleBee
-	tag: DrCustard-m
+	tag: DrCustard
 page:poiting-it-on
 	date: 2010-08-11
 	desc: Poiting It On
@@ -5716,7 +6144,7 @@ page:be-expired
 	date: 2010-08-10
 	desc: Be Expired
 	tag: Cast
-	tag: Demon-m
+	tag: Demon
 	tag: Tina
 	tag: TinaHome
 	tag: TinaKittie
@@ -5724,7 +6152,7 @@ page:a-comforting-thought
 	date: 2010-08-09
 	desc: A Comforting Thought
 	tag: Cast
-	tag: Demon-m
+	tag: Demon
 	tag: Tina
 	tag: TinaHome
 	tag: TinaKittie
@@ -5776,21 +6204,21 @@ page:witnessed-crazy
 	date: 2010-07-28
 	desc: Witnessed Crazy
 	tag: Amanda
-	tag: MonicaParents-m
+	tag: MonicaParents
 	tag: Monica
 	tag: Museum
 page:a-dip-in-the-lake
 	date: 2010-07-27
 	desc: A Dip In The Lake
 	tag: Amanda
-	tag: LakeCalhoun-m
+	tag: LakeCalhoun
 	tag: Monica
 	tag: Museum
 page:vacationing-manatees
 	date: 2010-07-26
 	desc: Vacationing Manatees
 	tag: Amanda
-	tag: Manatees-m
+	tag: Manatees
 	tag: Monica
 	tag: Museum
 page:ready-to-talk
@@ -5955,17 +6383,17 @@ page:fair-enough
 	desc: Fair Enough
 	tag: Amanda
 	tag: Museum
-	tag: Tina-m
+	tag: Tina
 page:not-the-violent-type
 	date: 2010-06-21
 	desc: Not The Violent Type
 	tag: Monica
 	tag: Museum
-	tag: Sphinx-m
+	tag: Sphinx
 page:need-to-see-me
 	date: 2010-06-18
 	desc: Need To See Me
-	tag: Barbara-m
+	tag: Barbara
 	tag: Greg
 	tag: GregsOffice
 	tag: Monica
@@ -5992,7 +6420,7 @@ page:collect-your-coffee
 	date: 2010-06-14
 	desc: Collect Your Coffee
 	tag: Amanda
-	tag: Greg-m
+	tag: Greg
 	tag: Monica
 	tag: MuchoMocha
 	tag: Phix
@@ -6007,7 +6435,7 @@ page:calm-yourself
 	date: 2010-06-10
 	desc: Calm Yourself
 	tag: Amanda
-	tag: Library-m
+	tag: Library
 	tag: Monica
 	tag: MuchoMocha
 	tag: Phix
@@ -6024,7 +6452,7 @@ page:learn-a-lot
 	desc: Learn A Lot
 	tag: Amanda
 	tag: GreySpeak
-	tag: Library-m
+	tag: Library
 	tag: Monica
 	tag: MuchoMocha
 	tag: Tina
@@ -6041,14 +6469,14 @@ page:come-to-the-light-side
 	desc: Come To The Light Side
 	note: this is about two years after Monica met the Golem Girls 
 	tag: Amanda
-	tag: Bud-m
+	tag: Bud
 	tag: Monica
 	tag: MonicaHouse
 page:happy-with-me
 	date: 2010-06-03
 	desc: Happy With Me
 	tag: Amanda
-	tag: Bud-m
+	tag: Bud
 	tag: Hosepipe
 	tag: Monica
 	tag: MonicaHouse
@@ -6138,7 +6566,7 @@ page:me-time
 	date: 2010-05-17
 	desc: Me Time
 	tag: Dietzel
-	tag: GerardButler-m
+	tag: GerardButler
 	tag: Monica
 	tag: MonicaHouse
 	tag: Popcorn
@@ -6173,19 +6601,19 @@ page:a-case-of-beer
 	desc: A Case Of Beer
 	tag: Monica
 	tag: Shelly
-	tag: Bud-m
+	tag: Bud
 page:a-lot-of-grazes
 	date: 2010-05-07
 	desc: A Lot Of Grazes
 	tag: Monica
 	tag: Shelly
-	tag: BulletHoles-m
+	tag: BulletHoles
 page:dodge-bullets
 	date: 2010-05-06
 	desc: Dodge Bullets
 	tag: Monica
 	tag: Shelly
-	tag: Cairo-m
+	tag: Cairo
 page:cinco-de-monica
 	date: 2010-05-05
 	desc: Cinco De Monica
@@ -6219,21 +6647,21 @@ page:any-advantage
 	desc: Any Advantage
 	tag: Monica
 	tag: Shelly
-	tag: Nudge-m
+	tag: Nudge
 page:i-trust-tina
 	date: 2010-04-27
 	desc: I Trust Tina
 	tag: Monica
 	tag: Shelly
-	tag: Tina-m
-	tag: Nudge-m
+	tag: Tina
+	tag: Nudge
 page:sacrificed-untold-legions
 	date: 2010-04-26
 	desc: Sacrificed Untold Legions
 	tag: Monica
 	tag: MuchoMocha
 	tag: Shelly
-	tag: Jin-m
+	tag: Jin
 page:a-bit-of-darknes
 	date: 2010-04-23
 	desc: A Bit Of Darknes
@@ -6325,7 +6753,7 @@ page:the-nudge
 	tag: Pizza
 	tag: Tina
 	tag: TinaHome
-	tag: Mortuary-m
+	tag: Mortuary
 page:you-ordered-anchovies
 	date: 2010-04-07
 	desc: You Ordered Anchovies
@@ -6368,7 +6796,7 @@ page:getting-his-attention
 	desc: Getting His Attention
 	tag: BBQ
 	tag: Explosion
-	tag: Justin-m
+	tag: Justin
 	tag: Shelly
 	tag: ShellyHome
 page:deal-me-in
@@ -6390,7 +6818,7 @@ page:dammit-jin
 	tag: Monica
 	tag: MuchoMocha
 	tag: Psychiatrist
-	tag: Tina-m
+	tag: Tina
 page:i-feel-frightened
 	date: 2010-03-26
 	desc: I Feel Frightened
@@ -6402,7 +6830,7 @@ page:psychological-imperfections
 	date: 2010-03-25
 	desc: Psychological Imperfections
 	tag: Jin
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Monica
 page:fresh-as-a-daisy
 	date: 2010-03-24
@@ -6410,8 +6838,8 @@ page:fresh-as-a-daisy
 	tag: Jin
 	tag: JinHome
 	tag: Monica
-	tag: Tina-m
-	tag: MuchoMocha-m
+	tag: Tina
+	tag: MuchoMocha
 	tag: Poit
 page:i-need-you-help
 	date: 2010-03-23
@@ -6433,8 +6861,8 @@ page:that-problem-again
 	date: 2010-03-19
 	desc: That Problem Again
 	tag: Dietzel
-	tag: Jin-m
-	tag: Mayahuel-m
+	tag: Jin
+	tag: Mayahuel
 	tag: Monica
 	tag: MonicaHouse
 	tag: Turkey
@@ -6514,8 +6942,8 @@ page:a-close-eye
 	date: 2010-03-03
 	desc: A Close Eye
 	tag: Bud
-	tag: Golem-m
-	tag: Jin-m
+	tag: Golem
+	tag: Jin
 	tag: Monica
 page:is-irrelevant
 	date: 2010-03-02
@@ -6532,14 +6960,14 @@ page:quite-obvious
 	tag: Fire
 	tag: GreySpeak
 	tag: HandEye
-	tag: Jin-m
+	tag: Jin
 	tag: Monica
 	tag: MuchoMocha
 	tag: Tina
 page:packed-up
 	date: 2010-02-26
 	desc: Packed Up
-	tag: Jin-m
+	tag: Jin
 	tag: Monica
 	tag: MuchoMocha
 	tag: Tina
@@ -6568,14 +6996,14 @@ page:protecting-them
 	date: 2010-02-22
 	desc: Protecting Them
 	tag: Monica
-	tag: MonicaParents-m
+	tag: MonicaParents
 	tag: Museum
 	tag: Tepoz
 page:ones-you-should-trust
 	date: 2010-02-19
 	desc: Ones You Should Trust
 	tag: Monica
-	tag: MonicaParents-m
+	tag: MonicaParents
 	tag: Museum
 	tag: RubberRoom
 	tag: Tears
@@ -6587,7 +7015,7 @@ page:supernatural-hassles
 page:no-other-shoe
 	date: 2010-02-17
 	desc: No Other Shoe
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Monica
 	tag: Museum
 	tag: Pencil
@@ -6636,15 +7064,15 @@ page:something-in-myself
 	tag: Tina
 	tag: Monica
 	tag: MuchoMocha
-	tag: Jet-m
+	tag: Jet
 page:get-things-sorte
 	date: 2010-02-05
 	desc: Get Things Sorted
-	tag: Amanda-m
+	tag: Amanda
 	tag: Cactus
-	tag: Georgettes-m
+	tag: Georgettes
 	tag: Jet
-	tag: Jill-m
+	tag: Jill
 	tag: MuchoMocha
 page:it-went-phbbbbbb
 	date: 2010-02-04
@@ -6668,7 +7096,7 @@ page:already-there
 	tag: BrandiBudAppt
 	tag: Bud
 	tag: CalendarMachine
-	tag: Mayahuel-m
+	tag: Mayahuel
 page:but-what-if
 	date: 2010-02-01
 	desc: But What If
@@ -6697,7 +7125,7 @@ page:quite-easy
 	desc: Quite Easy
 	tag: Jin
 	tag: JinHome
-	tag: Kukulcan-m
+	tag: Kukulcan
 	tag: Mayahuel
 	tag: Tears
 page:where-do-i-start
@@ -6800,12 +7228,12 @@ page:lock-her-down
 	tag: ClockKeyBlade
 	tag: Demon
 	tag: Doubt
-	tag: Jameson-m
+	tag: Jameson
 	tag: Mica
 	tag: Monica
 	tag: Pyramid
 	tag: Shelly
-	tag: Whiskey-m
+	tag: Whiskey
 page:one-more-bit-of-business
 	date: 2010-01-08
 	desc: One More Bit Of Business
@@ -6965,7 +7393,7 @@ page:on-command
 	tag: Gun
 	tag: Brandi
 	tag: Jin
-	tag: Hammer-m
+	tag: Hammer
 page:welcome-to-my-world
 	date: 2009-12-22
 	desc: Welcome To My World
@@ -7109,7 +7537,7 @@ page:room-full-of-fem
 	date: 2009-11-27
 	desc: Room Full Of Females
 	tag: Monica
-	tag: Tina-m
+	tag: Tina
 	tag: Doubt
 	tag: Demon
 page:i-wont-let-them
@@ -7138,7 +7566,7 @@ page:mood-to-celebrate
 	tag: BrandiBudAppt
 	tag: Bud
 	tag: ClayDolls
-	tag: Jin-m
+	tag: Jin
 	tag: Mirror
 	tag: WhoopeeCushion
 page:day-after-tomorrow-night
@@ -7169,7 +7597,7 @@ page:by-your-side
 	tag: GreySpeak
 	tag: Monica
 	tag: MuchoMocha
-	tag: NewMoon-m
+	tag: NewMoon
 	tag: Doubt
 	tag: Demon
 	tag: Janet
@@ -7179,7 +7607,7 @@ page:you-must-know
 	tag: Monica
 	tag: MuchoMocha
 	tag: Tina
-	tag: NewMoon-m
+	tag: NewMoon
 	tag: GreySpeak
 page:how-trivial
 	date: 2009-11-16
@@ -7195,7 +7623,7 @@ page:bonkers-in-my-book
 	desc: Bonkers In My Book
 	tag: Jin
 	tag: Monica
-	tag: NewMoon-m
+	tag: NewMoon
 	tag: MuchoMocha
 	tag: RightAsRainClub
 	tag: Tina
@@ -7224,7 +7652,7 @@ page:you-have-a-tight-rein
 	tag: GreySpeak
 	tag: Monica
 	tag: MuchoMocha
-	tag: NewMoon-m
+	tag: NewMoon
 	tag: Tina
 page:your-own-misgivi
 	date: 2009-11-06
@@ -7342,7 +7770,7 @@ page:all-hell-broke-loose
 	desc: All Hell Broke Loose
 	tag: Brandi
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: PortalTattoo
 	tag: PrematureEvacuation
 	tag: Shelly
@@ -7457,7 +7885,7 @@ page:grow-old-togethe
 page:never-be-fixed
 	date: 2009-09-28
 	desc: Never Be Fixed
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
@@ -7492,7 +7920,7 @@ page:didforherself
 page:ourdoorway
 	date: 2009-09-22
 	desc: Our doorway
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: CerberusClub
 	tag: Demon
 	tag: JinDoubt
@@ -7807,7 +8235,7 @@ page:whatthehell
 page:imsunshine
 	date: 2009-07-28
 	desc: I'm sunshine
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: JinMother
 	tag: Monica
@@ -7884,7 +8312,7 @@ page:allgone
 page:notmetalking
 	date: 2009-07-08
 	desc: Not me talking
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Demon
 	tag: Doubt
 	tag: Jin
@@ -7893,7 +8321,7 @@ page:notmetalking
 page:takingherplace
 	date: 2009-07-07
 	desc: Taking her place
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: Monica
 	tag: MonicaHouse
@@ -7901,7 +8329,7 @@ page:takingherplace
 page:nightssleep
 	date: 2009-07-06
 	desc: Night's sleep
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: GerardButler
 	tag: Monica
 	tag: MonicaHouse
@@ -7997,7 +8425,7 @@ page:howsitimportant
 	desc: How's it important
 	tag: 2012
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: ClayDolls
 	tag: Monica
 	tag: MonicaHouse
@@ -8504,7 +8932,7 @@ page:justtweaking
 	date: 2009-03-25
 	desc: Justtweaking
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Monica
 	tag: MonicaHouse
 	tag: GreySpeak
@@ -8514,14 +8942,14 @@ page:itsawus
 	date: 2009-03-24
 	desc: It saw us
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Monica
 	tag: MonicaHouse
 page:hadaheartbeat
 	date: 2009-03-23
 	desc: Had a heartbeat
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Monica
 	tag: MonicaHouse
 page:itsbreathing
@@ -8549,7 +8977,7 @@ page:bitoftheatrics
 	desc: Bit of theatrics
 	tag: AaronSullivan
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: Map
 	tag: Monica
@@ -8855,7 +9283,7 @@ page:drinkofwater
 	date: 2009-01-22
 	desc: Drink of water
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: JinHome
 	tag: JinMother
@@ -9117,7 +9545,7 @@ page:anyideas
 	desc: Anyideas
 	tag: Bud
 	tag: Burp
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: ClayDolls
 	tag: Monica
 	tag: MonicaHouse
@@ -9294,7 +9722,7 @@ page:anotherbook
 	date: 2008-11-11
 	desc: Another book
 	tag: Brandi
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Monica
 	tag: MuchoMocha
 page:notjinsbook
@@ -9470,7 +9898,7 @@ page:partsvibrate
 	date: 2008-09-30
 	desc: Parts vibrate
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: ClayDolls
 	tag: PortalTattoo
 	tag: Shelly
@@ -9498,7 +9926,7 @@ page:saneones
 	desc: Sane ones
 	tag: BoilerRoom
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: PortalTattoo
 	tag: Shelly
 	tag: Tattoo
@@ -10842,7 +11270,7 @@ page:brainsandpower
 page:electingthesameone
 	date: 2008-01-01
 	desc: Electing The Same Ones
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: JinMother
 	tag: Monica
@@ -10851,7 +11279,7 @@ page:electingthesameone
 page:golemsandnasties
 	date: 2007-12-31
 	desc: Golems And Nasties
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: Monica
 	tag: MonicaHouse
@@ -10859,7 +11287,7 @@ page:golemsandnasties
 page:nocontrol
 	date: 2007-12-28
 	desc: No Control
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Golem
 	tag: JinMother
 	tag: Monica
@@ -11470,7 +11898,7 @@ page:clearsup
 page:cityofficials
 	date: 2007-08-22
 	desc: City Officials
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Kevin
 	tag: Mica
 	tag: Monica
@@ -11639,7 +12067,7 @@ page:wontletusdie
 page:kindoflimbo
 	date: 2007-07-17
 	desc: Kind Of Limbo
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Doorway
 	tag: GreySpeak
 	tag: JinMother
@@ -11666,7 +12094,7 @@ page:heresacookie
 page:theconnection
 	date: 2007-07-12
 	desc: The Connection
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Doorway
 	tag: Glyph
 	tag: JinMother
@@ -11676,7 +12104,7 @@ page:theconnection
 page:protectingyou
 	date: 2007-07-11
 	desc: Protecting You
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Jin
 	tag: JinMother
 	tag: Lanthis
@@ -12175,7 +12603,7 @@ page:howpeoplegetburned
 	date: 2007-04-05
 	desc: How People Get Burned
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: FireBreath
 	tag: Monica
 	tag: MonicaHouse
@@ -12183,7 +12611,7 @@ page:agutfeeling
 	date: 2007-04-04
 	desc: A Gut Feeling
 	tag: Bud
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Monica
 	tag: MonicaHouse
 	tag: SunStone
@@ -12603,14 +13031,14 @@ page:ohthat
 	desc: Ohthat
 	tag: Amanda
 	tag: Antikythera
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: DarensBar
 	tag: Monica
 page:curiousquestions
 	date: 2007-01-09
 	desc: Curious Questions
 	tag: Amanda
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: DarensBar
 	tag: Monica
 	tag: SpitTake
@@ -17538,7 +17966,7 @@ page:04192004
 page:04162004
 	date: 2004-04-16
 	desc: 04-16-2004
-	tag: CalendarMachine-m
+	tag: CalendarMachine
 	tag: Glyph
 	tag: Kukulcan
 	tag: Museum
