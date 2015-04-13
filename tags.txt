@@ -44,7 +44,8 @@ CalendarMachine	Resets the world at the Mayan Apocalypse rollover (December 2012
 Calista	Princess Calista Foxglove, a [Fae](#fae), nickname: Cricket
 Castela	nickname: Pickle; a whatsit: sentient thorny vine girl, adopted daughter of [Katherine](#katherine), thus sister of [Atsali](#atsali); "child of the Guardians of the Doorways and a Daughter of the Wood", daughter of a Blackthorn and (thus?) immune to [Fae](#fae)
 Chimera	A magical ultimate weapon built from [Brandi](#brandi), [Bud](#bud) and [Jin](#jin) (who sabotaged it)
-ClayDolls	given to [Shelly](#shelly) by her [mother](#shellymom). 
+ClayDolls	given to [Shelly](#shelly) by her [mother](#shellymom)
+Companion	Shelly's Demons, see [Little Shelly](#littleshelly)
 Crash	Tina's car hit a bus avoiding young (14) Monica, years before Wapsi Square opens
 Cricket	nickname for [Calista](#calista), from her size, antennae and jumping perhaps
 DanceSchool	where [Bud](#bud) works
@@ -55,14 +56,16 @@ Demon	anthropomorphised personal demons: the voices in your head _do_ have an in
 Dietzel	[Monica's](#monica) long-suffering bull terrier
 Doubt	personal demon of [Monica's](#monica)
 DownstairsBar	below Owen & Lakshmi's bedroom
-Fae	"only slightly less dangerous than Elementals" in the paranormal world
+Dylan	Pizza delivery woman; friend of Dietzel
+Elemental	a powerful class of the paranormal world
+Fae	"only slightly less dangerous than [Elementals](#elemental)" in the paranormal world
 FermentedBanana	Band comprising [Jacqueline](#jacqueline), [Owen](#owen), [Shelly](#shelly)
 Galena	Galena, Illanois -- location of a wedding photo gig for [Amanda](#amanda) and [Monica](#monica)
 Georgette	see [Jet](#jet)
 Georgettes	gastro-pub owned and run by [Jet](#jet) and [Jill](#jill)
 Glyph	an ancient, magical, writing
 GlyphReader	"There are others who can read Glyph, but that does not make them Glyph Readers" ---[Phix](#phix)
-Golem	a near indestructable magitech ceramic construct. Ritual requires burning a living being and mixing the ashes with clay
+Golem	a near indestructable magitech ceramic construct. Ritual requires burning a living being and mixing the ashes with clay to entrap the spirit to give the construct volition
 Greg	Dr Gregory Fields, [Monica's](#monica) boss, Director of the [Museum](#museum)
 GreySpeak	speech in light grey seems to indicate whispers, under-the-breath or _Sotto Voce_ commentary or suggestion (WoG: in Tina's case it's one of the demons speaking directly, rather than through 'the committee' -- in [commments here](http://wapsisquare.com/comic/smell-of-burning-pine/))
 GryphonHigh	Gryphon High School -- for paranormal kids
@@ -93,7 +96,7 @@ Lakshmi	Large, strong lady, construction worker. Met [Owen](#owen) on a blind da
 Lanthis	An unrecorded pre-historical magical-technical civilisation which built the [Calendar Machine](#calendarmachine) but was destroyed by the [Chimera](#chimera). Alternative spelling Lanthas. Known in modern myth as Atlantis
 Library	Off-plane library of all books ever written, run by the Librarian [Phix](#phix)
 Lily	Lily Pratt, vampire, FBI agent, old
-LittleShelly	[Shelly's](#shelly) personal Demons rolled-up into one entity, manifesting as a young Shelly at the time of [her mother's](#shellymom) death. Later determined to be an Elemental entity, sometimes named as Conscience.
+LittleShelly	[Shelly's](#shelly) personal Demons rolled-up into one entity, manifesting as a young Shelly at the time of [her mother's](#shellymom) death. Later determined to be an Elemental entity Companion, sometimes named as Conscience.
 Luci	receptionist & poster girl for Punk Yoga; Celtic knot-work tattoos
 Lydia	Bra designer; diplomas in architecture and industrial design
 Marta	[Monica's](#monica) cousin in [Monterrey](#monterrey)
@@ -109,13 +112,15 @@ Museum	Minneapolis University Historical Museum (?)
 MusicBin	shop where [Owen](#owen) worked
 Nadette	Ursamorph: a shapchanging bear; sister of [Berdine](#berdine); seer; [Atsali](#atsali)-crush
 Owen	[Shelly's](#shelly) childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin)
+PizzaGirl	see [Dylan](#pizzagirl)
 Phix	a [sphinx](#sphinx), librarian of The [Library](#library)
 PortalCloth	Printed with a meshwork design of a face; discovered in Yaxchilán but has Egyptian connotations
 PortalTattoo	The PortalCloth's face design transferred to [Shelly](#shelly)
 PunkYoga	[Jacqui's](#jacqui) yoga studio
+Plutonium	radioactive metal
 Randi	Coffee shop worker, sister of [Jacob](#jacob). Satyr
 Rigo	[Monica's](#monica) cousin in [Monterrey](#monterrey)
-Room316	in (a) Minneapolis hospital
+Room316	in a Minneapolis hospital
 Roy	part-owner of the [Antique Shop](#antiqueshop) with [Monica](#monica)
 Sailor		18 year old lad Monica nearly gets out of hand with at a wedding in [Galena](#galena). In a broom closet.
 SecurityGuard	[Mike](#mike), at the [Museum](#museum)
@@ -128,13 +133,14 @@ SunnysideUp	Sunnyside Up Café, near [Kevin's home](#kevinhome)
 Suzy	Suzy McBride, vampire, FBI agent
 Teeth	some characters have unusual dentition by mainstream human standards, tagged when particularly startling or first revealed
 Tepoz	Tepoztecal, Aztec god of alcohol: an animate 3\' high blue statue or [golem](#golem)
+TimeForest	a time-keeping forest: the trees are used to keep track of time. An outdated technology. A good place to hide things.
 Tio	Spanish: "uncle". Specifically [Monica's](#monica) uncle in [Monterrey](#monterrey) 
 Tochtli	another identity of [Jin's](#jin), apparently independent of the [Chimera](#chimera) -- Tochtli-Jin was acting while Chimaera-Jin was hidden/inactivated. Tochtli's symbol is a [black rabbit](#blackrabbit), her role is to "keep things running smoothly".
 ThePlow	Bar in Des Moines
 Tiffany	minds the [Antique Shop](#antiqueshop)
 Tina	Tina Rosario Aldaco Guzmán, the demon barista. Proprietor of Mucho Mocha. Dead, animated by her [demon](#demon) conglomerate or commune when the Tina personality died in a car [crash](#crash)
 Tsillah	She is the Darkness, her 'shadow' appears as a short goblin-girl. Daughter of Charon, the ferryman, and [Thymbris](#thymbris).
-Vorp	Library teleport/transport system's sound (?)
+Vorp	Library teleport/transport system's sound
 VWvan	[Jacqui's](#jacqui) wheels for [Fermented Banana's](#fermentedbanana) transport
 Wings	a suddenly display of, or reference to wings on a character
 Yaxchilan	Mayan city in Mexico. Wikipedia: [Yaxchilan](https://en.wikipedia.org/wiki/Yaxchilan)
