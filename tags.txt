@@ -80,6 +80,7 @@ DarensBar	the after-work social hub of the early years
 Daylla	friend of [Castela's](#castela). Her sister reportedly suffers from hormones
 Demon	anthropomorphised personal demons: the voices in your head _do_ have an independent existance
 DemonWorld	the demon home plane or universe
+Devyn	Poseidon's niece
 Dietzel	[Monica's](#monica) long-suffering bull terrier
 Doubt	probably Self-Doubt -- a personal [demon](#demon) of [Monica's](#monica)
 DownstairsBar	below Owen & Lakshmi's bedroom
@@ -95,6 +96,7 @@ Fae	"only slightly less dangerous than [Elementals](#elemental)" in the paranorm
 Faint	a swoon
 FermentedBanana	[band](#band) comprising [Jacqueline](#jacqueline), [Owen](#owen), [Shelly](#shelly)
 FiveWingedBeings	enigmatic, interrupted reference of undetermined significance
+Garcon	Garçon: French waiter
 Galena	Galena, Illinois -- location of a wedding photo gig for [Amanda](#amanda) and [Monica](#monica)
 Georgette	fashionably thin model due to fast metabolism; sister of [Jill](#jill)
 Georgettes	gastro-pub owned by [Georgette](#georgette) and run by sister [Jill](#jill)
@@ -119,7 +121,7 @@ Jacob	[Atsali's](#atsali) crush, attends [Gryphon High](#gryphonhigh), works in 
 Jacqui	Jacqueline Bontemps — drummer with [Fermented Banana](#fermentedbanana), vet school student, turns Yoga teacher. Proprietor: [Punk Yoga](#punkyoga)
 JasonGoodnow	a former boyfriend of [Monica's](#monica) 
 Jeff	[museum](#museum) assistant (?)
-Jessie	Jessie Gotlieb -- [Mermaid](#mermaid) long light hair; brother [Daniel](#daniel)
+Jessie	Jessie Gotlieb -- [Mermaid](#mermaid) long light hair; brother [Daniel](#daniel) and mother [Mom](#momgotleib)
 Jill	Jill Sundhal, [Georgette](#georgette) large-framed sister, cook/manager at [Georgette's](#georgettes), a pub/restaurant
 JimmiesReggaeBar	not to be confused with [JimmysBluesBar](#jimmysbluesbar)
 JimmysBluesBar	not to be confused with [JimmiesReggaeBar](#jimmiesreggaebar)
@@ -161,6 +163,7 @@ MiB	the _secret_ Secret Service concerned with paranormal relations and contact 
 Mike	security guard at the [Museum](#museum)
 Mojito	a rum-based cocktail
 Mole	a Mexican sauce -- Wikipedia: [Mole sauce](https://en.wikipedia.org/wiki/Mole_%28sauce%29)
+MomGotleib	[Jessie's](#jessie) and, presumably, [Daniel's](#daniel) mother
 Monica	Monica Villarreal, 4\' 11\", Mexican, anthropologist, [antique shop](#antiqueshop) owner, [Glyph](#glyph) [Reader](#glyphreader). Becomes a (the?) Jaguar Girl and the Demon Shepherd
 MonicasAunt	unnamed? Lives in [Monterrey](#monterrey)
 Monterrey	Mexican city where [Monica](#monica) has family: her [uncle](#tio), [aunt](#MonicasAunt), cousins [Rigo](#rigo) and [Marta](#marta)
@@ -172,7 +175,6 @@ MusicBin	shop where [Owen](#owen) worked
 Nadette	Ursamorph: a shapchanging bear; sister of [Berdine](#berdine); Cherokee ancestry; seer; [Atsali](#atsali)-crush
 NuGui	Nü Gui - malevolent [Lanthian](#lanthis) spirit arising from the death of an innocent (baby?); a.k.a. a Succubus, or the Hate
 Owen	[Shelly's](#shelly) childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin)
-OwenLakshmiPlace	-
 Pagliacci	operatic tragedy by Ruggero Leoncavallo
 Phix	a [sphinx](#sphinx), librarian of The [Library](#library)
 PizzaGirl	see [Dylan](#dylan)
@@ -206,7 +208,7 @@ Tiffany	minds the [Antique Shop](#antiqueshop)
 TimeForest	a time-keeping forest: the trees are used to keep track of time. An outdated technology. A good place to hide things.
 Tina	Tina Rosario Aldaco Guzmán, the demon barista. Proprietor of Mucho Mocha. Dead, animated by her [demon](#demon) conglomerate or commune when the Tina personality died in a car [crash](#crash)
 Tio	Spanish: "uncle". Specifically [Monica's](#monica) uncle in [Monterrey](#monterrey) 
-Tochtli	another identity of [Jin's](#jin), apparently independent of the [Chimera](#chimera) -- Tochtli-Jin was acting while Chimaera-Jin was hidden/inactivated. Tochtli's symbol is a [black rabbit](#blackrabbit), her role is to "keep things running smoothly".
+Tochtli	another identity of [Jin's](#jin), Tochtli's symbol is a [black rabbit](#blackrabbit), her role is to "keep things running smoothly"
 Tsillah	she is the Darkness. Her 'shadow' appears as a short goblin-girl. Daughter of Charon, the ferryman, and [Thymbris](#thymbris).
 TunaGirls	slang or disparaging name for [Mermaid](#mermaid) paranormals
 Uboat	U296

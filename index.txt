@@ -49,9 +49,116 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Amanda
 ; Atsali
 ; Castela
-; TimeForest
+; Colour
+page:my-friend
+	date: 2015-06-02
+	desc: My Friend
+	tag: Garcon
+	tag: Jessie
+	tag: Mermaid
+	tag: MomGotleib
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:hot-button
+	date: 2015-06-01
+	desc: Hot Button
+	tag: Atsali
+	tag: Bikini
+	tag: Blush
+	tag: Devyn
+	tag: Lexi
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:imagine-that
+	date: 2015-05-29
+	desc: Imagine That
+	tag: Bikini
+	tag: Bud
+	tag: Devyn
+	tag: Garcon
+	tag: Jin
+	tag: ParanormalPool
+	tag: Poseidon
+	tag: PoseidonResort
+page:excuse-me
+	date: 2015-05-28
+	desc: Excuse Me
+	tag: Atsali
+	tag: Bikini
+	tag: Blush
+	tag: Devyn
+	tag: Garcon
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:make-us-proud
+	date: 2015-05-27
+	desc: Make Us Proud
+	tag: Atsali
+	tag: Bikini
+	tag: Blush
+	tag: Devyn
+	tag: Lexi
+	tag: ParaGirl1
+	tag: ParaGirl2
+	tag: ParanormalPool
+	tag: Squeek
+page:go-talk
+	date: 2015-05-26
+	desc: Go Talk
+	tag: 65feet
+	tag: Blush
+	tag: Devyn
+	tag: Jessie
+	tag: Lexi
+	tag: Mermaid
+	tag: ParaGirl1
+	tag: ParaGirl2
+	tag: ParanormalPool
+page:oh-noes
+	date: 2015-05-22
+	desc: Oh Noes
+	tag: Atsali
+	tag: Bikini
+	tag: Deyvyn
+	tag: Lexi
+	tag: ParaGirl1
+	tag: ParaGirl2
+	tag: ParanormalPool
+page:just-look
+	date: 2015-05-21
+	desc: Just Look
+	tag: Atsali
+	tag: Bikini
+	tag: Bud
+	tag: Devyn
+	tag: ParaGirl1
+	tag: ParaGirl2
+	tag: ParanormalPool
+page:wanna-join-me
+	date: 2015-05-20
+	desc: Wanna Join Me
+	tag: Atsali
+	tag: BeachBall
+	tag: Bikini
+	tag: Bud
+	tag: Castela
+	tag: Lexi
+	tag: ParaGirl1
+	tag: ParaGirl2
+	tag: ParanormalPool
+page:all-aboard
+	date: 2015-05-19
+	desc: All Aboard
+	tag: Atsali
+	tag: Bikini
+	tag: Blush
+	tag: Bud
+	tag: Castela
+	tag: Jin
+	tag: KatherineHome
+	tag: Monica
 page:do-it-without-me
-	date: 2015-05-15
+	date: 2015-05-18
 	desc: Do It Without Me
 	tag: Atsali
 	tag: Castela
@@ -271,14 +378,14 @@ page:too-subtle
 	tag: Jin
 	tag: JinHome
 	tag: KatherineHome
-	tag: ParaPool
+	tag: ParanormalPool
 page:just-be-happy
 	date: 2015-04-08
 	desc: Just Be Happy
 	tag: Atsali
 	tag: Katherine
 	tag: KatherineHome
-	tag: ParaPool
+	tag: ParanormalPool
 page:mommy-rules
 	date: 2015-04-07
 	desc: Mommy Rules
@@ -319,7 +426,7 @@ page:on-your-toes
 	tag: Blush
 	tag: CoffeeShop
 	tag: Jin
-	tag: ParaPool
+	tag: ParanormalPool
 	tag: Spank
 page:oh-sweetie
 	date: 2015-03-30
@@ -333,7 +440,7 @@ page:still-not-asking-for-it
 	tag: Atsali
 	tag: CoffeeShop
 	tag: Jin
-	tag: ParaPool
+	tag: ParanormalPool
 page:people-assume
 	date: 2015-03-26
 	desc: People Assume
