@@ -50,6 +50,80 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Atsali
 ; Castela
 ; Colour
+page:only-a-test
+	date: 2015-06-12
+	desc: Only A Test
+	tag: Abbie
+	tag: Alexis
+	tag: Blush
+	tag: Devyn
+	tag: Jessie
+	tag: Mallory
+	tag: Mermaid
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:my-hesitation
+	date: 2015-06-11
+	desc: My Hesitation
+	tag: Atsali
+	tag: Blush
+	tag: Devyn
+	tag: Hug
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:you-inviting-me
+	date: 2015-06-10
+	desc: You Inviting Me
+	tag: Atsali
+	tag: Blush
+	tag: Devyn
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:active-in-clubs
+	date: 2015-06-09
+	desc: Active In Clubs
+	tag: Atsali
+	tag: Blush
+	tag: Devyn
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:everyone-will-want-some
+	date: 2015-06-08
+	desc: Everyone Will Want Some
+	tag: Atsali
+	tag: Devyn
+	tag: Fly
+	tag: Jessie
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:just-spring-something
+	date: 2015-06-05
+	desc: Just Spring Something
+	tag: Atsali
+	tag: Blush
+	tag: Devyn
+	tag: Jessie
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:went-looking
+	date: 2015-06-04
+	desc: Went Looking
+	note: "Do Not Pee in the Pool"
+	tag: Jessie
+	tag: JessieGrandma
+	tag: Mermaid
+	tag: MomGotleib
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:ran-away
+	date: 2015-06-03
+	desc: Ran Away
+	tag: Jessie
+	tag: JessieGrandma
+	tag: Mermaid
+	tag: MomGotleib
+	tag: ParanormalPool
+	tag: PoseidonResort
 page:my-friend
 	date: 2015-06-02
 	desc: My Friend
@@ -62,11 +136,11 @@ page:my-friend
 page:hot-button
 	date: 2015-06-01
 	desc: Hot Button
+	tag: Alexis
 	tag: Atsali
 	tag: Bikini
 	tag: Blush
 	tag: Devyn
-	tag: Lexi
 	tag: ParanormalPool
 	tag: PoseidonResort
 page:imagine-that
@@ -97,54 +171,59 @@ page:make-us-proud
 	tag: Bikini
 	tag: Blush
 	tag: Devyn
-	tag: Lexi
-	tag: ParaGirl1
-	tag: ParaGirl2
+	tag: Alexis
+	tag: Abbie
+	tag: Mallory
 	tag: ParanormalPool
 	tag: Squeek
 page:go-talk
 	date: 2015-05-26
 	desc: Go Talk
 	tag: 65feet
+	tag: Abbie
+	tag: Alexis
 	tag: Blush
 	tag: Devyn
 	tag: Jessie
-	tag: Lexi
+	tag: Mallory
 	tag: Mermaid
-	tag: ParaGirl1
-	tag: ParaGirl2
 	tag: ParanormalPool
 page:oh-noes
+; l to R - reported WoG from facebook
+; Abbie - Familiar (dog) - ponytail
+; Alexis - Auloniad (Nymph) - long hair - tall
+; Devyn - Helead - fen nymph
+; Mallory - Amphiptere -  winged serpent - tall, dark hair
 	date: 2015-05-22
 	desc: Oh Noes
+	tag: Abbie
+	tag: Alexis
 	tag: Atsali
 	tag: Bikini
-	tag: Deyvyn
-	tag: Lexi
-	tag: ParaGirl1
-	tag: ParaGirl2
+	tag: Devyn
+	tag: Mallory
 	tag: ParanormalPool
 page:just-look
 	date: 2015-05-21
 	desc: Just Look
+	tag: Alexis
 	tag: Atsali
 	tag: Bikini
 	tag: Bud
 	tag: Devyn
-	tag: ParaGirl1
-	tag: ParaGirl2
+	tag: Mallory
 	tag: ParanormalPool
 page:wanna-join-me
 	date: 2015-05-20
 	desc: Wanna Join Me
+	tag: Abbey
+	tag: Alexis
 	tag: Atsali
 	tag: BeachBall
 	tag: Bikini
 	tag: Bud
 	tag: Castela
-	tag: Lexi
-	tag: ParaGirl1
-	tag: ParaGirl2
+	tag: Mallory
 	tag: ParanormalPool
 page:all-aboard
 	date: 2015-05-19
@@ -18463,7 +18542,7 @@ page:tepozmeettochtli
 page:enjoythesunshine
 	date: 2006-03-13
 	desc: Enjoy The Sunshine
-	tag: BelinaJensen
+	tag: BelindaJensen
 	tag: Dietzel
 	tag: Monica
 	tag: MonicaHouse
