@@ -50,6 +50,112 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Atsali
 ; Castela
 ; Colour
+;page:oh-noes
+; l to R - reported WoG from facebook
+; Abbie - Familiar (dog) - ponytail
+; Alexis - Auloniad (Nymph) - long hair - tall
+; Devyn - Helead - (fen nymph)
+; Mallory - Amphiptere - winged serpent - tall, dark hair
+;
+page:stop-something-stupid
+	date: 2015-06-26
+	desc: Stop Something Stupid
+	tag: Atsali
+	tag: Bikini
+	tag: Devyn
+	tag: Nadette
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:no-fun-for-an-idiot-in-the-sun
+	date: 2015-06-25
+	desc: No Fun For An Idiot In The Sun
+	tag: Atsali
+	tag: Bikini
+	tag: Blush
+	tag: Nadette
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:for-their-friends
+	date: 2015-06-24
+	desc: For Their Friends
+	tag: Atsali
+	tag: Blush
+	tag: Bud
+	tag: ParanormalPool
+	tag: PoseidonResort
+	tag: Tina
+page:went-to-bat
+	date: 2015-06-23
+	desc: Went To Bat
+	tag: Atsali
+	tag: Blush
+	tag: Bud
+	tag: Jessie
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:clueless-enough
+	date: 2015-06-22
+	desc: Clueless Enough
+	tag: Atsali
+	tag: Jessie
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:wapsi-square-patreon-3
+	date: 2015-06-20
+	desc: Wapsi Square Patreon
+	tag: Filler
+	tag: Castela
+page:wapsi-book-ad
+	date: 2015-06-20
+	desc: Wapsi Books Ad
+	tag: Filler
+page:only-individual
+	date: 2015-06-19
+	desc: Only Individual
+	tag: Atsali
+	tag: Castela
+	tag: Jessie
+	tag: Mermaid
+	tag: Monica
+	tag: ParanormalPool
+	tag: Pickle
+	tag: PoseidonResort
+page:shouting-at-me
+	date: 2015-06-18
+	desc: Shouting At Me
+	tag: Atsali
+	tag: Blush
+	tag: Jessie
+	tag: Mermaid
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:get-a-grip
+	date: 2015-06-17
+	desc: Get A Grip
+	tag: Atsali
+	tag: Blush
+	tag: Jessie
+	tag: Mermaid
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:walking-on-eggshells
+	date: 2015-06-16
+	desc: Walking On Eggshells
+	tag: Alexis
+	tag: Atsali
+	tag: Devyn
+	tag: Jessie
+	tag: ParanormalPool
+	tag: PoseidonResort
+page:just-like-us
+	date: 2015-06-15
+	desc: Just Like Us
+	tag: Abbie
+	tag: Alexis
+	tag: Devyn
+	tag: Mallory
+	tag: ParanormalPool
+	tag: PoseidonResort
 page:only-a-test
 	date: 2015-06-12
 	desc: Only A Test
@@ -189,11 +295,6 @@ page:go-talk
 	tag: Mermaid
 	tag: ParanormalPool
 page:oh-noes
-; l to R - reported WoG from facebook
-; Abbie - Familiar (dog) - ponytail
-; Alexis - Auloniad (Nymph) - long hair - tall
-; Devyn - Helead - fen nymph
-; Mallory - Amphiptere -  winged serpent - tall, dark hair
 	date: 2015-05-22
 	desc: Oh Noes
 	tag: Abbie
@@ -216,7 +317,7 @@ page:just-look
 page:wanna-join-me
 	date: 2015-05-20
 	desc: Wanna Join Me
-	tag: Abbey
+	tag: Abbie
 	tag: Alexis
 	tag: Atsali
 	tag: BeachBall
@@ -1732,6 +1833,7 @@ page:not-like-that-2
 	tag: Fart
 	tag: Jessie
 	tag: Krystle
+	tag: MomGotleib
 	tag: School
 page:darn-good
 	date: 2014-08-11
@@ -1876,7 +1978,6 @@ page:gift-and-a-curse
 	date: 2014-07-18
 	desc: Gift And A Curse
 	tag: Bia
-	tag: BiaRegressed
 	tag: Blush
 	tag: Library
 	tag: Phix
@@ -1884,7 +1985,6 @@ page:one-to-speak
 	date: 2014-07-17
 	desc: One To Speak
 	tag: Bia
-	tag: BiaRegressed
 	tag: Blush
 	tag: Library
 	tag: Monica
@@ -2361,7 +2461,6 @@ page:as-a-girl
 	date: 2014-03-14
 	desc: As A Girl
 	tag: Bia
-	tag: BiaRegressed
 	tag: Booze
 	tag: Bruises
 	tag: CafeU296
@@ -2374,7 +2473,6 @@ page:mummy-girl
 	date: 2014-03-13
 	desc: Mummy Girl
 	tag: Bia
-	tag: BiaRegressed
 	tag: CafeU296
 	tag: Jin
 	tag: Monica
@@ -2383,6 +2481,7 @@ page:due-for-a-hug
 	desc: Due For A Hug
 	tag: CafeU296
 	tag: Euryale
+	tag: Hug
 	tag: Shelly
 	tag: SnakeHair
 	tag: Sphinx
@@ -2404,9 +2503,10 @@ page:plumb-near
 	date: 2014-03-10
 	desc: Plumb Near
 	tag: Bia
-	tag: BiaRegressed
 	tag: Booze
+	tag: Hug
 	tag: CafeU296
+	tag: LittleShelly
 	tag: Euryale
 	tag: SnakeHair
 page:a-liquor-filled-kiss
@@ -2421,7 +2521,6 @@ page:clear-the-air
 	date: 2014-03-06
 	desc: Clear The Air
 	tag: Bia
-	tag: BiaRegressed
 	tag: CafeU296
 	tag: DemonShepherd
 	tag: Elemental
@@ -2434,7 +2533,6 @@ page:not-gonna
 	date: 2014-03-05
 	desc: Not Gonna
 	tag: Bia
-	tag: BiaRegressed
 	tag: CafeU296
 	tag: Elemental
 	tag: Fight
@@ -2445,7 +2543,6 @@ page:batter-up
 	date: 2014-03-04
 	desc: Batter Up
 	tag: Bia
-	tag: BiaRegressed
 	tag: Bud
 	tag: CafeU296
 	tag: Conscience
@@ -2460,7 +2557,6 @@ page:about-that
 	note: Bia is Tina's (body's) great grand mother on her father's side
 	tag: Tina
 	tag: Bia
-	tag: BiaRegressed
 	tag: CafeU296
 page:please-help-support-wapsi
 	date: 2014-03-01
@@ -6324,7 +6420,6 @@ page:talking-with-sibyl
 	date: 2012-06-07
 	desc: Talking With Sibyl
 	tag: Bia
-	tag: BiaChild
 	tag: Charon
 	tag: Crescent
 	tag: Flashback
@@ -6334,7 +6429,6 @@ page:time-to-go
 	date: 2012-06-06
 	desc: Time To Go
 	tag: Bia
-	tag: BiaChild
 	tag: Charon
 	tag: Crescent
 	tag: Flashback
@@ -6343,7 +6437,6 @@ page:reverse-shadow
 	date: 2012-06-05
 	desc: Reverse Shadow
 	tag: Bia
-	tag: BiaChild
 	tag: Crescent
 	tag: Flashback
 	tag: Shadow
@@ -6355,13 +6448,11 @@ page:wall-of-fire
 	tag: Crescent
 	tag: Fire
 	tag: Flashback
-	tag: BiaChild
 	tag: Bia
 page:lost-girl
 	date: 2012-06-01
 	desc: Lost Girl
 	tag: Bia
-	tag: BiaChild
 	tag: Charon
 	tag: Crescent
 	tag: Fire
@@ -9697,6 +9788,7 @@ page:be-okay
 	date: 2010-11-11
 	desc: Be Okay
 	tag: Basement
+	tag: Hug
 	tag: Monica
 	tag: MuchoMocha
 	tag: Tears
@@ -12574,7 +12666,7 @@ page:wallofplasma
 	tag: Bud
 	tag: Fire
 	tag: Glasses
-	tag: BiaChild
+	tag: Bia
 	tag: Monica
 	tag: MuchoMocha
 	tag: Plasma
@@ -13413,6 +13505,7 @@ page:therewasagirl
 	tag: Bud
 	tag: Cairo
 	tag: Egyptian
+	tag: Fire
 	tag: Monica
 	tag: MonicaHouse
 	tag: NewsCrew
@@ -13422,6 +13515,7 @@ page:therewasagirl
 	tag: Shelly
 	tag: SmugglerBoss
 	tag: TV
+	tag: Warehouse
 page:nolongerathreat
 	date: 2009-01-08
 	desc: No longer a threat
@@ -13476,6 +13570,7 @@ page:justafewholes
 page:noplacelikehome
 	date: 2008-12-31
 	desc: No place like home
+	tag: Cairo
 	tag: Egyptian
 	tag: Gun
 	tag: Monica
@@ -13484,37 +13579,43 @@ page:noplacelikehome
 	tag: Shoot
 	tag: Smugglers
 	tag: SmugglerBoss
+	tag: Warehouse
 page:oopsiepoit
 	date: 2008-12-30
 	desc: Oopsiepoit
+	tag: Cairo
 	tag: Egyptian
 	tag: Gun
 	tag: Monica
 	tag: Poit
 	tag: PortalCloth2
 	tag: Smugglers
+	tag: Warehouse
 page:leavetheguntakethecloth
 	date: 2008-12-29
 	desc: Leave the gun take the cloth
 	tag: Blood
+	tag: Cairo
 	tag: Egyptian
 	tag: Glyph
 	tag: Gun
 	tag: Monica
 	tag: PortalCloth2
 	tag: Sarcophagus 
+	tag: Warehouse
 page:notanyfruitmarket
 	date: 2008-12-26
 	desc: Not any fruit market
-	tag: Armoury
+	tag: Cairo
+	tag: Egyptian
 	tag: Glyph
 	tag: Gun
-	tag: Egyptian
 	tag: Monica
 	tag: PortalCloth2
-	tag: Sarcophagus
 	tag: PortalTattoo
+	tag: Sarcophagus
 	tag: Shelly
+	tag: Warehouse
 page:asimpleplan
 	date: 2008-12-25
 	desc: A simple plan
@@ -18111,7 +18212,7 @@ page:needtotalk
 page:dontwanttoremember
 	date: 2006-06-07
 	desc: Don’t Want To Remember
-	tag: BiaChild
+	tag: Bia
 	tag: Bud
 	tag: Chimera
 	tag: Fire
