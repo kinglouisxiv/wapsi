@@ -50,18 +50,275 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Atsali
 ; Castela
 ; Colour
-;page:oh-noes
-; l to R - reported WoG from facebook
-; Abbie - Familiar (dog) - ponytail
-; Alexis - Auloniad (Nymph) - long hair - tall
-; Devyn - Helead - (fen nymph)
-; Mallory - Amphiptere - winged serpent - tall, dark hair
 ;
+page:im-bored
+	date: 2015-10-11
+	desc: I'm Bored
+	tag: Castela
+	tag: Katherine
+	tag: KatherineHome
+page:nerds-like-us
+	date: 2015-10-08
+	desc: Nerds Like Us
+	note: Cosplay characters reportedly from [Gurren Lagann](https://en.wikipedia.org/wiki/Gurren_Lagann) & [Kill la Kill](https://en.wikipedia.org/wiki/Kill_la_Kill)
+	tag: Jin
+	tag: JinHome
+	tag: Monica
+page:called-cosplay
+	date: 2015-10-08
+	desc: Called Cosplay
+	tag: Jin
+	tag: Computer
+	tag: JinHome
+	tag: Monica
+	tag: MuchoMocha
+page:halla-ween
+	date: 2015-10-07
+	desc: Halla Ween
+	tag: Alexis
+	tag: Atsali
+	tag: Castella
+	tag: Devyn
+	tag: Jin
+	tag: KatherineHome
+	tag: Library
+	tag: Monica
+	tag: MuchoMocha
+page:the-fall
+	date: 2015-10-06
+	desc: The Fall
+	tag: Bud
+	tag: Colour
+	tag: Kevin
+page:the-rise-of-fall
+	date: 2015-10-05
+	desc: The Rise Of Fall
+	tag: Bud
+	tag: Colour
+	tag: Leaf
+page:come-monday
+	date: 2015-10-02
+	desc: Come Monday
+	tag: Atsali
+	tag: Castela
+	tag: Blush
+	tag: Katherine
+	tag: KatherineHome
+	tag: Tail
+page:stop-hitting-yourself
+	date: 2015-10-01
+	desc: Stop Hitting Yourself
+	tag: Atsali
+	tag: Castela
+	tag: Fight
+	tag: Katherine
+	tag: KatherineHome
+	tag: Tail
+page:hurt-its-feelings
+	date: 2015-09-30
+	desc: Hurt Its Feelings
+	tag: Atsali
+	tag: Castela
+	tag: Katherine
+	tag: KatherineHome
+	tag: Tail
+page:succubus-side
+	date: 2015-09-29
+	desc: Succubus Side
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: Katherine
+	tag: KatherineHome
+	tag: Tail
+	tag: Tears
+page:a-new-tail
+	date: 2015-09-28
+	desc: A New Tail
+	tag: Atsali
+	tag: Katherine
+	tag: KatherineHome
+	tag: Tail
+page:the-chase-05
+	date: 2015-09-25
+	desc: The Chase 05
+	tag: GirlScouts
+	tag: Monica
+	tag: Phix
+	tag: Shelly
+	tag: ThinMints
+page:the-chase-04
+	date: 2015-09-24
+	desc: The Chase 04
+	tag: GirlScouts
+	tag: Monica
+	tag: Shelly
+page:the-chase-03
+	date: 2015-09-23
+	desc: The Chase 03
+	tag: GirlScouts
+	tag: Monica
+	tag: Shelly
+page:the-chase-02
+	date: 2015-09-22
+	desc: The Chase 02
+	tag: Monica
+	tag: Shelly
+page:the-chase-01
+	date: 2015-09-21
+	desc: The Chase 01
+	tag: Monica
+	tag: Shelly
+	tag: Sphinx
+page:not-angry
+	date: 2015-09-18
+	desc: Not Angry
+	tag: Atsali
+	tag: Blush
+	tag: Cinema
+	tag: Nadette
+page:later-that-night
+	date: 2015-09-17
+	desc: Going On A Date
+	tag: Atsali
+	tag: Blush
+	tag: Cinema
+	tag: MuchoMocha
+	tag: Nadette
+page:going-on-a-date
+	date: 2015-09-16
+	desc: Going On A Date
+	tag: Atsali
+	tag: Blush
+	tag: MuchoMocha
+	tag: Nadette
+page:is-this-a-test
+	date: 2015-09-15
+	desc: Is This A Test
+	tag: Atsali
+	tag: Blush
+	tag: Jin
+	tag: MuchoMocha
+page:role-model
+	date: 2015-09-14
+	desc: Role Model
+	tag: Atsali
+	tag: Jin
+page:surpise
+	date: 2015-09-11
+	desc: Surprise
+	tag: BoilerRoom
+	tag: Conscience
+	tag: Shelly
+page:fourteen-years-of-wapsi-square
+	date: 2015-09-09
+	desc: Fourteen Years Of Wapsi Square
+	tag: Georgette
+	tag: Dietzel
+	tag: Monica
+	tag: Bud
+	tag: Atsali
+	tag: Devyn
+	tag: Shelly
+page:terrible-person
+	date: 2015-09-08
+	desc: Terrible Person
+	tag: Blush
+	tag: GryphonHigh
+	tag: Jordan
+	tag: Tara
+page:feel-like-i-do
+	date: 2015-09-07
+	desc: Feel Like I Do
+	tag: Blush
+	tag: Devyn
+	tag: DevynMagicWorld
+	tag: Jordan
+	tag: Skull
+page:your-attention
+	date: 2015-09-04
+	desc: Your Attention
+	tag: Devyn
+	tag: DevynMagicWorld
+	tag: Jordan
+page:hey-kid
+	date: 2015-09-03
+	desc: Hey Kid
+	note: Tara named here
+	tag: Devyn
+	tag: DevynMagicWorld
+	tag: Jordan
+	tag: Tara
+page:safety-in-numbers
+	date: 2015-09-02
+	desc: Safety In Numbers
+	tag: DevynMagicWorld
+	tag: Jordan
+	tag: Tara
+	tag: TeddyBear
+page:where-are-you-2
+	date: 2015-09-01
+	desc: Where Are You
+	tag: Demon
+	tag: DevynMagicWorld
+	tag: Tara
+	tag: TeddyBear
+page:what-next
+	date: 2015-08-31
+	desc: What Next
+	tag: Blush
+	tag: DevynMagicWorld
+	tag: Floorboards
+	tag: Tara
+page:like-a-nightmare
+	date: 2015-08-28
+	desc: Like A Nightmare
+	tag: Blush
+	tag: DevynMagicWorld
+	tag: Floorboards
+	tag: Jordan
+	tag: Tara
+page:walk-with-a-friend
+	date: 2015-08-27
+	desc: Walk With A Friend
+	tag: Atsali
+	tag: Blush
+	tag: Devyn
+	tag: DevynMagicWorld
+	tag: GryphonHigh
+	tag: Jordan
+	tag: Tara
+page:a-call-for-help
+	date: 2015-08-26
+	desc: A Call For Help
+	tag: Blush
+	tag: Devyn
+	tag: DevynMagicWorld
+	tag: Jordan
+	tag: Tara
+	tag: Tears
+page:make-me-feel
+	date: 2015-08-25
+	desc: Make Me Feel
+	tag: Devyn
+	tag: DevynMagicWorld
+	tag: Jordan
+	tag: Tara
+	tag: Tears
+page:show-it-to-you
+	date: 2015-08-24
+	desc: Show It To You
+	tag: Colour
+	tag: Devyn
+	tag: DevynMagicWorld
+	tag: GryphonHigh
+	tag: Jordan
+	tag: Tara
 page:no-one-cares
 	date: 2015-08-21
 	desc: No One Cares
-	tag: Devyn
 	tag: Colour
+	tag: Devyn
 	tag: GryphonHigh
 page:used-to-you
 	date: 2015-08-20

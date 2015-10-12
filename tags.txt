@@ -79,7 +79,7 @@ BufferCrystal	[Etheitian](#etheitian) crystal-tech
 C8H10N4O2	chemical formula for caffine
 CalendarMachine	[resets](#1450) the world at the Mayan Apocalypse rollover (December 2012)
 Calista	Princess Calista Foxglove, a [Fae](#fae), nickname: Cricket
-Castela	nickname: a.k.a [Pickle](#pickle); a 'whatsit': sentient thorny vine, adopted daughter of [Katherine](#katherine), step sister of [Atsali](#atsali); "child of the Guardians of the Doorways and a Daughter of the Wood", daughter of a Blackthorn and (thus?) immune to [Fae](#fae)
+Castela	a.k.a [Pickle](#pickle); a 'whatsit': sentient thorny vine, adopted daughter of [Katherine](#katherine), step sister of [Atsali](#atsali); "child of the Guardians of the Doorways and a Daughter of the Wood", daughter of a Blackthorn and (thus?) immune to [Fae](#fae)
 Chimera	magical ultimate weapon built from [Brandi](#brandi), [Bud](#bud) and [Jin](#jin)
 ClayDolls	given to [Shelly](#shelly) by her [mother](#shellymom)
 Companion	Shelly's [Demons](#demon), integrated. See [Little Shelly](#littleshelly)
@@ -98,8 +98,10 @@ DarensBar	the after-work social hub of the early years
 Daylla	friend of [Castela's](#castela). Her sister reportedly suffers from hormones
 Demon	anthropomorphised personal demons: the voices in your head _do_ have an independent existance
 DemonWorld	the demon home plane or universe
-Devyn	a niece of [Poseidon](#poseidon]. A Helead (fen nymph) reportedly according to Paul Taylor on Facebook 
+Devyn	a niece of [Poseidon](#poseidon). A Helead (fen nymph) reportedly according to Paul Taylor on Facebook 
+DevynMagicWorld	a depressing (nightmare?) world to which Devyn can move herself and others
 Dietzel	[Monica's](#monica) long-suffering bull terrier
+Digit	[Monica's](#monica) name for the [spider](#jumpingspider) who becomes the miniaturised [Dietzel's](#deitzel) companion
 Doubt	probably Self-Doubt -- a personal [demon](#demon) of [Monica's](#monica)
 DownstairsBar	below Owen & Lakshmi's bedroom
 DrCustard	villainous foil to the [Crimson Mantis](#crimsonmantis)
@@ -148,8 +150,10 @@ Jin	Jin Adeobie, [Golem](#golem) girl, snake in the [Chimera](#chimera); the [Ti
 JinMother	[Mayahuel](#mayahuel), [Jin's](#jin) mother, a [TimeKeeper](#timekeeper)
 JoAnne	unseen instructor at the [Dance School](#danceschool) where [Bud](#bud) works
 Joe	'mugger' -- actually a psychologist studying reactions to being robbed
+Jordan	female, bullies [Devyn](#devyn) at [Gryphon High](#gryphonhigh) with [Tara](#tara)
 JRRTolkien	academic, author of _The Lord of the Rings_
-Justin	Cop; "sexy officer tight buns" ---[Shelly](#shelly); formerly [Epimetheus](#epimetheus)
+JumpingSpider	a.k.a [Digit](#digit) a small denizen of the [Library](#library), friend of [Dietzel](#dietzel) 
+Justin	Cop: "sexy officer tight buns" ---[Shelly](#shelly); formerly [Epimetheus](#epimetheus)
 KachinaDoll	small dolls carved in the likenesses of the elementary Kachina spirits
 Katherine	Katherine Gilchrist, "eyes like a spider", shy woman, perhaps due to PTSD; has served in the [Air Force](airforce); textile specialist at the [museum](#museum); human but [Anasazi](#anasazi) / [Etheitian](Etheitian), combined spirit of [six babies](#6babies), one of whom was [Lily's](#lily) child
 KatydidWoman	shop assitant at the paranormal mall
@@ -233,6 +237,7 @@ Styx	mother of [Bia](#bia)
 Succubus	a common term for the [Nü Gui](#nugui) type of spirit
 SunnysideUp	Sunnyside Up Café, near [Kevin's home](#kevinhome)
 Suzie	Suzie McBride, vampire, FBI agent
+Tara	female, bullies [Devyn](#devyn) at [Gryphon High](#gryphonhigh) with [Jordan](#jordan)
 Teeth	some characters have unusual dentition by mainstream human standards, tagged when particularly strikingly displayed
 Tepoz	Tepoztecal, Aztec god of alcohol: an animate 3\' high blue statue or [golem](#golem)
 Tiffany	minds the [Antique Shop](#antiqueshop)
