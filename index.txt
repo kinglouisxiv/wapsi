@@ -25,7 +25,7 @@
 ;
 ; What's tagged
 ;
-; Who 
+; Who
 ;     - known, named characters on-page: Monica, Jin
 ;     - speaking generics: PoliceMan, Policeman2
 ;     - significant reference to an off-page character
@@ -38,38 +38,204 @@
 ; When
 ;     - in-comic significant dates, e.g. Halloween
 ;     - flashbacks to earlier events
-; Specific rather than general 
+; Specific rather than general
 ;     - Daren's Bar (specific) is not tagged as a Bar (generic) as well
 ;     - Phix is tagged with Sphinx on early appearances, but thereafter only if strongly displaying the Sphinx nature
 ; Meta
 ;   - _e.g._ fillers, guest comics, art pages, special colour pages (for a b&w comic)
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
-; capitalisation correctors:
+; some capitalisation correctors:
 ; Amanda
 ; Atsali
 ; Castela
 ; Colour
 ;
+page:sweet-dreams-2
+	date: 2015-11-02
+	desc: Sweet Dreams
+	tag: 1Frame
+	tag: Atsali
+	tag: Bed
+	tag: CatGirl
+	tag: Costume
+	tag: Dream
+	tag: Nadette
+page:time-together
+	date: 2015-11-01
+	desc: Time Together
+	tag: Atsali
+	tag: GilchristHome
+	tag: CornHuskMaiden
+	tag: Costume
+	tag: CatGirl
+	tag: Nadette
+page:peanut-butter-kisses
+	date: 2015-10-29
+	desc: Peanut Butter Kisses 
+	tag: Atsali
+	tag: Castela
+	tag: CornHuskMaiden
+	tag: Costume
+	tag: Daylla
+	tag: DurinniLabyrinth
+	tag: Galleria
+	tag: Gisaultees
+	tag: OllthrainianMonk
+	tag: PrinceGessnu
+	tag: RainbowDash
+	tag: RedRidingHood
+page:pony-theme
+	date: 2015-10-29
+	desc: Pony Theme
+	tag: Abbie
+	tag: Atsali
+	tag: Costume
+	tag: CowardlyLion
+	tag: Devyn
+	tag: Galleria
+	tag: HoneyBee
+	tag: Nadette
+	tag: RainbowDash
+	tag: Jockey
+page:fellow-pegasister
+	date: 2015-10-28
+	desc: Fellow Pegasister
+	tag: Abbie
+	tag: Atsali
+	tag: Costume
+	tag: CowardlyLion
+	tag: Devyn
+	tag: Galleria
+	tag: HoneyBee
+	tag: Nadette
+	tag: RainbowDash
+	tag: Jockey
+page:running-late-2
+	date: 2015-10-26
+	desc: Running Late
+	tag: Abbie
+	tag: Alexis
+	tag: Atsali
+	tag: Batgirl
+	tag: Castela
+	tag: Chell
+	tag: CornHuskMaiden
+	tag: Costume
+	tag: CowardlyLion
+	tag: Devyn
+	tag: Galleria
+	tag: HoneyBee
+	tag: Mallory
+	tag: RainbowDash
+	tag: StormTrooper
+page:not-so-fast
+	date: 2015-10-25
+	desc: Not So Fast
+	tag: Atsali
+	tag: Castela
+	tag: CornHuskMaiden
+	tag: Costume
+	tag: EllenRipley
+	tag: GilchristHome
+	tag: Katherine
+	tag: RainbowDash
+	tag: StormTrooper
+page:is-but-isnt
+	date: 2015-10-23
+	desc: Is But Isn't
+	tag: Conscience
+	tag: Shelly
+	tag: ShellysApartment
+	tag: Weights
+page:baby-sitting
+	date: 2015-10-21
+	desc: Baby Sitting
+	tag: Atsali
+	tag: Conscience
+	tag: Devyn
+	tag: Doofus
+	tag: IceCream
+	tag: MonicasIsland
+	tag: Pistachio
+page:start-a-tsunami
+	date: 2015-10-20
+	desc: Start A Tsunami
+	tag: Conscience
+	tag: Devyn
+	tag: MonicasIsland
+page:got-you-covered
+	date: 2015-10-19
+	desc: Got You Covered
+	tag: Conscience
+	tag: Devyn
+	tag: Doofus
+	tag: Fish
+	tag: MonicasIsland
+	tag: Wave
+page:the-chaperone
+	date: 2015-10-18
+	desc: The Chaperone
+	tag: Atsali
+	tag: Blush
+	tag: Conscience
+	tag: Devyn
+	tag: MonicasIsland
+	tag: Nadette
+page:atsali-and-nadette-2
+	date: 2015-10-16
+	desc: Atsali and Nadette
+	tag: 1Frame
+	tag: Atsali
+	tag: Nadette
+	tag: Tail
+page:just-stood-there
+	date: 2015-10-14
+	desc: Just Stood There
+	tag: Atsali
+	tag: Blush
+	tag: GryphonHigh
+	tag: Katherine
+	tag: Monica
+	tag: MuchoMocha
+	tag: Nadette
+	tag: Tears
+page:teachable-moment
+	date: 2015-10-13
+	desc: Teachable Moment
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: SurvivalTrap
+page:really-worked
+	date: 2015-10-12
+	desc: Really Worked
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: SurvivalTrap
 page:im-bored
 	date: 2015-10-11
 	desc: I'm Bored
 	tag: Castela
+	tag: GilchristHome
 	tag: Katherine
-	tag: KatherineHome
+	tag: SurvivalManual
 page:nerds-like-us
 	date: 2015-10-08
 	desc: Nerds Like Us
 	note: Cosplay characters reportedly from [Gurren Lagann](https://en.wikipedia.org/wiki/Gurren_Lagann) & [Kill la Kill](https://en.wikipedia.org/wiki/Kill_la_Kill)
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Monica
 page:called-cosplay
 	date: 2015-10-08
 	desc: Called Cosplay
 	tag: Jin
 	tag: Computer
-	tag: JinHome
+	tag: JinLoft
 	tag: Monica
 	tag: MuchoMocha
 page:halla-ween
@@ -77,10 +243,10 @@ page:halla-ween
 	desc: Halla Ween
 	tag: Alexis
 	tag: Atsali
-	tag: Castella
+	tag: Castela
 	tag: Devyn
 	tag: Jin
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Library
 	tag: Monica
 	tag: MuchoMocha
@@ -103,8 +269,8 @@ page:come-monday
 	tag: Castela
 	tag: Blush
 	tag: Katherine
-	tag: KatherineHome
-	tag: Tail
+	tag: GilchristHome
+	tag: AtsaliTail
 page:stop-hitting-yourself
 	date: 2015-10-01
 	desc: Stop Hitting Yourself
@@ -112,16 +278,16 @@ page:stop-hitting-yourself
 	tag: Castela
 	tag: Fight
 	tag: Katherine
-	tag: KatherineHome
-	tag: Tail
+	tag: GilchristHome
+	tag: AtsaliTail
 page:hurt-its-feelings
 	date: 2015-09-30
 	desc: Hurt Its Feelings
 	tag: Atsali
 	tag: Castela
 	tag: Katherine
-	tag: KatherineHome
-	tag: Tail
+	tag: GilchristHome
+	tag: AtsaliTail
 page:succubus-side
 	date: 2015-09-29
 	desc: Succubus Side
@@ -129,16 +295,16 @@ page:succubus-side
 	tag: Blush
 	tag: Castela
 	tag: Katherine
-	tag: KatherineHome
-	tag: Tail
+	tag: GilchristHome
+	tag: AtsaliTail
 	tag: Tears
 page:a-new-tail
 	date: 2015-09-28
 	desc: A New Tail
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
-	tag: Tail
+	tag: GilchristHome
+	tag: AtsaliTail
 page:the-chase-05
 	date: 2015-09-25
 	desc: The Chase 05
@@ -213,12 +379,14 @@ page:surpise
 page:fourteen-years-of-wapsi-square
 	date: 2015-09-09
 	desc: Fourteen Years Of Wapsi Square
-	tag: Georgette
-	tag: Dietzel
-	tag: Monica
-	tag: Bud
 	tag: Atsali
+	tag: Balloon
+	tag: GryphonHigh
+	tag: Bud
 	tag: Devyn
+	tag: Dietzel
+	tag: Georgette
+	tag: Monica
 	tag: Shelly
 page:terrible-person
 	date: 2015-09-08
@@ -232,27 +400,27 @@ page:feel-like-i-do
 	desc: Feel Like I Do
 	tag: Blush
 	tag: Devyn
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Jordan
 	tag: Skull
 page:your-attention
 	date: 2015-09-04
 	desc: Your Attention
 	tag: Devyn
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Jordan
 page:hey-kid
 	date: 2015-09-03
 	desc: Hey Kid
 	note: Tara named here
 	tag: Devyn
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Jordan
 	tag: Tara
 page:safety-in-numbers
 	date: 2015-09-02
 	desc: Safety In Numbers
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Jordan
 	tag: Tara
 	tag: TeddyBear
@@ -260,21 +428,21 @@ page:where-are-you-2
 	date: 2015-09-01
 	desc: Where Are You
 	tag: Demon
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Tara
 	tag: TeddyBear
 page:what-next
 	date: 2015-08-31
 	desc: What Next
 	tag: Blush
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Floorboards
 	tag: Tara
 page:like-a-nightmare
 	date: 2015-08-28
 	desc: Like A Nightmare
 	tag: Blush
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Floorboards
 	tag: Jordan
 	tag: Tara
@@ -284,7 +452,7 @@ page:walk-with-a-friend
 	tag: Atsali
 	tag: Blush
 	tag: Devyn
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: GryphonHigh
 	tag: Jordan
 	tag: Tara
@@ -293,7 +461,7 @@ page:a-call-for-help
 	desc: A Call For Help
 	tag: Blush
 	tag: Devyn
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Jordan
 	tag: Tara
 	tag: Tears
@@ -301,7 +469,7 @@ page:make-me-feel
 	date: 2015-08-25
 	desc: Make Me Feel
 	tag: Devyn
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: Jordan
 	tag: Tara
 	tag: Tears
@@ -310,7 +478,7 @@ page:show-it-to-you
 	desc: Show It To You
 	tag: Colour
 	tag: Devyn
-	tag: DevynMagicWorld
+	tag: Nether
 	tag: GryphonHigh
 	tag: Jordan
 	tag: Tara
@@ -350,7 +518,7 @@ page:totally-organic
 	tag: Atsali
 	tag: Castela
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:it-was-organic
 	date: 2015-08-13
 	desc: It Was Organic
@@ -378,7 +546,7 @@ page:right-now
 	tag: Dietzel
 	tag: Digit
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: SpiderSilk
 	tag: Vase
 page:on-the-nuts
@@ -435,7 +603,7 @@ page:she-rocks
 	tag: Atsali
 	tag: Castela
 	tag: Diary
-	tag: KatherineHome
+	tag: GilchristHome
 page:saying-it
 	date: 2015-07-02
 	desc: Saying It
@@ -758,20 +926,20 @@ page:all-aboard
 	tag: Bud
 	tag: Castela
 	tag: Jin
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Monica
 page:do-it-without-me
 	date: 2015-05-18
 	desc: Do It Without Me
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 page:of-my-family
 	date: 2015-05-15
 	desc: Of My Family
 	tag: BloodBrothel
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Lily
 	tag: Suzie
 page:not-good-company
@@ -789,14 +957,14 @@ page:mom-voice
 	tag: Castela
 	tag: Hug
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:what-happened-5
 	date: 2015-05-12
 	desc: What Happened
 	tag: Castela
 	tag: HandGlow
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: ToyCar
 page:something-bad
 	date: 2015-05-11
@@ -804,7 +972,7 @@ page:something-bad
 	tag: Castela
 	tag: CornDoll
 	tag: HandGlow
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: ToyTank
 	tag: Zombie
 page:petting-zoo
@@ -826,14 +994,14 @@ page:better-run
 	tag: Atsali
 	tag: Castela
 	tag: CornDoll
-	tag: KatherineHome
+	tag: GilchristHome
 page:not-a-toy
 	date: 2015-05-05
 	desc: Not A Toy
 	tag: Atsali
 	tag: Castela
 	tag: CornDoll
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: TeddyBear
 page:she-strikes
 	date: 2015-05-04
@@ -841,26 +1009,26 @@ page:she-strikes
 	tag: Atsali
 	tag: Castela
 	tag: CornDoll
-	tag: KatherineHome
+	tag: GilchristHome
 page:feeling-worried
 	date: 2015-05-01
 	desc: Feeling Worried
 	tag: Castela
 	tag: Daylla
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:think-like-that
 	date: 2015-04-30
 	desc: Think Like That
 	tag: Atsali
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:something-like-that
 	date: 2015-04-29
 	desc: Something Like That
 	tag: Atsali
 	tag: Blush
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:penny-drops
 	date: 2015-04-28
@@ -868,7 +1036,7 @@ page:penny-drops
 	tag: Atsali
 	tag: Blush
 	tag: Gay
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:missing-something
 	date: 2015-04-27
@@ -877,7 +1045,7 @@ page:missing-something
 	tag: Blush
 	tag: Gay
 	tag: Jacob
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:stop-right-there
 	date: 2015-04-24
@@ -885,7 +1053,7 @@ page:stop-right-there
 	tag: Atsali
 	tag: Blush
 	tag: Gay
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:across-calhoun
 	date: 2015-04-23
@@ -927,7 +1095,7 @@ page:chased-him-away
 	tag: BerdNadHome
 	tag: Computer
 	tag: Ear
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 	tag: Tail
 page:sisters
@@ -959,7 +1127,7 @@ page:fightin-words
 page:big-sis-stheno
 	date: 2015-04-13
 	desc: Big Sis Stheno
-	tag: Briki	
+	tag: Briki
 	tag: Euryale
 	tag: MuchoMocha
 	tag: Stheno
@@ -969,9 +1137,8 @@ page:other-girls
 	desc: Other Girls
 	tag: Atsali
 	tag: Castela
-	tag: CornPrincess
-	tag: CornDoll
-	tag: KatherineHome
+	tag: CornHuskDoll
+	tag: GilchristHome
 page:too-subtle
 	date: 2015-04-09
 	desc: Too Subtle
@@ -979,15 +1146,15 @@ page:too-subtle
 	tag: Atsali
 	tag: Castela
 	tag: Jin
-	tag: JinHome
-	tag: KatherineHome
+	tag: JinLoft
+	tag: GilchristHome
 	tag: ParanormalPool
 page:just-be-happy
 	date: 2015-04-08
 	desc: Just Be Happy
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: ParanormalPool
 page:mommy-rules
 	date: 2015-04-07
@@ -996,7 +1163,7 @@ page:mommy-rules
 	tag: Claws
 	tag: Facemarks
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Ninhursag
 	tag: Teeth
 page:just-a-kid
@@ -1004,7 +1171,7 @@ page:just-a-kid
 	desc: Just A Kid
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:castela-3
 	date: 2015-04-03
 	desc: Castela
@@ -1063,7 +1230,7 @@ page:promise
 	tag: Berdine
 	tag: BerdNadHome
 	tag: HornsGirl
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 	tag: Shoebox
 page:come-quick
@@ -1100,20 +1267,20 @@ page:worried
 	desc: Worried
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 page:so-bent
 	date: 2015-03-17
 	desc: So Bent
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Cookie
 page:psych
 	date: 2015-03-16
 	desc: Psych
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Facemarks
 page:like-omg
 	date: 2015-03-12
@@ -1128,19 +1295,19 @@ page:a-boy-calling
 	tag: Atsali
 	tag: Castela
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:have-known
 	date: 2015-03-11
 	desc: Have known
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:more-complicated-2
 	date: 2015-03-10
 	desc: More Complicated
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Lily
 	tag: Nadette
 	tag: Tears
@@ -1602,21 +1769,21 @@ page:just-relax
 	tag: Bear
 	tag: Blush
 	tag: Ear
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:full-of-hugs
 	date: 2014-12-17
 	desc: Full Of Hugs
 	tag: Atsali
 	tag: Blush
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:anything-i-can-do
 	date: 2014-12-17
 	desc: Anything I Can Do
 	tag: Atsali
 	tag: Blush
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:stupid-hormones
 	date: 2014-12-16
@@ -1626,7 +1793,7 @@ page:stupid-hormones
 	tag: Bear
 	tag: Blush
 	tag: Ear
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:try-that-out
 	date: 2014-12-15
@@ -1635,7 +1802,7 @@ page:try-that-out
 	tag: Bear
 	tag: Blush
 	tag: Ear
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 	tag: Talisman
 page:so-much-better
@@ -1759,7 +1926,7 @@ page:snowfall
 	tag: Snow
 page:too-grounded
 	date: 2014-11-18
-	desc: Too Grounded 
+	desc: Too Grounded
 	tag: CerberusClub
 	tag: Georgette
 	tag: Kevin
@@ -1820,32 +1987,32 @@ page:please-repeat-that
 	tag: Blush
 	tag: Castela
 	tag: Computer
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: TeddyBear
 page:well-played
 	date: 2014-11-06
 	desc: Well Played
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Katherine
 page:an-adorable-rose-bush
 	date: 2014-11-05
 	desc: An Adorable Rose Bush
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Katherine
 page:my-job
 	date: 2014-11-04
 	desc: My Job
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:door-is-shut
 	date: 2014-11-03
 	desc: Door Is Shut
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 page:you-like-her
 	date: 2014-10-29
 	desc: You Like Her
@@ -1854,7 +2021,7 @@ page:you-like-her
 	tag: Blush
 	tag: Castela
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:one-spare-sister
 	date: 2014-10-28
@@ -1865,7 +2032,7 @@ page:one-spare-sister
 	tag: Castela
 	tag: Computer
 	tag: Cookie
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:not-wearing-a-bra
 	date: 2014-10-27
@@ -1874,7 +2041,7 @@ page:not-wearing-a-bra
 	tag: Blush
 	tag: Castela
 	tag: Computer
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 page:hold-your-form
 	date: 2014-10-23
@@ -1883,7 +2050,7 @@ page:hold-your-form
 	tag: Blush
 	tag: Castela
 	tag: Computer
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Nadette
 	tag: Wings
 page:perfect-for-you
@@ -1893,7 +2060,7 @@ page:perfect-for-you
 	tag: Computer
 	tag: Jacob
 	tag: Nadette
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Wings
 page:secret-mission
 	date: 2014-10-21
@@ -1901,25 +2068,25 @@ page:secret-mission
 	tag: Atsali
 	tag: Blush
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 page:call-baby-unicorns
 	date: 2014-10-20
 	desc: Call Baby Unicorns
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 page:nothing-special
 	date: 2014-10-17
 	desc: Nothing Special
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 page:watcha-dooin
 	date: 2014-10-16
 	desc: Watcha Dooin
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 page:midnight-snack
 	date: 2014-10-15
 	desc: Midnight Snack
@@ -1977,7 +2144,7 @@ page:bedtime-snack
 	tag: CrimsonMantis
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Muffin
 page:so-cute
 	date: 2014-10-03
@@ -2105,7 +2272,7 @@ page:time-for-a-break
 	date: 2014-09-11
 	desc: Time For A Break
 	tag: Calista
-	tag: Demon 
+	tag: Demon
 	tag: Library
 	tag: Monica
 page:let-me-go
@@ -2113,7 +2280,7 @@ page:let-me-go
 	desc: Let Me Go
 	tag: Calista
 	tag: Demon
-	tag: GasMask	
+	tag: GasMask
 page:there-they-are
 	date: 2014-09-09
 	desc: There They Are
@@ -2205,7 +2372,7 @@ page:oops
 page:side-effect
 	date: 2014-08-19
 	desc: Side Effect
-	tag: Demon	
+	tag: Demon
 	tag: Guidance
 	tag: Georgette
 	tag: JetHome
@@ -2432,7 +2599,7 @@ page:saturday-too
 	tag: Library
 	tag: Monica
 	tag: Phix
-	tags: Vampire
+	tag: Vampire
 page:want-to-learn
 	date: 2014-07-11
 	desc: Want To Learn
@@ -2492,7 +2659,7 @@ page:castela-fourth
 	tag: Explosion
 	tag: Filler
 	tag: Firework
-	tag: KatherineHome
+	tag: GilchristHome
 page:need-us
 	date: 2014-07-03
 	desc: Need Us
@@ -2601,7 +2768,7 @@ page:chocolate-cake
 	tag: ChocolateCake
 	tag: Facemarks
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:eightball-tee-preorder
 	date: 2014-05-03
 	desc: Advert: Eightball Tee Preorder
@@ -2616,7 +2783,7 @@ page:just-leave
 	tag: Castela
 	tag: Facemarks
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:my-gosh
 	date: 2014-05-01
 	desc: My Gosh
@@ -2625,7 +2792,7 @@ page:my-gosh
 	tag: Blush
 	tag: HappyTime
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:am-i-sick
 	date: 2014-04-30
 	desc: Am I Sick
@@ -2633,7 +2800,7 @@ page:am-i-sick
 	tag: Bed
 	tag: Blush
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Pot
 	tag: Wings
 page:happy-thoughts
@@ -2642,7 +2809,7 @@ page:happy-thoughts
 	tag: Atsali
 	tag: Bed
 	tag: Blush
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Wings
 page:be-still
 	date: 2014-04-28
@@ -2652,7 +2819,7 @@ page:be-still
 	tag: Claws
 	tag: Facemarks
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Teeth
 	tag: ThornyVine
 	tag: Wings
@@ -2664,7 +2831,7 @@ page:stay-calm-2
 	tag: Claws
 	tag: Facemarks
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Teeth
 	tag: Wings
 page:stupid-diary
@@ -2674,7 +2841,7 @@ page:stupid-diary
 	tag: Castela
 	tag: Diary
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Scissors
 page:special-fit
 	date: 2014-04-23
@@ -2683,7 +2850,7 @@ page:special-fit
 	tag: Castela
 	tag: Blush
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: PyjamaTop
 	tag: Scissors
 	tag: WaterPump
@@ -2694,7 +2861,7 @@ page:pajama-top
 	tag: Atsali
 	tag: Castela
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: PyjamaTop
 	tag: Scissors
 	tag: Teletubby
@@ -2703,7 +2870,7 @@ page:resize-these
 	desc: Resize These
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Vorp
 page:atsali-cutie-patootie
 	date: 2014-04-18
@@ -3055,6 +3222,7 @@ page:island-party
 	desc: Island Party
 	tag: 1Frame
 	tag: Colour
+	tag: Island
 	tag: Keg
 	tag: Nudge
 page:student-of-mine
@@ -3226,7 +3394,7 @@ page:awesomly-innocent
 	tag: Atsali
 	tag: Colour
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Phone
 page:hey-sis
 	date: 2014-01-09
@@ -3235,7 +3403,7 @@ page:hey-sis
 	tag: Atsali
 	tag: Castela
 	tag: Colour
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Phone
 page:it-chirped
 	date: 2014-01-08
@@ -3243,7 +3411,7 @@ page:it-chirped
 	tag: Atsali
 	tag: Blush
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Phone
 	tag: TVRemote
 page:stop-chasing-me
@@ -3251,14 +3419,14 @@ page:stop-chasing-me
 	desc: Stop Chasing Me
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Phone
 page:mom-said
 	date: 2014-01-06
 	desc: Mom Said
 	tag: Atsali
 	tag: Castela
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Phone
 page:castela-discovers-video-phones
 	date: 2014-01-03
@@ -3267,20 +3435,20 @@ page:castela-discovers-video-phones
 	tag: Atsali
 	tag: Castela
 	tag: Colour
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Phone
 page:not-even
 	date: 2014-01-02
 	desc: Not Even
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Booze
 	tag: Monica
 page:naive-and-dangerous
 	date: 2014-01-01
 	desc: Naive And Dangerous
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Booze
 	tag: Monica
 page:the-secret-2
@@ -3548,7 +3716,7 @@ page:all-at-once
 	tag: Castela
 	tag: Colour
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:just-stop-talking
 	date: 2013-11-15
 	desc: Just Stop Talking
@@ -3558,7 +3726,7 @@ page:just-stop-talking
 	tag: Castela
 	tag: Colour
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:stung-by-a-bee
 	date: 2013-11-14
 	desc: Stung By A Bee
@@ -3567,7 +3735,7 @@ page:stung-by-a-bee
 	tag: Bed
 	tag: Castela
 	tag: Colour
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Puberty
 page:someone-we-like
 	date: 2013-11-13
@@ -3664,7 +3832,7 @@ page:listen-good
 	tag: Colour
 	tag: Atsali
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:running-late
 	date: 2013-10-28
 	desc: Running Late
@@ -3672,7 +3840,7 @@ page:running-late
 	tag: Colour
 	tag: Stairs
 	tag: ThornyVine
-	tag: KatherineHome
+	tag: GilchristHome
 page:moonlight
 	date: 2013-10-25
 	desc: Moonlight
@@ -3680,7 +3848,7 @@ page:moonlight
 	tag: Colour
 	tag: Monica
 	tag: Georgette
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:whitewing
 	date: 2013-10-24
 	desc: Whitewing
@@ -4135,7 +4303,7 @@ page:trash-talk-of-the-titans
 	tag: Fight
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: StellasFishCafe
 	tag: Teeth
 	tag: Wings
@@ -4146,7 +4314,7 @@ page:a-little-competition
 	tag: Fight
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: StellasFishCafe
 	tag: Teeth
 	tag: Wings
@@ -4157,7 +4325,7 @@ page:still-at-it
 	tag: Facemarks
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Teeth
 page:castela
 	date: 2013-08-06
@@ -4512,7 +4680,7 @@ page:a-few-favors
 	tag: Bud
 	tag: DemonWorld
 	tag: FaceGlyph
-	tag: Mapimi	
+	tag: Mapimi
 	tag: NuGui
 page:a-nu-gui-deal
 	date: 2013-06-14
@@ -4521,7 +4689,7 @@ page:a-nu-gui-deal
 	tag: Brandi
 	tag: Bud
 	tag: Demon
-	tag: Mapimi	
+	tag: Mapimi
 	tag: NuGui
 page:all-clear
 	date: 2013-06-13
@@ -4531,7 +4699,7 @@ page:all-clear
 	tag: Bud
 	tag: Hatch
 	tag: Katherine
-	tag: Mapimi	
+	tag: Mapimi
 	tag: Poit
 	tag: Sundress
 page:stay-calm
@@ -4540,19 +4708,19 @@ page:stay-calm
 	tag: Bud
 	tag: Fire
 	tag: FireBreath
-	tag: Mapimi	
+	tag: Mapimi
 page:wrath
 	date: 2013-06-11
 	desc: Wrath
 	tag: Bud
-	tag: Mapimi	
+	tag: Mapimi
 page:follow-her-lead
 	date: 2013-06-10
 	desc: Follow Her Lead
 	tag: Brandi
 	tag: GeneralMexico
 	tag: GeneralUS
-	tag: Mapimi	
+	tag: Mapimi
 	tag: UraniumDeposit
 page:no-poit-for-you
 	date: 2013-06-07
@@ -4561,7 +4729,7 @@ page:no-poit-for-you
 	tag: Bud
 	tag: Explosion
 	tag: Katherine
-	tag: Mapimi	
+	tag: Mapimi
 	tag: Poit
 	tag: StorageCrystal
 page:athena-missile-test
@@ -4572,7 +4740,7 @@ page:athena-missile-test
 	tag: Atsali
 	tag: Bud
 	tag: Katherine
-	tag: Mapimi	
+	tag: Mapimi
 	tag: MiB
 	tag: StorageCrystal
 	tag: Yaxchilan
@@ -4583,7 +4751,7 @@ page:yaxchilan-detour
 	tag: Bud
 	tag: Computer
 	tag: Katherine
-	tag: Mapimi	
+	tag: Mapimi
 	tag: StorageCrystal
 	tag: Vorp
 	tag: Yaxchilan
@@ -5086,7 +5254,7 @@ page:dead-sea-dig
 	date: 2013-03-25
 	desc: Dead Sea Dig
 	tag: Amy
-	tag: ArchaeologistA
+	tag: ArchaeologistStudent
 	tag: Blood
 	tag: BronzeCalf
 	tag: Colour
@@ -5484,7 +5652,7 @@ page:another-day
 	date: 2013-01-28
 	desc: Another Day
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Door
 page:wapsi-ebay-11
 	date: 2013-01-26
@@ -6053,7 +6221,7 @@ page:a-warning
 	tag: Bud
 	tag: GreySpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: NicolletMall
 	tag: Poit
 	tag: Shelly
@@ -6062,14 +6230,14 @@ page:at-least
 	desc: At Least
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:bounces-back
 	date: 2012-10-17
 	desc: Bounces Back
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:nice-and-tan
 	date: 2012-10-16
@@ -6077,7 +6245,7 @@ page:nice-and-tan
 	tag: AstralFire
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:my-turn
 	date: 2012-10-15
@@ -6086,7 +6254,7 @@ page:my-turn
 	tag: Bud
 	tag: Heart
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:nice-story
 	date: 2012-10-12
@@ -6095,7 +6263,7 @@ page:nice-story
 	tag: Fight
 	tag: Heart
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:rainbows
 	date: 2012-10-11
@@ -6103,7 +6271,7 @@ page:rainbows
 	tag: Bud
 	tag: Fart
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PhoenixBlood
 	tag: Shelly
 page:phoenix-blood
@@ -6112,7 +6280,7 @@ page:phoenix-blood
 	tag: AstralFire
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PhoenixBlood
 	tag: Shelly
 	tag: Titan
@@ -6121,19 +6289,19 @@ page:how-dangerous
 	desc: How Dangerous
 	tag: Euryale
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:nothing-serious
 	date: 2012-10-08
 	desc: Nothing Serious
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:not-stuck
 	date: 2012-10-05
 	desc: Not Stuck
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: MonicaSpirit
 	tag: Shelly
 page:friggen-dead
@@ -6142,7 +6310,7 @@ page:friggen-dead
 	tag: Bud
 	tag: JaguarGirl
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: MonicaSpirit
 	tag: Shelly
 page:pulling-apart
@@ -6151,7 +6319,7 @@ page:pulling-apart
 	tag: AstralFire
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: MonicaSpirit
 	tag: Shelly
 page:awake-now
@@ -6161,7 +6329,7 @@ page:awake-now
 	tag: Bud
 	tag: EyeBeam
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:just-fine
 	date: 2012-10-01
@@ -6171,7 +6339,7 @@ page:just-fine
 	tag: Bud
 	tag: EyeBeam
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:yeah-that
 	date: 2012-09-28
@@ -6211,7 +6379,7 @@ page:buggy-bumpers
 	desc: Buggy Bumpers
 	tag: 1Frame
 	tag: Bikini
-	tag: Colour 
+	tag: Colour
 	tag: Monica
 	tag: Shelly
 page:antifreeze
@@ -6379,7 +6547,7 @@ page:fallen-angel
 	date: 2012-08-27
 	desc: Fallen Angel
 	tag: 1Frame
-	tag: Colour 
+	tag: Colour
 	tag: Phix
 	tag: Blood
 	tag: Sphinx
@@ -6425,7 +6593,7 @@ page:cafe-u296
 	tag: Bud
 	tag: CafeU296
 	tag: Colour
-	tag: Crab	
+	tag: Crab
 	tag: Jin
 	tag: Monica
 	tag: Nudge
@@ -6469,7 +6637,7 @@ page:so-weak
 	desc: So Weak
 	tag: ApotropaicSphinx
 	tag: Blood
-	tag: Fight 
+	tag: Fight
 	tag: Library
 	tag: Medeia
 	tag: Mosaic
@@ -7039,20 +7207,20 @@ page:not-gym-class
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Sepia
 page:soft-and-spongy
 	date: 2012-05-03
 	desc: Soft And Spongy
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Sepia
 page:taking-care
 	date: 2012-05-02
 	desc: Taking Care
 	tag: Bed
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Kevin
 	tag: Sepia
 page:still-asleep
@@ -7061,7 +7229,7 @@ page:still-asleep
 	tag: AlarmClock
 	tag: Bed
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Sepia
 page:skipping
@@ -7098,7 +7266,7 @@ page:yea-for-us
 	tag: Conscience
 	tag: Nudge
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:not-a-them
 	date: 2012-04-24
 	desc: Not A Them
@@ -7107,7 +7275,7 @@ page:not-a-them
 	tag: Facemarks
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Soul
 	tag: Teeth
 	tag: Tina
@@ -7121,7 +7289,7 @@ page:sink-in
 	tag: Facemarks
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Soul
 	tag: Tina
 page:coven-not-covey
@@ -7133,7 +7301,7 @@ page:coven-not-covey
 	tag: Covey
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Soul
 	tag: Tears
 	tag: Teeth
@@ -7147,7 +7315,7 @@ page:missing-element
 	tag: Nudge
 	tag: PushupBra
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Tina
 	tag: Versions
 	tag: Vomit
@@ -7163,18 +7331,18 @@ page:demon-memories
 	tag: Conscience
 	tag: Demon
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Soul
 	tag: Tina
 page:kept-me-safe
 	date: 2012-04-16
 	desc: Kept Me Safe
 	tag: ApotropaicSphinx
-	tag: Companion
+	tag: Conscience
 	tag: CupAndBall
 	tag: Flashback
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: TimeForest
 page:wapsi-ebay-9
 	date: 2012-04-14
@@ -7260,7 +7428,7 @@ page:time-in-the-timeforest
 	date: 2012-03-30
 	desc: Time In The Time Forest
 	tag: 1Frame
-	tag: Companion
+	tag: Conscience
 	tag: Facemarks
 	tag: Filler
 	tag: Sepia
@@ -7305,20 +7473,20 @@ page:introspective
 	desc: Introspective
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:do-anything
 	date: 2012-03-22
 	desc: Do Anything
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:early-bird
 	date: 2012-03-21
 	desc: Early Bird
 	tag: Justin
 	tag: LakeCalhoun
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Sphinx
 page:echoes
 	date: 2012-03-20
@@ -7327,7 +7495,7 @@ page:echoes
 	tag: Owen
 	tag: Sepia
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Tears
 page:warm-morning
 	date: 2012-03-19
@@ -7335,7 +7503,7 @@ page:warm-morning
 	tag: Kettle
 	tag: Sepia
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:wapsi-ebay-8
 	date: 2012-03-17
 	desc: Wapsi Ebay
@@ -7381,14 +7549,14 @@ page:saved-us
 	tag: Dietzel
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:rounding-third
 	date: 2012-03-12
 	desc: Rounding Third
 	tag: Explosion
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: VolcanoIsland
 page:wapsi-ebay-7
@@ -7456,7 +7624,7 @@ page:sage-of-the-forest
 	desc: Sage Of The Forest
 	tag: Autograph
 	tag: Blush
-	tag: Companion
+	tag: Conscience
 	tag: Justin
 	tag: Library
 	tag: LibraryAnnex
@@ -7580,7 +7748,7 @@ page:you-guys-rock
 	tag: Island
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Squee
 	tag: Triangle
 page:about-the-weather
@@ -7588,7 +7756,7 @@ page:about-the-weather
 	desc: About The Weather
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 	tag: Poit
 	tag: Tears
@@ -7649,7 +7817,7 @@ page:fringe-paranormals
 	tag: PunkYoga
 	tag: Shelly
 	tag: SlashedShirt
-	rag: Werewolf
+	tag: Werewolf
 page:neither-are-you
 	date: 2012-02-02
 	desc: Neither Are You
@@ -8011,7 +8179,7 @@ page:waiting-for-you
 	date: 2011-12-05
 	desc: Waiting For You
 	tag: Conscience
-	tag: Dream	
+	tag: Dream
 	tag: Justin
 	tag: PunkYoga
 	tag: Shelly
@@ -8025,14 +8193,14 @@ page:duck-and-cover
 	date: 2011-12-02
 	desc: Duck And Cover
 	tag: Claws
-	tag: Dream	
+	tag: Dream
 	tag: PunkYoga
 	tag: Shelly
 	tag: Shower
 page:human-form
 	date: 2011-12-01
 	desc: Human Form
-	tag: Dream	
+	tag: Dream
 	tag: PunkYoga
 	tag: Shelly
 	tag: Shower
@@ -8068,7 +8236,7 @@ page:feeling-better
 	desc: Feeling Better
 	tag: Bud
 	tag: Desert
-	tag: Explosion	
+	tag: Explosion
 	tag: Gun
 	tag: Monica
 	tag: Poit
@@ -8121,7 +8289,7 @@ page:still-sound
 page:nothing-2
 	date: 2011-11-17
 	desc: Nothing
-	tag: BermudaTriangle 
+	tag: BermudaTriangle
 	tag: Bud
 	tag: LakeCalhoun
 	tag: DevilsTriangle
@@ -8327,7 +8495,7 @@ page:empty-space
 	tag: Brandi
 	tag: Demon
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 	tag: Tears
 page:best-plan
@@ -8335,7 +8503,7 @@ page:best-plan
 	desc: Best Plan
 	tag: Brandi
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Sphinx
 	tag: Tina
@@ -8345,7 +8513,7 @@ page:under-pressure
 	tag: 80KYear
 	tag: Brandi
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: TimeForest
 page:no-idea
@@ -8353,7 +8521,7 @@ page:no-idea
 	desc: No Idea
 	tag: Brandi
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Baby
 page:wapsi-square-book-store-3
 	date: 2011-10-08
@@ -8365,7 +8533,7 @@ page:lashing-out
 	tag: Brandi
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: VimanaCell
 	tag: Lanthis
 	tag: Priests
@@ -8376,7 +8544,7 @@ page:afraid-to-be
 	tag: Brandi
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: VimanaCell
 page:your-choice
 	date: 2011-10-05
@@ -8387,23 +8555,23 @@ page:your-choice
 	tag: Jin
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:did-you-know
 	date: 2011-10-04
 	desc: Did You Know
 	tag: Brandi
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:just-stop
 	date: 2011-10-03
 	desc: Just Stop
-	note: Season: Fall 
+	note: Season: Fall
 	tag: Bra
 	tag: Dates
 	tag: Fall
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:wapsi-square-book-store-2
 	date: 2011-10-01
 	desc: Wapsi Square Book Store -- advert
@@ -8503,7 +8671,7 @@ page:no-chew-food
 	tag: Liquidizer
 	tag: DrinkingStraw
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:the-former
 	date: 2011-09-15
 	desc: The Former
@@ -8511,32 +8679,32 @@ page:the-former
 	tag: Bruises
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:better-be
 	date: 2011-09-14
 	desc: Better Be
 	tag: Bruises
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:no-answers
 	date: 2011-09-13
 	desc: No Answers
 	tag: Bruises
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:made-human
 	date: 2011-09-12
 	desc: Made Human
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:wapsi-square-boo
 	date: 2011-09-10
 	desc: Wapsi Square Book Store -- advert
@@ -8579,7 +8747,7 @@ page:better-quality
 	desc: Better Quality
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 	tag: Tears
 page:what-that-would-do
@@ -8590,34 +8758,34 @@ page:what-that-would-do
 	tag: Gun
 	tag: Flintlock
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:a-hangnail
 	date: 2011-09-01
 	desc: A Hangnail
 	tag: Bud
 	tag: Golem
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:my-shin
 	date: 2011-08-31
 	desc: My Shin
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:feel-space
 	date: 2011-08-30
 	desc: Feel Space
 	tag: Bud
 	tag: Glyph
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:feels-cold
 	date: 2011-08-29
 	desc: Feels Cold
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:wrong-answer
 	date: 2011-08-26
@@ -8627,7 +8795,7 @@ page:wrong-answer
 	tag: Fight
 	tag: Golem
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:that-was-sudden
 	date: 2011-08-25
@@ -8635,7 +8803,7 @@ page:that-was-sudden
 	tag: Bud
 	tag: Clay
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 	tag: Relic
 page:hang-on
@@ -8644,7 +8812,7 @@ page:hang-on
 	tag: Bud
 	tag: Delusion
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 	tag: Relic
 page:eyes-in-a-fishbowl
@@ -8652,7 +8820,7 @@ page:eyes-in-a-fishbowl
 	desc: Eyes In A Fishbowl
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 	tag: Relic
 	tag: Vanillekipferl
@@ -8662,7 +8830,7 @@ page:gone
 	tag: Bud
 	tag: Delusion
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 	tag: Relic
 page:skindiver-monica
@@ -8733,7 +8901,7 @@ page:scaring-amanda
 	tag: Selenium
 	tag: Poit
 	tag: Monica
-	tag: AmandaHome
+	tag: AmandasPlace
 page:ragweed-attack
 	date: 2011-08-09
 	desc: Ragweed Attack
@@ -8754,7 +8922,7 @@ page:freaked-out
 page:have-a-nice-day
 	date: 2011-08-05
 	desc: Have A Nice Day
-	tag MuchoMocha
+	tag: MuchoMocha
 	tag: Becky
 	tag: GreySpeak
 	tag: Pastries
@@ -8762,14 +8930,14 @@ page:have-a-nice-day
 page:sainthood
 	date: 2011-08-04
 	desc: Sainthood
-	tag MuchoMocha
+	tag: MuchoMocha
 	tag: Becky
 	tag: Pastries
 	tag: Tina
 page:gots-the-yummies
 	date: 2011-08-03
 	desc: Gots The Yummies
-	tag MuchoMocha
+	tag: MuchoMocha
 	tag: Becky
 	tag: Pastries
 	tag: Tina
@@ -8806,14 +8974,14 @@ page:back-to-cool
 page:brain-bleaching
 	date: 2011-07-27
 	desc: Brain Bleaching
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: MuchoMocha
 	tag: Shelly
 page:a-sphinx-toy
 	date: 2011-07-26
 	desc: A Sphinx Toy
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: MuchoMocha
 	tag: Phix
@@ -8822,7 +8990,7 @@ page:recover-well
 	date: 2011-07-25
 	desc: Recover Well
 	tag: CalendarMachine
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: MuchoMocha
 	tag: Phix
@@ -8876,25 +9044,25 @@ page:sign-of-weakness
 	date: 2011-07-14
 	desc: Sign Of Weakness
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:a-complication
 	date: 2011-07-13
 	desc: A Complication
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:tons-of-question
 	date: 2011-07-12
 	desc: Tons Of Question
 	tag: Feather
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:spider-dreams
 	date: 2011-07-11
 	desc: Spider Dreams
 	tag: Dream
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Sphinx
 	tag: Spider
 page:monica-dietzel-at-the-sandbar
@@ -8957,7 +9125,7 @@ page:dharma-luci
 	date: 2011-06-28
 	desc: Dharma Luci
 	tag: 1Frame
-	tag: Lucy
+	tag: Luci
 page:beach-nudge
 	date: 2011-06-27
 	desc: Beach Nudge
@@ -9045,26 +9213,26 @@ page:meet-you-somewhe
 	desc: Meet You Somewhe
 	tag: Phone
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:home-again
 	date: 2011-06-07
 	desc: Home Again
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:hate-that-word
 	date: 2011-06-06
 	desc: Hate That Word
 	tag: Bud
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:ten-minutes-ago
 	date: 2011-06-03
 	desc: Ten Minutes Ago
 	tag: LittleShelly
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:wormholes
 	date: 2011-06-02
@@ -9074,7 +9242,7 @@ page:wormholes
 	tag: LittleShelly
 	tag: Monica
 	tag: Wormhole
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Nudge
 	tag: Relic
 	tag: Tina
@@ -9083,7 +9251,7 @@ page:kept-her-safe
 	desc: Kept Her Safe
 	tag: LittleShelly
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Nudge
 	tag: Relic
 	tag: Shelly
@@ -9091,7 +9259,7 @@ page:soccor-mom
 	date: 2011-05-31
 	desc: Soccer Mom
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Nudge
 	tag: Shelly
 	tag: Tepoz
@@ -9099,18 +9267,18 @@ page:we-did-it
 	date: 2011-05-30
 	desc: We Did It
 	tag: Lick
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Nudge
 	tag: Shelly
 page:is-she-back
 	date: 2011-05-27
 	desc: Is She Back
 	tag: Bud
-	tag: Companion
+	tag: Conscience
 	tag: Elemental
 	tag: LittleShelly
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Nudge
 	tag: Poit
 	tag: Shelly
@@ -9119,20 +9287,20 @@ page:little-elemental
 	date: 2011-05-26
 	desc: Little Elemental
 	tag: Bud
-	tag: Companion
+	tag: Conscience
 	tag: Elemental
 	tag: LittleShelly
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:my-companion
 	date: 2011-05-25
 	desc: My Companion
 	tag: Bud
-	tag: Companion
+	tag: Conscience
 	tag: LittleShelly
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 	tag: Shelly
 	tag: Sphinx
@@ -9141,13 +9309,13 @@ page:yes-and-no
 	desc: Yes And No
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Sphinx
 page:always-have-been
 	date: 2011-05-23
 	desc: Always Have Been
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Tina
 	tag: Sphinx
@@ -9157,7 +9325,7 @@ page:to-remember
 	desc: To Remember
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 	tag: Shelly
 	tag: Tina
@@ -9166,7 +9334,7 @@ page:are-you-there-2
 	desc: Are You There
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 	tag: Shelly
 page:blew-her-clothes
@@ -9174,7 +9342,7 @@ page:blew-her-clothes
 	desc: Blew Her Clothes
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 	tag: Shelly
 	tag: Sphinx
@@ -9298,7 +9466,7 @@ page:easier-said
 	desc: Easier Said
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 	tag: Shelly
 	tag: Tina
@@ -9308,7 +9476,7 @@ page:scares-me-more
 	desc: Scares Me More
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 	tag: Shelly
 	tag: Tina
@@ -9319,7 +9487,7 @@ page:you-mean-this
 	tag: UboatCaptain
 	tag: Ireland
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 	tag: Shelly
 	tag: Tina
@@ -9331,7 +9499,7 @@ page:very-important
 	tag: Ireland
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:not-going
 	date: 2011-04-22
@@ -9339,7 +9507,7 @@ page:not-going
 	tag: Bud
 	tag: Lanthis
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:owes-me-a-dollar
 	date: 2011-04-21
@@ -9349,7 +9517,7 @@ page:owes-me-a-dollar
 	tag: BanShee
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 page:let-me-see
 	date: 2011-04-20
@@ -9357,7 +9525,7 @@ page:let-me-see
 	tag: Bud
 	tag: BanShee
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 page:something-happen
 	date: 2011-04-19
@@ -9365,14 +9533,14 @@ page:something-happen
 	tag: Bud
 	tag: UboatCaptain
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Relic
 page:my-what
 	date: 2011-04-18
 	desc: My What
 	tag: 1Frame
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:serendipitous
 	date: 2011-04-15
 	desc: Serendipitous
@@ -9545,7 +9713,7 @@ page:spoiled-now
 	tag: CDplayer
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 page:shamrock-shake
 	date: 2011-03-17
@@ -9564,7 +9732,7 @@ page:from-the-source
 	tag: Canio
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pagliacci
 	tag: RecordDeck
 	tag: Vinyl
@@ -9573,14 +9741,14 @@ page:geeking-out
 	desc: Geeking Out
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: VacuumTube
 page:ending-reign
 	date: 2011-03-14
 	desc: Ending Reign
 	tag: MailBox
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Snow
 	tag: Raspberry
 page:run-villarreal
@@ -9590,7 +9758,7 @@ page:run-villarreal
 	tag: Date
 	tag: MailBox
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Snow
 page:helping-me
 	date: 2011-03-10
@@ -9639,7 +9807,7 @@ page:not-going-anywhere
 	tag: Alan
 	tag: Helmet
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Snow
 	tag: SnowMobile
 	tag: SnowSuit
@@ -9648,20 +9816,20 @@ page:try-it-on
 	desc: Try It On
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Present
 	tag: SnowSuit
 page:stay-positive
 	date: 2011-03-01
 	desc: Stay Positive
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Fire
 page:still-there
 	date: 2011-02-28
 	desc: Still There
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Snow
 	tag: Phantasm
 page:a-dream
@@ -9713,14 +9881,14 @@ page:all-was-peachy
 	tag: Monica
 	tag: Nudge
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Tina
 page:what-happened-2
 	date: 2011-02-16
 	desc: What Happened
 	tag: Bud
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Tina
 page:in-a-few
 	date: 2011-02-15
@@ -9729,7 +9897,7 @@ page:in-a-few
 	tag: Ireland
 	tag: Phone
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:no-anchovies
 	date: 2011-02-14
 	desc: No Anchovies
@@ -9987,7 +10155,7 @@ page:and-that-too
 	tag: Dietzel
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 	tag: VacuumTube
 page:never-guess
@@ -9997,7 +10165,7 @@ page:never-guess
 	tag: BankCard
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: VacuumTube
 page:gentle-crinkle
 	date: 2010-12-29
@@ -10005,14 +10173,14 @@ page:gentle-crinkle
 	tag: Dietzel
 	tag: AudioMagazine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:you-got-mail
 	date: 2010-12-28
 	desc: You Got Mail
 	tag: Dietzel
 	tag: Mail
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Snow
 page:oh-hey
 	date: 2010-12-27
@@ -10020,7 +10188,7 @@ page:oh-hey
 	tag: Dietzel
 	tag: MailMan
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Snow
 page:seamus-patrick-burke
 	date: 2010-12-24
@@ -10140,14 +10308,14 @@ page:need-my-sunshine
 	tag: Alan
 	tag: Bed
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:ice-monster
 	date: 2010-11-24
 	desc: Ice Monster
 	tag: Alan
 	tag: FireBreath
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:an-escape
 	date: 2010-11-23
 	desc: An Escape
@@ -10228,14 +10396,14 @@ page:pretty-amazing
 	date: 2010-11-09
 	desc: Pretty Amazing
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Selenium
 	tag: Hairball
 page:bigger-idiots
 	date: 2010-11-08
 	desc: Bigger Idiots
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Selenium
 page:feel-lighter
 	date: 2010-11-05
@@ -10379,7 +10547,7 @@ page:so-you-see
 	desc: So You See
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:caught-up
 	date: 2010-10-12
 	desc: Caught Up
@@ -10388,12 +10556,12 @@ page:caught-up
 	tag: Kevin
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:shut-up
 	date: 2010-10-11
 	desc: Shut Up
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Kevin
 	tag: StellasFishCafe
 	tag: Otters
@@ -10404,7 +10572,7 @@ page:the-amendment
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: NoseFlick
 page:an-amendment
 	date: 2010-10-07
@@ -10412,14 +10580,14 @@ page:an-amendment
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:research-work
 	date: 2010-10-06
 	desc: Research Work
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:relish-your-ignorance
 	date: 2010-10-05
 	desc: Relish Your Ignorance
@@ -10437,33 +10605,33 @@ page:zombie-apocalypse
 	date: 2010-10-01
 	desc: Zombie Apocalypse
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Justin
 page:gave-it-to-me
 	date: 2010-09-30
 	desc: Gave It To Me
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Justin
 page:catch-bad-guys
 	date: 2010-09-29
 	desc: Catch Bad Guys
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Justin
 	tag: Kiss
 page:ahh-chooo
 	date: 2010-09-28
 	desc: Ahh Chooo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Sneeze
 	tag: Snot
 page:sick
 	date: 2010-09-27
 	desc: Sick
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Sneeze
 	tag: Snot
 page:health-care
@@ -10491,7 +10659,7 @@ page:cynical-shell
 page:scientific-metho
 	date: 2010-09-21
 	desc: Scientific Method
-	note Bud's dance school named here
+	note: Bud's dance school named here
 	tag: Amanda
 	tag: Bud
 	tag: Golem
@@ -10682,7 +10850,7 @@ page:custard-of-that-magnitude
 	date: 2010-08-13
 	desc: Custard Of That Magnitude
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: CrimsonMantis
 	tag: DrCustard
 page:crimson-mantis
@@ -10690,7 +10858,7 @@ page:crimson-mantis
 	desc: Crimson Mantis
 	tag: Bra
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: CrimsonMantis
 	tag: Dietzel
 	tag: BumblingBumbleBee
@@ -10700,7 +10868,7 @@ page:poiting-it-on
 	desc: Poiting It On
 	tag: Bra
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 page:be-expired
 	date: 2010-08-10
@@ -10722,31 +10890,31 @@ page:anaerobic-sex
 	date: 2010-08-06
 	desc: Anaerobic Sex
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:messed-up
 	date: 2010-08-05
 	desc: Messed Up
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:your-outlet
 	date: 2010-08-04
 	desc: Your Outlet
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:still-around
 	date: 2010-08-03
 	desc: Still Around
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:stop-talking
 	date: 2010-08-02
 	desc: Stop Talking
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:i-had-you
 	date: 2010-07-30
@@ -10956,7 +11124,7 @@ page:need-to-see-me
 	date: 2010-06-18
 	desc: Need To See Me
 	tag: Barbara
-	tag: Greg
+	tag: GregoryFields
 	tag: GregsOffice
 	tag: Monica
 	tag: Museum
@@ -10982,7 +11150,7 @@ page:collect-your-coffee
 	date: 2010-06-14
 	desc: Collect Your Coffee
 	tag: Amanda
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: MuchoMocha
 	tag: Phix
@@ -11029,11 +11197,11 @@ page:no-froo-froo
 page:come-to-the-light-side
 	date: 2010-06-04
 	desc: Come To The Light Side
-	note: this is about two years after Monica met the Golem Girls 
+	note: this is about two years after Monica met the Golem Girls
 	tag: Amanda
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:happy-with-me
 	date: 2010-06-03
 	desc: Happy With Me
@@ -11041,64 +11209,64 @@ page:happy-with-me
 	tag: Bud
 	tag: Hosepipe
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:nothing-to-prove
 	date: 2010-06-02
 	desc: Nothing To Prove
 	tag: Amanda
 	tag: Hosepipe
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:water-jugs
 	date: 2010-06-01
 	desc: Water Jugs
 	tag: Amanda
 	tag: Hosepipe
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:sizzle-pop
 	date: 2010-05-31
 	desc: Sizzle Pop
 	tag: Hosepipe
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PlantPot
 page:ton-of-baggage
 	date: 2010-05-28
 	desc: Ton Of Baggage
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:warning-flags
 	date: 2010-05-27
 	desc: Warning Flags
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:every-day-is-a-school-day
 	date: 2010-05-26
 	desc: Every Day Is A School Day
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:talked-to-me
 	date: 2010-05-25
 	desc: Talked To Me
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:wake-up
 	date: 2010-05-24
 	desc: Wake Up
 	tag: Bed
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:smooth-move
 	date: 2010-05-21
 	desc: Smooth Move
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:madness
 	date: 2010-05-20
 	desc: Madness
@@ -11111,7 +11279,7 @@ page:back-in-college
 	tag: Beer
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Popcorn
 	tag: GerardButler
 	tag: TVRemote
@@ -11122,7 +11290,7 @@ page:long-hot-shower
 	tag: Beer
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Popcorn
 page:me-time
 	date: 2010-05-17
@@ -11130,7 +11298,7 @@ page:me-time
 	tag: Dietzel
 	tag: GerardButler
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Popcorn
 	tag: Shower
 	tag: TVRemote
@@ -11269,7 +11437,7 @@ page:when-you-were-a-puppy
 	tag: Dietzel
 	tag: FoodBowl
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dietzel-speak
 	date: 2010-04-15
 	desc: Dietzel Speak
@@ -11277,7 +11445,7 @@ page:dietzel-speak
 	tag: Dietzel
 	tag: FoodBowl
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:bright-idea
 	date: 2010-04-14
 	desc: Bright Idea
@@ -11286,7 +11454,7 @@ page:bright-idea
 	tag: Dietzel
 	tag: FoodBowl
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:the-smell-of-burning-spider
 	date: 2010-04-13
 	desc: The Smell Of Burning Spider
@@ -11332,27 +11500,27 @@ page:only-fair
 	tag: Justin
 	tag: Handcuffs
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:gripping-story
 	date: 2010-04-05
 	desc: Gripping Story
 	tag: Justin
 	tag: KickBoxing
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:you-can-count
 	date: 2010-04-02
 	desc: You Can Count
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:you-again
 	date: 2010-04-01
 	desc: You Again
 	tag: BBQ
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:getting-his-attention
 	date: 2010-03-31
 	desc: Getting His Attention
@@ -11360,7 +11528,7 @@ page:getting-his-attention
 	tag: Explosion
 	tag: Justin
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:deal-me-in
 	date: 2010-03-30
 	desc: Deal Me In
@@ -11398,7 +11566,7 @@ page:fresh-as-a-daisy
 	date: 2010-03-24
 	desc: Fresh As A Daisy
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Monica
 	tag: Tina
 	tag: MuchoMocha
@@ -11409,15 +11577,15 @@ page:i-need-you-help
 	tag: Bed
 	tag: CheddarCroissant
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:gone-to-explore
 	date: 2010-03-22
 	desc: Gone To Explore
 	tag: Jin
 	tag: Mayahuel
-	tag: JinHome
+	tag: JinLoft
 	tag: Tochtli
 page:that-problem-again
 	date: 2010-03-19
@@ -11426,7 +11594,7 @@ page:that-problem-again
 	tag: Jin
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Turkey
 page:meet-kris-williams
 	date: 2010-03-18
@@ -11434,7 +11602,7 @@ page:meet-kris-williams
 	tag: Dietzel
 	tag: KrisWilliams
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Sandwich
 page:next-big-thing
 	date: 2010-03-17
@@ -11442,52 +11610,52 @@ page:next-big-thing
 	tag: Dietzel
 	tag: IceCream
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:braless-pirouettes
 	date: 2010-03-16
 	desc: Braless Pirouettes
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dump-the-tiara
 	date: 2010-03-15
 	desc: Dump The Tiara
 	tag: Bra
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 page:another-adventur
 	date: 2010-03-12
 	desc: Another Adventure
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 	tag: Wine
 page:arguing-with-a-betta
 	date: 2010-03-11
 	desc: Arguing With A Betta
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 	tag: Wine
 page:take-that-back
 	date: 2010-03-10
 	desc: Take That Back
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 page:wine-and-good-conversation
 	date: 2010-03-09
 	desc: Wine And Good Conversation
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 	tag: Wine
 page:hey-oscar
 	date: 2010-03-08
 	desc: Hey Oscar
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 page:there-to-catch-u
 	date: 2010-03-05
@@ -11586,21 +11754,21 @@ page:the-honor-is-min
 	date: 2010-02-16
 	desc: The Honor Is Mine
 	tag: Museum
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: Phix
 page:nice-to-meet-you
 	date: 2010-02-15
 	desc: Nice To Meet You
 	tag: Museum
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: Phix
 page:emotionally-char
 	date: 2010-02-12
 	desc: Emotionally Charged
 	tag: Museum
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: Phix
 page:office-phix
@@ -11685,7 +11853,7 @@ page:quite-easy
 	date: 2010-01-27
 	desc: Quite Easy
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Kukulcan
 	tag: Mayahuel
 	tag: Tears
@@ -11693,14 +11861,14 @@ page:where-do-i-start
 	date: 2010-01-26
 	desc: Where Do I Start
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 	tag: Teeth
 page:clouds-are-just-a-veil
 	date: 2010-01-25
 	desc: Clouds Are Just A Veil
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Mayahuel
 page:what-happened
 	date: 2010-01-22
@@ -11829,7 +11997,6 @@ page:we-have-rules
 	tag: DoorwayVacuum
 	tag: FaceGlyph
 	tag: Mica
-	tag: Monica
 	tag: Monica
 	tag: Pyramid
 	tag: Shelly
@@ -12010,7 +12177,7 @@ page:pretty-darn-clos
 	tag: Gun
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: EyeGlow
 	tag: Shelly
 	tag: Mayan
@@ -12025,7 +12192,7 @@ page:before-you-can
 	tag: Gun
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Shelly
 page:pack-the-bug-spray
@@ -12036,7 +12203,7 @@ page:pack-the-bug-spray
 	tag: Gun
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Shelly
 page:you-got-that
@@ -12045,7 +12212,7 @@ page:you-got-that
 	tag: Gun
 	tag: Mirror
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:the-night-before
 	date: 2009-12-07
 	desc: The Night Before
@@ -12054,9 +12221,9 @@ page:the-night-before
 	tag: BrandiBudAppt
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:wipe-your-shoes
 	date: 2009-12-04
 	desc: Wipe Your Shoes
@@ -12090,7 +12257,7 @@ page:im-listening
 	date: 2009-11-30
 	desc: I'm Listening
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: LittleShelly
 	tag: BoilerRoom
 	tag: Scissors
@@ -12225,7 +12392,7 @@ page:your-own-misgivi
 	tag: Monica
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:take-this-and-do-this
 	date: 2009-11-05
 	desc: Take This And Do This
@@ -12236,7 +12403,7 @@ page:take-this-and-do-this
 	tag: Monica
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:what-are-you
 	date: 2009-11-04
 	desc: What Are You
@@ -12245,7 +12412,7 @@ page:what-are-you
 	tag: LittleShelly
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:puts-up-with-you
 	date: 2009-11-03
 	desc: Puts Up With You
@@ -12253,7 +12420,7 @@ page:puts-up-with-you
 	tag: LittleShelly
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:the-one-time
 	date: 2009-11-02
 	desc: The One Time
@@ -12261,7 +12428,7 @@ page:the-one-time
 	tag: LittleShelly
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:just-a-dream
 	date: 2009-10-30
 	desc: Just A Dream
@@ -12269,7 +12436,7 @@ page:just-a-dream
 	tag: LittleShelly
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:she-followed-you
 	date: 2009-10-29
 	desc: She Followed You
@@ -12291,14 +12458,14 @@ page:hear-her-already
 	desc: Hear Her Already
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:follow-some-scri
 	date: 2009-10-26
 	desc: Follow Some Script
 	tag: Bud
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:hit-your-mark
 	date: 2009-10-23
 	desc: Hit Your Mark
@@ -12307,7 +12474,7 @@ page:hit-your-mark
 	tag: PortalCloth2
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:how-would-you-feel
 	date: 2009-10-22
 	desc: How Would You Feel
@@ -12316,7 +12483,7 @@ page:how-would-you-feel
 	tag: Pages
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:viscerally-scares-me
 	date: 2009-10-21
 	desc: Viscerally Scares Me
@@ -12325,7 +12492,7 @@ page:viscerally-scares-me
 	tag: Pages
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:all-hell-broke-loose
 	date: 2009-10-20
 	desc: All Hell Broke Loose
@@ -12335,7 +12502,7 @@ page:all-hell-broke-loose
 	tag: PortalTattoo
 	tag: PrematureEvacuation
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:i-brought-coffee
 	date: 2009-10-19
 	desc: I Brought Coffee
@@ -12343,7 +12510,7 @@ page:i-brought-coffee
 	tag: Bud
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:what-possible-reason
 	date: 2009-10-16
 	desc: What Possible Reason
@@ -12388,19 +12555,19 @@ page:aw-cmon
 	tag: Dietzel
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:time-for-bed
 	date: 2009-10-08
 	desc: Time For Bed
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: ShrodingersCat
 page:tiramisu-worth-living-for
 	date: 2009-10-07
 	desc: Tiramisu Worth Living For
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 	tag: Tiramisu
 page:laughing-her-ass-off
@@ -12408,41 +12575,41 @@ page:laughing-her-ass-off
 	desc: Laughing Her Ass Off
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 page:are-you-there
 	date: 2009-10-05
 	desc: Are You There
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:inside-a-clay-do
 	date: 2009-10-02
 	desc: Inside A Clay Doll
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Golem
 page:wow
 	date: 2009-10-01
 	desc: Wow
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Golem
 page:lewd-comment
 	date: 2009-09-30
 	desc: Lewd Comment
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:grow-old-togethe
 	date: 2009-09-29
 	desc: Grow Old Together
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:never-be-fixed
 	date: 2009-09-28
 	desc: Never Be Fixed
@@ -12450,7 +12617,7 @@ page:never-be-fixed
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pencil
 	tag: Pop
 	tag: Tina
@@ -12460,7 +12627,7 @@ page:became-human
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:argumentum-ad-personam
 	date: 2009-09-24
@@ -12468,7 +12635,7 @@ page:argumentum-ad-personam
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:didforherself
 	date: 2009-09-23
@@ -12476,7 +12643,7 @@ page:didforherself
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:ourdoorway
 	date: 2009-09-22
@@ -12486,7 +12653,7 @@ page:ourdoorway
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:reallygrasps
 	date: 2009-09-21
 	desc: Reallygrasps
@@ -12494,7 +12661,7 @@ page:reallygrasps
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:portholesanddoorwa
 	date: 2009-09-18
@@ -12505,7 +12672,7 @@ page:portholesanddoorwa
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Tina
 page:notmortality
@@ -12516,14 +12683,14 @@ page:notmortality
 	tag: Mayahuel
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:theyloveyou
 	date: 2009-09-16
 	desc: They love you
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:blissful
 	date: 2009-09-15
 	desc: Blissful
@@ -12531,28 +12698,28 @@ page:blissful
 	tag: Jin
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:afreshstart
 	date: 2009-09-14
 	desc: A fresh start
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:ihavemyown
 	date: 2009-09-11
 	desc: I have my own
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:weallbelongtoyou
 	date: 2009-09-10
 	desc: We all belong to you
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:funnyhuh
 	date: 2009-09-09
 	desc: Funny huh
@@ -12560,7 +12727,7 @@ page:funnyhuh
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:littlevisit
 	date: 2009-09-08
@@ -12568,7 +12735,7 @@ page:littlevisit
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tina
 page:yourenotmine
 	date: 2009-09-07
@@ -12576,7 +12743,7 @@ page:yourenotmine
 	tag: Demon
 	tag: JinDoubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:rescueeveryone
 	date: 2009-09-04
 	desc: Rescue everyone
@@ -12617,14 +12784,14 @@ page:inthefaceofdoubt
 	desc: In the face of doubt
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:techtalk
 	date: 2009-08-26
 	desc: Techtalk
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:somethingmissing
@@ -12634,7 +12801,7 @@ page:somethingmissing
 	tag: Bud
 	tag: Schizophasia
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:whatabout
@@ -12642,7 +12809,7 @@ page:whatabout
 	desc: Whatabout
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:askwayemayaterlay
@@ -12652,7 +12819,7 @@ page:askwayemayaterlay
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:sillyus
@@ -12661,7 +12828,7 @@ page:sillyus
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:mentallymopthefloo
@@ -12669,7 +12836,7 @@ page:mentallymopthefloo
 	desc: Mentally mop the floor
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:letsgo
 	date: 2009-08-18
 	desc: Let's go
@@ -12778,13 +12945,13 @@ page:onecouldtell
 	tag: Brandi
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:talkingtomyself
 	date: 2009-07-30
 	desc: Talking to myself
 	tag: Mirror
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:whatthehell
 	date: 2009-07-29
 	desc: What the hell
@@ -12802,7 +12969,7 @@ page:imsunshine
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Shelly
 page:howdoyouremember
@@ -12814,7 +12981,7 @@ page:howdoyouremember
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:thefourthlight
 	date: 2009-07-17
 	desc: The fourth light
@@ -12824,14 +12991,14 @@ page:thefourthlight
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:madetheconnection
 	date: 2009-07-16
 	desc: Madetheconnection
 	tag: FaceGlyph
 	tag: Mirror
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Jin
 	tag: JinMom
@@ -12843,21 +13010,21 @@ page:doubtstrick
 	tag: FaceGlyph
 	tag: Mirror
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:ouractions
 	date: 2009-07-14
 	desc: Our actions
 	tag: FaceGlyph
 	tag: Mirror
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:talkingaboutyourse
 	date: 2009-07-13
 	desc: Talking about your self
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:haveusback
 	date: 2009-07-10
 	desc: Have us back
@@ -12873,7 +13040,7 @@ page:allgone
 	tag: Doubt
 	tag: EmptyEyes
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Skull
 page:notmetalking
 	date: 2009-07-08
@@ -12883,14 +13050,14 @@ page:notmetalking
 	tag: Doubt
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:takingherplace
 	date: 2009-07-07
 	desc: Taking her place
 	tag: CalendarMachine
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 page:nightssleep
 	date: 2009-07-06
@@ -12898,7 +13065,7 @@ page:nightssleep
 	tag: CalendarMachine
 	tag: GerardButler
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:ilikethat
 	date: 2009-07-03
 	desc: I like that
@@ -12983,7 +13150,7 @@ page:twophilosophers
 	desc: Two philosophers
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:howsitimportant
@@ -12994,7 +13161,7 @@ page:howsitimportant
 	tag: CalendarMachine
 	tag: ClayDolls
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:dothehonors
@@ -13006,7 +13173,7 @@ page:dothehonors
 	tag: Hammer
 	tag: MiddleC
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:showyousomething
@@ -13017,7 +13184,7 @@ page:showyousomething
 	tag: ClayDolls
 	tag: FlashLight
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:getthatplease
@@ -13026,7 +13193,7 @@ page:getthatplease
 	tag: Bud
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Popcorn
 	tag: PortalTattoo
 	tag: Shelly
@@ -13156,7 +13323,7 @@ page:seleniumsaveus
 	date: 2009-05-22
 	desc: Selenium save us
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Monica
 	tag: Selenium
 page:stuntedlikeme
@@ -13164,14 +13331,14 @@ page:stuntedlikeme
 	desc: Stunted like me
 	note: Selenium is ~4 years
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Monica
 	tag: Selenium
 page:glomp
 	date: 2009-05-20
 	desc: Glomp
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Glomp
 	tag: Monica
 	tag: Purr
@@ -13180,16 +13347,16 @@ page:backtoback
 	date: 2009-05-19
 	desc: Back to back
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Monica
 	tag: Selenium
 page:marathontonight
 	date: 2009-05-18
 	desc: Marathon to night
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 	tag: Selenium
 page:nopouting
@@ -13207,7 +13374,7 @@ page:freshsqueezed
 	tag: Brandi
 	tag: BrandiBudAppt
 	tag: Bud
-	tag: Ginger	
+	tag: Ginger
 	tag: Ginseng
 	tag: Jin
 page:ignoreoutbursts
@@ -13501,7 +13668,7 @@ page:justtweaking
 	tag: Bud
 	tag: CalendarMachine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: GreySpeak
 	tag: Doubt
 	tag: Demon
@@ -13511,14 +13678,14 @@ page:itsawus
 	tag: Bud
 	tag: CalendarMachine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:hadaheartbeat
 	date: 2009-03-23
 	desc: Had a heartbeat
 	tag: Bud
 	tag: CalendarMachine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:itsbreathing
 	date: 2009-03-20
 	desc: Itsbreathing
@@ -13526,7 +13693,7 @@ page:itsbreathing
 	tag: Dietzel
 	tag: Clock
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 page:cutebroom
 	date: 2009-03-19
@@ -13537,7 +13704,7 @@ page:cutebroom
 	tag: Jin
 	tag: Map
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PetenBasin
 page:bitoftheatrics
 	date: 2009-03-18
@@ -13548,7 +13715,7 @@ page:bitoftheatrics
 	tag: Jin
 	tag: Map
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:hairlikestraw
 	date: 2009-03-17
 	desc: Hair like straw
@@ -13557,7 +13724,7 @@ page:hairlikestraw
 	tag: Dietzel
 	tag: Map
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:washmybrain
 	date: 2009-03-16
 	desc: Wash my brain
@@ -13565,7 +13732,7 @@ page:washmybrain
 	tag: Dietzel
 	tag: Map
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:grandpagettinsome
 	date: 2009-03-13
 	desc: Grandpa gettin' some
@@ -13573,14 +13740,14 @@ page:grandpagettinsome
 	tag: Dietzel
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:grabsomebeer
 	date: 2009-03-12
 	desc: Grabsomebeer
 	tag: AaronSullivan
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: TapeDeck
 page:youoldfart
 	date: 2009-03-11
@@ -13589,7 +13756,7 @@ page:youoldfart
 	tag: Loft
 	tag: MagTape
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:morecivilized
 	date: 2009-03-10
 	desc: Morecivilized
@@ -13597,14 +13764,14 @@ page:morecivilized
 	tag: Gun
 	tag: Loft
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:followgrandpa
 	date: 2009-03-09
 	desc: Follow grandpa
 	tag: AaronSullivan
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:irrationalfear
 	date: 2009-03-06
 	desc: Irrationalfear
@@ -13730,7 +13897,7 @@ page:debunked
 page:watchathink
 	date: 2009-02-13
 	desc: Watchathink
-	tag TempleOfJaguars
+	tag: TempleOfJaguars
 	tag: ChichenItza
 	tag: Computer
 	tag: Katherine
@@ -13768,20 +13935,20 @@ page:laterdorks
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:priceless
 	date: 2009-02-06
 	desc: Priceless
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:iwontletyou
 	date: 2009-02-05
 	desc: I won't let you
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Tears
 page:notmyproblem
 	date: 2009-02-04
@@ -13789,27 +13956,27 @@ page:notmyproblem
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:cantbehurt
 	date: 2009-02-03
 	desc: Can't be hurt
 	tag: Alan
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:stayoutofthis
 	date: 2009-02-02
 	desc: Stay out of this
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:youscared
 	date: 2009-01-30
 	desc: Youscared
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Knife
 page:somekindofmagician
 	date: 2009-01-29
@@ -13817,7 +13984,7 @@ page:somekindofmagician
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Knife
 page:screeeee
 	date: 2009-01-28
@@ -13825,34 +13992,34 @@ page:screeeee
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Knife
 page:losthermarbles
 	date: 2009-01-27
 	desc: Lost her marbles
 	tag: Alan
 	tag: Bud
-	tag: JinHome
+	tag: JinLoft
 page:getinhere
 	date: 2009-01-26
 	desc: Get in here
 	tag: Alan
 	tag: Bud
-	tag: JinHome
+	tag: JinLoft
 page:expectinganyone
 	date: 2009-01-23
 	desc: Expecting anyone
 	tag: Alan
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:drinkofwater
 	date: 2009-01-22
 	desc: Drink of water
 	tag: Bud
 	tag: CalendarMachine
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: JinMom
 	tag: Mayahuel
 page:throwingusaway
@@ -13860,7 +14027,7 @@ page:throwingusaway
 	desc: Throwing us away
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: JinMom
 	tag: Mayahuel
 	tag: Tepoz
@@ -13871,7 +14038,7 @@ page:cheersbabe
 	tag: Bud
 	tag: GreySpeak
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: JinMom
 	tag: Mayahuel
 page:youreincharge
@@ -13879,20 +14046,20 @@ page:youreincharge
 	desc: You're in charge
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:uponatime
 	date: 2009-01-16
 	desc: Upon a time
 	tag: Brandi
 	tag: Bud
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Monica
 page:theutmostfinesse
 	date: 2009-01-15
 	desc: The utmost finesse
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Bud
 	tag: Fight
 	tag: FaceGlyph
@@ -13902,13 +14069,13 @@ page:shootingatme
 	tag: Bra
 	tag: BulletHoles
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 page:phonecallaway
 	date: 2009-01-13
 	desc: Phone call away
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:whattodo
@@ -13917,7 +14084,7 @@ page:whattodo
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalCloth2
 	tag: PortalTattoo
 	tag: Shelly
@@ -13930,7 +14097,7 @@ page:therewasagirl
 	tag: Egyptian
 	tag: Fire
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: NewsCrew
 	tag: Police
 	tag: Popcorn
@@ -13945,21 +14112,21 @@ page:nolongerathreat
 	tag: Brandi
 	tag: Bud
 	tag: GrenadePins
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:motherhen
 	date: 2009-01-07
 	desc: Mother hen
 	tag: Brandi
 	tag: Bud
 	tag: GrenadePins
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:notyourfault
 	date: 2009-01-06
 	desc: Not your fault
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: PortalTattoo
 page:badshots
@@ -13969,7 +14136,7 @@ page:badshots
 	tag: Bud
 	tag: BulletHoles
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:kalashnikovdodgeba
@@ -13980,14 +14147,14 @@ page:kalashnikovdodgeba
 	tag: Bud
 	tag: BulletHoles
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalCloth2
 page:justafewholes
 	date: 2009-01-01
 	desc: Just a few holes
 	tag: BulletHoles
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:noplacelikehome
@@ -14024,7 +14191,7 @@ page:leavetheguntakethecloth
 	tag: Gun
 	tag: Monica
 	tag: PortalCloth2
-	tag: Sarcophagus 
+	tag: Sarcophagus
 	tag: Warehouse
 page:notanyfruitmarket
 	date: 2008-12-26
@@ -14046,7 +14213,7 @@ page:asimpleplan
 	tag: Banana
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 	tag: PortalTattoo
 	tag: Shelly
@@ -14058,7 +14225,7 @@ page:thefruitmarket
 	tag: Egyptian
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 	tag: PortalTattoo
 	tag: Shelly
@@ -14067,7 +14234,7 @@ page:anotherpizza
 	desc: Another pizza
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 	tag: PortalTattoo
 	tag: Shelly
@@ -14077,7 +14244,7 @@ page:forcryinoutloud
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:boilerroom
 	date: 2008-12-19
 	desc: Boiler room
@@ -14107,7 +14274,7 @@ page:oneofhermoments
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:unlikeindianajones
@@ -14116,7 +14283,7 @@ page:unlikeindianajones
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:anyideas
@@ -14127,14 +14294,14 @@ page:anyideas
 	tag: CalendarMachine
 	tag: ClayDolls
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 page:payattention
 	date: 2008-12-09
 	desc: Pay attention
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 	tag: Poit
 	tag: PortalTattoo
@@ -14146,7 +14313,7 @@ page:sunlightandmoirror
 	tag: JaguarPalace
 	tag: Teotihuacan
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 	tag: PortalTattoo
 	tag: Shelly
@@ -14156,7 +14323,7 @@ page:outgrowingyourbras
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pizza
 page:illdial
 	date: 2008-12-04
@@ -14165,7 +14332,7 @@ page:illdial
 	tag: Doubt
 	tag: GreySpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 	tag: Pizza
 page:careaboutme
@@ -14174,7 +14341,7 @@ page:careaboutme
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:findyourworth
 	date: 2008-12-02
 	desc: Findyourworth
@@ -14182,26 +14349,26 @@ page:findyourworth
 	tag: Doubt
 	tag: MirrorSpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:morethanginormoushooters
 	date: 2008-12-01
 	desc: More than ginormous hooters
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:notthereyet
 	date: 2008-11-28
 	desc: Not there yet
 	tag: Brandi
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:coffeeeclair
 	date: 2008-11-27
 	desc: Coffee eclair
 	tag: Brandi
 	tag: CoffeeEclair
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Martini
 page:ourguidance
 	date: 2008-11-26
@@ -14209,7 +14376,7 @@ page:ourguidance
 	tag: Brandi
 	tag: Monica
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: CoctailShaker
 	tag: Martini
 page:dontyouknock
@@ -14219,7 +14386,7 @@ page:dontyouknock
 	tag: BrandiBudAppt
 	tag: Monica
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: MartiniGlass
 page:thefallguy
 	date: 2008-11-24
@@ -14235,7 +14402,7 @@ page:compresseddiamonds
 	tag: Jin
 	tag: ClayDolls
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: PortalTattoo
 	tag: Diamond
 page:ancientdiscoball
@@ -14247,7 +14414,7 @@ page:ancientdiscoball
 	tag: Hammer
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:outofyourhair
 	date: 2008-11-19
 	desc: Out of your hair
@@ -14255,7 +14422,7 @@ page:outofyourhair
 	tag: Chopsticks
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:lanthianchotskis
 	date: 2008-11-18
 	desc: Lanthian chotskis
@@ -14267,7 +14434,7 @@ page:lanthianchotskis
 	tag: Lanthis
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Vietnamese
 page:workingsupper
 	date: 2008-11-17
@@ -14275,7 +14442,7 @@ page:workingsupper
 	tag: Bud
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Vietnamese
 page:itsfamiliar
 	date: 2008-11-14
@@ -14613,7 +14780,7 @@ page:hesakeeper
 	tag: Bud
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 	tag: Shelly
 page:howcouldyou-2
@@ -14623,14 +14790,14 @@ page:howcouldyou-2
 	tag: GreySpeak
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 page:idontshare
 	date: 2008-09-03
 	desc: I Don't Share
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 page:justsomeguy
 	date: 2008-09-02
@@ -14638,14 +14805,14 @@ page:justsomeguy
 	note: Lernaean Hydra?
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:sotouched
 	date: 2008-09-01
 	desc: So Touched
 	tag: Bed
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Shelly
 page:downtherabbithole
@@ -14697,7 +14864,7 @@ page:herskivvies
 	tag: Bed
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Skivvies
 page:verywrong
@@ -14705,7 +14872,7 @@ page:verywrong
 	desc: Very Wrong
 	tag: Bed
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:poithimhome
 	date: 2008-08-19
@@ -14713,7 +14880,7 @@ page:poithimhome
 	tag: Bed
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 page:cantremember
 	date: 2008-08-18
@@ -14721,7 +14888,7 @@ page:cantremember
 	tag: Bed
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:davidmonicabud
 	date: 2008-08-15
@@ -14815,7 +14982,7 @@ page:slickerthansnot
 	tag: Bud
 	tag: CerberusClub
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: PortalTattoo
 	tag: Shelly
@@ -14825,7 +14992,7 @@ page:aintaboobjob
 	desc: Ain't A  Boob Job
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:jugsrealornot
@@ -14864,7 +15031,7 @@ page:oldtimes
 	desc: Old Times
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalTattoo
 	tag: Shelly
 page:damagecontrol
@@ -14872,25 +15039,25 @@ page:damagecontrol
 	desc: Damage Control
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:badstart
 	date: 2008-07-16
 	desc: Bad Start
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:figureitoutyoursel
 	date: 2008-07-15
 	desc: Figure It Out Yourself
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:howsmyhair
 	date: 2008-07-14
 	desc: How's My Hair
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 page:yesplease
 	date: 2008-07-11
@@ -14899,7 +15066,7 @@ page:yesplease
 	tag: MuchoMocha
 	tag: PortalTattoo
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:idloveto
 	date: 2008-07-10
 	desc: I'd Love To
@@ -14918,7 +15085,7 @@ page:extremelydangerous
 	desc: Extremely Dangerous
 	tag: Demon
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:didntknowtochtli
 	date: 2008-07-07
@@ -14926,21 +15093,21 @@ page:didntknowtochtli
 	tag: Demon
 	tag: Doubt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:justremember
 	date: 2008-07-04
 	desc: Just Remember
 	tag: Demon
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:stopbeingsmart
 	date: 2008-07-03
 	desc: Stop Being Smart
 	note: "More than once"
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:goingclay
 	date: 2008-07-02
@@ -14948,7 +15115,7 @@ page:goingclay
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 	tag: Tochtli
 page:littlecaretaker
@@ -14958,7 +15125,7 @@ page:littlecaretaker
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 	tag: Tochtli
 page:shewasaboy
@@ -14967,52 +15134,52 @@ page:shewasaboy
 	tag: Tochtli
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:beatsfacecream
 	date: 2008-06-27
 	desc: Beats Facecream
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:dont-wanna
 	date: 2008-06-26
 	desc: Don't Wanna
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:shellgrowold
 	date: 2008-06-25
 	desc: She'll Grow Old
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:thereismoretoit
 	date: 2008-06-24
 	desc: There Is More To It
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:whatdidisay
 	date: 2008-06-23
 	desc: What Did I Say
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:dontlikethesound
 	date: 2008-06-20
 	desc: Don't Like The Sound
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:footsoldier
 	date: 2008-06-19
 	desc: Footsoldier
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:mayanheaddress
 	date: 2008-06-18
@@ -15020,21 +15187,21 @@ page:mayanheaddress
 	tag: Dietzel
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PortalCloth
 	tag: Tepoz
 page:hatinhand
 	date: 2008-06-17
 	desc: Hat In Hand
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:animalcontrol
 	date: 2008-06-16
 	desc: Animal Control
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:prettysailboat
 	date: 2008-06-13
 	desc: Pretty Sailboat
@@ -15172,7 +15339,6 @@ page:shemeanswell
 	tag: Jacqui
 	tag: Luci
 	tag: PunkYoga
-	tag:
 page:acceptedthis
 	date: 2008-05-19
 	desc: Accepted This
@@ -15212,7 +15378,7 @@ page:atattoo
 	date: 2008-05-12
 	desc: A Tattoo
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Katherine
 	tag: Museum
 	tag: Tattoo
@@ -15223,7 +15389,7 @@ page:somewheresafe
 	date: 2008-05-09
 	desc: Somewhere Safe
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: Museum
 	tag: PortalCloth
 	tag: Shelly
@@ -15254,30 +15420,30 @@ page:imbecilicnotion
 	date: 2008-05-05
 	desc: Imbecilic Notion
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: PortalCloth
 	tag: Tepoz
 page:greatinbed
 	date: 2008-05-02
 	desc: Great In Bed
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:despiseandnurture
 	date: 2008-05-01
 	desc: Despise And Nurture
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:shesthebookworm
 	date: 2008-04-30
 	desc: She's The Bookworm
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Hammer
 page:shesuseful
 	date: 2008-04-29
 	desc: She's Useful
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Hammer
 	tag: MiddleC
 page:specificnote
@@ -15285,25 +15451,25 @@ page:specificnote
 	desc: Specific Note
 	tag: MusicDegree
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:ashortnote
 	date: 2008-04-25
 	desc: A Short Note
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Hammer
 	tag: MiddleC
 page:andyou
 	date: 2008-04-24
 	desc: Andyou
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Hammer
 page:squeee
 	date: 2008-04-23
 	desc: Squeee
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:handledthatwell
 	date: 2008-04-22
 	desc: Handled That Well
@@ -15354,14 +15520,14 @@ page:gottenhere
 	date: 2008-04-14
 	desc: Gotten Here
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Museum
 	tag: Tepoz
 page:talk
 	date: 2008-04-11
 	desc: Talk
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Museum
 	tag: Tepoz
 page:ringingears
@@ -15370,7 +15536,7 @@ page:ringingears
 	tag: Katherine
 	tag: Mike
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Museum
 	tag: MuseumVault
 	tag: Tepoz
@@ -15417,7 +15583,7 @@ page:beenawake
 	desc: Been Awake
 	tag: Katherine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:forgetyourworries
 	date: 2008-04-01
 	desc: Forget Your Worries
@@ -15425,15 +15591,15 @@ page:forgetyourworries
 	tag: Bed
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:anaphylaxisexcuse
 	date: 2008-03-31
 	desc: Anaphylaxis Excuse
 	tag: Anaphylaxis
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Oscar
 	tag: Strawberry
 page:crypticmenudo
@@ -15459,30 +15625,30 @@ page:honkthehorn
 	tag: Dietzel
 	tag: Monica
 	tag: MonicaCar
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:scumonmytounge
 	date: 2008-03-25
 	desc: Scum On My Tongue
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dreamcantcatch
 	date: 2008-03-24
 	desc: Dream Can't Catch
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 page:ihaveresearch
 	date: 2008-03-21
 	desc: I Have Research
 	tag: Katherine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:fromyou
 	date: 2008-03-20
 	desc: From You
 	tag: Katherine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Toilet
 page:hellourpbarf
 	date: 2008-03-19
@@ -15490,27 +15656,27 @@ page:hellourpbarf
 	tag: Vomit
 	tag: Katherine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:needtoknock
 	date: 2008-03-18
 	desc: Need To Knock
 	tag: Katherine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Whiskey
 page:irishwhiskey
 	date: 2008-03-17
 	desc: Irish Whiskey
 	tag: IceCream
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Whiskey
 page:shouldallblowover
 	date: 2008-03-14
 	desc: Should All Blow Over
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: MuseumVault
 	tag: PortalCloth
 page:thesewerebrains
@@ -15518,40 +15684,40 @@ page:thesewerebrains
 	desc: These Were Brains
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:callinsick
 	date: 2008-03-12
 	desc: Call In Sick
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:writtenoff
 	date: 2008-03-11
 	desc: Written Off
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:takemeseriously
 	date: 2008-03-10
 	desc: Take Me Seriously
 	tag: Atlantis
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:whereitcamefrom
 	date: 2008-03-07
 	desc: Where It Came From
 	tag: Dietzel
 	tag: Lanthis
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:complicatethefutur
 	date: 2008-03-06
 	desc: Complicate The Future
 	tag: Dietzel
 	tag: Jacks
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:sothetrickis
 	date: 2008-03-05
 	desc: So The Trick Is
@@ -15679,7 +15845,7 @@ page:greatpower
 page:bikinipower
 	date: 2008-02-07
 	desc: Bikini Power
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: Museum
 	tag: Yaxchilan
@@ -15692,27 +15858,27 @@ page:attitudeboost
 	desc: Attitude Boost
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:prettyunderwear
 	date: 2008-02-04
 	desc: Pretty Underwear
 	tag: Bed
 	tag: BraShopReceptionist
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 page:wisdomnuggets
 	date: 2008-02-01
 	desc: Wisdom Nuggets
 	tag: GreySpeak
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:dealwiththiscrap
 	date: 2008-01-31
 	desc: Deal With This Crap
 	tag: Demon
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 	tag: PortalCloth
 page:sexuallyfrustrated
 	date: 2008-01-30
@@ -15720,19 +15886,19 @@ page:sexuallyfrustrated
 	note: Jin's demons or Monica's again, manifesting as 'asian' for Jin?
 	tag: Demon
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:fixedsoon
 	date: 2008-01-29
 	desc: Fixed Soon
 	note: From the next page that seems to be one of Monica's demons
 	tag: Demon
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:frozenland
 	date: 2008-01-28
 	desc: Frozen Land
 	tag: Jin
-	tag: JinHome
+	tag: JinLoft
 page:makesunshine
 	date: 2008-01-25
 	desc: Make Sunshine
@@ -15829,7 +15995,7 @@ page:powerofthebra
 	date: 2008-01-04
 	desc: Power Of The Bra
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Bra
 	tag: Poit
 page:drunkpower
@@ -15837,7 +16003,7 @@ page:drunkpower
 	desc: Drunk Power
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 page:brainsandpower
 	date: 2008-01-02
@@ -15846,7 +16012,7 @@ page:brainsandpower
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 page:electingthesameone
 	date: 2008-01-01
@@ -15856,7 +16022,7 @@ page:electingthesameone
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 page:golemsandnasties
 	date: 2007-12-31
@@ -15864,7 +16030,7 @@ page:golemsandnasties
 	tag: CalendarMachine
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 page:nocontrol
 	date: 2007-12-28
@@ -15874,7 +16040,7 @@ page:nocontrol
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 page:golemmom
 	date: 2007-12-27
@@ -15883,27 +16049,27 @@ page:golemmom
 	tag: JinMom
 	tag: Mayahuel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 page:everybook
 	date: 2007-12-26
 	desc: Every Book
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 	tag: JinPoetryBook
 page:thebook
 	date: 2007-12-25
 	desc: The Book
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 	tag: JinPoetryBook
 page:freebooze
 	date: 2007-12-24
 	desc: Free Booze
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Dietzel
 page:spikekatherine
 	date: 2007-12-22
@@ -15915,11 +16081,11 @@ page:jessamandaselenium
 	tag: Filler
 page:randykath
 	date: 2007-12-20
-	desc: Comic by Randy K Mulholland 
+	desc: Comic by Randy K Mulholland
 	tag: Filler
 page:katiemonicadietzel
 	date: 2007-12-19
-	desc: Comic by Katie Cook 
+	desc: Comic by Katie Cook
 	tag: Filler
 page:tylermonicakevin
 	date: 2007-12-18
@@ -15934,13 +16100,13 @@ page:cornhuskangels
 	desc: Cornhusk Angels
 	tag: CornDoll
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:thatswhy
 	date: 2007-12-13
 	desc: That's Why
 	tag: ChristmasTree
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:mummifiedtrees
 	date: 2007-12-12
 	desc: Mummified Trees
@@ -15951,14 +16117,14 @@ page:naturehatesme
 	desc: Nature Hates Me
 	tag: Flashback
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:arealtree
 	date: 2007-12-10
 	desc: A Real Tree
 	tag: ChristmasTree
 	tag: Flashback
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:priceofatv
 	date: 2007-12-07
 	desc: Price Of A TV
@@ -16204,7 +16370,7 @@ page:chickenout
 	tag: Kevin
 	tag: Monica
 	tag: Tongue
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:damnsnow
 	date: 2007-10-18
 	desc: Damnsnow
@@ -16306,13 +16472,13 @@ page:noanswers
 	desc: No Answers
 	tag: Clothes
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:adultsbody
 	date: 2007-09-27
 	desc: Adult's Body
 	tag: Mirror
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Zit
 page:immaturebrat
 	date: 2007-09-26
@@ -16320,14 +16486,14 @@ page:immaturebrat
 	tag: Clothes
 	tag: Mirror
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:winterstuff
 	date: 2007-09-25
 	desc: Winter Stuff
 	tag: Cedar
 	tag: Clothes
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:gettingolder
 	date: 2007-09-24
 	desc: Getting Older
@@ -16471,7 +16637,7 @@ page:inthefirstplace
 	tag: Bed
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Museum
 page:clearsup
 	date: 2007-08-23
@@ -16606,21 +16772,21 @@ page:gowithme
 	date: 2007-07-26
 	desc: Go With Me
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 page:monicaextravert
 	date: 2007-07-25
 	desc: Monica Extravert
 	tag: Coconuts
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 	tag: Tomatoes
 page:gorgeoustomatoes
 	date: 2007-07-24
 	desc: Gorgeous Tomatoes
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 	tag: Tomatoes
 page:feelnormal
@@ -16632,7 +16798,7 @@ page:dorkslikeus
 	date: 2007-07-20
 	desc: Dorks Like Us
 	tag: Monica
-	tag: Shelly	
+	tag: Shelly
 page:startingoveragain
 	date: 2007-07-19
 	desc: Starting Over Again
@@ -16640,14 +16806,14 @@ page:startingoveragain
 	tag: 2012
 	tag: Monica
 	tag: MuchoMocha
-	tag: Shelly	
+	tag: Shelly
 page:wontletusdie
 	date: 2007-07-18
 	desc: Won't Let Us Die
 	tag: Doorway
 	tag: Monica
 	tag: MuchoMocha
-	tag: Shelly	
+	tag: Shelly
 page:kindoflimbo
 	date: 2007-07-17
 	desc: Kind Of Limbo
@@ -16922,21 +17088,21 @@ page:corporatescrewup
 	desc: Corporate Screwup
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:awalkingdoorway
 	date: 2007-05-28
 	desc: A Walking Doorway
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:didntlikewhatshefound
 	date: 2007-05-25
 	desc: Didn't Like What She Found
-	tag: BlackRabbit 
+	tag: BlackRabbit
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:nevercontrol
 	date: 2007-05-24
@@ -16944,19 +17110,19 @@ page:nevercontrol
 	tag: Crash
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:neverknowinglylie
 	date: 2007-05-23
 	desc: Never Knowingly Lie
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dealingwith
 	date: 2007-05-22
 	desc: Dealing With
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:mostlikely
 	date: 2007-05-21
 	desc: Most Likely
@@ -17040,33 +17206,33 @@ page:dontruinmycrap
 	date: 2007-05-04
 	desc: Don't Ruin My Crap
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Selenium
 page:nobiggerthanconfet
 	date: 2007-05-03
 	desc: No bigger than confetti
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: RazorClaws
 	tag: Selenium
 page:understand
 	date: 2007-05-02
 	desc: Understand
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: RazorClaws
 	tag: Selenium
 page:eggsinstead
 	date: 2007-05-01
 	desc: Eggs Instead
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Selenium
 page:drooledalloverme
 	date: 2007-04-30
 	desc: Drooled All Over Me
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Selenium
 page:shewasoccupied
 	date: 2007-04-27
@@ -17182,13 +17348,13 @@ page:whatsmyproblem
 	desc: What's My Problem
 	tag: Book
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:whatswrongwithme
 	date: 2007-04-06
 	desc: What's Wrong With Me
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:howpeoplegetburned
 	date: 2007-04-05
 	desc: How People Get Burned
@@ -17196,14 +17362,14 @@ page:howpeoplegetburned
 	tag: CalendarMachine
 	tag: FireBreath
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:agutfeeling
 	date: 2007-04-04
 	desc: A Gut Feeling
 	tag: Bud
 	tag: CalendarMachine
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: SunStone
 	tag: Yaxchilan
 page:iknewitimnotcrazy
@@ -17213,7 +17379,7 @@ page:iknewitimnotcrazy
 	tag: Bud
 	tag: Giza
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Teotihuacan
 page:micaslabs
 	date: 2007-04-02
@@ -17221,7 +17387,7 @@ page:micaslabs
 	tag: Bud
 	tag: Mica
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Teotihuacan
 page:hyperventilating
 	date: 2007-03-30
@@ -17229,14 +17395,14 @@ page:hyperventilating
 	tag: Bud
 	tag: Mica
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:thatwaseasy
 	date: 2007-03-29
 	desc: That Was Easy
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:bothithink
 	date: 2007-03-28
 	desc: Both I Think
@@ -17262,14 +17428,14 @@ page:drasticmeasures
 	date: 2007-03-23
 	desc: Drastic Measures
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: AmandaStudio
 	tag: Kitten
 page:littlestreeturchin
 	date: 2007-03-22
 	desc: Little Street Urchin
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: AmandaStudio
 	tag: Kitten
 	tag: Pee
@@ -17277,7 +17443,7 @@ page:cutsiepoocrap
 	date: 2007-03-21
 	desc: Cutsie-Poo Crap
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: AmandaStudio
 	tag: Kitten
 	tag: Pee
@@ -17286,7 +17452,7 @@ page:foggiestnotion
 	date: 2007-03-20
 	desc: Foggiest Notion
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: AmandaStudio
 	tag: Kitten
 	tag: Selenium
@@ -17294,7 +17460,7 @@ page:noisy
 	date: 2007-03-19
 	desc: Noisy
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: AmandaStudio
 	tag: Kitten
 	tag: Selenium
@@ -17341,7 +17507,7 @@ page:pizzagirl
 	desc: Pizza girl
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:fromunderournoses
 	date: 2007-03-09
 	desc: From Under Our Noses
@@ -17394,12 +17560,12 @@ page:asmallouting
 	date: 2007-02-27
 	desc: A Small Outing
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:stillindoors
 	date: 2007-02-26
 	desc: Still Indoors
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 page:clearhermind
 	date: 2007-02-23
 	desc: Clear Her Mind
@@ -17430,13 +17596,13 @@ page:coolness
 	desc: Coolness
 	tag: Hammer
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:snowstorms
 	date: 2007-02-16
 	desc: Snowstorms
 	tag: SlippersFluffyBunny
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:videofireplace
 	date: 2007-02-15
@@ -17444,14 +17610,14 @@ page:videofireplace
 	tag: Bath
 	tag: SlippersFluffyBunny
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:bringmeabeer
 	date: 2007-02-14
 	desc: Bring me a beer
 	tag: SlippersFluffyBunny
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Stairs
 	tag: Tepoz
 page:whosaidwhat
@@ -17459,7 +17625,7 @@ page:whosaidwhat
 	desc: Who Said What
 	tag: GreySpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Stairs
 	tag: Tepoz
 page:homeagain
@@ -17467,7 +17633,7 @@ page:homeagain
 	desc: Home Again
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Stairs
 page:monsteriwas
 	date: 2007-02-09
@@ -17520,40 +17686,40 @@ page:reallytrustme
 	tag: Monica
 	tag: Poit
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:findinganobject
 	date: 2007-01-30
 	desc: Finding An Object
 	tag: Book
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:simpletool
 	date: 2007-01-29
 	desc: Simple Tool
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:anachronism
 	date: 2007-01-26
 	desc: Anachronism
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:importance
 	date: 2007-01-25
 	desc: Importance
 	tag: Book
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:decipherthebook
 	date: 2007-01-24
 	desc: Decipher The Book
 	tag: Book
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: SunStone
 page:becauseofyou
 	date: 2007-01-23
@@ -17636,43 +17802,43 @@ page:missedme
 	date: 2007-01-08
 	desc: Missed Me
 	tag: Amanda
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 page:comfortnotspeed
 	date: 2007-01-05
 	desc: Comfort Not Speed
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:noquestions
 	date: 2007-01-04
 	desc: No Questions
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:aclock
 	date: 2007-01-03
 	desc: A Clock
 	tag: ClayDolls
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:veryimportant
 	date: 2007-01-02
 	desc: Very Important
 	tag: ClayDolls
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:crackwalnuts
 	date: 2007-01-01
 	desc: Crack Walnuts
 	tag: ClayDolls
 	tag: Monica
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:gimmeahug
 	date: 2006-12-29
 	desc: Gimme A Hug
@@ -17732,25 +17898,25 @@ page:notimportant
 	desc: Not Important
 	tag: Brandi
 	tag: Bud
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:seasonedprofessionals
 	date: 2006-12-20
 	desc: Seasoned Professionals
 	tag: Brandi
 	tag: Bud
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:madskillz
 	date: 2006-12-19
 	desc: Mad Skillz
 	tag: Brandi
 	tag: Bud
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dancestudio
 	date: 2006-12-18
 	desc: Dance Studio
 	tag: Brandi
 	tag: Bud
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:hidingfromwho
 	date: 2006-12-15
 	desc: Hiding From Who
@@ -17782,7 +17948,7 @@ page:stilltrustyou
 	tag: AutoRepair
 	tag: Monica
 	tag: Shelly
-ppage:atyourbeckncall
+page:atyourbeckncall
 	date: 2006-12-11
 	desc: At your beck n' call
 	tag: AutoRepair
@@ -17941,7 +18107,7 @@ page:hellophix
 	tag: GreySpeak
 	tag: Library
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phix
 page:thebibliothiki
 	date: 2006-11-08
@@ -17951,7 +18117,7 @@ page:thebibliothiki
 	tag: Bibliothiki
 	tag: Phix
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:cuneiformbooks
 	date: 2006-11-07
@@ -17961,13 +18127,13 @@ page:cuneiformbooks
 	tag: Cuneiform
 	tag: Gilgamesh
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:makingcoffee
 	date: 2006-11-06
 	desc: Making Coffee
 	tag: Brandi
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:nothing
 	date: 2006-11-03
 	desc: Nothing
@@ -17976,7 +18142,7 @@ page:nothing
 	tag: Costume
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 	tag: ToySheep
 page:bobforapples
@@ -18011,7 +18177,7 @@ page:avastyescurvyscoundrel
 	tag: Costume
 	tag: Halloween
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pirate
 page:holybarnacles
 	date: 2006-10-30
@@ -18021,33 +18187,33 @@ page:holybarnacles
 	tag: Kevin
 	tag: LittleTramp
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:lockednloaded
 	date: 2006-10-27
 	desc: Locked ’N’ Loaded
 	tag: Costume
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Halloween
 page:avoidingattention
 	date: 2006-10-26
 	desc: Avoiding Attention
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:runnaked
 	date: 2006-10-25
 	desc: Run Naked
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:newscrew
 	date: 2006-10-24
 	desc: News Crew
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:whatwasshethinking
 	date: 2006-10-23
 	desc: What Was She Thinking
@@ -18117,20 +18283,20 @@ page:bewareofticks
 	tag: Dietzel
 	tag: Metronome
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:limeinquestion
 	date: 2006-10-10
 	desc: Lime In Question
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Lime
 page:damnrazor
 	date: 2006-10-09
 	desc: Damn Razor
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Razor
 page:helpthebimbo
 	date: 2006-10-06
@@ -18143,22 +18309,22 @@ page:overdoingit
 	date: 2006-10-05
 	desc: Overdoing It
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:cinnamonrolls
 	date: 2006-10-04
 	desc: Cinnamon Rolls
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:reallysnuggle
 	date: 2006-10-03
 	desc: Really Snuggle
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:fireplacesandcandles
 	date: 2006-10-02
 	desc: Fire Places And Candles
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:wapsiguestshortpacked
 	date: 2006-09-11
 	desc: Wapsi Guest Shortpacked
@@ -18258,7 +18424,7 @@ page:notthatselfish
 	tag: Fire
 	tag: Glyph
 	tag: EightBallShirt
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:someonenoticed
 	date: 2006-08-24
@@ -18266,14 +18432,14 @@ page:someonenoticed
 	tag: Brandi
 	tag: Bud
 	tag: EightBallShirt
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:whatwasthat
 	date: 2006-08-23
 	desc: What Was That
 	tag: Brandi
 	tag: Bud
 	tag: EightBallShirt
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:bringbackanything
 	date: 2006-08-22
 	desc: Bringbackanything
@@ -18281,7 +18447,7 @@ page:bringbackanything
 	tag: Kevin
 	tag: EightBallShirt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:havelunchyet
 	date: 2006-08-21
 	desc: Havelunchyet
@@ -18289,7 +18455,7 @@ page:havelunchyet
 	tag: Kevin
 	tag: EightBallShirt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:lookokay
 	date: 2006-08-18
 	desc: Look Okay
@@ -18297,7 +18463,7 @@ page:lookokay
 	tag: Kevin
 	tag: EightBallShirt
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:monicasshirt
 	date: 2006-08-17
 	desc: Monica's Shirt
@@ -18305,14 +18471,14 @@ page:monicasshirt
 	tag: Bud
 	tag: Kevin
 	tag: EightBallShirt
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:cutenstretchy
 	date: 2006-08-16
 	desc: Cute ’N’ Stretchy
 	tag: Bud
 	tag: Brandi
 	tag: EightBallShirt
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:justweird
 	date: 2006-08-15
 	desc: Just Weird
@@ -18322,7 +18488,7 @@ page:goodheavens
 	desc: Good Heavens
 	tag: Headphones
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:moreimportant
 	date: 2006-08-11
@@ -18398,21 +18564,21 @@ page:verydangerous
 	tag: GreySpeak
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:notacrush
 	date: 2006-07-27
 	desc: Not A Crush
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:eatthatthought
 	date: 2006-07-26
 	desc: Eat That Thought
 	tag: Bud
 	tag: Fight
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:havingfun
 	date: 2006-07-25
@@ -18420,14 +18586,14 @@ page:havingfun
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:whatdidyoudo
 	date: 2006-07-24
 	desc: What Did You Do
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:staringyouintheface
 	date: 2006-07-21
 	desc: Staring You In The Face
@@ -18456,7 +18622,7 @@ page:strongestthing
 	date: 2006-07-17
 	desc: Strongest Thing
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: NightClub
 	tag: PrettyInPink
 page:thegoodstuff
@@ -18464,66 +18630,66 @@ page:thegoodstuff
 	desc: The Good Stuff
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:surpriseyourself
 	date: 2006-07-13
 	desc: Surprise Yourself
 	tag: BoilerRoom
 	tag: LittleShelly
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:tocryabout
 	date: 2006-07-12
 	desc: To Cry About
 	tag: Brandi
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:whatyousaid
 	date: 2006-07-11
 	desc: What you said
 	tag: Brandi
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:whosthemonster
 	date: 2006-07-10
 	desc: Who's The Monster
 	tag: Brandi
 	tag: GreySpeak
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:careandfeeding
 	date: 2006-07-07
 	desc: Careandfeeding
 	tag: Brandi
 	tag: Lioness
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:whathappened
 	date: 2006-07-06
 	desc: What happened
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:hurtfeelings
 	date: 2006-07-05
 	desc: Hurt Feelings
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 page:felthelpless
 	date: 2006-07-04
 	desc: Felt Helpless
 	tag: Bud
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 page:nicejustbecause
 	date: 2006-07-03
 	desc: Nice Just Because
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:wasaguardian
 	date: 2006-06-30
 	desc: Was A Guardian
@@ -18744,45 +18910,45 @@ page:rememberyourealone
 	date: 2006-05-15
 	desc: Remember You’re Alone
 	tag: Monica
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Amanda
 page:magicblankets
 	date: 2006-05-12
 	desc: Magic Blankets
 	tag: Monica
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Amanda
 page:lookorbs
 	date: 2006-05-11
 	desc: Look Orbs
 	tag: Monica
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Amanda
 page:lightsout
 	date: 2006-05-10
 	desc: Lights out
 	tag: Monica
-	tag: AmandaHome
+	tag: AmandasPlace
 	tag: Amanda
 page:bringthepop
 	date: 2006-05-09
 	desc: Bring The Pop
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Amanda
 	tag: Phone
 page:learningtobegirls
 	date: 2006-05-08
 	desc: Learning To Be Girls
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Jin
 	tag: Brandi
 page:isnapped
 	date: 2006-05-05
 	desc: I Snapped
 	tag: Flashback
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Jin
 	tag: Pit
 	tag: Bud
@@ -18794,26 +18960,26 @@ page:notagoodexample
 	date: 2006-05-04
 	desc: Not A Good Example
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Jin
 page:imaginethemhappening
 	date: 2006-05-03
 	desc: Imagine Them Happening
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Jin
 	tag: Telepathy
 page:justgrowingolder
 	date: 2006-05-02
 	desc: Just Growing Older
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Jin
 page:kindoflikeyou
 	date: 2006-05-01
 	desc: Kind Of Like You
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:runningsmoothly
 	date: 2006-04-28
@@ -18821,20 +18987,20 @@ page:runningsmoothly
 	tag: GreySpeak
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:atanypoint
 	date: 2006-04-27
 	desc: At Any Point
 	tag: GreySpeak
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:totallybeyondme
 	date: 2006-04-26
 	desc: Totally Beyond Me
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:talkingaboutwork
 	date: 2006-04-25
@@ -18843,7 +19009,7 @@ page:talkingaboutwork
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:gotsomethingforyou
 	date: 2006-04-24
@@ -18851,7 +19017,7 @@ page:gotsomethingforyou
 	tag: BirthCertificate
 	tag: Brandi
 	tag: Bud
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: SocialSecurityCard
 	tag: Tepoz
 page:silvereyes
@@ -18892,40 +19058,40 @@ page:wabbitseason
 	tag: Bunny
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:tasteslikechicken
 	date: 2006-04-14
 	desc: Tastes Like Chicken
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Roof
 	tag: Squirrel
 page:climbingthewalls
 	date: 2006-04-13
 	desc: Climbing The Walls
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Roof
 	tag: Squirrel
 page:inafishbowl
 	date: 2006-04-12
 	desc: In A Fishbowl
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Plant
 	tag: Roof
 page:noanalogyunnoticed
 	date: 2006-04-11
 	desc: No Analogy Unnoticed
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Plant
 	tag: Roof
 page:bettersociallifethanme
 	date: 2006-04-10
 	desc: Bettersociallifethanme
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Plant
 page:adelicatebalance
 	date: 2006-04-07
@@ -18998,15 +19164,15 @@ page:wellthinkofsomething
 	desc: We'll Think Of Something
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Snow
 page:notnightmares
 	date: 2006-03-23
 	desc: Not Nightmares
 	tag: Brandi
 	tag: Bud
-	tag: Monica	
-	tag: MonicaHouse
+	tag: Monica
+	tag: MonicasPlace
 page:donttreatmelikeavictim
 	date: 2006-03-22
 	desc: Don't Treat Me Like A Victim
@@ -19014,7 +19180,7 @@ page:donttreatmelikeavictim
 	tag: Bud
 	tag: FaceGlyph
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:backintothestoneage
 	Date: 2006-03-21
 	desc: Back Into The Stone Age
@@ -19022,22 +19188,22 @@ page:backintothestoneage
 	tag: Bud
 	tag: FaceGlyph
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:angryforthewrongre
 	date: 2006-03-20
 	desc: Angry For The Wrong Reasons
 	tag: Brandi
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:yourenotamonster
 	date: 2006-03-17
 	desc: You're Not A Monster
 	tag: Brandi
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
-	tag: Tepoz	
+	tag: MonicasPlace
+	tag: Tepoz
 page:wrestlewiththesun
 	date: 2006-03-16
 	desc: Wrestle With The Sun
@@ -19046,30 +19212,30 @@ page:wrestlewiththesun
 	tag: Flashback
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Ziggurat
 page:notevilneverwere
 	date: 2006-03-15
 	desc: Not Evil Never Were
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:tepozmeettochtli
 	date: 2006-03-14
 	desc: Tepoz Meet Tochtli
 	tag: Dietzel
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
-	tag: Tochtli	
+	tag: Tochtli
 page:enjoythesunshine
 	date: 2006-03-13
 	desc: Enjoy The Sunshine
 	tag: BelindaJensen
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dontdoastheysay
 	date: 2006-03-10
 	desc: Don't Do As They Say
@@ -19077,7 +19243,7 @@ page:dontdoastheysay
 	tag: Demon
 	tag: Fear
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dontberude
 	date: 2006-03-09
 	desc: Don't Be Rude
@@ -19089,7 +19255,7 @@ page:dontberude
 	tag: Jin
 	tag: MirrorSpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Panic
 page:youhavenoidea
 	date: 2006-03-08
@@ -19099,7 +19265,7 @@ page:youhavenoidea
 	tag: GreySpeak
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:howoldareyouguys
 	date: 2006-03-07
 	desc: How Old Are You Guys
@@ -19108,7 +19274,7 @@ page:howoldareyouguys
 	tag: Jin
 	tag: Lioness
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:dishitoutbutcantta
 	date: 2006-03-06
 	desc: Dish It Out But Can't Take It
@@ -19117,7 +19283,7 @@ page:dishitoutbutcantta
 	tag: Jin
 	tag: Lioness
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: TeddyBear
 page:budstillasleep
 	date: 2006-03-03
@@ -19127,7 +19293,7 @@ page:budstillasleep
 	tag: Cream
 	tag: Hatch
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:mythbustersison
 	date: 2006-03-02
 	desc: Myth Busters Is On
@@ -19137,7 +19303,7 @@ page:mythbustersison
 	tag: Dietzel
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:singlehandedlywipe
 	date: 2006-03-01
 	desc: Single Handedly Wipe
@@ -19145,7 +19311,7 @@ page:singlehandedlywipe
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:loveyouallbetter
 	date: 2006-02-28
 	desc: Love you all better
@@ -19154,7 +19320,7 @@ page:loveyouallbetter
 	tag: Jin
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:nightofcryingandco
 	date: 2006-02-27
 	desc: Night Of Crying And Cooing
@@ -19162,7 +19328,7 @@ page:nightofcryingandco
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PrettyInPink
 page:anormalpubgirl
 	date: 2006-02-24
@@ -19201,7 +19367,7 @@ page:isthisheaven
 page:georgettes
 	date: 2006-02-17
 	desc: Georgettes
-	tag: Advert	
+	tag: Advert
 	tag: Georgette
 	tag: Monica
 page:perfectpostergirl
@@ -19244,7 +19410,7 @@ page:illberightthere
 	tag: Dietzel
 	tag: Georgette
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 page:ineedafavorhun
 	date: 2006-02-08
@@ -19252,20 +19418,20 @@ page:ineedafavorhun
 	tag: Amanda
 	tag: Bed
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 page:shesjustafriend
 	date: 2006-02-07
 	desc: She's Just A Friend
 	tag: Heather
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:areyougettingbackf
 	date: 2006-02-06
 	desc: Are You Getting Back From Somewhere
 	tag: Heather
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:canwebebunniestoo
 	date: 2006-02-03
 	desc: Can We Be Bunnies Too
@@ -19273,7 +19439,7 @@ page:canwebebunniestoo
 	tag: Bud
 	tag: Bunny
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: WineCellar
 page:saveyoufromyoursel
 	date: 2006-02-02
@@ -19281,7 +19447,7 @@ page:saveyoufromyoursel
 	tag: Chimera
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Moon
 	tag: Shelly
 	tag: Tochtli
@@ -19290,7 +19456,7 @@ page:notmorethanaclerk
 	desc: Not More Than A Clerk
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Tochtli
 page:workswithinthelaws
@@ -19298,7 +19464,7 @@ page:workswithinthelaws
 	desc: Works Within The Laws
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Tochtli
 page:neitheroneofushast
@@ -19308,7 +19474,7 @@ page:neitheroneofushast
 	tag: Chimera
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Tochtli
 page:areyoulost-2
@@ -19318,7 +19484,7 @@ page:areyoulost-2
 	tag: Chimera
 	tag: Flashback
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Tochtli
 page:fictionalmaledeity
@@ -19326,7 +19492,7 @@ page:fictionalmaledeity
 	desc: Fictional Male Deity
 	tag: Bed
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Tochtli
 page:wellletyoutwoalone
@@ -19335,7 +19501,7 @@ page:wellletyoutwoalone
 	tag: Bed
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Shelly
 	tag: Tochtli
@@ -19346,7 +19512,7 @@ page:loudpurring
 	tag: Brandi
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:whattimeisit
 	date: 2006-01-23
@@ -19356,12 +19522,12 @@ page:whattimeisit
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:littleescape
 	date: 2006-01-20
 	desc: Little Escape
-	tag: Colour	
+	tag: Colour
 	tag: Dance
 	tag: Monica
 	tag: NightClub
@@ -19433,7 +19599,7 @@ page:whosthatwithyou
 	desc: Who's That With You
 	tag: Brandi
 	tag: Bud
-	tag: Jin	
+	tag: Jin
 	tag: Monica
 	tag: NightClub
 	tag: SecurityGuy
@@ -19449,24 +19615,24 @@ page:theperfectspot
 	desc: The Perfect Spot
 	tag: Brandi
 	tag: Bud
-	tag: Jin	
+	tag: Jin
 	tag: Monica
 page:needanightout
 	date: 2006-01-04
 	desc: Need A Night Out
 	tag: Brandi
 	tag: Bud
-	tag: Jin	
+	tag: Jin
 	tag: Monica
 	tag: Museum
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:whatssospecial
 	date: 2006-01-03
 	desc: What's So Special
 	tag: ClayDolls
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Shower
 page:thatsyourrequest
 	date: 2006-01-02
@@ -19540,7 +19706,7 @@ page:feelingonedge
 	desc: Feeling On Edge
 	tag: Demon
 	tag: Doubt
-	tag: GreySpeak	
+	tag: GreySpeak
 	tag: MirrorSpeak
 	tag: Monica
 	tag: Museum
@@ -19684,8 +19850,8 @@ page:somethingbetter
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
-	tag: WineCellar	
+	tag: MonicasPlace
+	tag: WineCellar
 page:gettingclaustrophobic
 	date: 2005-11-21
 	desc: Getting Claustrophobic
@@ -19693,9 +19859,9 @@ page:gettingclaustrophobic
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Snake
-	tag: WineCellar	
+	tag: WineCellar
 page:backtoourregularlyscheduledprogram
 	date: 2005-11-18
 	desc: Back To Our Regularly Scheduled Program
@@ -19703,7 +19869,7 @@ page:backtoourregularlyscheduledprogram
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Skeleton
 	tag: WineCellar
@@ -19712,7 +19878,7 @@ page:pleasejustletmego
 	desc: Please Just Let Me Go
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Skeleton
 	tag: Tears
 	tag: WineCellar
@@ -19721,7 +19887,7 @@ page:whatdoyouknow
 	desc: What Do You Know
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: WineCellar
 page:shegaveupwedidnt
 	date: 2005-11-15
@@ -19732,7 +19898,7 @@ page:shegaveupwedidnt
 	tag: Flashback
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: WineCellar
 page:shesquitegoodatthat
 	date: 2005-11-14
@@ -19741,7 +19907,7 @@ page:shesquitegoodatthat
 	tag: GreySpeak
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: WineCellar
 page:shewasoneofthem
 	date: 2005-11-11
@@ -19749,7 +19915,7 @@ page:shewasoneofthem
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tears
 	tag: WineCellar
 page:thepit
@@ -19786,10 +19952,10 @@ page:pleasenotyou
 	date: 2005-11-04
 	desc: Please Not You
 	tag: Bud
-	tag: FlashLight	
+	tag: FlashLight
 	tag: Glyph
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Skeleton
 	tag: Tears
 	tag: WineCellar
@@ -19797,17 +19963,17 @@ page:whatareyoudoing
 	date: 2005-11-03
 	desc: What Are You Doing
 	tag: Bud
-	tag: FlashLight	
+	tag: FlashLight
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Skeleton
 	tag: WineCellar
 page:illgrabtwo
 	date: 2005-11-02
 	desc: I'll Grab Two
 	tag: Kevin
-	tag: Monica	
-	tag: MonicaHouse
+	tag: Monica
+	tag: MonicasPlace
 page:meetyouinthekitchen
 	date: 2005-11-01
 	desc: Meet You In The Kitchen
@@ -19815,7 +19981,7 @@ page:meetyouinthekitchen
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Towel
 page:hasshebeendrinking
 	date: 2005-10-31
@@ -19824,7 +19990,7 @@ page:hasshebeendrinking
 	tag: GreySpeak
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Towel
 page:whoareyou
 	date: 2005-10-28
@@ -19832,7 +19998,7 @@ page:whoareyou
 	tag: Bud
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Towel
 page:quitshoving
 	date: 2005-10-27
@@ -19842,7 +20008,7 @@ page:quitshoving
 	tag: Hatch
 	tag: Jin
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Phone
 	tag: Towel
 page:hideinhere
@@ -19853,7 +20019,7 @@ page:hideinhere
 	tag: Hatch
 	tag: Jin
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:ohdoublecrud
 	date: 2005-10-25
 	desc: Oh double crud
@@ -19862,7 +20028,7 @@ page:ohdoublecrud
 	tag: Hatch
 	tag: Jin
 	tag: Merchant
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:needtotrythesebananas
 	date: 2005-10-24
@@ -19873,7 +20039,7 @@ page:needtotrythesebananas
 	tag: Dietzel
 	tag: Jin
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:heylookbananas
 	date: 2005-10-21
 	desc: Hey Look Bananas
@@ -19882,7 +20048,7 @@ page:heylookbananas
 	tag: Brandi
 	tag: Bud
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:wasthatyou
 	date: 2005-10-20
 	desc: Was That You
@@ -19892,27 +20058,27 @@ page:wasthatyou
 	tag: Dietzel
 	tag: Jin
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:howshemadeit
 	date: 2005-10-19
 	desc: How she made it
 	tag: Dietzel
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:inareallygoomood
 	date: 2005-10-18
 	desc: In A Really Good Mood
 	note: crumbling
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Skeleton
 	tag: WineCellar
 page:mustbeforhalloween
 	date: 2005-10-17
 	desc: Must Be For Halloween
-	tag: FlashLight	
+	tag: FlashLight
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Skeleton
 	tag: WineCellar
 page:winecellar
@@ -19920,7 +20086,7 @@ page:winecellar
 	desc: Wine Cellar
 	tag: FlashLight
 	tag: Kevin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Skeleton
 	tag: WineCellar
 page:cookingmesupper
@@ -19928,7 +20094,7 @@ page:cookingmesupper
 	desc: Cooking Me Supper
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Museum
 	tag: Phone
 page:onmydesklastweek
@@ -19936,7 +20102,7 @@ page:onmydesklastweek
 	desc: On My Desk Last Week
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Museum
 	tag: Phone
 page:startingtogetcold
@@ -19952,7 +20118,7 @@ page:wishiknew
 page:threepartsofone
 	date: 2005-10-07
 	desc: Three Parts Of One
-	tag: Chimera	
+	tag: Chimera
 	tag: Monica
 	tag: MuchoMocha
 	tag: Tina
@@ -19971,19 +20137,19 @@ page:pentupaggression
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:walkthatdog
 	date: 2005-10-04
 	desc: Walk That Dog
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:spillitslappy
 	date: 2005-10-03
 	desc: Spill It Slappy
 	tag: Kiss
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:bestthingtoeverhappen
 	date: 2005-09-30
@@ -19993,7 +20159,7 @@ page:bestthingtoeverhappen
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:adorabledrunk
 	date: 2005-09-29
 	desc: Adorable Drunk
@@ -20002,7 +20168,7 @@ page:adorabledrunk
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:seeyamonday
 	date: 2005-09-28
 	desc: See Ya Monday
@@ -20383,7 +20549,7 @@ page:workingthroughissues
 page:thatsunfair
 	date: 2005-07-13
 	desc: That's Unfair
-	tag: Heather	
+	tag: Heather
 	tag: Shelly
 page:mutualtrust
 	date: 2005-07-12
@@ -20529,7 +20695,7 @@ page:feelfine
 	tag: FaceGlyph
 	tag: Fight
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:upset
 	date: 2005-06-10
 	desc: Upset
@@ -20538,10 +20704,10 @@ page:upset
 	tag: Doubt
 	tag: FaceGlyph
 	tag: Flashback
-	tag: GreySpeak 
+	tag: GreySpeak
 	tag: Jin
 	tag: MirrorSpeak
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Tears
 page:holdtogether
@@ -20550,10 +20716,10 @@ page:holdtogether
 	tag: Chimera
 	tag: Demon
 	tag: Doubt
-	tag: GreySpeak 
+	tag: GreySpeak
 	tag: Jin
 	tag: MirrorSpeak
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:nicetry
 	date: 2005-06-08
 	desc: Nice Try
@@ -20564,7 +20730,7 @@ page:nicetry
 	tag: Flashback
 	tag: Jin
 	tag: MirrorSpeak
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pit
 page:isntfunny
 	date: 2005-06-07
@@ -20575,7 +20741,7 @@ page:isntfunny
 	tag: Demon
 	tag: Doubt
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: GreySpeak
 	tag: MirrorSpeak
 page:littlehelp
@@ -20586,7 +20752,7 @@ page:littlehelp
 	tag: Demon
 	tag: Doubt
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:itskicking
 	date: 2005-06-03
 	desc: Its Kicking
@@ -20595,7 +20761,7 @@ page:itskicking
 	tag: Demon
 	tag: Doubt
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:thensnaps
 	date: 2005-06-02
 	desc: Then Snaps
@@ -20604,7 +20770,7 @@ page:thensnaps
 	tag: Demon
 	tag: Doubt
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 page:putitback
 	date: 2005-06-01
@@ -20614,41 +20780,41 @@ page:putitback
 	tag: Demon
 	tag: Doubt
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:stinky
 	date: 2005-05-31
 	desc: Stinky
 	tag: Doubt
 	tag: Demon
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Brandi
 page:05302005
 	date: 2005-05-30
 	desc: Miss Gargoyle Of The Boudoir
 	tag: Monica
 	tag: Amanda
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tongue
 page:05272005
 	date: 2005-05-27
 	desc: Sounds Like The Perfect Guy
 	tag: Monica
 	tag: Amanda
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:05262005
 	date: 2005-05-26
 	desc: What Is Your Malfunction
 	tag: Monica
 	tag: Amanda
 	tag: Lollipop
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:05252005
 	date: 2005-05-25
 	desc: You're Whining
 	tag: Monica
 	tag: Amanda
 	tag: Lollipop
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:05242005
 	date: 2005-05-24
 	desc: No Chance To Really Whine
@@ -20663,7 +20829,7 @@ page:05232005
 	tag: LakeCalhoun
 	tag: BoatHouse
 	tag: BoatGirls
-	tag: DaddysGirl	
+	tag: DaddysGirl
 page:05202005
 	date: 2005-05-20
 	desc: Something We'll Both Regret
@@ -20713,7 +20879,7 @@ page:05122005
 	desc: Running Makes Me Bouncy
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Bounce
 	tag: Colour
 page:05112005
@@ -20721,13 +20887,13 @@ page:05112005
 	desc: You Initiated Everything
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:05102005
 	date: 2005-05-10
 	desc: Want To Go For A Run
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:05092005
 	date: 2005-05-09
 	desc: Peanut Butter
@@ -20783,7 +20949,7 @@ page:04292005
 	desc: It's Alright To Go Play
 	tag: Heather
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: GreySpeak
 page:04282005
 	date: 2005-04-28
@@ -20810,41 +20976,41 @@ page:04262005
 	date: 2005-04-26
 	desc: This Isn't Fair
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Heather
 page:04252005
 	date: 2005-04-25
 	desc: Under Different Circumstances
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Heather
 page:04222005
 	date: 2005-04-22
 	desc: Something Else On My Mind
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Heather
 	tag: BowlingBall
 page:04212005
 	date: 2005-04-21
 	desc: What I'm Doing Too
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Heather
 	tag: GreySpeak
 page:04202005
 	date: 2005-04-20
 	desc: Grrls Juss Wanna Have
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:04192005
 	date: 2005-04-19
 	desc: Spring Cleaning
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Rabbit
 	tag: MoonFacedRabbit
 page:04182005
@@ -20871,8 +21037,8 @@ page:04132005
 	tag: Jin
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
-	tag: Shower	
+	tag: MonicasPlace
+	tag: Shower
 	tag: Snake
 page:04122005
 	date: 2005-04-12
@@ -20880,76 +21046,76 @@ page:04122005
 	tag: Jin
 	tag: Rabbit
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: SunnysideUp
 page:04112005
 	date: 2005-04-11
 	desc: Switch The Topic
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:04082005
 	date: 2005-04-08
 	desc: Busty Mom Hug
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:04072005
 	date: 2005-04-07
 	desc: 04-07-2005
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:04062005
 	date: 2005-04-06
 	desc: 04-06-2005
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:04052005
 	date: 2005-04-05
 	desc: Who's Heather
 	tag: Blush
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:04042005
 	date: 2005-04-04
 	desc: 04-04-2005
 	tag: GreySpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:04012005
 	date: 2005-04-01
 	desc: 04-01-2005
 	tag: GreySpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:03312005
 	date: 2005-03-31
 	desc: You're Shaking All Over
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:03302005
 	date: 2005-03-30
 	desc: It's 4 In The Morning
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:03292005
 	date: 2005-03-29
 	desc: This Isn't Fair
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:03282005
 	date: 2005-03-28
 	desc: What The Hell Was That
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Vomit
 page:03252005
 	date: 2005-03-25
@@ -20973,7 +21139,7 @@ page:03232005
 	tag: Bed
 	tag: BoilerRoom
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:03222005
 	date: 2005-03-22
 	desc: She's Such A Calm Soul
@@ -20981,7 +21147,7 @@ page:03222005
 	tag: Heather
 	tag: HeatherHome
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 page:03212005
 	date: 2005-03-21
 	desc: It Doesn't Have To Mean Anything
@@ -20992,7 +21158,7 @@ page:03182005
 	tag: Bed
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:03172005
 	date: 2005-03-17
 	desc: St Patrick's Day 2005
@@ -21024,7 +21190,7 @@ page:03112005
 	date: 2005-03-11
 	desc: Call You Later
 	tag: Heather
-	tag: Shelly	
+	tag: Shelly
 page:03102005
 	date: 2005-03-10
 	desc: Allowing Someone In
@@ -21036,25 +21202,25 @@ page:03092005
 	desc: Allowing Someone Special
 	tag: 400Bar
 	tag: Heather
-	tag: Shelly	
+	tag: Shelly
 page:03082005
 	date: 2005-03-08
 	desc: Misinterpret
 	tag: 400Bar
 	tag: Heather
-	tag: Shelly	
+	tag: Shelly
 page:03072005
 	date: 2005-03-07
 	desc: What's With The Butterflies
 	tag: 400Bar
 	tag: Heather
-	tag: Shelly	
+	tag: Shelly
 page:03042005
 	date: 2005-03-04
 	desc: We Can Just Take My Car
 	tag: AutoRepair
 	tag: Heather
-	tag: Shelly	
+	tag: Shelly
 page:03032005
 	date: 2005-03-03
 	desc: All Fussy And Nervous
@@ -21127,7 +21293,7 @@ page:02182005
 page:02172005
 	date: 2005-02-17
 	desc: I Think They Broke The Bed
-	tag: DownstairsBar 
+	tag: DownstairsBar
 	tag: Lakshmi
 	tag: Owen
 	tag: OwenLakshmiPlace
@@ -21154,27 +21320,27 @@ page:02112005
 	date: 2005-02-11
 	desc: Get A Job As A Fish
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Shower
 page:02102005
 	date: 2005-02-10
 	desc: 02-10-2005
 	tag: Bra
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 page:02092005
 	date: 2005-02-09
 	desc: 02-09-2005
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 page:02082005
 	date: 2005-02-08
 	desc: 02-08-2005
 	tag: BusStop
 	tag: Katherine
-	tag: KatherineHome
+	tag: GilchristHome
 	tag: Oscar
 page:02072005
 	date: 2005-02-07
@@ -21231,16 +21397,16 @@ page:01272005
 	tag: Brandi
 	tag: Bud
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 page:01262005
 	date: 2005-01-26
 	desc: 01-26-2005
 	tag: Dietzel
-	tag: Fire	
+	tag: Fire
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tepoz
@@ -21249,7 +21415,7 @@ page:01252005
 	desc: Liar, Liar, Pants On Fire
 	tag: Fire
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tepoz
@@ -21258,7 +21424,7 @@ page:01242005
 	desc: Your Ass Is On Fire
 	tag: Fire
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 page:01212005
@@ -21266,7 +21432,7 @@ page:01212005
 	desc: 01-21-2005
 	tag: MirrorSpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tears
@@ -21275,7 +21441,7 @@ page:01202005
 	desc: 01-20-2005
 	tag: MirrorSpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tears
@@ -21284,7 +21450,7 @@ page:01192005
 	desc: 01-19-2005
 	tag: MirrorSpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tears
@@ -21293,7 +21459,7 @@ page:01182005
 	desc: 01-18-2005
 	tag: MirrorSpeak
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tears
@@ -21302,7 +21468,7 @@ page:01172005
 	date: 2005-01-17
 	desc: Stop This
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tears
@@ -21311,7 +21477,7 @@ page:01142005
 	date: 2005-01-14
 	desc: Stay Away From Her
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Doubt
 	tag: Tears
@@ -21320,7 +21486,7 @@ page:01132005
 	date: 2005-01-13
 	desc: You Didn't Believe In Yourself
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Demon
 	tag: Tears
 	tag: Tepoz
@@ -21328,19 +21494,19 @@ page:01122005
 	date: 2005-01-12
 	desc: In Front Of A Bus
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:01112005
 	date: 2005-01-11
 	desc: Why Are You Stressed
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:01102005
 	date: 2005-01-10
 	desc: It Happens When I'm Stressed
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:01072005
 	date: 2005-01-07
@@ -21416,27 +21582,27 @@ page:12252004
 	tag: Dietzel
 	tag: Filler
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:12242004
 	date: 2004-12-24
 	desc: Noisy Sex
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:12232004
 	date: 2004-12-23
 	desc: Stop Licking My Leg!!!
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PoliceMan
 	tag: PoliceWoman
 page:12222004
 	date: 2004-12-22
 	desc: 12-22-2004
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PoliceWoman
 page:12212004
 	date: 2004-12-21
@@ -21444,7 +21610,7 @@ page:12212004
 	tag: EyeGlow
 	tag: Lioness
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PoliceMan
 	tag: PoliceWoman
 page:12202004
@@ -21452,7 +21618,7 @@ page:12202004
 	desc: AslEEEEEP!
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: PoliceMan
 	tag: PoliceWoman
 	tag: Tongue
@@ -21460,7 +21626,7 @@ page:12172004
 	date: 2004-12-17
 	desc: It's The Police
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Police
 	tag: SquadCar
 page:12162004
@@ -21468,7 +21634,7 @@ page:12162004
 	desc: Did You Order A Pizza
 	tag: Bud
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:12152004
 	date: 2004-12-15
 	desc: Loco Como Una Cabra!
@@ -21477,7 +21643,7 @@ page:12152004
 	tag: EyeGlow
 	tag: Glyph
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pillow
 page:12142004
 	date: 2004-12-14
@@ -21485,7 +21651,7 @@ page:12142004
 	tag: Goat
 	tag: Lioness
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Pillow
 	tag: Snake
 page:12132004
@@ -21495,18 +21661,18 @@ page:12132004
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:12102004
 	date: 2004-12-10
 	desc: You've Been A Bad Girl
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Lioness
 page:12092004
 	date: 2004-12-09
 	desc: 12-09-2004
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Lioness
 	tag: EyeGlow
 page:12082004
@@ -21516,7 +21682,7 @@ page:12082004
 	tag: Kevin
 	tag: Kiss
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:12072004
 	date: 2004-12-07
 	desc: Hey Sailor
@@ -21596,14 +21762,14 @@ page:11192004
 	desc: 11-19-2004
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Puddle
 page:11182004
 	date: 2004-11-18
 	desc: Created To Protect The Temples
 	tag: Golem
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11172004
 	date: 2004-11-17
@@ -21612,7 +21778,7 @@ page:11172004
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11162004
 	date: 2004-11-16
@@ -21621,7 +21787,7 @@ page:11162004
 	tag: Bud
 	tag: Chimera
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11152004
 	date: 2004-11-15
@@ -21630,7 +21796,7 @@ page:11152004
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11122004
 	date: 2004-11-12
@@ -21638,7 +21804,7 @@ page:11122004
 	tag: EyeGlow
 	tag: FaceGlyph
 	tag: Jin
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11112004
 	date: 2004-11-11
@@ -21649,7 +21815,7 @@ page:11112004
 	tag: Golem
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:11102004
 	date: 2004-11-10
 	desc: I Don't Think You Understand
@@ -21659,14 +21825,14 @@ page:11102004
 	tag: FaceGlyph
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11092004
 	date: 2004-11-09
 	desc: 11-09-2004
 	tag: Brandi
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11082004
 	date: 2004-11-08
@@ -21675,14 +21841,14 @@ page:11082004
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11052004
 	date: 2004-11-05
 	desc: Sooo Cute!!
 	tag: Brandi
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11042004
 	date: 2004-11-04
@@ -21691,26 +21857,26 @@ page:11042004
 	tag: Bud
 	tag: Jin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Tepoz
 page:11032004
 	date: 2004-11-03
 	desc: Breakfast
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11022004
 	date: 2004-11-02
 	desc: 11-02-2004
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:11012004
 	date: 2004-11-01
 	desc: Those Poor Folks
 	tag: Monica
-	tag: MonicaHouse	
+	tag: MonicasPlace
 page:10312004
 	date: 2004-10-31
 	desc: Coming Soon
@@ -21724,14 +21890,14 @@ page:10292004
 	desc: 10-29-2004
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:10282004
 	date: 2004-10-28
 	desc: 10-28-2004
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:10272004
 	date: 2004-10-27
@@ -21739,7 +21905,7 @@ page:10272004
 	tag: Dietzel
 	tag: Mole
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Poit
 	tag: Tepoz
 page:10262004
@@ -21748,14 +21914,14 @@ page:10262004
 	tag: Dietzel
 	tag: Mole
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:10252004
 	date: 2004-10-25
 	desc: 10-25-2004
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Tepoz
 page:10222004
 	date: 2004-10-22
@@ -21763,7 +21929,7 @@ page:10222004
 	tag: Alan
 	tag: Kevin
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: ShadesGirl
 page:10212004
 	date: 2004-10-21
@@ -21888,7 +22054,7 @@ page:09272004
 page:09242004
 	date: 2004-09-24
 	desc: Something Really Stupid
-	tag: Alan	
+	tag: Alan
 	tag: Dietzel
 	tag: Frisbee
 	tag: Kevin
@@ -21896,7 +22062,7 @@ page:09242004
 page:09232004
 	date: 2004-09-23
 	desc: Annette Funicello
-	tag: Alan	
+	tag: Alan
 	tag: Kevin
 	tag: Park
 page:09222004
@@ -21936,29 +22102,29 @@ page:09162004
 page:09152004
 	date: 2004-09-15
 	desc: 09-15-2004
-	tag: Dietzel	
+	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Rollerskates
 page:09142004
 	date: 2004-09-14
 	desc: 09-14-2004
-	tag: Dietzel	
+	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse	
+	tag: MonicasPlace
 page:09132004
 	date: 2004-09-13
 	desc: 09-13-2004
-	tag: Dietzel	
+	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: TardySlip
 page:09102004
 	date: 2004-09-10
 	desc: 09-10-2004
-	tag: Dietzel	
+	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: MuchoMocha
 	tag: Shelly
 page:09092004
@@ -21982,7 +22148,7 @@ page:09072004
 	desc: Fuzzy Television Channel
 	tag: Monica
 	tag: MuchoMocha
-	tag: Shelly	
+	tag: Shelly
 page:09062004
 	date: 2004-09-06
 	desc: Smile Like A Trumpet Blast
@@ -22006,7 +22172,7 @@ page:09022004
 	desc: I've Created Monsters
 	tag: Amanda
 	tag: AmandaStudio
-	tag: Camera	
+	tag: Camera
 	tag: Roof
 page:09012004
 	date: 2004-09-01
@@ -22078,7 +22244,7 @@ page:08192004
 	tag: AmandaStudio
 	tag: Roof
 	tag: Shelly
-	tag: Wine	
+	tag: Wine
 page:08182004
 	date: 2004-08-18
 	desc: 08-18-2004
@@ -22357,14 +22523,14 @@ page:06252004
 page:06232004
 	date: 2004-06-23
 	desc: 06-23-2004
-	tag: Katherine	
+	tag: Katherine
 	tag: Monica
 	tag: Museum
 page:06212004
 	date: 2004-06-21
 	desc: 06-21-2004
 	tag: Bra
-	tag: Greg
+	tag: GregoryFields
 	tag: GutBomb
 	tag: Monica
 	tag: Museum
@@ -22451,7 +22617,7 @@ page:05262004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
-	tag: Tepoz	
+	tag: Tepoz
 page:05242004
 	date: 2004-05-24
 	desc: 05-24-2004
@@ -22582,7 +22748,7 @@ page:04122004
 	desc: 04-12-2004
 	tag: Glyph
 	tag: Monica
-	tag: Museum	
+	tag: Museum
 	tag: Tepoz
 page:04092004
 	date: 2004-04-09
@@ -22595,7 +22761,7 @@ page:04072004
 	desc: 04-07-2004
 	tag: AlarmClock
 	tag: Bed
-	tag: Dietzel 
+	tag: Dietzel
 	tag: Monica
 page:04052004
 	date: 2004-04-05
@@ -22706,14 +22872,14 @@ page:03012004
 	tag: BroomCloset
 	tag: Galena
 	tag: Monica
-	tag: Sailor	
+	tag: Sailor
 page:02272004
 	date: 2004-02-27
 	desc: 02-27-2004
 	tag: Amanda
 	tag: Bar
 	tag: Galena
-	tag: Sailor	
+	tag: Sailor
 page:02252004
 	date: 2004-02-25
 	desc: 02-25-2004
@@ -22748,7 +22914,7 @@ page:02162004
 	tag: Galena
 	tag: Monica
 	tag: Truck
-date: 2004-02-13
+page:02132004
 	date: 2004-02-13
 	desc: 02-13-2004
 	tag: Amanda
@@ -22824,7 +22990,7 @@ page:01232004
 page:01212004
 	date: 2004-01-21
 	desc: He couldn't stop talking about you
-	tag: Cogs	
+	tag: Cogs
 	tag: DarensBar
 	tag: Heather
 	tag: Shelly
@@ -22833,13 +22999,13 @@ page:01192004
 	desc: Recognition
 	tag: DarensBar
 	tag: Heather
-	tag: Shelly	
+	tag: Shelly
 page:01162004
 	date: 2004-01-16
 	desc: 01-16-2004
 	tag: DarensBar
 	tag: Heather
-	tag: Shelly	
+	tag: Shelly
 page:01142004
 	date: 2004-01-14
 	desc: 01-14-2004
@@ -22986,14 +23152,14 @@ page:11282003
 	date: 2003-11-28
 	desc: 11-28-2003
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Dietzel
 	tag: Clown
 page:11262003
 	date: 2003-11-26
 	desc: 11-26-2003
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Dietzel
 page:11242003
 	date: 2003-11-24
@@ -23345,7 +23511,7 @@ page:07302003
 	date: 2003-07-30
 	desc: 07-30-2003
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 page:07282003
 	date: 2003-07-28
 	desc: 07-28-2003
@@ -23420,11 +23586,11 @@ page:07022003
 	desc: 07-02-2003
 	tag: Monica
 	tag: Museum
-	tag: Greg
+	tag: GregoryFields
 page:06302003
 	date: 2003-06-30
 	desc: 06-30-2003
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: Museum
 	tag: Speculum
@@ -23523,7 +23689,7 @@ page:05232003
 	tag: Lakshmi
 	tag: LakshmiSister
 	tag: PrasadHouse
-	tag: Owen	
+	tag: Owen
 page:05212003
 	date: 2003-05-21
 	desc: 05-21-2003
@@ -23535,7 +23701,7 @@ page:05192003
 	desc: 05-19-2003
 	tag: GameStore
 	tag: Shelly
-	tag: PaintBallRep	
+	tag: PaintBallRep
 page:05162003
 	date: 2003-05-16
 	desc: 05-16-2003
@@ -23582,44 +23748,44 @@ page:04302003
 	desc: 04-30-2003
 	tag: Kitchen
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Smoke
 page:04282003
 	date: 2003-04-28
 	desc: 04-28-2003
 	tag: FireExtinguisher
-	tag: Popcorn	
+	tag: Popcorn
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Smoke
 page:04252003
 	date: 2003-04-25
 	desc: 04-25-2003
-	tag: Popcorn	
+	tag: Popcorn
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: Smoke
 	tag: VideoTape
 page:04232003
 	date: 2003-04-23
 	desc: 04-23-2003
-	tag: Popcorn	
+	tag: Popcorn
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: VideoTape
 page:04212003
 	date: 2003-04-21
 	desc: 04-21-2003
 	tag: Popcorn
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: VideoTape
 page:04182003
 	date: 2003-04-18
 	desc: 04-18-2003
 	tag: BrigitJonesDiary
 	tag: Shelly
-	tag: ShellyHome
+	tag: ShellysApartment
 	tag: VideoTape
 page:04162003
 	date: 2003-04-16
@@ -23821,7 +23987,7 @@ page:02122003
 	date: 2003-02-12
 	desc: 02-12-2003
 	tag: Monica
-	tag: MonicasAunt	
+	tag: MonicasAunt
 	tag: Monterrey
 	tag: Rigo
 	tag: Tio
@@ -23904,7 +24070,7 @@ page:01202003
 	tag: Beach
 	tag: Claire
 	tag: FireFighters
-	tag: Julie
+	tag: Julia
 	tag: Nikki
 page:01172003
 	date: 2003-01-17
@@ -23918,7 +24084,7 @@ page:01152003
 	tag: Amanda
 	tag: Claire
 	tag: FireFighters
-	tag: Julie
+	tag: Julia
 	tag: Nikki
 page:01132003
 	date: 2003-01-13
@@ -23926,7 +24092,7 @@ page:01132003
 	tag: Amanda
 	tag: Claire
 	tag: FireFighters
-	tag: Julie
+	tag: Julia
 	tag: Nikki
 page:01102003
 	date: 2003-01-10
@@ -23941,7 +24107,7 @@ page:01082003
 	tag: FermentedBanana
 	tag: Owen
 	tag: Shelly
-	tag: ThePlow	
+	tag: ThePlow
 page:01062003
 	date: 2003-01-06
 	desc: 01-06-2003
@@ -23949,7 +24115,7 @@ page:01062003
 	tag: FermentedBanana
 	tag: Owen
 	tag: Shelly
-	tag: ThePlow	
+	tag: ThePlow
 page:01032003
 	date: 2003-01-03
 	desc: 01-03-2003
@@ -23959,7 +24125,7 @@ page:01032003
 	tag: Jacqui
 	tag: Owen
 	tag: Shelly
-	tag: ThePlow	
+	tag: ThePlow
 page:01012003
 	date: 2003-01-01
 	desc: 01-01-2003
@@ -23969,7 +24135,7 @@ page:01012003
 	tag: IntentionalThumbprint
 	tag: Owen
 	tag: Shelly
-	tag: ThePlow	
+	tag: ThePlow
 page:12302002
 	date: 2002-12-30
 	desc: 12-30-2002
@@ -24102,7 +24268,7 @@ page:11202002
 	date: 2002-11-20
 	desc: Is that one of those dolls that plays music and dances?
 	tag: Envelope
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
@@ -24139,7 +24305,7 @@ page:11082002
 	desc: 11-08-2002
 	tag: Birdcage
 	tag: Buddha
-	tag: Greg
+	tag: GregoryFields
 	tag: Kali
 	tag: Laser
 	tag: Monica
@@ -24148,7 +24314,7 @@ page:11062002
 	date: 2002-11-06
 	desc: 11-06-2002
 	tag: Monica
-	tag: Greg
+	tag: GregoryFields
 	tag: Museum
 page:11042002
 	date: 2002-11-04
@@ -24242,6 +24408,7 @@ page:10022002
 	tag: Amanda
 	tag: Museum
 	tag: Monica
+;<!-- retag -->
 page:09302002
 	date: 2002-09-30
 	desc: 09-30-2002
@@ -24271,7 +24438,7 @@ page:09232002
 page:09202002
 	date: 2002-09-20
 	desc: 09-20-2002
-	note: a silent "poit"?
+	note: a silent 'teleport-other' poit?
 	tag: Burp
 	tag: Monica
 	tag: Museum
@@ -24282,6 +24449,7 @@ page:09182002
 	desc: 09-18-2002
 	tag: Monica
 	tag: Museum
+	tag: Pulque
 	tag: Tepoz
 page:09162002
 	date: 2002-09-16
@@ -24308,6 +24476,7 @@ page:09112002
 page:09092002
 	date: 2002-09-09
 	desc: 09-09-2002
+	tag: BookOfMormon
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
@@ -24324,210 +24493,217 @@ page:09042002
 page:09022002
 	date: 2002-09-02
 	desc: 09-02-2002
-	tag: Monica
 	tag: Amanda
+	tag: Monica
 	tag: Museum
 page:08302002
 	date: 2002-08-30
 	desc: 08-30-2002
-	tag: Monica
 	tag: Amanda
+	tag: Monica
 	tag: Museum
 page:08282002
 	date: 2002-08-28
 	desc: 08-28-2002
-	tag: Monica
 	tag: Amanda
+	tag: Monica
 	tag: Museum
 page:08262002
 	date: 2002-08-26
 	desc: 08-26-2002
-	tag: Monica
 	tag: Amanda
 	tag: Kevin
+	tag: Monica
 	tag: Museum
 page:08232002
 	date: 2002-08-23
 	desc: 08-23-2002
-	tag: Monica
 	tag: Amanda
+	tag: Monica
 	tag: Museum
 page:08212002
 	date: 2002-08-21
 	desc: 08-21-2002
-	tag: Monica
 	tag: Amanda
 	tag: Glasses
+	tag: Monica
+	tag: MonicasPlace
 page:08192002
 	date: 2002-08-19
 	desc: 08-19-2002
-	tag: Monica
 	tag: Amanda
+	tag: Monica
+	tag: MonicasPlace
 page:08162002
 	date: 2002-08-16
 	desc: 08-16-2002
-	tag: Monica
 	tag: Amanda
+	tag: Monica
+	tag: MonicasPlace
 page:08142002
 	date: 2002-08-14
 	desc: 08-14-2002
-	tag: Monica
 	tag: Amanda
+	tag: Monica
+	tag: MonicasPlace
 page:08122002
 	date: 2002-08-12
 	desc: 08-12-2002
-	tag: Monica
 	tag: Amanda
 	tag: FlowerShirt
+	tag: Monica
 page:08092002
 	date: 2002-08-09
 	desc: 08-09-2002
+	tag: Amanda
 	tag: Daren
 	tag: DarensBar
-	tag: Amanda
 	tag: Monica
 page:08072002
 	date: 2002-08-07
 	desc: 08-07-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:08052002
 	date: 2002-08-05
 	desc: 08-05-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:08022002
 	date: 2002-08-02
 	desc: 08-02-2002
-	tag: Museum
-	tag: Monica
+	tag: GregoryFields
 	tag: Kevin
-	tag: Greg
+	tag: Monica
+	tag: Museum
 page:07312002
 	date: 2002-07-31
 	desc: 07-31-2002
-	tag: Museum
-	tag: Monica
+	tag: GregoryFields
 	tag: Kevin
-	tag: Greg
+	tag: Monica
+	tag: Museum
 page:07292002
 	date: 2002-07-29
 	desc: 07-29-2002
-	tag: Museum
-	tag: Monica
+	tag: GregoryFields
 	tag: Kevin
-	tag: Greg
+	tag: Monica
+	tag: Museum
 page:07262002
 	date: 2002-07-26
 	desc: 07-26-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:07242002
 	date: 2002-07-24
 	desc: 07-24-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:07222002
 	date: 2002-07-22
 	desc: 07-22-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:07192002
 	date: 2002-07-19
 	desc: 07-19-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:07172002
 	date: 2002-07-17
 	desc: 07-17-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:07152002
 	date: 2002-07-15
 	desc: 07-15-2002
-	tag: Museum
-	tag: Monica
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:07122002
 	date: 2002-07-12
 	desc: 07-12-2002
-	tag: Museum
-	tag: Monica
-	tag: Greg
+	tag: GregoryFields
 	tag: Kevin
+	tag: Monica
+	tag: Museum
 page:07102002
 	date: 2002-07-10
 	desc: 07-10-2002
-	tag: Museum
+	tag: GregoryFields
 	tag: Monica
-	tag: Greg
+	tag: Museum
 page:07082002
 	date: 2002-07-08
 	desc: 07-08-2002
-	tag: Museum
+	tag: GregoryFields
 	tag: Monica
-	tag: Greg
+	tag: Museum
 page:07052002
 	date: 2002-07-05
 	desc: 07-05-2002
-	tag: Museum
-	tag: Monica
-	tag: Greg
+	tag: GregoryFields
 	tag: GregsOffice
+	tag: Monica
+	tag: Museum
 page:07032002
 	date: 2002-07-03
 	desc: 07-03-2002
-	tag: Museum
+	tag: GregoryFields
 	tag: Monica
-	tag: Greg
+	tag: Museum
 page:07012002
 	date: 2002-07-01
 	desc: 07-01-2002
-	tag: Shelly
 	tag: Amanda
+	tag: Fishing
 	tag: Monica
+	tag: Monica4thGrade
 	tag: Photo
-	tag: Fishing	
+	tag: Shelly
 page:06282002
 	date: 2002-06-28
 	desc: 06-28-2002
-	tag: Shelly
 	tag: Amanda
 	tag: Monica
 	tag: Photo
+	tag: Shelly
 page:06262002
 	date: 2002-06-26
 	desc: 06-26-2002
 	tag: Monica
+	tag: Monica4thGrade
 	tag: Photo
 page:06242002
 	date: 2002-06-24
 	desc: 06-24-2002
-	tag: Shelly
 	tag: Amanda
 	tag: Monica
+	tag: Shelly
 page:06212002
 	date: 2002-06-21
 	desc: 06-21-2002
-	tag: Car
-	tag: Shelly
-	tag: Divines
 	tag: Bra
+	tag: Car
+	tag: Divines
+	tag: Shelly
 page:06192002
 	date: 2002-06-19
 	desc: 06-19-2002
-	note: Daren named Daren here
+	note: Darin named Daren here
 	tag: Daren
-	tag: Owen
-	tag: Shelly
 	tag: DarensBar
+	tag: Owen
+	tag: Photo
+	tag: Shelly
 page:06172002
 	date: 2002-06-17
 	desc: 06-17-2002
@@ -24536,69 +24712,71 @@ page:06172002
 page:06142002
 	date: 2002-06-14
 	desc: 06-14-2002
-	tag: Monica
 	tag: Amanda
+	tag: Bar
+	tag: Monica
 	tag: Shelly
 	tag: TV
-	tag: DarensBar
 page:06122002
 	date: 2002-06-12
 	desc: 06-12-2002
-	tag: Owen
+	tag: Kiss
 	tag: Lakshmi
+	tag: Owen
+	tag: PrasadHouse
 page:05312002
 	date: 2002-05-31
 	desc: 05-31-2002
-	tag: Owen
-	tag: Lakshmi
-	tag: TheMaraschino
-	tag: Monica
 	tag: Amanda
+	tag: Lakshmi
+	tag: Monica
+	tag: Owen
+	tag: TheMaraschino
 page:05292002
 	date: 2002-05-29
 	desc: 05-29-2002
-	tag: Owen
 	tag: Lakshmi
+	tag: Owen
 	tag: TheMaraschino
 page:05272002
 	date: 2002-05-27
 	desc: 05-27-2002
-	tag: Owen
 	tag: Lakshmi
-	tag: TheMaraschino
 	tag: Monica
+	tag: Owen
+	tag: TheMaraschino
 page:05242002
 	date: 2002-05-24
 	desc: 05-24-2002
-	tag: Owen
-	tag: Lakshmi
-	tag: TheMaraschino
-	tag: Monica
 	tag: Brain
+	tag: Lakshmi
+	tag: Monica
+	tag: Owen
+	tag: TheMaraschino
 page:05222002
 	date: 2002-05-22
 	desc: 05-22-2002
-	tag: Owen
 	tag: Lakshmi
+	tag: Owen
 	tag: TheMaraschino
 page:05202002
 	date: 2002-05-20
 	desc: 05-20-2002
-	tag: Owen
 	tag: Lakshmi
+	tag: Owen
 	tag: TheMaraschino
 page:05172002
 	date: 2002-05-17
 	desc: 05-17-2002
-	tag: Owen
-	tag: Lakshmi
-	tag: TheMaraschino
 	tag: Band
+	tag: Lakshmi
+	tag: Owen
+	tag: TheMaraschino
 page:05152002
 	date: 2002-05-15
 	desc: 05-15-2002
-	tag: Owen
 	tag: Lakshmi
+	tag: Owen
 	tag: PrasadHouse
 page:05132002
 	date: 2002-05-13
@@ -24609,14 +24787,16 @@ page:05132002
 page:05102002
 	date: 2002-05-10
 	desc: 05-10-2002
-	tag: Owen
+	note: Lakshmi named here
 	tag: Jacqui
+	tag: Lakshmi
+	tag: Owen
 page:05082002
 	date: 2002-05-08
 	desc: 05-08-2002
 	note: what are these machines??
-	tag: Monica
 	tag: Dietzel
+	tag: Monica
 page:05062002
 	date: 2002-05-06
 	desc: 05-06-2002
@@ -24631,6 +24811,7 @@ page:05032002
 	desc: 05-03-2002
 	tag: Band
 	tag: CardTable
+	tag: Euclid
 	tag: FermentedBanana
 	tag: Owen
 	tag: Shelly
@@ -24647,49 +24828,50 @@ page:05012002
 page:04292002
 	date: 2002-04-29
 	desc: 04-29-2002
-	tag: FermentedBanana
 	tag: Band
-	tag: Shelly
+	tag: FermentedBanana
 	tag: Owen
+	tag: Shelly
 	tag: Speakers
 page:04262002
 	date: 2002-04-26
 	desc: 04-26-2002
-	tag: FermentedBanana
 	tag: Band
-	tag: Shelly
+	tag: FermentedBanana
 	tag: Owen
-	tag: Speakers	
+	tag: Shelly
+	tag: Speakers
 page:04242002
 	date: 2002-04-24
 	desc: 04-24-2002
-	tag: FermentedBanana
 	tag: Band
-	tag: Shelly
-	tag: Owen
+	tag: FermentedBanana
 	tag: Jacqui
+	tag: Owen
+	tag: Shelly
 	tag: VWvan
 page:04222002
 	date: 2002-04-22
 	desc: 04-22-2002
-	tag: FermentedBanana
 	tag: Band
-	tag: Shelly
-	tag: Owen
+	tag: FermentedBanana
 	tag: Jacqui
+	tag: Owen
+	tag: Shelly
 	tag: VWvan
 page:04192002
 	date: 2002-04-19
 	desc: 04-19-2002
+	tag: Melons
 	tag: Monica
 	tag: Shelly
-	tag: Melons
 page:04172002
 	date: 2002-04-17
 	desc: 04-17-2002
 	tag: Amanda
 	tag: Monica
 	tag: Shelly
+	tag: Thursday
 page:04152002
 	date: 2002-04-15
 	desc: 04-15-2002
@@ -24700,37 +24882,39 @@ page:04152002
 page:04122002
 	date: 2002-04-12
 	desc: 04-12-2002
-	tag: Monica
 	tag: Dietzel
 	tag: Frisbee
+	tag: Monica
+	tag: Park
 page:04102002
 	date: 2002-04-10
 	desc: 04-10-2002
-	tag: Monica
 	tag: Dietzel
 	tag: Frisbee
+	tag: Monica
 	tag: Park
 page:04082002
 	date: 2002-04-08
 	desc: 04-08-2002
-	tag: Monica
 	tag: Dietzel
+	tag: Monica
+	tag: MonicasPlace
 	tag: PicnicBasket
 page:04052002
 	date: 2002-04-05
 	desc: 04-05-2002
+	tag: Jacqui
 	tag: Monica
 	tag: Shelly
-	tag: Spring
 	tag: Shower
-	tag: Jacqui
+	tag: Spring
 page:04032002
 	date: 2002-04-03
 	desc: 04-03-2002
 	tag: Monica
 	tag: Shelly
-	tag: Spring
 	tag: Shower
+	tag: Spring
 page:04012002
 	date: 2002-04-01
 	desc: 04-01-2002
@@ -24738,41 +24922,46 @@ page:04012002
 	tag: Shelly
 	tag: Spring
 	tag: Shower
-	tag: Thunder	
+	tag: Thunder
 page:03292002
 	date: 2002-03-29
 	desc: 03-29-2002
 	tag: Monica
-	tag: Spring
 	tag: Shower
-	tag: Thunder	
+	tag: Spring
+	tag: Thunder
 page:03272002
 	date: 2002-03-27
 	desc: 03-27-2002
-	tag: Shelly
+	tag: LipBalm
 	tag: Owen
-	tag: LipBalm	
+	tag: Shelly
 page:03252002
 	date: 2002-03-25
 	desc: 03-25-2002
 	tag: Amanda
-	tag: HubbaHubbaBiker
+	tag: BikerHubbaHubba
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:03222002
 	date: 2002-03-22
 	desc: 03-22-2002
 	tag: Amanda
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:03202002
 	date: 2002-03-20
 	desc: 03-20-2002
+	note: Sally's Bar bikers named
 	tag: Amanda
+	tag: BikerBen
+	tag: BikerEarl
+	tag: BikerLenny
+	tag: BikerPete
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:03182002
 	date: 2002-03-18
@@ -24780,27 +24969,27 @@ page:03182002
 	tag: Amanda
 	tag: BaseballBat
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 	tag: Shower
 page:03152002
 	date: 2002-03-15
 	desc: 03-15-2002
-	tag: Amanda	
+	tag: Amanda
 	tag: Car
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Shelly
 page:03132002
 	date: 2002-03-13
 	desc: 03-13-2002
 	tag: Dietzel
 	tag: Monica
-	tag: MonicaHouse
+	tag: MonicasPlace
 	tag: Wineglass
 page:03112002
 	date: 2002-03-11
 	desc: 03-11-2002
-	tag: Amanda	
+	tag: Amanda
 	tag: Bikers
 	tag: Car
 	tag: Monica
@@ -24810,73 +24999,74 @@ page:03082002
 	date: 2002-03-08
 	desc: 03-08-2002
 	tag: AaronSullivan
-	tag: Amanda	
 	tag: Bikers
 	tag: Helmet
 	tag: KittenGirl
 	tag: Monica
 	tag: SallysBar
-	tag: Shelly
 page:03062002
 	date: 2002-03-06
 	desc: 03-06-2002
-	tag: Shelly
-	tag: Amanda	
+	tag: Amanda
+	tag: AmandasPlace
 	tag: Car
+	tag: Shelly
 page:03042002
 	date: 2002-03-04
 	desc: 03-04-2002
+	tag: AaronSullivan
+	tag: Amanda
+	tag: AmandasPlace
+	tag: Bikers
 	tag: Monica
 	tag: SallysBar
-	tag: Bikers
-	tag: AaronSullivan
 	tag: Shelly
-	tag: Amanda	
 page:03012002
 	date: 2002-03-01
 	desc: 03-01-2002
+	tag: AaronSullivan
+	tag: Bikers
+	tag: KittenGirl
 	tag: Monica
 	tag: SallysBar
-	tag: Bikers
-	tag: AaronSullivan
-	tag: KittenGirl
 page:02272002
 	date: 2002-02-27
 	desc: 02-27-2002
+	tag: AaronSullivan
+	tag: Bikers
 	tag: Monica
 	tag: SallysBar
-	tag: Bikers
-	tag: AaronSullivan
 page:02252002
 	date: 2002-02-25
 	desc: 02-25-2002
 	tag: Amanda
+	tag: AmandasPlace
 	tag: Shelly
 	tag: Phone
 page:02222002
 	date: 2002-02-22
 	desc: 02-22-2002
-	tag: SallysBar
 	tag: BarMan
 	tag: Monica
+	tag: SallysBar
 page:02202002
 	date: 2002-02-20
 	desc: 02-20-2002
-	tag: SallysBar
 	tag: Bikers
 	tag: Monica
+	tag: SallysBar
 page:02182002
 	date: 2002-02-18
 	desc: 02-18-2002
-	tag: SallysBar
 	tag: Bikers
 	tag: Monica
+	tag: SallysBar
 page:02152002
 	date: 2002-02-15
 	desc: 02-15-2002
-	tag: SallysBar
-	tag: Motorbike
 	tag: Monica
+	tag: Motorbike
+	tag: SallysBar
 page:02132002
 	date: 2002-02-13
 	desc: 02-13-2002
@@ -24909,7 +25099,7 @@ page:02042002
 page:02012002
 	date: 2002-02-01
 	desc: 02-01-2002
-	tag: Greg
+	tag: GregoryFields
 	tag: Monica
 	tag: Museum
 	tag: MuseumContribtors
@@ -24935,6 +25125,7 @@ page:01232002
 	date: 2002-01-23
 	desc: 01-23-2002
 	tag: Amanda
+	tag: Bus
 	tag: Monica
 	tag: Utah
 page:01212002
@@ -24968,6 +25159,7 @@ page:01112002
 	date: 2002-01-11
 	desc: 01-11-2002
 	tag: Crates
+	tag: Monica
 	tag: Museum
 	tag: Tepoz
 page:01092002
@@ -25036,6 +25228,7 @@ page:12212001
 	tag: Colour
 	tag: Dream
 	tag: Monica
+	tag: MonicasPlace
 	tag: Snow
 page:12192001
 	date: 2001-12-19
@@ -25044,6 +25237,7 @@ page:12192001
 	tag: Monica
 	tag: Owen
 	tag: Shelly
+	tag: Wedgie
 page:12172001
 	date: 2001-12-17
 	desc: 12-17-2001
@@ -25069,117 +25263,125 @@ page:12102001
 page:12072001
 	date: 2001-12-07
 	desc: 12-07-2001
-	tag: Shelly
-	tag: Owen
 	tag: GirlInDress
+	tag: Owen
+	tag: Shelly
+	tag: Tongue
 page:12052001
 	date: 2001-12-05
 	desc: 12-05-2001
 	tag: Amanda
+	tag: Ballet
+	tag: Costume
 	tag: Monica
 	tag: Sleep
 page:12032001
 	date: 2001-12-03
 	desc: 12-03-2001
 	tag: Amanda
-	tag: Monica
 	tag: Ballet
-	tag: Costume
+	tag: Bar
 	tag: Bottle
-	tag: Bar	
+	tag: Costume
+	tag: Monica
 page:11302001
 	date: 2001-11-30
 	desc: 11-30-2001
-	tag: Band
-	tag: Monica
 	tag: Amanda
 	tag: Ballet
+	tag: Band
 	tag: Costume
 	tag: Dance
+	tag: Monica
 page:11282001
 	date: 2001-11-28
 	desc: 11-28-2001
-	tag: Monica
+	tag: Amanda
 	tag: Ballet
 	tag: Costume
-	tag: Amanda
-	tag: Bar
+	tag: Monica
+	tag: MonicasPlace
 page:11262001
 	date: 2001-11-26
 	desc: 11-26-2001
-	tag: Monica
+	tag: Amanda
 	tag: Ballet
 	tag: Costume
-	tag: Amanda
+	tag: Monica
+	tag: MonicasPlace
 page:11232001
 	date: 2001-11-23
 	desc: 11-23-2001
-	tag: Monica
 	tag: Amanda
-	tag: Tickets
+	tag: Monica
 	tag: PickleDippers
+	tag: Tickets
 page:11212001
 	date: 2001-11-21
 	desc: 11-21-2001
-	tag: Monica
 	tag: Amanda
 	tag: Birthday
-	tag: Statue
+	tag: Monica
 	tag: Museum
+	tag: Statue
 page:11192001
 	date: 2001-11-19
 	desc: 11-19-2001
-	tag: Shelly
-	tag: Jacqui
 	tag: BubbleWrap
+	tag: Jacqui
+	tag: Shelly
 page:11162001
 	date: 2001-11-16
 	desc: 11-16-2001
-	tag: Monica
-	tag: Phone
-	tag: Museum
-	tag: Movie
 	tag: Amanda
+	tag: Monica
+	tag: Movie
+	tag: Museum
+	tag: Phone
 page:11142001
 	date: 2001-11-14
 	desc: 11-14-2001
-	tag: Shelly
-	tag: Monica
+	tag: Amanda
 	tag: Book
 	tag: Bra
-	tag: Amanda
+	tag: Monica
+	tag: Shelly
 page:11122001
 	date: 2001-11-12
 	desc: 11-12-2001
 	tag: Amanda
-	tag: Monica
 	tag: Bra
+	tag: Monica
 page:11092001
 	date: 2001-11-09
 	desc: 11-09-2001
+	tag: Advert
 	tag: Amanda
+	tag: Kids
 	tag: Monica
 	tag: Newspaper
-	tag: Kids
 page:11072001
 	date: 2001-11-07
 	desc: 11-07-2001
-	tag: Monica
+	tag: Advert
 	tag: Dietzel
+	tag: Monica
+	tag: MonicasPlace
 page:11052001
 	date: 2001-11-05
 	desc: 11-05-2001
-	tag: Shelly
-	tag: Monica
+	tag: Advert
 	tag: Bar
+	tag: Monica
+	tag: Shelly
 page:11022001
 	date: 2001-11-02
 	desc: 11-02-2001
-	tag: Monica
-	tag: Book
 	tag: AntiqueShop
-	tag: Cafe
 	tag: Bar
+	tag: Book
+	tag: Cafe
+	tag: Monica
 page:10312001
 	date: 2001-10-31
 	desc: 10-31-2001
@@ -25208,6 +25410,7 @@ page:10242001
 	tag: Monica
 	tag: Amanda
 	tag: Daren
+	tag: DarensBar
 	tag: Buzzard
 	tag: Skeleton
 page:10222001
@@ -25226,6 +25429,7 @@ page:10172001
 	desc: 10-17-2001
 	tag: Amanda
 	tag: Dietzel
+	tag: MonicasPlace
 page:10152001
 	date: 2001-10-15
 	desc: 10-15-2001
@@ -25233,6 +25437,7 @@ page:10152001
 	tag: ContactLens
 	tag: Dietzel
 	tag: Monica
+	tag: MonicasPlace
 page:10122001
 	date: 2001-10-12
 	desc: 10-12-2001
@@ -25240,18 +25445,19 @@ page:10122001
 	tag: ContactLens
 	tag: Dietzel
 	tag: Monica
+	tag: MonicasPlace
 page:10102001
 	date: 2001-10-10
 	desc: 10-10-2001
-	tag: DarensBar
 	tag: Daren
+	tag: DarensBar
 	tag: Monica
 	tag: Shelly
 page:10082001
 	date: 2001-10-08
 	desc: 10-08-2001
 	tag: Amanda
-	tag: Bar
+	tag: DarensBar
 	tag: Monica
 page:10052001
 	date: 2001-10-05
@@ -25264,12 +25470,14 @@ page:10032001
 	tag: Dietzel
 	tag: Icewater
 	tag: Monica
+	tag: MonicasPlace
 	tag: Shower
 page:10012001
 	date: 2001-10-01
 	desc: 10-01-2001
 	tag: Dietzel
 	tag: Monica
+	tag: MonicasPlace
 	tag: Shower
 page:09282001
 	date: 2001-09-28
@@ -25292,6 +25500,7 @@ page:09242001
 	tag: Amanda
 	tag: LittleBlackDress
 	tag: Monica
+	tag: Shopping
 page:09212001
 	date: 2001-09-21
 	desc: 09-21-2001
