@@ -37,8 +37,7 @@ AllisonCrumly	had a poor reaction to a bee sting; known to [Castela](#castela)
 Amanda	Amanda Erlich, [Monica's](#monica) childhood friend; professional photographer; upper right arm ring tattoo
 AmandaPA	[Amanda's](#amanda) personal assistant on a photo shoot
 AmandaParents	referred but not seen?
-AmandasPlace	part of / connected to [Amanda's](#amanda) [studio](#AmandaStudio)
-AmandaStudio	[Amanda's](#amanda) photographic studio
+AmandasPlace	[Amanda's](#amanda) residence and photographic studio, large advert boards on the roof
 AmenhotepIV	a ['noodle incident'](http://tvtropes.org/pmwiki/pmwiki.php/Main/NoodleIncident) in [Bud's](#bud) past. Amenhotep IV is also known as [Akhenaten](https://en.wikipedia.org/wiki/Akhenaten), father of Tutankhamun 
 Ammo	what makes guns go bang
 Amun	excluded by the [World Grid](#worldgrid) -- Wikipedia: [Amun](https://en.wikipedia.org/wiki/Amun)
@@ -194,8 +193,7 @@ KikaiCauldera	in the Osumi Islands of Japan; major eruption in [4354BC](#4354bc)
 Krystle	teen Mermaid, attending [Gryphon High School](#gryphonhigh) with [Jessie](#jessie)
 Kukulcan	the "Feathered Serpent", a Mayan deity or chieftain (who looks rather Celtic / Norse from the mail shirt and helmet style)
 LakeCalhoun	lake and surrounding recreational parkland in [Minneapolis](#minneapolis), close by the Wapsi Square area of the city
-Lakshmi	large, strong lady, construction worker. Met [Owen](#owen) on a blind date
-LakshmiSister	a smaller (younger?) sister of [Lakshmi](#lakshmi), unnamed in-comic
+Lakshmi	Lakshmi Prasad. Large, strong lady. Considers 16lb bowling ball light. Construction worker. Met [Owen](#owen) on a blind date
 Lanthis	unrecorded pre-historical magitechnical civilisation which built the [Calendar Machine](#calendarmachine), but was destroyed by the [Chimera](#chimera). Alternative spelling Lanthas. Known in modern myth as Atlantis
 LapsangSouchong	smoked black tea, a favourite of [Jin's](#jin)
 Library	off-plane library of all books ever written, past or future. Self-aware. Attended by the Librarian, [Phix](#phix)
@@ -205,6 +203,7 @@ LittleTramp	referencing Charlie Chaplin's character
 Luci	receptionist & poster girl for Punk Yoga; Celtic knot-work tattoos
 Lust	one of [Monica's](#monica) [demons](#demon)
 Lydia	bra designer; diplomas in architecture and industrial design; Russian?
+Makshi	Makshi Prasad. A smaller (younger?) sister of [Lakshmi](#lakshmi)
 Mallory	member of [Devyn's](#devyn) gang; paranormal type: Amphiptere (winged serpent). Tall, dark hair, jelled up
 Manhattan	cocktail with a whiskey base
 Mapimi	a desert area in Durango, Mexico; Wikipedia: [Mapimí Silent Zone](https://en.wikipedia.org/wiki/Mapim%C3%AD_Silent_Zone)
@@ -224,7 +223,6 @@ Mojito	a rum-based cocktail
 Mole	a Mexican sauce -- Wikipedia: [Mole sauce](https://en.wikipedia.org/wiki/Mole_%28sauce%29)
 MomGotleib	[Jessie's](#jessie) and, presumably, [Daniel's](#daniel) mother
 Monica	Monica Villarreal, 4\' 11\", Mexican, anthropologist, [antique shop](#antiqueshop) owner, [Glyph](#glyph) [Reader](#glyphreader). Becomes a (the?) Jaguar Girl and the Demon Shepherd
-MonicasAunt	unnamed? Lives in [Monterrey](#monterrey)
 MonicasIsland	see [Island](#island), [CafeU296](#cafeu296)
 MonicasPlace	a small-looking house with basement and upstairs floors
 Monterrey	Mexican city where [Monica](#monica) has family: her [uncle](#tio), [aunt](#MonicasAunt), cousins [Rigo](#rigo) and [Marta](#marta)
@@ -250,6 +248,7 @@ PortalCloth	Printed with a meshwork design of a face; discovered in Yaxchilán b
 PortalTattoo	The PortalCloth's face design transferred to [Shelly's](#shelly) body
 Poseidon	the God of the Sea to the ancient Greeks. Owner of the [Poseidon Resort](#poseidonresort) swimming pool. Uncle of [Devyn](#devyn)
 PoseidonResort	the Paranormal Pool and related facilities are owned by [Poseidon](#poseidon)
+PrasadHome	Prasads include sisters [Lakshmi](#lakshmi) and [Maksi](#makshi)
 PunkYoga	[Jacqui's](#jacqui) yoga studio
 RainbowDash	from My Little Pony ?
 Randi	Coffee shop worker, sister of [Jacob](#jacob). Satyr
@@ -277,10 +276,11 @@ Suzie	Suzie McBride, vampire, FBI agent
 Tara	female, bullies [Devyn](#devyn) at [Gryphon High](#gryphonhigh) with [Jordan](#jordan)
 Teeth	some characters have unusual dentition by mainstream human standards, tagged when particularly strikingly displayed
 Tepoz	Tepoztecal, Aztec god of alcohol: an animate 3\' high blue statue or [golem](#golem)
+Tia	Spanish: "aunt". [Monica's](#monica) aunt in [Monterrey](#monterrey)
 Tiffany	minds the [Antique Shop](#antiqueshop)
 TimeForest	a time-keeping forest: the trees are used to keep track of time. An outdated technology. A good place to hide things.
 Tina	Tina Rosario Aldaco Guzmán, the demon barista. Proprietor of Mucho Mocha. Dead, animated by her [demon](#demon) conglomerate or commune when the Tina personality died in a car [crash](#crash)
-Tio	Spanish: "uncle". Specifically [Monica's](#monica) uncle in [Monterrey](#monterrey) 
+Tio	Spanish: "uncle". [Monica's](#monica) uncle in [Monterrey](#monterrey) 
 Tochtli	another identity of [Jin's](#jin), Tochtli's symbol is a [black rabbit](#blackrabbit), her role is to "keep things running smoothly"
 Tsillah	she is the Darkness. Her 'shadow' appears as a short goblin-girl. Daughter of Charon, the ferryman, and [Thymbris](#thymbris).
 TunaGirls	slang or disparaging name for [Mermaid](#mermaid) paranormals
@@ -292,5 +292,5 @@ Wings	a sudden/prominent display of, or reference to, wings on a character
 WorldGrid	a magitech barrier to keep interdimensional travellers such as [Elder Gods](#eldergods) (e.g. [Amun](#amun), [Shiva](#shiva)) and Titans from visiting Earth
 Yaxchilan	Mayan city in Mexico. Wikipedia: [Yaxchilan](https://en.wikipedia.org/wiki/Yaxchilan)
 YonaguniMonument	undersea formation off Japan. Wikipedia: [Yonaguni](https://en.wikipedia.org/wiki/Yonaguni_Monument)
-YummyTea	working name of Mexican artist, last name Teran, knew [Monica](#monica) as a kid
+YummyTea	DJ Yummy Tea, working name of Mexican artist, last name Teran, knew [Monica](#monica) as a kid
 ; --- tags.txt EOF ---

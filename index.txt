@@ -51,6 +51,185 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Castela
 ; Colour
 ;
+page:doing-quite-well
+	date: 2015-12-04
+	desc: Doing Quite Well
+	tag: Atsali
+	tag: Legs
+	tag: Nether
+page:wait-a-minute
+	date: 2015-12-02
+	desc: Wait A Minute
+	tag: Atsali
+	tag: Legs
+	tag: Nether
+page:swoosh
+	date: 2015-12-01
+	desc: Swoosh
+	tag: Atsali
+	tag: Legs
+	tag: Nether
+page:is-someone-there
+	date: 2015-11-30
+	desc: Is Someone There
+	tag: Atsali
+	tag: Legs
+	tag: Nether
+page:just-remember
+	date: 2015-11-29
+	desc: Just Remember
+	tag: Atsali
+	tag: Calista
+	tag: Nether
+page:its-started
+	date: 2015-11-27
+	desc: It’s Started
+	tag: Atsali
+	tag: Calista
+	tag: Cheerleaders
+	tag: Devyn
+	tag: GryphonHigh
+	tag: Nether
+	tag: Tears
+page:somewhere-quiet
+	date: 2015-11-25
+	desc: Somewhere Quiet
+	tag: Alexis
+	tag: Atsali
+	tag: Blush
+	tag: Calista
+	tag: Cheerleaders
+	tag: Devyn
+	tag: FlightTeam
+	tag: GryphonHigh
+	tag: Tears
+page:among-fellow-nerds
+	date: 2015-11-25
+	desc: Among Fellow Nerds
+	tag: Alexis
+	tag: Atsali
+	tag: Blush
+	tag: Calista
+	tag: Devyn
+	tag: GryphonHigh
+	tag: Tears
+page:social-butterfly
+	date: 2015-11-24
+	desc: Social Butterfly
+	tag: Alexis
+	tag: Blush
+	tag: Devyn
+	tag: GryphonHigh
+page:busted
+	date: 2015-11-22
+	desc: Busted
+	tag: Atsali
+	tag: Blush
+	tag: Calista
+	tag: Devyn
+	tag: GryphonHigh
+page:you-dorks
+	date: 2015-11-19
+	desc: You Dorks
+	tag: Alexis
+	tag: Calista
+	tag: Devyn
+	tag: GryphonHigh
+page:toy-freedom
+	date: 2015-11-19
+	desc: Toy Freedom
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page:inside-voice
+	date: 2015-11-17
+	desc: Inside Voice
+	tag: Castela
+	tag: Daylla
+	tag: GryphonElementary
+	tag: MrsConey
+	tag: Timothy
+page:dopey-puppy
+	date: 2015-11-17
+	desc: Dopey Puppy
+	tag: Euryale
+	tag: Flashback
+	tag: Medusa
+	tag: SnakeHair
+	tag: Stheno
+page:new-patreon-pledge-incentives
+	date: 2015-11-13
+	desc: Advert: New Patreon Pledge Incentives
+	tag: Filler
+	tag: Medusa
+	tag: SnakeHair
+page:when-you-grow-up
+	date: 2015-11-13
+	desc: When You Grow Up
+	tag: Castela
+	tag: Euryale
+	tag: Flashback
+	tag: Medusa
+	tag: MonicasIsland
+	tag: Stheno
+	tag: SnakeHair
+	tag: Tears
+page:tell-me-more
+	date: 2015-11-12
+	desc: Tell Me More
+	tag: Castela
+	tag: Euryale
+	tag: Flashback
+	tag: Medusa
+	tag: MonicasIsland
+	tag: Stheno
+	tag: SnakeHair
+	tag: Tears
+page:still-loved-her
+	date: 2015-11-11
+	desc: Still Loved Her
+	tag: Castela
+	tag: Euryale
+	tag: MonicasIsland
+	tag: Stheno
+page:strong-coffee
+	date: 2015-11-09
+	desc: Strong Coffee
+	tag: Castela
+	tag: Euryale
+	tag: MonicasIsland
+	tag: Stheno
+page:bending-the-truth
+	date: 2015-11-09
+	desc: Bending The Truth
+	tag: Castela
+	tag: Euryale
+	tag: Flashback
+	tag: Medusa
+	tag: MonicasIsland
+	tag: SnakeHair
+	tag: Stheno
+page:twenty-percent-cooler
+	date: 2015-11-06
+	desc: Twenty Percent Cooler
+	tag: 1Frame
+	tag: Castela
+	tag: Euryale
+	tag: MonicasIsland
+	tag: Stheno
+page:upgraded-to-swizzle-stick
+	date: 2015-11-05
+	desc: Upgraded to Swizzle Stick
+	tag: Castela
+	tag: Euryale
+	tag: MonicasIsland
+	tag: Stheno
+page:set-your-clock-back
+	date: 2015-11-03
+	desc: Set Your Clock Back
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Nadette
 page:sweet-dreams-2
 	date: 2015-11-02
 	desc: Sweet Dreams
@@ -3454,33 +3633,33 @@ page:naive-and-dangerous
 page:the-secret-2
 	date: 2013-12-31
 	desc: The Secret
-	tag: KinderGardenTeacher
 	tag: Facemarks
-	tag: Teeth
-	tag: KinderGarden
+	tag: GryphonElementary
 	tag: Monica
+	tag: MrsConey
+	tag: Teeth
 page:scare-for-fun
 	date: 2013-12-30
 	desc: Scare For Fun
 	tag: Castela
+	tag: ElementartKids
 	tag: Facemarks
-	tag: Teeth
-	tag: KinderGardenKids
-	tag: KinderGarden
+	tag: GryphonElementary
 	tag: Monica
+	tag: Teeth
 page:snuggle-for-christmas
 	date: 2013-12-25
 	desc: Snuggle For Christmas
 	tag: 1Frame
 	tag: Castela
-	tag: Spider
 	tag: MrWebby
+	tag: Spider
 page:waiting-for-santa
 	date: 2013-12-24
 	desc: Waiting For Santa
 	tag: 1Frame
-	tag: Colour
 	tag: Castela
+	tag: Colour
 	tag: XmasTree
 page:show-and-tell
 	date: 2013-12-23
@@ -3488,9 +3667,9 @@ page:show-and-tell
 	tag: AstralFire
 	tag: Castela
 	tag: DemonShepherd
+	tag: ElementryKids
+	tag: GryphonElementary
 	tag: JaguarGirl
-	tag: KinderGardenKids
-	tag: KinderGarden
 	tag: Monica
 	tag: Poit
 page:what-you-did
@@ -3923,7 +4102,7 @@ page:something-wrong
 page:find-your-way
 	date: 2013-10-15
 	desc: Find Your Way
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Dream
 	tag: JaguarGirl
 	tag: Georgette
@@ -7127,7 +7306,7 @@ page:the-donut-test
 	date: 2012-05-18
 	desc: The Donut Test
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Donut
 	tag: Lydia
 	tag: Monica
@@ -7136,7 +7315,7 @@ page:what-the-frig-newtonians
 	date: 2012-05-17
 	desc: What The Frig Newtonians
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Lydia
 	tag: Monica
 	tag: Ninja
@@ -7145,7 +7324,7 @@ page:elite-bra-guard
 	desc: Elite Bra Guard
 	note: Kotehok: Russian for Kitten ?
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Kotehok
 	tag: Lydia
 	tag: Monica
@@ -7155,7 +7334,7 @@ page:no-weakness
 	date: 2012-05-15
 	desc: No Weakness
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Gretchen
 	tag: Lydia
 	tag: Monica
@@ -7164,7 +7343,7 @@ page:no-weakness
 page:thrown-the-gauntlet
 	date: 2012-05-14
 	desc: Thrown The Gauntlet
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Gretchen
 	tag: Lydia
 	tag: Monica
@@ -10785,7 +10964,7 @@ page:the-dork
 	date: 2010-08-26
 	desc: The Dork
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Camera
 	tag: Monica
 page:stuck-with-this
@@ -15863,7 +16042,7 @@ page:prettyunderwear
 	date: 2008-02-04
 	desc: Pretty Underwear
 	tag: Bed
-	tag: BraShopReceptionist
+	tag: Gretchen
 	tag: Monica
 	tag: MonicasPlace
 	tag: Phone
@@ -17429,14 +17608,14 @@ page:drasticmeasures
 	desc: Drastic Measures
 	tag: Amanda
 	tag: AmandasPlace
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Kitten
 page:littlestreeturchin
 	date: 2007-03-22
 	desc: Little Street Urchin
 	tag: Amanda
 	tag: AmandasPlace
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Kitten
 	tag: Pee
 page:cutsiepoocrap
@@ -17444,7 +17623,7 @@ page:cutsiepoocrap
 	desc: Cutsie-Poo Crap
 	tag: Amanda
 	tag: AmandasPlace
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Kitten
 	tag: Pee
 	tag: Selenium
@@ -17453,7 +17632,7 @@ page:foggiestnotion
 	desc: Foggiest Notion
 	tag: Amanda
 	tag: AmandasPlace
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Kitten
 	tag: Selenium
 page:noisy
@@ -17461,7 +17640,7 @@ page:noisy
 	desc: Noisy
 	tag: Amanda
 	tag: AmandasPlace
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Kitten
 	tag: Selenium
 page:happystpattys
@@ -19374,32 +19553,32 @@ page:perfectpostergirl
 	date: 2006-02-16
 	desc: Perfect Poster Girl
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Georgette
 	tag: Monica
 page:takingyououttoeat
 	date: 2006-02-15
 	desc: Taking You Out To Eat
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Georgette
 	tag: Monica
 page:thatdoessoundexcit
 	date: 2006-02-14
 	desc: That Does Sound Exciting
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Georgette
 	tag: Monica
 page:normallyquitarticulate
 	date: 2006-02-13
 	desc: Normally Quite Articulate
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Georgette
 	tag: Monica
 page:whatarewewaitingfo
 	date: 2006-02-10
 	desc: What Are We Waiting For
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Georgette
 	tag: Monica
 page:illberightthere
@@ -22016,6 +22195,7 @@ page:10042004
 	tag: Park
 	tag: ShadesGirl
 	tag: Trousers
+; --- tag check pass ---
 page:10012004
 	date: 2004-10-01
 	desc: You Owe Meeee!!!!
@@ -22061,7 +22241,8 @@ page:09242004
 	tag: Park
 page:09232004
 	date: 2004-09-23
-	desc: Annette Funicello
+	desc: 09-23-2004
+	tag: AnnetteFunicello
 	tag: Alan
 	tag: Kevin
 	tag: Park
@@ -22129,7 +22310,7 @@ page:09102004
 	tag: Shelly
 page:09092004
 	date: 2004-09-09
-	desc: Yoga Is Better
+	desc: Yoga Is Better Than Sex
 	tag: Jacqui
 	tag: Monica
 	tag: MuchoMocha
@@ -22161,7 +22342,7 @@ page:09032004
 	date: 2004-09-03
 	desc: It's your city, take the party with you
 	tag: Advert
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Photo
 	tag: Roof
@@ -22171,41 +22352,41 @@ page:09022004
 	date: 2004-09-02
 	desc: I've Created Monsters
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Camera
 	tag: Roof
 page:09012004
 	date: 2004-09-01
 	desc: I Hear Salsa Music
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Roof
 	tag: Shelly
 page:08312004
 	date: 2004-08-31
 	desc: The Problem Might Be Me
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
 page:08302004
 	date: 2004-08-30
 	desc: 08-30-2004
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Roof
 	tag: Shelly
 page:08272004
 	date: 2004-08-27
 	desc: 08-27-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Roof
 	tag: Shelly
 page:08262004
 	date: 2004-08-26
 	desc: You Guys Drop Me Every Time
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
@@ -22213,7 +22394,7 @@ page:08252004
 	date: 2004-08-25
 	desc: 08-25-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
@@ -22221,34 +22402,34 @@ page:08242004
 	date: 2004-08-24
 	desc: My Hands Are All Sweaty
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Roof
 	tag: Shelly
 page:08232004
 	date: 2004-08-23
 	desc: 08-23-2004
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
 page:08202004
 	date: 2004-08-20
 	desc: 08-20-2004
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
 page:08192004
 	date: 2004-08-19
 	desc: 08-19-2004
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Roof
 	tag: Shelly
 	tag: Wine
 page:08182004
 	date: 2004-08-18
 	desc: 08-18-2004
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Bia
 	tag: Chair
 	tag: Flashback
@@ -22259,7 +22440,7 @@ page:08172004
 	date: 2004-08-17
 	desc: 08-17-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Roof
 	tag: Shelly
 	tag: Wine
@@ -22267,7 +22448,7 @@ page:08162004
 	date: 2004-08-16
 	desc: 08-16-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Lakshmi
 	tag: Monica
 	tag: Roof
@@ -22276,7 +22457,7 @@ page:08132004
 	date: 2004-08-13
 	desc: He Told Me I Was Sexy
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Owen
 	tag: Roof
@@ -22286,7 +22467,7 @@ page:08122004
 	date: 2004-08-12
 	desc: About a Guy
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
@@ -22296,7 +22477,7 @@ page:08112004
 	date: 2004-08-11
 	desc: 08-11-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
@@ -22306,7 +22487,7 @@ page:08102004
 	date: 2004-08-10
 	desc: 08-10-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Roof
 	tag: Shelly
@@ -22315,7 +22496,7 @@ page:08092004
 	date: 2004-08-09
 	desc: 08-09-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Shelly
 	tag: SnobbyWinery
@@ -22324,7 +22505,7 @@ page:08062004
 	date: 2004-08-06
 	desc: There's a bottle with your name on it
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Shelly
 	tag: Wine
@@ -22332,14 +22513,14 @@ page:08052004
 	date: 2004-08-05
 	desc: Friggin' Product Shoots!
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Camera
 	tag: Wine
 page:08042004
 	date: 2004-08-04
 	desc: 08-04-2004
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Monica
 	tag: Shelly
 page:08032004
@@ -22358,14 +22539,14 @@ page:07302004
 	date: 2004-07-30
 	desc: 07-30-2004
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Monica
 	tag: Shelly
 page:07292004
 	date: 2004-07-29
 	desc: 07-29-2004
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Lydia
 	tag: Monica
 	tag: Shelly
@@ -22373,29 +22554,29 @@ page:07282004
 	date: 2004-07-28
 	desc: 07-28-2004
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Monica
 	tag: Shelly
 page:07272004
 	date: 2004-07-27
 	desc: 07-27-2004
 	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
 	tag: Monica
 	tag: Shelly
 page:07262004
 	date: 2004-07-26
 	desc: 07-26-2004
 	tag: Bra
-	tag: BraShop
-	tag: BraShopReceptionist
+	tag: LydiasLingerie
+	tag: Gretchen
 	tag: Monica
 	tag: Shelly
 page:07232004
 	date: 2004-07-23
 	desc: 07-23-2004
-	tag: Bra
-	tag: BraShop
+	tag: LydiasLingerie
+	tag: Gretchen
 	tag: Monica
 	tag: Shelly
 page:07222004
@@ -22412,12 +22593,12 @@ page:07212004
 	tag: Flashback
 	tag: Owen
 	tag: Shelly
-	tag: LittleShelly
 	tag: Scissors
 page:07202004
 	date: 2004-07-20
 	desc: 07-20-2004
 	tag: AutoRepair
+	tag: Lakshmi
 	tag: Owen
 	tag: Shelly
 page:07192004
@@ -22475,14 +22656,14 @@ page:07072004
 	desc: 07-07-2004
 	tag: Katherine
 	tag: LightFitting
-	tag: MaintenanceGuy
 	tag: Museum
+	tag: MuseumHandyman
 page:07062004
 	date: 2004-07-06
 	desc: 07-06-2004
-	tag: MaintenanceGuy
 	tag: Monica
 	tag: Museum
+	tag: MuseumHandyman
 page:07052004
 	date: 2004-07-05
 	desc: Adorable
@@ -22492,9 +22673,10 @@ page:07052004
 page:07032004
 	date: 2004-07-03
 	desc: Free Comic Book Day
+	tag: Colour
 	tag: Filler
 	tag: Monica
-	tag: Colour
+	tag: MonicasPlace
 page:07022004
 	date: 2004-07-02
 	desc: 07-02-2004
@@ -22511,25 +22693,26 @@ page:06282004
 	date: 2004-06-28
 	desc: 06-28-2004
 	tag: Katherine
+	tag: LightFitting
 	tag: Monica
 	tag: Museum
 page:06252004
 	date: 2004-06-25
-	desc: Changing a Light
+	desc: Dangling feet
 	tag: Katherine
-	tag: LightFitting
 	tag: Monica
 	tag: Museum
 page:06232004
 	date: 2004-06-23
 	desc: 06-23-2004
-	tag: Katherine
+	tag: Bra
 	tag: Monica
 	tag: Museum
 page:06212004
 	date: 2004-06-21
 	desc: 06-21-2004
 	tag: Bra
+	tag: Desk
 	tag: GregoryFields
 	tag: GutBomb
 	tag: Monica
@@ -22617,12 +22800,13 @@ page:05262004
 	tag: Monica
 	tag: Museum
 	tag: Shelly
-	tag: Tepoz
 page:05242004
 	date: 2004-05-24
 	desc: 05-24-2004
+	tag: Abuela
 	tag: Monica
 	tag: Museum
+	tag: Olmecs
 	tag: Shelly
 	tag: Tepoz
 page:05212004
@@ -22648,6 +22832,7 @@ page:05172004
 page:05142004
 	date: 2004-05-14
 	desc: 05-14-2004
+	tag: Daren
 	tag: Monica
 	tag: Museum
 	tag: Shelly
@@ -22690,11 +22875,12 @@ page:05032004
 	tag: Shelly
 page:04302004
 	date: 2004-04-30
-	desc: A Badger
+	desc: A Badger?
 	tag: Monica
 	tag: Museum
 	tag: Shelly
 	tag: Tepoz
+	tag: Boot
 page:04282004
 	date: 2004-04-28
 	desc: It's still moving!
@@ -22705,6 +22891,7 @@ page:04282004
 page:04262004
 	date: 2004-04-26
 	desc: I beg your pardon?
+	tag: Boot
 	tag: Monica
 	tag: Museum
 	tag: Shelly
@@ -22767,7 +22954,6 @@ page:04052004
 	date: 2004-04-05
 	desc: 04-05-2004
 	tag: Heather
-	tag: MrWahnee
 	tag: Shelly
 page:04022004
 	date: 2004-04-02
@@ -22783,13 +22969,14 @@ page:03312004
 	tag: Heather
 	tag: Knife
 	tag: Shelly
+	tag: Tears
 page:03292004
 	date: 2004-03-29
 	desc: I Need To Start Somewhere...
 	tag: AutoRepair
 	tag: Heather
 	tag: Shelly
-	tag: Tears
+	tag: Hair
 page:03262004
 	date: 2004-03-26
 	desc: I have an idea
@@ -22820,6 +23007,7 @@ page:03172004
 	tag: AutoRepair
 	tag: Engine
 	tag: Heather
+	tag: Owen
 	tag: Shelly
 page:03152004
 	date: 2004-03-15
@@ -22866,27 +23054,27 @@ page:03032004
 	tag: Amanda
 	tag: Galena
 	tag: Monica
-page:03012004
+page:01032004
 	date: 2004-03-01
 	desc: 03-01-2004
-	tag: BroomCloset
 	tag: Galena
 	tag: Monica
 	tag: Sailor
 page:02272004
 	date: 2004-02-27
 	desc: 02-27-2004
-	tag: Amanda
-	tag: Bar
+	tag: BroomCloset
 	tag: Galena
+	tag: Monica
 	tag: Sailor
 page:02252004
 	date: 2004-02-25
 	desc: 02-25-2004
-	tag: Amanda
+	tag: Bar
 	tag: Galena
+	tag: Kiss
 	tag: Monica
-	tag: Truck
+	tag: Sailor
 page:02232004
 	date: 2004-02-23
 	desc: 02-23-2004
@@ -23031,19 +23219,20 @@ page:01072004
 	date: 2004-01-07
 	desc: 01-07-2004
 	tag: GuitarShop
-	tag: Shelly
 	tag: Heather
+	tag: Shelly
 page:01052004
 	date: 2004-01-05
 	desc: 01-05-2004
 	tag: GuitarShop
-	tag: Shelly
 	tag: Heather
+	tag: Shelly
 page:01022004
 	date: 2004-01-02
 	desc: 01-02-2004
 	tag: Kevin
 	tag: Monica
+	tag: Museum
 	tag: YummyTea
 page:12312003
 	date: 2003-12-31
@@ -23063,22 +23252,23 @@ page:12292003
 page:12262003
 	date: 2003-12-26
 	desc: 12-26-2003
-	tag: Abuela
+	tag: Fight
+	tag: Monica
+	tag: Museum
+	tag: YummyTea
+page:12242003
+	date: 2003-12-24
+	desc: 12-24-2003
 	tag: Flashback
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
 	tag: YummyTea
-page:12242003
-	date: 2003-12-24
-	desc: 12-24-2003
-	tag: Monica
-	tag: Tepoz
-	tag: Museum
-	tag: YummyTea
+	tag: YummyTeaAbuela
 page:12222003
 	date: 2003-12-22
 	desc: 12-22-2003
+	note: Yummy Tea recalls his Abuela talked to a Tepoz-like statue
 	tag: Monica
 	tag: Tepoz
 	tag: Museum
@@ -23092,24 +23282,25 @@ page:12192003
 page:12172003
 	date: 2003-12-17
 	desc: 12-17-2003
+	tag: DiegoRivera
 	tag: Monica
 	tag: Museum
 	tag: YummyTea
 page:12152003
 	date: 2003-12-15
 	desc: 12-15-2003
-	tag: Monica
 	tag: Kevin
+	tag: Monica
 	tag: Museum
 	tag: YummyTea
 page:12122003
 	date: 2003-12-12
 	desc: 12-12-2003
-	tag: Monica
+	tag: Flashback
 	tag: Kevin
+	tag: Monica
 	tag: Museum
 	tag: YummyTea
-	tag: Flashback
 page:12112003
 	date: 2003-12-11
 	desc: 12-11-2003
@@ -23120,28 +23311,28 @@ page:12112003
 page:12102003
 	date: 2003-12-10
 	desc: 12-10-2003
-	tag: Monica
 	tag: Kevin
+	tag: Monica
 	tag: Museum
 	tag: YummyTea
 page:12082003
 	date: 2003-12-08
 	desc: 12-08-2003
-	tag: Monica
 	tag: Kevin
+	tag: Monica
 	tag: Museum
 page:12052003
 	date: 2003-12-05
 	desc: 12-05-2003
 	tag: Monica
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:12032003
 	date: 2003-12-03
 	desc: What's Tina's last name?
 	tag: Monica
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:12012003
 	date: 2003-12-01
 	desc: 12-01-2003
@@ -23151,28 +23342,28 @@ page:12012003
 page:11282003
 	date: 2003-11-28
 	desc: 11-28-2003
+	tag: Clown
+	tag: Dietzel
 	tag: Monica
 	tag: MonicasPlace
-	tag: Dietzel
-	tag: Clown
 page:11262003
 	date: 2003-11-26
 	desc: 11-26-2003
+	tag: Dietzel
 	tag: Monica
 	tag: MonicasPlace
-	tag: Dietzel
 page:11242003
 	date: 2003-11-24
 	desc: Did you know she's scared of spiders?
+	tag: Daren
 	tag: DarensBar
 	tag: Monica
-	tag: Daren
 page:11212003
 	date: 2003-11-21
 	desc: 11-21-2003
 	tag: DarensBar
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 page:11192003
 	date: 2003-11-19
 	desc: 11-19-2003
@@ -23184,27 +23375,27 @@ page:11172003
 	desc: 11-17-2003
 	tag: Daren
 	tag: DarensBar
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 page:11142003
 	date: 2003-11-14
 	desc: 11-14-2003
-	tag: Katherine
-	tag: Monica
-	tag: DarensBar
-	tag: Owen
-	tag: Lakshmi
-	tag: Shelly
 	tag: Amanda
+	tag: DarensBar
 	tag: Jacqui
+	tag: Katherine
+	tag: Lakshmi
+	tag: Monica
+	tag: Owen
+	tag: Shelly
 page:11122003
 	date: 2003-11-12
 	desc: 11-12-2003
-	tag: DarensBar
 	tag: Amanda
+	tag: DarensBar
 	tag: Lakshmi
-	tag: Shelly
 	tag: Owen
+	tag: Shelly
 page:11102003
 	date: 2003-11-10
 	desc: 11-10-2003
@@ -23214,147 +23405,147 @@ page:11102003
 page:11072003
 	date: 2003-11-07
 	desc: 11-07-2003
-	tag: Katherine
-	tag: Monica
 	tag: DarensBar
-	tag: Owen
+	tag: Katherine
 	tag: Lakshmi
+	tag: Monica
+	tag: Owen
 	tag: Shelly
 page:11052003
 	date: 2003-11-05
 	desc: 11-05-2003
+	tag: DarensBar
 	tag: Katherine
 	tag: Monica
-	tag: DarensBar
 page:11032003
 	date: 2003-11-03
 	desc: That one is still moving
 	tag: Amanda
+	tag: DarensBar
 	tag: Katherine
 	tag: Shelly
-	tag: DarensBar
 page:10312003
 	date: 2003-10-31
 	desc: I collect Spiders
 	tag: Amanda
+	tag: DarensBar
 	tag: Jacqui
 	tag: Katherine
-	tag: Spider
 	tag: Shelly
-	tag: DarensBar
+	tag: Spider
 page:10292003
 	date: 2003-10-29
 	desc: 10-29-2003
+	tag: DarensBar
 	tag: Katherine
 	tag: Monica
 	tag: Shelly
-	tag: DarensBar
 page:10272003
 	date: 2003-10-27
 	desc: 10-27-2003
 	tag: Amanda
+	tag: DarensBar
 	tag: Jacqui
 	tag: Katherine
 	tag: Shelly
-	tag: DarensBar
 page:10242003
 	date: 2003-10-24
 	desc: 10-24-2003
 	tag: Amanda
+	tag: DarensBar
 	tag: Jacqui
 	tag: Katherine
 	tag: Monica
 	tag: Shelly
-	tag: DarensBar
 page:10222003
 	date: 2003-10-22
 	desc: 10-22-2003
 	tag: Monica
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:10202003
 	date: 2003-10-20
 	desc: 10-20-2003
 	tag: Monica
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:10172003
 	date: 2003-10-17
 	desc: 10-17-2003
 	tag: Monica
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:10152003
 	date: 2003-10-15
 	desc: 10-15-2003
 	tag: Monica
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:10132003
 	date: 2003-10-13
 	desc: 10-13-2003
 	tag: Monica
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:10102003
 	date: 2003-10-10
 	desc: 10-10-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:10082003
 	date: 2003-10-08
 	desc: 10-08-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:10062003
 	date: 2003-10-06
 	desc: 10-06-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:10032003
 	date: 2003-10-03
 	desc: 10-03-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:10012003
 	date: 2003-10-01
 	desc: 10-01-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:09292003
 	date: 2003-09-29
 	desc: 09-29-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:09262003
 	date: 2003-09-26
 	desc: 09-26-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:09242003
 	date: 2003-09-24
 	desc: 09-24-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:09222003
 	date: 2003-09-22
 	desc: 09-22-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:09192003
 	date: 2003-09-19
 	desc: 09-19-2003
-	tag: Monica
 	tag: Katherine
+	tag: Monica
 	tag: Museum
 page:09172003
 	date: 2003-09-17
@@ -23365,67 +23556,67 @@ page:09172003
 page:09152003
 	date: 2003-09-15
 	desc: 09-15-2003
-	tag: Monica
 	tag: LionStatue
+	tag: Monica
 	tag: Museum
 page:09122003
 	date: 2003-09-12
 	desc: 09-12-2003
 	tag: Amanda
-	tag: Monica
-	tag: LakeCalhoun
-	tag: Helmet
-	tag: Football
 	tag: Bicycle
+	tag: Football
+	tag: Helmet
+	tag: LakeCalhoun
+	tag: Monica
 page:09102003
 	date: 2003-09-10
 	desc: 09-10-2003
-	tag: FootballGuys
 	tag: Amanda
-	tag: Monica
-	tag: LakeCalhoun
-	tag: Helmet
 	tag: Football
+	tag: FootballGuys
+	tag: Helmet
+	tag: LakeCalhoun
+	tag: Monica
 page:09082003
 	date: 2003-09-08
 	desc: 09-08-2003
 	tag: Amanda
-	tag: Monica
-	tag: LakeCalhoun
-	tag: Helmet
 	tag: Bicycle
+	tag: Helmet
+	tag: LakeCalhoun
+	tag: Monica
 page:09052003
 	date: 2003-09-05
 	desc: 09-05-2003
 	tag: Amanda
-	tag: Monica
-	tag: LakeCalhoun
-	tag: Helmet
 	tag: Bicycle
+	tag: Helmet
+	tag: LakeCalhoun
+	tag: Monica
 page:09032003
 	date: 2003-09-03
 	desc: 09-03-2003
 	tag: Amanda
-	tag: Monica
-	tag: LakeCalhoun
 	tag: Helmet
+	tag: LakeCalhoun
+	tag: Monica
 page:09012003
 	date: 2003-09-01
 	desc: 09-01-2003
 	tag: Amanda
-	tag: Monica
-	tag: LakeCalhoun
-	tag: Helmet
 	tag: Bicycle
+	tag: Helmet
+	tag: LakeCalhoun
+	tag: Monica
 page:08292003
 	date: 2003-08-29
 	desc: 08-29-2003
 	tag: Amanda
-	tag: Monica
+	tag: Bicycle
 	tag: Helmet
 	tag: LakeCalhoun
+	tag: Monica
 	tag: Steps
-	tag: Bicycle
 page:08272003
 	date: 2003-08-27
 	desc: 08-27-2003
@@ -23434,60 +23625,61 @@ page:08272003
 page:08252003
 	date: 2003-08-25
 	desc: 08-25-2003
-	tag: LakeCycles
 	tag: Amanda
-	tag: Monica
 	tag: BikeShopGuy
+	tag: LakeCycles
+	tag: Monica
 page:08222003
 	date: 2003-08-22
 	desc: 08-22-2003
-	tag: LakeCycles
 	tag: Amanda
-	tag: Monica
-	tag: Helmet
-	tag: BikeShopGuy
 	tag: Bicycle
+	tag: BikeShopGuy
+	tag: Helmet
+	tag: LakeCycles
+	tag: Monica
 page:08202003
 	date: 2003-08-20
 	desc: 08-20-2003
-	tag: LakeCycles
 	tag: Amanda
-	tag: Monica
-	tag: Helmet
 	tag: BikeShopGuy
+	tag: Helmet
+	tag: LakeCycles
+	tag: Monica
 page:08182003
 	date: 2003-08-18
 	desc: 08-18-2003
-	tag: LakeCycles
 	tag: Amanda
-	tag: Monica
-	tag: Helmet
 	tag: BikeShopGuy
+	tag: Helmet
+	tag: LakeCycles
+	tag: Monica
 page:08152003
 	date: 2003-08-15
 	desc: 08-15-2003
-	tag: LakeCycles
 	tag: Amanda
 	tag: BikeShopGuy
+	tag: LakeCycles
 page:08132003
 	date: 2003-08-13
 	desc: 08-13-2003
 	tag: Amanda
-	tag: Monica
 	tag: Helmet
 	tag: LakeCycles
+	tag: Monica
 page:08112003
 	date: 2003-08-11
 	desc: 08-11-2003
 	tag: Amanda
-	tag: Monica
-	tag: LakeCycles
 	tag: Bicycle
+	tag: LakeCycles
+	tag: Monica
 page:08082003
 	date: 2003-08-08
 	desc: 08-08-2003
 	tag: Amanda
 	tag: Monica
+	tag: MonicasPlace
 page:08062003
 	date: 2003-08-06
 	desc: 08-06-2003
@@ -23495,17 +23687,21 @@ page:08062003
 	tag: Bicycle
 	tag: Colour
 	tag: Monica
+	tag: MonicasPlace
 	tag: Pink
 page:08042003
 	date: 2003-08-04
 	desc: 08-04-2003
 	tag: Amanda
 	tag: Monica
+	tag: MonicasPlace
 page:08012003
 	date: 2003-08-01
 	desc: 08-01-2003
 	tag: Amanda
+	tag: Cholesterol
 	tag: Monica
+	tag: MonicasPlace
 	tag: Phone
 page:07302003
 	date: 2003-07-30
@@ -23527,11 +23723,11 @@ page:07252003
 page:07232003
 	date: 2003-07-23
 	desc: 07-23-2003
-	tag: DarensBar
 	tag: Amanda
-	tag: Shelly
-	tag: Owen
+	tag: DarensBar
 	tag: Monica
+	tag: Owen
+	tag: Shelly
 page:07212003
 	date: 2003-07-21
 	desc: 07-21-2003
@@ -23541,10 +23737,10 @@ page:07212003
 page:07182003
 	date: 2003-07-18
 	desc: 07-18-2003
-	tag: Monica
-	tag: Museum
 	tag: Brain
 	tag: Cogs
+	tag: DarensBar
+	tag: Monica
 page:07162003
 	date: 2003-07-16
 	desc: 07-16-2003
@@ -23577,7 +23773,7 @@ page:07072003
 	tag: Tepoz
 page:07042003
 	date: 2003-07-04
-	desc: 07-04-2003
+	desc: Make Lemonade
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
@@ -23612,19 +23808,22 @@ page:06232003
 	tag: Monica
 page:06202003
 	date: 2003-06-20
-	desc: 06-20-2003
+	desc: Big Guns
 	tag: Monica
 	tag: Shelly
+	tag: MuchoMocha
 page:06182003
 	date: 2003-06-18
-	desc: 06-18-2003
+	desc: Women Would Die For A Body Like Yours
 	tag: Monica
 	tag: Shelly
+	tag: MuchoMocha
 page:06162003
 	date: 2003-06-16
 	desc: 06-16-2003
 	tag: Monica
 	tag: Shelly
+	tag: MuchoMocha
 page:06132003
 	date: 2003-06-13
 	desc: 06-13-2003
@@ -23634,13 +23833,13 @@ page:06132003
 	tag: Owen
 page:06112003
 	date: 2003-06-11
-	desc: 06-11-2003
+	desc: Not Holding Back As Much
 	tag: Bowling
 	tag: Lakshmi
 	tag: Owen
 page:06092003
 	date: 2003-06-09
-	desc: 06-09-2003
+	desc: The Ball Never Touched The Lane
 	tag: Bowling
 	tag: Lakshmi
 	tag: Owen
@@ -23673,61 +23872,61 @@ page:05302003
 	tag: Owen
 page:05282003
 	date: 2003-05-28
-	desc: 05-28-2003
+	desc: That Sounded Bad
 	tag: Lakshmi
-	tag: PrasadHouse
+	tag: PrasadHome
 	tag: Owen
 page:05262003
 	date: 2003-05-26
 	desc: 05-26-2003
 	tag: Lakshmi
-	tag: PrasadHouse
+	tag: PrasadHome
 	tag: Owen
 page:05232003
 	date: 2003-05-23
 	desc: 05-23-2003
 	tag: Lakshmi
-	tag: LakshmiSister
-	tag: PrasadHouse
+	tag: Makshi
+	tag: PrasadHome
 	tag: Owen
 page:05212003
 	date: 2003-05-21
 	desc: 05-21-2003
 	tag: Lakshmi
-	tag: LakshmiSister
-	tag: PrasadHouse
+	tag: Makshi
+	tag: PrasadHome
 page:05192003
 	date: 2003-05-19
 	desc: 05-19-2003
-	tag: GameStore
-	tag: Shelly
+	tag: ComicVideoGameStore
 	tag: PaintBallRep
+	tag: Shelly
 page:05162003
 	date: 2003-05-16
 	desc: 05-16-2003
-	tag: GameStore
-	tag: Shelly
+	tag: ComicVideoGameStore
 	tag: PaintBallRep
+	tag: Shelly
 page:05142003
 	date: 2003-05-14
 	desc: 05-14-2003
-	tag: Shelly
-	tag: GameStore
+	tag: ComicVideoGameStore
 	tag: Fight
 	tag: PaintBallRep
+	tag: Shelly
 page:05122003
 	date: 2003-05-12
 	desc: 05-12-2003
-	tag: Shelly
-	tag: GameStore
+	tag: ComicVideoGameStore
 	tag: Fight
 	tag: PaintBallRep
+	tag: Shelly
 page:05092003
 	date: 2003-05-09
 	desc: 05-09-2003
-	tag: Shelly
-	tag: GameStore
+	tag: ComicVideoGameStore
 	tag: PaintBallRep
+	tag: Shelly
 page:05072003
 	date: 2003-05-07
 	desc: 05-07-2003
@@ -23739,13 +23938,13 @@ page:05052003
 page:05022003
 	date: 2003-05-02
 	desc: 05-02-2003
-	tag: Shelly
-	tag: Convention
-	tag: VideoTape
 	tag: BrigitJonesDiary
+	tag: Convention
+	tag: Shelly
+	tag: VideoTape
 page:04302003
 	date: 2003-04-30
-	desc: 04-30-2003
+	desc: My Kitchen / My Video
 	tag: Kitchen
 	tag: Shelly
 	tag: ShellysApartment
@@ -23799,10 +23998,11 @@ page:04142003
 	tag: Dietzel
 	tag: Dylan
 	tag: Monica
+	tag: Pizza
 	tag: Taxi
 page:04112003
 	date: 2003-04-11
-	desc: The "F" word!
+	desc: He Used The "F" Word!
 	tag: DarensBar
 	tag: Friend
 	tag: Owen
@@ -23825,12 +24025,14 @@ page:04072003
 page:04042003
 	date: 2003-04-04
 	desc: 04-04-2003
+	tag: Colour
 	tag: Daren
 	tag: DarensBar
 	tag: Dietzel
 	tag: RemainsOfTheDay
 	tag: Shelly
 	tag: Simone
+	tag: Tears
 	tag: TV
 page:04022003
 	date: 2003-04-02
@@ -23845,7 +24047,7 @@ page:03312003
 	tag: Monica
 	tag: Monterrey
 	tag: Rigo
-	tag: RigoLadyFriend
+	tag: RigosLady
 page:03282003
 	date: 2003-03-28
 	desc: 03-28-2003
@@ -23853,12 +24055,13 @@ page:03282003
 	tag: Monica
 	tag: Monterrey
 	tag: Rigo
-	tag: RigoLadyFriend
+	tag: RigosLady
 page:03262003
 	date: 2003-03-26
 	desc: 03-26-2003
 	tag: Colour
 	tag: Marta
+	tag: Mexico
 	tag: Miguel
 	tag: Monica
 	tag: Monterrey
@@ -23868,12 +24071,13 @@ page:03242003
 	desc: 03-24-2003
 	tag: Colour
 	tag: Marta
+	tag: Mexico
 	tag: Monica
 	tag: Monterrey
 	tag: Rigo
 page:03212003
 	date: 2003-03-21
-	desc: 03-21-2003
+	desc: Got That On Film
 	tag: Amanda
 	tag: Beach
 	tag: Claire
@@ -23907,17 +24111,17 @@ page:03122003
 	date: 2003-03-12
 	desc: 03-12-2003
 	tag: Lakshmi
-	tag: LakshmiSister
+	tag: Makshi
 	tag: MusicBin
 	tag: Owen
-	tag: PrasadHouse
+	tag: PrasadHome
 page:03102003
 	date: 2003-03-10
 	desc: 03-10-2003
-	tag: LakshmiSister
+	tag: Makshi
 	tag: MusicBin
 	tag: Owen
-	tag: PrasadHouse
+	tag: PrasadHome
 page:03072003
 	date: 2003-03-07
 	desc: 03-07-2003
@@ -23937,6 +24141,7 @@ page:03032003
 page:02282003
 	date: 2003-02-28
 	desc: 02-28-2003
+	tag: MuchoMocha
 	tag: Owen
 	tag: Shelly
 page:02262003
@@ -23958,47 +24163,54 @@ page:02242003
 page:02212003
 	date: 2003-02-21
 	desc: 02-21-2003
+	tag: Mexico
 	tag: Monica
-	tag: MonicasAunt
 	tag: Monterrey
 	tag: Rigo
+	tag: Tia
 	tag: Tio
 page:02192003
 	date: 2003-02-19
 	desc: 02-19-2003
+	tag: Mexico
 	tag: Monica
 	tag: Monterrey
-	tag: Tio
 	tag: Rigo
+	tag: Tio
 page:02172003
 	date: 2003-02-17
 	desc: 02-17-2003
 	tag: Marta
+	tag: Mexico
 	tag: Monica
 	tag: Monterrey
 	tag: Rigo
 page:02142003
 	date: 2003-02-14
 	desc: 02-14-2003
+	tag: Mexico
 	tag: Monica
 	tag: Monterrey
 	tag: Rigo
 page:02122003
 	date: 2003-02-12
 	desc: 02-12-2003
+	tag: Mexico
 	tag: Monica
-	tag: MonicasAunt
 	tag: Monterrey
 	tag: Rigo
+	tag: Tia
 	tag: Tio
 page:02102003
 	date: 2003-02-10
 	desc: 02-10-2003
 	tag: Marta
+	tag: Mexico
 	tag: Monica
 	tag: Monterrey
 	tag: Rigo
 	tag: Tio
+	tag: Tia
 page:02072003
 	date: 2003-02-07
 	desc: 02-07-2003
@@ -24028,6 +24240,7 @@ page:01312003
 	date: 2003-01-31
 	desc: 01-31-2003
 	tag: Heather
+	tag: Kiss
 	tag: Owen
 	tag: ThePlow
 page:01292003
@@ -24044,6 +24257,7 @@ page:01272003
 	desc: 01-27-2003
 	tag: Abuela
 	tag: Marta
+	tag: Mexico
 	tag: Monterrey
 	tag: Monica
 page:01242003
@@ -24051,17 +24265,19 @@ page:01242003
 	desc: 01-24-2003
 	tag: Abuela
 	tag: Marta
+	tag: Mexico
 	tag: Monterrey
 	tag: Monica
-	tag: MonicasAunt
+	tag: Tia
 page:01222003
 	date: 2003-01-22
 	desc: 01-22-2003
 	tag: Abuela
 	tag: Marta
-	tag: Monterrey
+	tag: Mexico
 	tag: Monica
-	tag: MonicasAunt
+	tag: Monterrey
+	tag: Tia
 page:01202003
 	date: 2003-01-20
 	desc: 01-20-2003
@@ -24102,7 +24318,7 @@ page:01102003
 	tag: AmandaPA
 page:01082003
 	date: 2003-01-08
-	desc: 01-08-2003
+	desc: Best Butt in the Bar
 	tag: Band
 	tag: FermentedBanana
 	tag: Owen
@@ -24158,8 +24374,10 @@ page:12252002
 	date: 2002-12-25
 	desc: Xmas ’02
 	tag: Amanda
+	tag: Colour
 	tag: Dietzel
 	tag: Filler
+	tag: Mistletoe
 	tag: Monica
 	tag: Shelly
 page:12232002
@@ -24175,6 +24393,7 @@ page:12202002
 	tag: Marta
 	tag: Mexico
 	tag: Monica
+	tag: Monterrey
 page:12182002
 	date: 2002-12-18
 	desc: 12-18-2002
@@ -24182,6 +24401,7 @@ page:12182002
 	tag: Marta
 	tag: Mexico
 	tag: Monica
+	tag: Monterrey
 page:12162002
 	date: 2002-12-16
 	desc: 12-16-2002
@@ -24189,6 +24409,7 @@ page:12162002
 	tag: Marta
 	tag: Mexico
 	tag: Monica
+	tag: Monterrey
 page:12132002
 	date: 2002-12-13
 	desc: 12-13-2002
@@ -24227,15 +24448,17 @@ page:12062002
 page:12042002
 	date: 2002-12-04
 	desc: 12-04-2002
+	tag: Colour
 	tag: Dietzel
 	tag: Monica
+	tag: MonicasPlace
 	tag: TV
-	tag: Colour
 page:12022002
 	date: 2002-12-02
 	desc: 12-02-2002
 	tag: Amanda
 	tag: DarensBar
+	tag: Dietzel
 	tag: Monica
 page:11292002
 	date: 2002-11-29
@@ -24243,6 +24466,7 @@ page:11292002
 	tag: Amanda
 	tag: Daren
 	tag: DarensBar
+	tag: Dietzel
 	tag: Monica
 page:11272002
 	date: 2002-11-27
@@ -24254,27 +24478,28 @@ page:11252002
 	date: 2002-11-25
 	desc: Watch Dietzel for me?
 	tag: Amanda
-	tag: AmandaStudio
+	tag: AmandasPlace
 	tag: Dietzel
 	tag: Monica
 page:11222002
 	date: 2002-11-22
-	desc: 11-22-2002
-	tag: Envelope
-	tag: Monica
-	tag: Museum
-	tag: Tepoz
-page:11202002
-	date: 2002-11-20
 	desc: Is that one of those dolls that plays music and dances?
 	tag: Envelope
 	tag: GregoryFields
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
+page:11202002
+	date: 2002-11-20
+	desc: Going to Mexico
+	tag: Envelope
+	tag: Monica
+	tag: Museum
+	tag: Tepoz
 page:11182002
 	date: 2002-11-18
-	desc: Going to Mexico
+	desc: 11-18-2002
+	tag: Colour
 	tag: Envelope
 	tag: Monica
 	tag: Museum
@@ -24282,7 +24507,6 @@ page:11182002
 page:11152002
 	date: 2002-11-15
 	desc: 11-15-2002
-	tag: Envelope
 	tag: Monica
 	tag: Museum
 	tag: Tepoz
@@ -24303,7 +24527,7 @@ page:11112002
 page:11082002
 	date: 2002-11-08
 	desc: 11-08-2002
-	tag: Birdcage
+	tag: Cage
 	tag: Buddha
 	tag: GregoryFields
 	tag: Kali
@@ -24348,6 +24572,7 @@ page:10232002
 	date: 2002-10-23
 	desc: 10-23-2002
 	tag: Band
+	tag: Flashback
 	tag: FermentedBanana
 	tag: Jacqui
 	tag: Owen
@@ -24387,8 +24612,8 @@ page:10092002
 	date: 2002-10-09
 	desc: 10-09-2002
 	tag: Envelope
-	tag: Tepoz
 	tag: Museum
+	tag: Tepoz
 page:10072002
 	date: 2002-10-07
 	desc: 10-07-2002
@@ -24399,16 +24624,16 @@ page:10042002
 	date: 2002-10-04
 	desc: 10-04-2002
 	tag: Amanda
-	tag: Museum
-	tag: Monica
+	tag: Kevin
 	tag: Kiss
+	tag: Monica
+	tag: Museum
 page:10022002
 	date: 2002-10-02
 	desc: 10-02-2002
 	tag: Amanda
-	tag: Museum
 	tag: Monica
-;<!-- retag -->
+	tag: Museum
 page:09302002
 	date: 2002-09-30
 	desc: 09-30-2002
@@ -24723,7 +24948,7 @@ page:06122002
 	tag: Kiss
 	tag: Lakshmi
 	tag: Owen
-	tag: PrasadHouse
+	tag: PrasadHome
 page:05312002
 	date: 2002-05-31
 	desc: 05-31-2002
@@ -24777,13 +25002,13 @@ page:05152002
 	desc: 05-15-2002
 	tag: Lakshmi
 	tag: Owen
-	tag: PrasadHouse
+	tag: PrasadHome
 page:05132002
 	date: 2002-05-13
 	desc: 05-13-2002
 	tag: Owen
 	tag: Lakshmi
-	tag: PrasadHouse
+	tag: PrasadHome
 page:05102002
 	date: 2002-05-10
 	desc: 05-10-2002
