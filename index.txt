@@ -51,6 +51,299 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Castela
 ; Colour
 ;
+page:who-does-that
+	date: 2016-01-20
+	desc: Who Does That
+	tag: Jin
+	tag: Monica
+	tag: MonicasIsland
+	tag: Poit
+page:all-together-now
+	date: 2016-01-20
+	desc: All Together Now
+	tag: Jin
+	tag: Monica
+	tag: MonicasIsland
+	tag: Snow
+	tag: Snowman
+page:this-fear
+	date: 2016-01-19
+	desc: This Fear
+	tag: Atsali
+	tag: Nadette
+	tag: GryphonHigh
+page:all-sorts-of-music
+	date: 2016-01-18
+	desc: All Sorts Of Music
+	tag: Abbie
+	tag: Devyn
+	tag: GryphonHigh
+	tag: Lanthian
+	tag: OghmopiumPopCulture
+page:getting-into-mischief
+	date: 2016-01-17
+	desc: Getting Into Mischief
+	tag: Blush
+	tag: Calista
+	tag: Dietzel
+	tag: Digit
+	tag: Library
+	tag: Monica
+	tag: MonicasPlace
+	tag: Spoon
+page:am-i-doing-it
+	date: 2016-01-16
+	desc: Am I Doing It
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Nadette
+page:bottomless-pit
+	date: 2016-01-15
+	desc: Look At Me
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Daylla
+	tag: SnobbleGomps
+page:look-at-me
+	date: 2016-01-13
+	desc: Look At Me
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page:she-said-she-said
+	date: 2016-01-12
+	desc: She Said She Said
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: Wine
+page:kiss-goodnight
+	date: 2016-01-12
+	desc: Kiss Goodnight
+	tag: Atsali
+	tag: Castela
+	tag: Computer
+	tag: GilchristHome
+	tag: Katherine
+	tag: Kiss
+	tag: Nadette
+page:something-to-fall-back-on
+	date: 2016-01-10
+	desc: Something To Fall Back On
+	tag: Atsali
+	tag: Bra
+	tag: GilchristHome
+page:tickle-fight
+	date: 2016-01-08
+	desc: Tickle Fight
+	tag: Atsali
+	tag: Blush
+	tag: Ear
+	tag: GilchristHome
+	tag: Kiss
+	tag: Nadette
+page:the-one-sword
+	date: 2016-01-07
+	desc: The One Sword
+	tag: Colour
+	tag: Dream
+	tag: Shelly
+	tag: ShellysApartment
+page:i-know
+	date: 2016-01-06
+	desc: I Know
+	tag: Atsali
+	tag: Berdine
+	tag: Devyn
+	tag: GryphonHigh
+	tag: Nadette
+page:spending-time
+	date: 2016-01-05
+	desc: Spending Time
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: GryphonHigh
+	tag: Nadette
+page:holiday-break
+	date: 2016-01-04
+	desc: Relaxing Holiday Break
+	note: "Magnificently tawdry rapscallion" 
+	tag: Abbie
+	tag: Atsali
+	tag: Berdine
+	tag: Blush
+	tag: GryphonHigh
+page:happy-new-year-2016
+	date: 2016-01-01
+	desc: Happy New Year 2016
+	tag: 1Frame
+	tag: Atsali
+	tag: Colour
+	tag: Filler
+	tag: Nadette
+page:missing-quarts
+	date: 2015-12-31
+	desc: Missing Quarts
+	tag: Atsali
+	tag: BerdNadHome
+	tag: Booze
+	tag: Nadette
+page:like-molasses
+	date: 2015-12-29
+	desc: Like Molasses
+	tag: Atsali
+	tag: BerdNadHome
+	tag: Blush
+	tag: Booze
+	tag: Nadette
+	tag: Phone
+page:use-your-noggin
+	date: 2015-12-29
+	desc: Use Your Noggin
+	tag: Atsali
+	tag: BerdNadHome
+	tag: Blush
+	tag: Booze
+	tag: Eggnog
+	tag: Nadette
+page:rise-an-shine
+	date: 2015-12-28
+	desc: Rise an’ Shine
+	tag: Atsali
+	tag: BerdNadHome
+	tag: Blush
+	tag: Booze
+	tag: Drool
+	tag: Nadette
+page:bad-girls-bad-girls
+	date: 2015-12-25
+	desc: Bad Girls Bad Girls
+	tag: Atsali
+	tag: BerdNadHome
+	tag: Blush
+	tag: Ears
+	tag: Nadette
+page:atsali-and-nadette-x-mas-eve
+	date: 2015-12-24
+	desc: Atsali and Nadette X-mas Eve
+	tag: Atsali
+	tag: AtsaliTail
+	tag: BerdNadHome
+	tag: Blush
+	tag: Ears
+	tag: Kiss
+	tag: Nadette
+	tag: Tail
+page:atsali-and-nadette-3
+	date: 2015-12-23
+	desc: Atsali and Nadette
+	tag: 1Frame
+	tag: Atsali
+	tag: Blush
+	tag: Colour
+	tag: AtsaliTail
+	tag: Nadette
+page:atsali-and-nadettes-first-x-mas
+	date: 2015-12-22
+	desc: Atsali and Nadette’s First X-mas
+	tag: 1Frame
+	tag: Atsali
+	tag: Blush
+	tag: Mistletoe
+	tag: Nadette
+page:keep-up-with-medusa-on-patreon
+	date: 2015-12-20
+	desc: Patreon advert
+	tag: Medusa
+	tag: Pegasus
+	tag: Filler
+page:best-sleepover-ever
+	date: 2015-12-18
+	desc: Best Sleepover Ever
+	tag: Atsali
+	tag: Bandage
+	tag: Cast
+	tag: Castela
+	tag: Daylla
+	tag: Hospital
+	tag: Nadette
+page:creaking-doors
+	date: 2015-12-17
+	desc: Creaking Doors
+	tag: Atsali
+	tag: Castela
+	tag: Daylla
+	tag: DayllasMom
+	tag: GilchristHome
+	tag: Hospital
+	tag: Katherine
+	tag: Nadette
+	tag: NadettesMom
+page:not-neurotic
+	date: 2015-12-16
+	desc: Not Neurotic
+	tag: Atsali
+	tag: Popcorn
+	tag: GilchristHome
+	tag: Nadette
+page:whipped-cream
+	date: 2015-12-15
+	desc: Whipped Cream
+	tag: Atsali
+	tag: Faint
+	tag: GilchristHome
+	tag: Nadette
+page:wapsi-squares-medusa-on-patreon
+	date: 2015-12-13
+	desc: Wapsi Square’s Medusa on Patreon
+	tag: 1Frame
+	tag: Medusa
+	tag: Colour
+	tag: Pegasus
+	tag: Filler
+page:bud-and-kevin
+	date: 2015-12-11
+	desc: Bud and Kevin
+	tag: 1Frame
+	tag: Bud
+	tag: Colour
+	tag: Kevin
+	tag: Wreath
+page:try-some
+	date: 2015-12-09
+	desc: Try Some
+	tag: Brandi
+	tag: BrandiBudAppt
+	tag: Bud
+	tag: Eggnog
+page:our-secret
+	date: 2015-12-08
+	desc: Our Secret
+	tag: Antlers
+	tag: Baubles
+	tag: Blush
+	tag: Jessie
+	tag: Krystle
+	tag: MuchoMocha
+	tag: Tina
+page:over-the-top
+	date: 2015-12-08
+	desc: Over The Top
+	tag: Atsali
+	tag: Devyn
+	tag: Calista
+	tag: Cheerleaders
+	tag: GryphonHigh
+page:doing-the-twist
+	date: 2015-12-06
+	desc: Doing The Twist
+	tag: Atsali
+	tag: Legs
+	tag: Nether
 page:doing-quite-well
 	date: 2015-12-04
 	desc: Doing Quite Well
@@ -22056,13 +22349,14 @@ page:11012004
 	desc: Those Poor Folks
 	tag: Monica
 	tag: MonicasPlace
+; --- tag check pass ---
 page:10312004
 	date: 2004-10-31
 	desc: Coming Soon
 	tag: Brandi
 	tag: Bud
+	tag: Chimera
 	tag: Colour
-	tag: Filler
 	tag: Jin
 page:10292004
 	date: 2004-10-29
@@ -22074,14 +22368,13 @@ page:10292004
 page:10282004
 	date: 2004-10-28
 	desc: 10-28-2004
-	tag: Dietzel
 	tag: Monica
 	tag: MonicasPlace
 	tag: Tepoz
 page:10272004
 	date: 2004-10-27
 	desc: 10-27-2004
-	tag: Dietzel
+	note: 'Poit' is a "Poof" here
 	tag: Mole
 	tag: Monica
 	tag: MonicasPlace
@@ -22106,6 +22399,7 @@ page:10222004
 	date: 2004-10-22
 	desc: Rubber Chicken And A Toilet Seat
 	tag: Alan
+	tag: Cigarette
 	tag: Kevin
 	tag: Monica
 	tag: MonicasPlace
@@ -22135,14 +22429,13 @@ page:10152004
 	date: 2004-10-15
 	desc: 10-15-2004
 	tag: JimmysBluesBar
-	tag: Kevin
 	tag: Monica
+	tag: Maraschino
 	tag: Shelly
 page:10142004
 	date: 2004-10-14
 	desc: 10-14-2004
 	tag: JimmysBluesBar
-	tag: Kevin
 	tag: Monica
 	tag: Shelly
 page:10132004
@@ -22195,7 +22488,6 @@ page:10042004
 	tag: Park
 	tag: ShadesGirl
 	tag: Trousers
-; --- tag check pass ---
 page:10012004
 	date: 2004-10-01
 	desc: You Owe Meeee!!!!
