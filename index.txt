@@ -51,9 +51,147 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Castela
 ; Colour
 ;
+page:mouth-to-mouth
+	date: 2016-02-18
+	desc: Salsa Dancing
+	tag: 1Frame
+	tag: Atsali
+	tag: Ears
+	tag: Nadette
+page:salsa-dancing
+	date: 2016-02-17
+	desc: Salsa Dancing
+	tag: 1Frame
+	tag: Atsali
+	tag: Castela
+page:gross-and-scary
+	date: 2016-02-17
+	desc: Gross and Scary
+	tag: Amanda
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page:in-my-hair
+	date: 2016-02-16
+	desc: In My Hair
+	tag: Amanda
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page:katsucon-2016
+	date: 2016-02-10
+	desc: Katsucon 2016 booth notice
+	tag: Atsali
+	tag: Filler
+page:fell-down-a-well
+	date: 2016-02-10
+	desc: Fell Down A Well
+	tag: Amanda
+	tag: Dietzel
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page:pull-me-through
+	date: 2016-02-09
+	desc: Pull Me Through
+	tag: Abbie
+	tag: Alexis
+	tag: Atsali
+	tag: Devyn
+	tag: Mallory
+	tag: Nadette
+	tag: PizzaLuce
+	tag: Blush
+page:not-mama
+	date: 2016-02-08
+	desc: Not Mama
+	tag: Abbie
+	tag: Alexis
+	tag: Atsali
+	tag: Devyn
+	tag: Mallory
+	tag: Nadette
+	tag: PizzaLuce
+	tag: Blush
+page:feeling-frisky
+	date: 2016-02-04
+	desc: Feeling Frisky
+	tag: Atsali
+	tag: Nadette
+	tag: 1Frame
+page:singing-songs
+	date: 2016-02-04
+	desc: Singing Songs
+	tag: Atsali
+	tag: Berdine
+	tag: BerdNadHome
+	tag: Castela
+	tag: GilchristHome
+	tag: Math
+	tag: Nadette
+page:awesome-chick
+	date: 2016-02-03
+	desc: Awesome Chick
+	tag: Atsali
+	tag: Blush
+	tag: Math
+	tag: Library
+	tag: Nadette
+page:yay-for-nadette
+	date: 2016-02-02
+	desc: Yay For Nadette
+	tag: Atsali
+	tag: Blush
+	tag: Bra
+	tag: Library
+	tag: Math
+	tag: Nadette
+page:work-within-the-story-problem
+	date: 2016-01-31
+	desc: Work Within The Story Problem
+	tag: Atsali
+	tag: Blush
+	tag: Gun
+	tag: Library
+	tag: Math
+	tag: Nadette
+	tag: Zombie
+page:pizza-and-games
+	date: 2016-01-29
+	desc: Pizza and Games
+	tag: 1Frame
+	tag: Atsali
+	tag: Castela
+page:shes-speechless
+	date: 2016-01-28
+	desc: She’s Speechless
+	tag: Atsali
+	tag: Devyn
+	tag: GryphonHigh
+	tag: Nadette
+page:all-you-need
+	date: 2016-01-26
+	desc: All You Need
+	tag: Jin
+	tag: Monica
+	tag: MonicasIsland
+page:chalk-this-up
+	date: 2016-01-25
+	desc: Chalk This Up
+	tag: Jin
+	tag: Monica
+	tag: MonicasIsland
+page:they-chase-me
+	date: 2016-01-24
+	desc: They Chase Me
+	tag: Blush
+	tag: Jin
+	tag: Monica
+	tag: MonicasIsland
 page:who-does-that
-	date: 2016-01-20
+	date: 2016-01-22
 	desc: Who Does That
+	tag: Blush
 	tag: Jin
 	tag: Monica
 	tag: MonicasIsland
@@ -70,6 +208,7 @@ page:this-fear
 	date: 2016-01-19
 	desc: This Fear
 	tag: Atsali
+	tag: Math
 	tag: Nadette
 	tag: GryphonHigh
 page:all-sorts-of-music
