@@ -51,7 +51,7 @@ Anger	A personal [demon](#demon)
 AnimalSkull	scary/spooky
 Animation	the comic picture is animated
 Antikythera	Wikipedia: [Antikythera Mechanism](http://en.wikipedia.org/wiki/Antikythera_mechanism)
-AntiMatter	"... meet Matter -- I'm sure you two'll get on like a house on fire
+AntiMatter	"... meet Matter -- I'm sure you two'll get on like a house on fire"
 AntiqueShop	Part-owned by [Monica](#monica), with [Roy](#roy) then after his death with [Georgette](#georgette)
 AntiqueTeaPots	a previous iteration of Tina may have collected these?
 AnxietyArc	off fae antennae 
@@ -67,7 +67,7 @@ AstralFire	wielded by Titans and anyone with Phoenix Blood; harmless to Demons
 Athena	a goddess, touchy about what people do in her temple
 AthenaMissile	a test in July 1970 fell astray in [Mapimi](#mapimi), leading to the discovery of baby [Katherine](#katherine) 
 Atlantis	the mythical place hiding the truth of [Lanthis](#lanthis)
-Atsali	&#x386;&tau;&sigma;&alpha;&lambda;&eta;, orphan Siren, adopted daughter of [Katherine](#katherine), step-sister of [Castela](#castela)
+Atsali	&#x386;&tau;&sigma;&alpha;&lambda;&eta;, orphan Siren, adopted daughter of [Katherine](#katherine), step-sister of [Castela](#castela). Blind to many social / emotional cues
 AtsaliTail	from her Incubus father
 AudioMagazine	sound system porn
 AutoRepair	Minneapolis South Auto Repair & Restoration -- Shelly's [dad's](#mrwahnee) business, where [Shelly](#shelly) worked as a mechanic
@@ -84,7 +84,7 @@ BelindaJensen	twin cities TV weather person
 Berdine	Ursamorph: a shapechanging bear-girl; sister of [Nadette](#nadette), Cherokee ancestry
 BermudaTriangle	-
 BermudaTriangleBeach	-
-Bia	a second generation titan, child of [Pallas](#pallas) and [Styx](#styx). Young Bia witnessed the [Chimera](#chimera). [Shelly's](#shelly) mother. [Tina's](#tina) body's great grand mother on her father's side. Formerly a cold manipulator and widely disliked ("sociopathic bitch"), Bia's age was regressed to early teens (?) by her father to relearn
+Bia	a second generation titan, child of [Pallas](#pallas) and [Styx](#styx). Young Bia witnessed the [Chimera](#chimera). [Shelly's](#shelly) mother. [Tina's](#tina) body's great grand mother on her father's side. Formerly a cold manipulator and widely disliked ("sociopathic bitch"), Bia's age was regressed to early teens (?) by her father as a learning opportunity
 Bibliothiki	&Beta;&iota;&beta;&lambda;&iota;&omicron;&theta;&iota;&#x3AE;&kappa;&eta;, Ancient Greek name for the [Library](#library)
 BikerBen	plastic surgeon / [biker](#biker) from [Sally's Bar](#sallysbar)
 BikerEarl	architect / [biker](#biker) from [Sally's Bar](#sallysbar)
@@ -130,6 +130,7 @@ DemonWorld	the demon home plane or universe
 Devyn	a niece of [Poseidon](#poseidon). A Helead (fen nymph) reportedly according to Paul Taylor on Facebook 
 Dietzel	[Monica's](#monica) long-suffering bull terrier
 Digit	[Monica's](#monica) name for the [spider](#jumpingspider) who becomes the miniaturised [Dietzel's](#deitzel) companion
+Dirtball	3 year old bullied by [Kystle](#krystle) when she was little
 Divines	Divine's -- shop holds bra sale
 Doubt	probably Self-Doubt -- a personal [demon](#demon) of [Monica's](#monica)
 DownstairsBar	below Owen & Lakshmi's bedroom
@@ -226,6 +227,7 @@ Monica	Monica Villarreal, 4\' 11\", Mexican, anthropologist, [antique shop](#ant
 MonicasIsland	see [Island](#island), [CafeU296](#cafeu296)
 MonicasPlace	a small-looking house with basement and upstairs floors
 Monterrey	Mexican city where [Monica](#monica) has family: her [uncle](#tio), [aunt](#MonicasAunt), cousins [Rigo](#rigo) and [Marta](#marta)
+MrMeadows	caretaker or similar at the [Orphanage](#orphanage). Crocodile head.
 MrsAdler	swimming instructor at [Gryphon Highschool](#gryphonhigh)
 MrWahnee	[Shelly's](#shelly) dad. Half Comanche, half [Sphinx](#sphinx) (non-manifesting in males). Owner of [Minneapolis South Auto Repair & Restoration](#autorepair)
 MuchoMocha	coffee shop run by [Tina](#tina)
@@ -235,6 +237,7 @@ Nadette	Ursamorph: a shapechanging bear; sister of [Berdine](#berdine); Cherokee
 Nether	a depressing (nightmare?) world to which Devyn can move herself and others
 Nudge	originally appearing as part of [Tina's](#tina) demon collective she turns out to be the Librarian preceding [Phix](#phix). Sister of [Tsillah](#tsillah)
 NuGui	Nü Gui -- malevolent [Lanthian](#lanthis) spirit arising from the death of an innocent (baby?); a.k.a. a Succubus, or the Hate
+Orphanage	for paranormal kids. Caretaker MrMeadows. [Atsali](#atsali) and [Castela](#castela) lived here before [Katherine](#katherine) adopted them.
 Owen	[Shelly's](#shelly) childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin)
 Pagliacci	operatic tragedy by Ruggero Leoncavallo
 Pallas	father of [Bia](#bia)
@@ -276,6 +279,7 @@ Suzie	Suzie McBride, vampire, FBI agent
 Tara	female, bullies [Devyn](#devyn) at [Gryphon High](#gryphonhigh) with [Jordan](#jordan)
 Teeth	some characters have unusual dentition by mainstream human standards, tagged when particularly strikingly displayed
 Tepoz	Tepoztecal, Aztec god of alcohol: an animate 3\' high blue statue or [golem](#golem)
+Thana	friend of [Atsali's](#atsali) at the [orphanage](#orphanage). Has horns. Her suicide was traumatic for Atsali
 Tia	Spanish: "aunt". [Monica's](#monica) aunt in [Monterrey](#monterrey)
 Tiffany	minds the [Antique Shop](#antiqueshop)
 TimeForest	a time-keeping forest: the trees are used to keep track of time. An outdated technology. A good place to hide things.

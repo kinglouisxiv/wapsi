@@ -51,9 +51,77 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Castela
 ; Colour
 ;
+page:three
+	date: 2016-03-04
+	desc: Three
+	tag: Atsali
+	tag: Castela
+	tag: Thana
+page:punched-my-tail
+	date: 2016-03-03
+	desc: Punched My Tail
+	tag: Atsali
+	tag: Devyn
+	tag: Nadette
+	tag: AtsaliTail
+	tag: Fight
+	tag: GryphonHigh
+page:not-forgotten
+	date: 2016-03-02
+	desc: Not Forgotten
+	tag: Graveyard
+	tag: Roses
+	tag: Suzie
+page:touching-base
+	date: 2016-03-01
+	desc: Touching Base
+	tag: Atsali
+	tag: BerdNadHome
+	tag: GilchristHome
+	tag: Nadette
+	tag: Phone
+page:little-fish
+	date: 2016-02-28
+	desc: Little Fish
+	tag: Castella
+	tag: Lily
+	tag: MonicasIsland
+page:study-break
+	date: 2016-02-25
+	desc: Study Break
+	tag: 1Frame
+	tag: Atsali
+	tag: Nadette
+	tag: Tail
+page:getting-her-hair-did
+	date: 2016-02-25
+	desc: Getting Her Hair Did
+	tag: 1Frame
+	tag: Atsali
+	tag: Castela
+page:there-was-this-little-kid
+	date: 2016-02-24
+	desc: There Was This Little Kid
+	tag: Calista
+	tag: Dirtball
+	tag: GryphonHigh
+	tag: Krystle
+	tag: Tears
+page:we-were-stupid
+	date: 2016-02-23
+	desc: We Were Stupid
+	tag: Calista
+	tag: GryphonHigh
+	tag: Krystle
+page:fear-and-shame
+	date: 2016-02-21
+	desc: Fear and Shame
+	tag: Calista
+	tag: GryphonHigh
+	tag: Krystle
 page:mouth-to-mouth
 	date: 2016-02-18
-	desc: Salsa Dancing
+	desc: Mouth To Mouth
 	tag: 1Frame
 	tag: Atsali
 	tag: Ears
@@ -1840,20 +1908,20 @@ page:promise
 	tag: Atsali
 	tag: Berdine
 	tag: BerdNadHome
-	tag: HornsGirl
 	tag: GilchristHome
 	tag: Nadette
 	tag: Shoebox
+	tag: Thana
 page:come-quick
 	date: 2015-03-23
 	desc: Come Quick
 	tag: Atsali
 	tag: Calista
 	tag: Flashback
-	tag: HornsGirl
 	tag: MrMeadows
 	tag: Orphanage
 	tag: Suicide
+	tag: Thana
 page:from-her-past
 	date: 2015-03-20
 	desc: From Her Past
@@ -1861,11 +1929,11 @@ page:from-her-past
 	tag: Berdine
 	tag: BerdNadHome
 	tag: Flashback
-	tag: HornsGirl
 	tag: MrMeadows
 	tag: Nadette
 	tag: Orphanage
 	tag: Suicide
+	tag: Thana
 page:going-to-worry
 	date: 2015-03-19
 	desc: Going To Worry
