@@ -51,6 +51,185 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Castela
 ; Colour
 ;
+page:hold-fast
+	date: 2016-04-03
+	desc: Hold Fast
+	tag: Cannon
+	tag: Castela
+	tag: Library
+	tag: Phix
+	tag: Pirate
+	tag: Shelly
+page:ground-control-to-major-tom
+	date: 2016-04-01
+	desc: Ground Control To Major Tom…
+	note: 'Merry Christmas' message, snow backdrop
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+	tag: Daylla
+page:dorks-among-up
+	date: 2016-03-31
+	desc: Dorks Among Us
+	tag: 1Frame
+	tag: Atsali
+	tag: Blush
+	tag: Colour
+	tag: MonicasIsland
+	tag: Nadette
+page:tie-me-up
+	date: 2016-03-29
+	desc: Tie Me Up
+	tag: 1Frame
+	tag: Atsali
+	tag: Blush
+	tag: Colour
+	tag: MonicasIsland
+	tag: Nadette
+	tag: Tail
+	tag: Wings
+page:im-in-control
+	date: 2016-03-29
+	desc: I’m In Control
+	note: Talisman mention
+	tag: Atsali
+	tag: Horns
+	tag: MonicasIsland
+	tag: Nadette
+	tag: Talisman
+	tag: Wings
+page:how-they-act
+	date: 2016-03-28
+	desc: How They Act
+	note: Thana mention
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Thana
+page:vespa-run
+	date: 2016-03-26
+	desc: Vespa Run
+	tag: 1Frame
+	tag: Colour
+	tag: Atsali
+	tag: Vespa
+page:one-of-those-devil-gals
+	date: 2016-03-24
+	desc: One Of Those Devil Gals
+	tag: 1Frame
+	tag: Colour
+	tag: Atsali
+	tag: Mirror
+	tag: Horns
+	tag: Tail
+	tag: Wings
+page:be-okay-3
+	date: 2016-03-23
+	desc: Be Okay
+	tag: Atsali
+	tag: Castela
+	tag: FruitBat
+	tag: GilchristHome
+	tag: Horns
+	tag: Katherine
+	tag: Tail
+	tag: Tears
+	tag: Wings
+page:what-did-you-say-2
+	date: 2016-03-23
+	desc: What Did You Say
+	tag: Abbie
+	tag: Atsali
+	tag: Tail
+	tag: Blush
+	tag: GryphonHigh
+	tag: Horns
+	tag: Nadette
+	tag: Wings
+page:still-going
+	date: 2016-03-22
+	desc: Still Going
+	tag: Atsali
+	tag: Tail
+	tag: Blush
+	tag: GryphonHigh
+	tag: Horns
+	tag: Nadette
+	tag: Wings
+page:happy-spring
+	date: 2016-03-21
+	desc: Happy Spring
+	tag: 1Frame
+	tag: Atsali
+	tag: Nadette
+	tag: Snow
+page:no-idea-2
+	date: 2016-03-17
+	desc: No Idea
+	tag: Atsali
+	tag: GilchristHome
+	tag: Katherine
+	tag: Nadette
+	tag: Sweater
+page:not-a-dress
+	date: 2016-03-17
+	desc: Not A Dress
+	tag: GilchristHome
+	tag: Katherine
+	tag: Lily
+page:home-by-ten
+	date: 2016-03-15
+	desc: Home By Ten
+	tag: Atsali
+	tag: GilchristHome
+	tag: Katherine
+	tag: Lily
+	tag: Nadette
+page:longest-to-fall
+	date: 2016-03-14
+	desc: Longest To Fall
+	tag: Castela
+	tag: GilchristHome
+	tag: GryphonFeather
+	tag: Lily
+page:feels-right
+	date: 2016-03-14
+	desc: Feels Right
+	tag: GilchristHome
+	tag: Katherine
+	tag: Lily
+page:run-away
+	date: 2016-03-11
+	desc: Run Away
+	tag: 1Frame
+	tag: Castela
+	tag: Daylla
+page:to-the-rescue
+	date: 2016-03-10
+	desc: To The Rescue
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+	tag: Daylla
+	tag: Park
+page:cuddle-weather
+	date: 2016-03-09
+	desc: Cuddle Weather
+	tag: Bud
+	tag: Kevin
+	tag: KevinHome
+page:really-think
+	date: 2016-03-08
+	desc: Really Think
+	tag: Jet
+	tag: Monica
+	tag: MonicasIsland
+page:youre-the-one
+	date: 2016-03-07
+	desc: You’re The One
+	tag: Jet
+	tag: Monica
+	tag: MonicasIsland
 page:three
 	date: 2016-03-04
 	desc: Three
@@ -63,7 +242,7 @@ page:punched-my-tail
 	tag: Atsali
 	tag: Devyn
 	tag: Nadette
-	tag: AtsaliTail
+	tag: Tail
 	tag: Fight
 	tag: GryphonHigh
 page:not-forgotten
@@ -438,7 +617,7 @@ page:atsali-and-nadette-x-mas-eve
 	date: 2015-12-24
 	desc: Atsali and Nadette X-mas Eve
 	tag: Atsali
-	tag: AtsaliTail
+	tag: Tail
 	tag: BerdNadHome
 	tag: Blush
 	tag: Ears
@@ -452,7 +631,7 @@ page:atsali-and-nadette-3
 	tag: Atsali
 	tag: Blush
 	tag: Colour
-	tag: AtsaliTail
+	tag: Tail
 	tag: Nadette
 page:atsali-and-nadettes-first-x-mas
 	date: 2015-12-22
@@ -949,7 +1128,7 @@ page:come-monday
 	tag: Blush
 	tag: Katherine
 	tag: GilchristHome
-	tag: AtsaliTail
+	tag: Tail
 page:stop-hitting-yourself
 	date: 2015-10-01
 	desc: Stop Hitting Yourself
@@ -958,7 +1137,7 @@ page:stop-hitting-yourself
 	tag: Fight
 	tag: Katherine
 	tag: GilchristHome
-	tag: AtsaliTail
+	tag: Tail
 page:hurt-its-feelings
 	date: 2015-09-30
 	desc: Hurt Its Feelings
@@ -966,7 +1145,7 @@ page:hurt-its-feelings
 	tag: Castela
 	tag: Katherine
 	tag: GilchristHome
-	tag: AtsaliTail
+	tag: Tail
 page:succubus-side
 	date: 2015-09-29
 	desc: Succubus Side
@@ -975,7 +1154,7 @@ page:succubus-side
 	tag: Castela
 	tag: Katherine
 	tag: GilchristHome
-	tag: AtsaliTail
+	tag: Tail
 	tag: Tears
 page:a-new-tail
 	date: 2015-09-28
@@ -983,7 +1162,7 @@ page:a-new-tail
 	tag: Atsali
 	tag: Katherine
 	tag: GilchristHome
-	tag: AtsaliTail
+	tag: Tail
 page:the-chase-05
 	date: 2015-09-25
 	desc: The Chase 05
