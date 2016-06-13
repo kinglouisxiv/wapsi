@@ -51,9 +51,443 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Castela
 ; Colour
 ;
+page:growth-spurt-01
+	date: 2016-06-12
+	desc: Growth Spurt 01
+	tag: Atsali
+	tag: GilchristHome
+	tag: Castela
+page:not-my-fault
+	date: 2016-06-10
+	desc: Not My Fault
+	tag: Atsali
+	tag: BerdNadHome
+	tag: Nadette
+page:as-needed
+	date: 2016-06-08
+	desc: As Needed
+	tag: Justin
+	tag: LakeCalhoun
+	tag: Shelly
+page:in-a-side-cup
+	date: 2016-06-08
+	desc: In A Side Cup
+	tag: IceCream
+	tag: Justin
+	tag: LakeCalhoun
+	tag: Shelly
+page:girlie-fix
+	date: 2016-06-06
+	desc: Girlie Fix
+	tag: IceCream
+	tag: Justin
+	tag: LakeCalhoun
+	tag: Shelly
+page:girlie-girlfriend
+	date: 2016-06-05
+	desc: Girlie Girlfriend
+	tag: Justin
+	tag: Shelly
+	tag: ShellysApartment
+page:smile
+	date: 2016-06-02
+	desc: Smile
+	tag: 1Frame
+	tag: Atsali
+	tag: Blush
+	tag: Nadette
+page:very-few
+	date: 2016-06-02
+	desc: Very Few
+	tag: Atsali
+	tag: Blush
+	tag: Flashback
+	tag: Nadette
+	tag: Photo
+page:last-day-of-school-races
+	date: 2016-06-01
+	desc: Last Day of School Races
+	tag: 1Frame
+	tag: Atsali
+	tag: Nadette
+page:sick-snowman
+	date: 2016-05-31
+	desc: Sick Snowman
+	tag: Cassi
+	tag: Dutch
+	tag: Flashback
+	tag: LeucoisaHome
+	tag: Lorraine
+page:call-me-cassi
+	date: 2016-05-29
+	desc: Call Me Cassi
+	tag: Atsali
+	tag: Cassi
+	tag: Flashback
+	tag: LeucoisaHome
+	tag: Tears
+page:never-be-a-weapon
+	date: 2016-05-26
+	desc: Never Be A Weapon
+	tag: Blood
+	tag: Flashback
+	tag: LeucoisaHome
+	tag: Cassi
+	tag: Lorraine
+	tag: Marius
+	tag: Paden
+page:not-make-holes
+	date: 2016-05-25
+	desc: Not Make Holes
+	tag: Atsali
+	tag: Flashback
+	tag: LeucoisaHome
+page:mama-quiet
+	date: 2016-05-25
+	desc: Mama Quiet
+	tag: Assassin
+	tag: Atsali
+	tag: Fight
+	tag: Flashback
+	tag: Gun
+	tag: Leucoisa
+	tag: LeucoisaHome
+page:mama-bear
+	date: 2016-05-23
+	desc: Mama Bear
+	tag: Assassin
+	tag: Blood
+	tag: Dagger
+	tag: Fight
+	tag: Flashback
+	tag: Gun
+	tag: Leucoisa
+	tag: LeucoisaHome
+page:the-right-thing-2
+	date: 2016-05-23
+	desc: The Right Thing
+	tag: Atsali
+	tag: Assassin
+	tag: Flashback
+	tag: Blood
+	tag: Colour
+	tag: Fight
+	tag: Gun
+	tag: Leucoisa
+	tag: LeucoisaHome
+	tag: Phone
+page:moving-forward
+	date: 2016-05-19
+	desc: Moving Forward
+	note: Monica reference (Ms Villarreal)
+	tag: Atsali
+	tag: Calista
+	tag: GryphonHigh
+	tag: Monica
+	tag: Nadette
+page:school-alert
+	date: 2016-05-18
+	desc: School Alert
+	tag: Atsali
+	tag: Blush
+	tag: Calista
+	tag: GryphonHigh
+	tag: Nadette
+	tag: Tears
+page:thanks-for-the-icepack
+	date: 2016-05-17
+	desc: Thanks For The Icepack
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Nadette
+	tag: Tears
+page:make-a-run-for-it
+	date: 2016-05-16
+	desc: Ever Violent
+	tag: Abbie
+	tag: Atsali
+	tag: Beak
+	tag: Bear
+	tag: Blush
+	tag: Claws
+	tag: Devyn
+	tag: Fight
+	tag: Nadette
+	tag: NorwegianFlightField
+	tag: Siren
+	tag: Wings
+page:ever-violent
+	date: 2016-05-16
+	desc: Ever Violent
+	tag: Abbie
+	tag: Atsali
+	tag: Bear
+	tag: Claws
+	tag: Devyn
+	tag: Fight
+	tag: Nadette
+	tag: NorwegianFlightField
+	tag: Siren
+	tag: Wings
+page:hurting-someone
+	date: 2016-05-12
+	desc: Hurting Someone
+	tag: Abbie
+	tag: Bear
+	tag: Blush
+	tag: Devyn
+	tag: Fight
+	tag: Nadette
+	tag: NorwegianFlightField
+page:ferocious-beast
+	date: 2016-05-12
+	desc: Ferocious Beast
+	note: Mapimi mentioned
+	tag: Mapimi
+	tag: Abbie
+	tag: Devyn
+	tag: Nadette
+	tag: NorwegianFlightField
+page:out-of-control
+	date: 2016-05-11
+	desc: Out Of Control
+	tag: Abbie
+	tag: Devyn
+	tag: Nadette
+	tag: NorwegianFlightField
+page:a-good-sign
+	date: 2016-05-09
+	desc: A Good Sign
+	tag: Abbie
+	tag: Atsali
+	tag: Devyn
+	tag: EllenVonn
+	tag: NorwegianFlightField
+	tag: Wings
+page:atsali-and-nadette-bubbles
+	date: 2016-05-07
+	desc: Atsali and Nadette Bubbles
+	tag: 1Frame
+	tag: Atsali
+	tag: Colour
+	tag: Nadette
+page:flight-training-01
+	date: 2016-05-05
+	desc: Flight Training 01
+	tag: Atsali
+	tag: EllenVonn
+	tag: FlightTeamCoach
+	tag: NorwegianFlightField
+	tag: Wings
+page:total-drama
+	date: 2016-05-05
+	desc: Total Drama
+	tag: Abbie
+	tag: Atsali
+	tag: Devyn
+	tag: EllenVonn
+	tag: FlightTeam2
+	tag: FlightTeamCoach
+	tag: NorwegianFlightField
+	tag: Wings
+page:get-started
+	date: 2016-05-04
+	desc: Get Started
+	tag: Abbie
+	tag: Atsali
+	tag: Devyn
+	tag: EllenVonn
+	tag: FlightTeam2
+	tag: FlightTeam3
+	tag: FlightTeamCoach
+	tag: NorwegianFlightField
+	tag: TeamFortressII
+	tag: Wings
+page:wide-open-spaces
+	date: 2016-05-03
+	desc: Wide Open Spaces
+	tag: Abbie
+	tag: AthleticPortal
+	tag: Atsali
+	tag: Devyn
+	tag: LeifEriksson
+	tag: Nadette
+	tag: NorwegianFlightField
+	tag: Wings
+page:wing-gal
+	date: 2016-05-02
+	desc: Wing Gal
+	tag: Abbie
+	tag: Atsali
+	tag: Blush
+	tag: Devyn
+	tag: GryphonHigh
+	tag: Jessie
+	tag: Nadette
+page:oh-noes-2
+	date: 2016-04-27
+	desc: Oh Noes
+	tag: Blush
+	tag: GilchristHome
+	tag: Nadette
+page:real-firecracker
+	date: 2016-04-27
+	desc: Real Firecracker
+	tag: Atsali
+	tag: Blush
+	tag: Chalupas
+	tag: FlightTeam
+	tag: GilchristHome
+	tag: Katherine
+	tag: Nadette
+page:what-did-they-say
+	date: 2016-04-26
+	desc: Some Good News
+	tag: Atsali
+	tag: Blush
+	tag: FlightTeam
+	tag: GilchristHome
+	tag: Katherine
+	tag: Nadette
+page:some-good-news
+	date: 2016-04-26
+	desc: Some Good News
+	note: Michelle Yeoh mentioned
+	tag: Atsali
+	tag: MichelleYeoh
+	tag: Castela
+	tag: Nadette
+	tag: Skatepark
+page:cowabunga
+	date: 2016-04-24
+	desc: Cowabunga
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: Nadette
+	tag: Skatepark
+	tag: Skateboard
+	tag: Phone
+	tag: Camera
+page:punk-yoga
+	date: 2016-04-22
+	desc: Punk Yoga
+	tag: 1Frame
+	tag: Colour
+	tag: Jacqui
+	tag: PunkYoga
+	tag: Shelly
+page:say-yes-to-hugs
+	date: 2016-04-20
+	desc: Say Yes To Hugs
+	tag: 1Frame
+	tag: Atsali
+	tag: Nadette
+	tag: Tail
+page:predats-and-bevies
+	date: 2016-04-20
+	desc: Predats And Bevies
+	tag: Atsali
+	tag: Blush
+	tag: GryphonHigh
+	tag: Jessie
+	tag: MrsAdler
+page:drives-me-crazy
+	date: 2016-04-19
+	desc: Drives Me Crazy
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: Nudge
+	tag: Phone
+page:your-punishment
+	date: 2016-04-17
+	desc: Your Punishment
+	tag: Atsali
+	tag: Katherine
+	tag: GilchristHome
+page:talk-with-you-later
+	date: 2016-04-14
+	desc: Talk With You Later
+	tag: Atsali
+	tag: Castela
+	tag: Katherine
+	tag: MrsAdler
+	tag: GryphonHigh
+page:really-hurt-someone
+	date: 2016-04-13
+	desc: In The Real World
+	tag: Castela
+	tag: Nadette
+	tag: Blush
+	tag: Phone
+	tag: GryphonHigh
+page:in-the-real-world
+	date: 2016-04-13
+	desc: In The Real World
+	tag: Castela
+	tag: Nadette
+	tag: GryphonHigh
+page:a-controlled-stampede
+	date: 2016-04-11
+	desc: A Controlled Stampede
+	tag: Atsali
+	tag: Hockey
+	tag: Nadette
+	tag: GryphonHigh
+page:field-hockey
+	date: 2016-04-10
+	desc: Field Hockey
+	tag: Atsali
+	tag: Blush
+	tag: Hockey
+	tag: Castela
+	tag: Nadette
+	tag: GryphonHigh
+page:plunder-plunder-plunder
+	date: 2016-04-07
+	desc: Plunder Plunder Plunder
+	tag: Bop-a-ball
+	tag: Castela
+	tag: Dietsel
+	tag: Library
+	tag: Nudge
+	tag: Shelly
+page:in-the-cross-hairs
+	date: 2016-04-06
+	desc: In The Cross Hairs
+	tag: Castela
+	tag: Conscience
+	tag: Library
+	tag: Nudge
+	tag: Periscope
+	tag: Phix
+	tag: Shelly
+page:at-the-ready
+	date: 2016-04-05
+	desc: At The Ready
+	tag: Cannon
+	tag: Conscience
+	tag: Library
+	tag: Nudge
+	tag: Phix
+	tag: Shelly
+page:after-the-rigging
+	date: 2016-04-04
+	desc: After The Rigging
+	tag: Acheron
+	tag: Cannon
+	tag: Castela
+	tag: Library
+	tag: Nudge
+	tag: Phix
+	tag: Pirate
+	tag: Shelly
 page:hold-fast
 	date: 2016-04-03
 	desc: Hold Fast
+	Note: references to film [Master and Commander](http://www.imdb.com/title/tt0311113/?ref_=fn_al_tt_1) itself based on Patick O’Brien's novels
 	tag: Cannon
 	tag: Castela
 	tag: Library
@@ -262,7 +696,7 @@ page:touching-base
 page:little-fish
 	date: 2016-02-28
 	desc: Little Fish
-	tag: Castella
+	tag: Castela
 	tag: Lily
 	tag: MonicasIsland
 page:study-break
