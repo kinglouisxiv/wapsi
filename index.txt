@@ -51,12 +51,358 @@ baseurl: http://wapsisquare.com/comic/{0}/
 ; Castela
 ; Colour
 ;
+page:oceanside
+	date: 2016-08-19
+	desc: Oceanside
+	tag: 1Frame
+	tag: Castela
+	tag: Monica
+	tag: MonicasIsland
+page:need-company
+	date: 2016-08-17
+	desc: Need Company
+	tag: Castela
+	tag: Monica
+	tag: MonicasIsland
+page:this-way
+	date: 2016-08-17
+	desc: This Way
+	tag: Baxter
+	tag: Monica
+	tag: MonicasIsland
+	tag: Tsillah
+page:passing-through
+	date: 2016-08-15
+	desc: Passing Through
+	tag: Conscience
+	tag: Monica
+	tag: MonicasIsland
+	tag: Phix
+	tag: Shelly
+page:a-dozen
+	date: 2016-08-14
+	desc: At It Again
+	tag: Conscience
+	tag: Library
+	tag: Phix
+	tag: Roof
+	tag: Shelly
+	tag: ShellysApartment
+page:at-it-again
+	date: 2016-08-12
+	desc: At It Again
+	tag: Conscience
+	tag: Roof
+	tag: Shelly
+	tag: ShellysApartment
+page:midnight-raid
+	date: 2016-08-11
+	desc: Midnight Raid
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+page:blow-your-nose
+	date: 2016-08-10
+	desc: Blow Your Nose
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+page:confused-now
+	date: 2016-08-08
+	desc: Confused Now
+	tag: Atsali
+	tag: Blush
+	tag: Galleria
+	tag: Hearts
+	tag: Nadette
+page:messed-up-2
+	date: 2016-08-07
+	desc: Messed Up
+	tag: Atsali
+	tag: Blush
+	tag: Galleria
+	tag: Hearts
+	tag: Nadette
+page:own-it
+	date: 2016-08-04
+	desc: Own It
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page:framed
+	date: 2016-08-03
+	desc: Framed
+	tag: Castela
+	tag: GilchristHome
+	tag: Wall
+page:all-gone-2
+	date: 2016-08-03
+	desc: All Gone
+	tag: Atsali
+	tag: Blush
+	tag: Galleria
+	tag: GilchristHome
+	tag: Haircut
+	tag: Hearts
+	tag: Nadette
+page:fill-in-the-rest
+	date: 2016-07-28
+	desc: Fill In The Rest
+	tag: GilchristHome
+	tag: Atsali
+	tag: Katherine
+page:alone-at-the-comic-book-shop
+	date: 2016-07-27
+	desc: Alone At The Comic Book Shop
+	tag: 1Frame
+	tag: Colour
+	tag: Castela
+page:have-to-adult
+	date: 2016-07-26
+	desc: Have To Adult
+	tag: GilchristHome
+	tag: Haircut
+	tag: Katherine
+	tag: Wall
+page:if-you-want-to
+	date: 2016-07-26
+	desc: If You Want To
+	tag: Blush
+	tag: Castela
+	tag: GilchristHome
+	tag: Hit
+	tag: Horns
+	tag: Timothy
+	tag: Wall
+page:cold-water
+	date: 2016-07-25
+	desc: Cold Water
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: GilchristHome
+	tag: Horns
+	tag: Timothy
+page:broke-your-friend
+	date: 2016-07-21
+	desc: Broke Your Friend
+	tag: 1Frame
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: GilchristHome
+	tag: Timothy
+page:that-sucks
+	date: 2016-07-21
+	desc: That Sucks
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: GilchristHome
+	tag: Tears
+	tag: Timothy
+	tag: Wednesday
+page:come-with-ya
+	date: 2016-07-20
+	desc: Come With Ya
+	tag: Castela
+	tag: PoseidonResort
+	tag: Scarlet
+	tag: Timothy
+	tag: Wednesday
+page:each-recess
+	date: 2016-07-18
+	desc: Each Recess
+	tag: Castela
+	tag: PoseidonResort
+	tag: Scarlet
+	tag: Timothy
+page:i-mean-seriously
+	date: 2016-07-17
+	desc: I Mean Seriously
+	tag: Castela
+	tag: PoseidonResort
+	tag: Scarlet
+	tag: Timothy
+page:that-thing
+	date: 2016-07-14
+	desc: That Thing
+	tag: 1Frame
+	tag: Boots
+	tag: Castela
+	tag: Colour
+	tag: Sparks
+	tag: Text
+page:science
+	date: 2016-07-14
+	desc: Science
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+	tag: Text
+page:the-way
+	date: 2016-07-13
+	desc: The Way
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+	tag: Text
+page:in-check
+	date: 2016-07-11
+	desc: In Check
+	tag: Sphinx
+	tag: Castela
+	tag: Phix
+	tag: Library
+	tag: ThornyVine
+page:need-to-vent
+	date: 2016-07-10
+	desc: Need To Vent
+	tag: Castela
+	tag: Phix
+	tag: Library
+	tag: ThornyVine
+page:style-of-boot
+	date: 2016-07-08
+	desc: Style Of Boot
+	tag: Castela
+	tag: Boots
+	tag: GundamWarrior
+	tag: Bra
+	tag: Atsali
+	tag: Tears
+	tag: LydiasLingerie
+	tag: GilchristHome
+page:where-to-put-them
+	date: 2016-07-07
+	desc: Where To Put Them
+	tag: Castela
+	tag: Ankles
+	tag: GilchristHome
+page:prioritize
+	date: 2016-07-06
+	desc: Prioritise
+	tag: Castela
+	tag: Ankles
+	tag: GilchristHome
+page:lunch-buddy
+	date: 2016-07-05
+	desc: Lunch Buddy
+	tag: BabyTeeth
+	tag: Castela
+	tag: Flashback
+	tag: GilchristHome
+	tag: Katherine
+page:looking-in-the-mirror
+	date: 2016-07-03
+	desc: Looking In The Mirror
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: Mirror
+page:what-gives
+	date: 2016-06-30
+	desc: What Gives
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+page:like-weeds
+	date: 2016-06-29
+	desc: Like Weeds
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page:have-your-back
+	date: 2016-06-28
+	desc: Have Your Back
+	tag: Castela
+	tag: Daylla
+	tag: PoseidonResort
+	tag: Scarlet
+	tag: Timothy
+page:it-was-me
+	date: 2016-06-27
+	desc: It Was Me
+	tag: Castela
+	tag: Flowers
+	tag: GilchristHome
+	tag: Katherine
+	tag: FlowerPot
+page:have-a-bite-2
+	date: 2016-06-26
+	desc: Have A Bite
+	tag: Atsali
+	tag: Castela
+	tag: Flowers
+	tag: GilchristHome
+	tag: Horns
+	tag: FlowerPot
+	tag: SnickersBar
+page:as-is
+	date: 2016-06-24
+	desc: As Is
+	tag: 1Frame
+	tag: Castela
+	tag: Atsali
+page:save-your-own-butt
+	date: 2016-06-23
+	desc: Save Your Own Butt
+	tag: 1Frame
+	tag: Castela
+page:rock-it
+	date: 2016-06-22
+	desc: Rock It
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: GrayStreak
+	tag: Katherine
+page:who-knew
+	date: 2016-06-21
+	desc: Who Knew
+	tag: ParaTeen
+	tag: Castela
+	tag: GilchristHome
+page:put-this-in-context
+	date: 2016-06-19
+	desc: Put This In Context
+	tag: Atsali
+	tag: Castela
+	tag: Galleria
+page:atsali-and-nadette-4
+	date: 2016-06-17
+	desc: Atsali and Nadette
+	tag: 1Frame
+	tag: Atsali
+	tag: Blush
+	tag: Nadette
+page:rattle-on
+	date: 2016-06-16
+	desc: Rattle On
+	tag: Daylla
+	tag: Castela
+	tag: Galleria
+	tag: Timothy
+page:get-through-this-together
+	date: 2016-06-15
+	desc: Get Through This Together
+	tag: Daylla
+	tag: Castela
+	tag: Galleria
+	tag: Timothy
+page:the-plus-side
+	date: 2016-06-14
+	desc: The Plus Side
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
 page:growth-spurt-01
 	date: 2016-06-12
 	desc: Growth Spurt 01
 	tag: Atsali
-	tag: GilchristHome
 	tag: Castela
+	tag: GilchristHome
 page:not-my-fault
 	date: 2016-06-10
 	desc: Not My Fault
@@ -670,6 +1016,8 @@ page:three
 	tag: Atsali
 	tag: Castela
 	tag: Thana
+	tag: 1Frame
+	tag: Orphanage
 page:punched-my-tail
 	date: 2016-03-03
 	desc: Punched My Tail
@@ -745,6 +1093,7 @@ page:salsa-dancing
 	tag: 1Frame
 	tag: Atsali
 	tag: Castela
+	tag: MrWebby
 page:gross-and-scary
 	date: 2016-02-17
 	desc: Gross and Scary
@@ -1259,6 +1608,7 @@ page:inside-voice
 	desc: Inside Voice
 	tag: Castela
 	tag: Daylla
+	tag: ThornyVine
 	tag: GryphonElementary
 	tag: MrsConey
 	tag: Timothy
@@ -1883,11 +2233,6 @@ page:lonely-day
 page:wapsi-books
 	date: 2015-07-08
 	desc: Advert: Wapsi in dead tree editions, books 1-8
-	tag: Filler
-page:castela-moving-notice
-	date: 2015-07-05
-	desc: Castela Moving Notice (announces break, until 20 July 2015, for relocation)
-	tag: Castela
 	tag: Filler
 page:she-rocks
 	date: 2015-07-03
@@ -3028,6 +3373,7 @@ page:castela-xmas-eve-2014
 	date: 2014-12-24
 	desc: Castela Xmas Eve 2014
 	tag: 1Frame
+	tag: Hippopotamus
 	tag: Castela
 	tag: Colour
 page:hold-that-thought
@@ -3291,6 +3637,7 @@ page:an-adorable-rose-bush
 	date: 2014-11-05
 	desc: An Adorable Rose Bush
 	tag: Castela
+	tag: ThornyVine
 	tag: GilchristHome
 	tag: Katherine
 page:my-job
@@ -3788,6 +4135,7 @@ page:ancient-guardians
 	desc: Ancient Guardians
 	tag: Atsali
 	tag: Calista
+	tag: ThornyVine
 	tag: Castela
 	tag: GryphonHigh
 	tag: ThornyVine
@@ -3949,6 +4297,7 @@ page:castela-fourth
 	desc: Castela Fourth
 	tag: Castela
 	tag: Explosion
+	tag: ThornyVine
 	tag: Filler
 	tag: Firework
 	tag: GilchristHome
@@ -4755,7 +5104,7 @@ page:scare-for-fun
 	date: 2013-12-30
 	desc: Scare For Fun
 	tag: Castela
-	tag: ElementartKids
+	tag: ElementaryKids
 	tag: Facemarks
 	tag: GryphonElementary
 	tag: Monica
