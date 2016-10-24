@@ -45,12 +45,349 @@
 ;   - _e.g._ fillers, guest comics, art pages, special colour pages (for a b&w comic)
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
-; some capitalisation correctors:
-; Amanda
-; Atsali
-; Castela
-; Colour
 ;
+page:get-her-groove-on
+	date: 2016-10-23
+	desc: Get Her Groove On
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Blush
+page:check-in-on-you
+	date: 2016-10-20
+	desc: Check In On You
+	tag: Atsali
+	tag: Castela
+	tag: Katherine
+	tag: GilchristHome
+	tag: TsarabanjinaIsland
+page:too-much-pizza
+	date: 2016-10-19
+	desc: Too Much Pizza
+	tag: Atsali
+	tag: Castela
+	tag: Katherine
+	tag: GilchristHome
+page:captain-smartie-pants
+	date: 2016-10-19
+	desc: Captain Smartie Pants
+	tag: Atsali
+	tag: Castela
+	tag: Katherine
+	tag: GilchristHome
+	tag: Pizza
+	tag: Thud
+page:best-friend
+	date: 2016-10-17
+	desc: Best Friend
+	tag: Abbie
+	tag: Blush
+	tag: Devyn
+	tag: GryphonHigh
+page:feel-like-an-outsider
+	date: 2016-10-16
+	desc: Feel Like An Outsider
+	tag: Abbie
+	tag: Devyn
+	tag: GryphonHigh
+page:nerd-girls-dancing
+	date: 2016-10-14
+	desc: Nerd Girls Dancing
+	tag: 1Frame
+	tag: Abbie
+	tag: Alexis
+	tag: Atsali
+	tag: Berdine
+	tag: Colour
+	tag: Devyn
+	tag: Nadette
+page:jumped-in-sooner
+	date: 2016-10-13
+	desc: Jumped In Sooner
+	note: Infodump on Elements and seasons
+	tag: Atsali 
+	tag: Blush
+	tag: LakeCalhoun
+	tag: Nadette
+page:buy-a-helmet
+	date: 2016-10-12
+	desc: Buy A Helmet
+	tag: Atsali 
+	tag: Blush
+	tag: LakeCalhoun
+	tag: Monica
+	tag: Nadette
+page:that-four-letter-word
+	date: 2016-10-11
+	desc: That Four Letter Word
+	tag: Atsali 
+	tag: LakeCalhoun
+	tag: Monica
+	tag: Nadette
+	tag: Snow
+page:cuddle-buddy
+	date: 2016-10-09
+	desc: Cuddle Buddy
+	tag: Atsali 
+	tag: LakeCalhoun
+	tag: Nadette
+page:downtime
+	date: 2016-10-08
+	desc: Downtime
+	tag: 1Frame
+	tag: Atsali 
+	tag: CerberusClub
+	tag: Colour
+	tag: Nadette
+page:because
+	date: 2016-10-06
+	desc: Because
+	tag: 1Frame
+	tag: Conscience 
+	tag: Tepoz
+page:be-sure-to-see-me
+	date: 2016-10-06
+	desc: Be Sure To See Me
+	tag: Car
+	tag: Conscience 
+	tag: Japan
+	tag: Tepoz
+page:big-in-japan
+	date: 2016-10-04
+	desc: Big In Japan
+	tag: Conscience 
+	tag: Library
+	tag: Tepoz
+page:missed-it
+	date: 2016-10-03
+	desc: Missed It
+	tag: Conscience 
+	tag: Library
+	tag: Tepoz
+page:make-you-feel
+	date: 2016-10-02
+	desc: Make You Feel
+	tag: Bia
+	tag: Conscience 
+	tag: Library
+	tag: Press
+	tag: Shelly
+	tag: Tears
+page:the-last-time
+	date: 2016-09-29
+	desc: The Last Time
+	note: [The last time](http://wapsisquare.com/comic/dontwanttoremember/)
+	tag: Bia
+	tag: Conscience 
+	tag: Shelly
+	tag: Library
+	tag: Popcorn
+page:middle-name
+	date: 2016-09-29
+	desc: Middle Name
+	note: reveal: Shelly Elise Wahanee
+	tag: Bia
+	tag: Shelly
+	tag: Library
+page:bored
+	date: 2016-09-27
+	desc: Bored
+	tag: Conscience
+	tag: Shelly
+	tag: Library
+page:no-idea-3
+	date: 2016-09-26
+	desc: No Idea
+	tag: Abbie
+	tag: Boz
+	tag: Devyn
+	tag: GryphonHigh
+page:hold-on-5
+	date: 2016-09-25
+	desc: Hold On
+	tag: Abbie
+	tag: Blush
+	tag: Devyn
+	tag: GryphonHigh
+page:know-the-rules
+	date: 2016-09-21
+	desc: Know The Rules
+	tag: Abbie
+	tag: Blush
+	tag: MsAlger
+	tag: GryphonHigh
+page:not-the-reason
+	date: 2016-09-20
+	desc: Not The Reason
+	tag: Abbie
+	tag: Blush
+	tag: Berdine
+	tag: GryphonHigh
+page:my-quota
+	date: 2016-09-19
+	desc: My Quota
+	tag: Abbie
+	tag: Devyn
+	tag: GryphonHigh
+page:damn-straight
+	date: 2016-09-18
+	desc: Damn Straight
+	tag: Abbie
+	tag: Devyn
+	tag: GryphonHigh
+page:castela-4
+	date: 2016-09-15
+	desc: Castela
+	note: [Animated version](https://media.giphy.com/media/l2Sq7yn4EDufJ2HLi/giphy.gif)
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+page:try-really-hard
+	date: 2016-09-14
+	desc: Try Really Hard
+	tag: Abbie
+	tag: Blush
+	tag: Dean
+	tag: GryphonHigh
+page:grab-your-seat
+	date: 2016-09-13
+	desc: Grab Your Seat
+	note: Couple of kids here unnamed so far
+	tag: Abbie
+	tag: Alexis
+	tag: Blush
+	tag: Dean
+	tag: Devyn
+	tag: GryphonHigh
+page:the-substitute
+	date: 2016-09-12
+	desc: The Substitute
+	tag: Abbie
+	tag: Alexis
+	tag: Blush
+	tag: Dean
+	tag: Devyn
+	tag: GryphonHigh
+page:a-normal-girl
+	date: 2016-09-11
+	desc: A Normal Girl
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: Atsali
+page:wonder-castela
+	date: 2016-09-08
+	desc: Wonder Castela
+	tag: Castela
+	tag: 1Frame
+page:you-know-what-i-mean
+	date: 2016-09-08
+	desc: You Know What I Mean
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: Lightning
+	tag: Roof
+page:been-there
+	date: 2016-09-05
+	desc: Been There
+	tag: Tears
+	tag: Scarlet
+	tag: ScarletsHouse
+	tag: ScarletsMom
+	tag: Timothy
+page:put-back-together
+	date: 2016-09-04
+	desc: Put Back Together
+	tag: Castela
+	tag: Daylla
+	tag: Flashback
+	tag: GryphonElementary
+	tag: Scarlet
+	tag: ScarletsHouse
+	tag: Timothy
+page:so-mature
+	date: 2016-09-02
+	desc: So Mature
+	tag: Atsali
+	tag: Nadette
+	tag: GryphonHigh
+	tag: Seniors
+page:study-buddy
+	date: 2016-08-31
+	desc: Study Buddy
+	tag: Blush
+	tag: Castela
+	tag: GryphonElementary
+	tag: Scarlet
+	tag: Timothy
+page:asked-him
+	date: 2016-08-30
+	desc: Asked Him
+	tag: Blush
+	tag: Castela
+	tag: GryphonElementary
+	tag: Scarlet
+	tag: Timothy
+page:eager-study-buddy
+	date: 2016-08-29
+	desc: Eager Study Buddy
+	tag: GryphonElementary
+	tag: Scarlet
+	tag: Timothy
+page:made-you-flinch
+	date: 2016-08-28
+	desc: Made You Flinch
+	tag: Blush
+	tag: Bud
+	tag: CanyonDeChelly
+	tag: Castela
+	tag: HandGlow
+	tag: Shelly
+page:so-adorable
+	date: 2016-08-25
+	desc: So Adorable
+	tag: Jessie
+	tag: Krystle
+	tag: RenFest
+	tag: 1Frame
+	tag: Sepia
+	tag: Colour
+page:the-reason-i-called-you
+	date: 2016-08-24
+	desc: The Reason I Called You
+	tag: Blush
+	tag: Bud
+	tag: CanyonDeChelly
+	tag: Castela
+	tag: HandGlow
+	tag: Shelly
+	tag: Vorp
+	tag: Zot
+page:on-that-note
+	date: 2016-08-23
+	desc: On That Note
+	tag: Boots
+	tag: Bud
+	tag: Blush
+	tag: Castela
+	tag: CanyonDeChelly
+	tag: HandGlow
+	tag: Zot
+page:allowance-money
+	date: 2016-08-22
+	desc: Allowance Money
+	tag: Boots
+	tag: Bud
+	tag: Castela
+	tag: CanyonDeChelly
+	tag: Kick
+page:have-at-that
+	date: 2016-08-21
+	desc: Have At That
+	tag: Bud
+	tag: Castela
+	tag: CanyonDeChelly
 page:oceanside
 	date: 2016-08-19
 	desc: Oceanside
@@ -303,6 +640,7 @@ page:looking-in-the-mirror
 page:what-gives
 	date: 2016-06-30
 	desc: What Gives
+	note: references: [Stung By A Bee](#stung-by-a-bee)
 	tag: Atsali
 	tag: Castela
 	tag: GilchristHome
@@ -312,6 +650,8 @@ page:like-weeds
 	tag: Castela
 	tag: GilchristHome
 	tag: Katherine
+	tag: Scarlet
+	tag: Timothy
 page:have-your-back
 	date: 2016-06-28
 	desc: Have Your Back
@@ -5129,7 +5469,7 @@ page:show-and-tell
 	tag: AstralFire
 	tag: Castela
 	tag: DemonShepherd
-	tag: ElementryKids
+	tag: ElementaryKids
 	tag: GryphonElementary
 	tag: JaguarGirl
 	tag: Monica
