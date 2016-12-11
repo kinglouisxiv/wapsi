@@ -46,6 +46,257 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ;
+page:being-accepted
+	date: 2016-12-09
+	desc: Being Accepted
+	tag: Atsali
+	tag: Castela
+	tag: FaustHome
+	tag: GilchristHome
+	tag: Skylar
+page:accepted
+	date: 2016-12-08
+	desc: Accepted
+	tag: Atsali
+	tag: DragonsWallCollege
+	tag: GilchristHome
+page:in-charge
+	date: 2016-12-07
+	desc: In Charge
+	tag: Justin
+	tag: Shelly
+	tag: ShellysNose
+	tag: ShellysApartment
+page:not-stupid
+	date: 2016-12-06
+	desc: Not Stupid
+	tag: Atsali
+	tag: Castela
+	tag: Katherine
+	tag: GilchristHome
+page:did-you-know-2
+	date: 2016-12-05
+	desc: Did You Know
+	tag: Castela
+	tag: Katherine
+	tag: GilchristHome
+page:bud-and-stink-print
+	date: 2016-12-03
+	desc: Bud and Stink Print - advert
+	tag: Filler
+	tag: Bud
+	tag: Sea
+	tag: Stinky
+page:the-day-they-met
+	date: 2016-12-01
+	desc: The Day They Met
+	tag: 1Frame
+	tag: Bud
+	tag: Sea
+	tag: Stinky
+page:puppies
+	date: 2016-11-30
+	desc: Puppies
+	tag: Beach
+	tag: Bud
+	tag: Kevin
+	tag: Stinky
+page:new-toy
+	date: 2016-11-30
+	desc: New Toy
+	tag: Anchor
+	tag: Beach
+	tag: Bud
+	tag: Kevin
+	tag: Stinky
+page:too-cold
+	date: 2016-11-29
+	desc: Too Cold
+	note: Bud weighs about 140lb
+	tag: Beach
+	tag: Bud
+	tag: Kevin
+page:listening
+	date: 2016-11-27
+	desc: Listening
+	tag: Beach
+	tag: Bud
+	tag: Kevin
+page:kath-and-bryn
+	date: 2016-11-23
+	desc: Kath and Bryn
+	tag: 1Frame
+	tag: Bryn
+	tag: Katherine
+	tag: Tsarabanjina
+page:another-holiday
+	date: 2016-11-20
+	desc: Another Holiday
+	tag: Castela
+	tag: GilchristHome
+	tag: Atsali
+page:hug-you
+	date: 2016-11-18
+	desc: Hug You
+	note: "Q, format, and store running program. Label castela zed one" saves Leucoisa simulation for later access and hugs
+	tag: Castela
+	tag: LeucoisaSim
+	tag: Library
+	tag: Tears
+page:without-dying
+	date: 2016-11-16
+	desc: Without Dying
+	tag: Castela
+	tag: LeucoisaSim
+	tag: Library
+	tag: Hug
+page:protecting-you
+	date: 2016-11-16
+	desc: Protecting You
+	tag: Castela
+	tag: LeucoisaSim
+	tag: Library
+page:falling
+	date: 2016-11-14
+	desc: Fallout
+	tag: Castela
+	tag: Library
+	tag: Plasma
+	tag: ThornyVine
+page:fallout
+	date: 2016-11-13
+	desc: Fallout
+	tag: Castela
+	tag: Library
+	tag: Plasma
+	tag: ThornyVine
+	tag: Tears
+page:wapsi-square-book-10-out-now
+	date: 2016-11-12
+	desc: Wapsi Square Book 10 Out Now! [advert]
+	tag: 1Frame
+	tag: Colour
+	tag: Filler
+	tag: MotorScooter
+page:you-know-me
+	date: 2016-11-10
+	desc: You Know Me
+	tag: Atsali
+	tag: Castela
+	tag: Flashback
+	tag: LeucoisaHome
+	tag: Library
+	tag: Marius
+	tag: ThornyVine
+page:protected
+	date: 2016-11-10
+	desc: Protected
+	tag: Atsali
+	tag: Castela
+	tag: Flashback
+	tag: LeucoisaHome
+	tag: Library
+	tag: ThornyVine
+page:do-you-hear-me
+	date: 2016-11-08
+	desc: Do You Hear Me
+	tag: Atsali
+	tag: Castela
+	tag: Flashback
+	tag: Leucoisa
+	tag: LeucoisaHome
+	tag: Library
+page:little-voice
+	date: 2016-11-07
+	desc: Little Voice
+	tag: Assassin
+	tag: Atsali
+	tag: Castela
+	tag: Flashback
+	tag: Leucoisa
+	tag: LeucoisaHome
+	tag: Library
+page:echoes-2
+	date: 2016-11-06
+	desc: Help Out
+	tag: Assassin
+	tag: Castela
+	tag: Fight
+	tag: Flashback
+	tag: Gun
+	tag: Leucoisa
+	tag: LeucoisaHome
+	tag: Library
+page:help-out
+	date: 2016-11-03
+	desc: Help Out
+	tag: Assassin
+	tag: Atsali
+	tag: Castela
+	tag: Fight
+	tag: Flashback
+	tag: Gun
+	tag: Leucoisa
+	tag: LeucoisaHome
+	tag: Library
+page:figured-that-out
+	date: 2016-11-02
+	desc: Figured That Out
+	tag: Atsali
+	tag: Castela
+	tag: Library
+	tag: Leucoisa
+	tag: Flashback
+	tag: LeucoisaHome
+page:what-have-i-said
+	date: 2016-11-01
+	desc: Little Plant
+	tag: Atsali
+	tag: Castela
+	tag: Library
+	tag: Leucoisa
+	tag: Flashback
+	tag: LeucoisaHome
+page:little-plant
+	date: 2016-10-31
+	desc: Little Plant
+	tag: Atsali
+	tag: Castela
+	tag: Library
+	tag: Phix
+page:well-then
+	date: 2016-10-30
+	desc: Well Then
+	tag: Castela
+	tag: Library
+	tag: Phix
+page:why-are-you-looking
+	date: 2016-10-26
+	desc: Why Are You Looking
+	tag: Lily
+	tag: Castela
+	tag: Library
+	tag: Phix
+page:you-get-it
+	date: 2016-10-26
+	desc: You Get It
+	tag: Lily
+	tag: Castela
+	tag: Library
+	tag: Phix
+page:my-answers
+	date: 2016-10-25
+	desc: My Answers
+	tag: Lily
+	tag: Castela
+	tag: GilchristHome
+page:where-do-we-start
+	date: 2016-10-24
+	desc: Where Do We Start
+	tag: Lily
+	tag: Castela
+	tag: GilchristHome
+	tag: Blush
 page:get-her-groove-on
 	date: 2016-10-23
 	desc: Get Her Groove On
@@ -252,7 +503,7 @@ page:try-really-hard
 page:grab-your-seat
 	date: 2016-09-13
 	desc: Grab Your Seat
-	note: Couple of kids here unnamed so far
+	note: Couple of kids here are unnamed, so far
 	tag: Abbie
 	tag: Alexis
 	tag: Blush
