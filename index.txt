@@ -46,6 +46,100 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ;
+page: new-years-eve
+	date: 2016-12-10 23:48
+	desc: New Year’s Eve
+	tag: Atsali
+	tag: CerberusClub
+	tag: Nadette
+page: suck-on-a-lemon
+	date: 2016-12-29 21:18
+	desc: Suck On A Lemon
+	tag: Atsali
+	tag: Jin
+	tag: DressShop
+page: perfect-dress
+	date: 2016-12-29 00:37
+	desc: Perfect Dress
+	tag: Atsali
+	tag: Jin
+	tag: DressShop
+page: by-any-chance
+	date: 2016-12-28 01:44
+	desc: Made Her Smile
+	tag: Atsali
+	tag: Jin
+	tag: Library
+page:made-her-smile
+	date: 2016-12-27
+	desc: Made Her Smile
+	tag: Atsali
+	tag: Nadette
+	tag: GilchristHome
+	tag: Blush
+page:x-mas-break
+	date: 2016-12-22
+	desc: X-mas Break
+	tag: 1Frame
+	tag: Colour
+	tag: Atsali
+page:krystle
+	date: 2016-12-21
+	desc: Krystle
+	tag: 1Frame
+	tag: Colour
+	tag: Krystle
+page:scarlet
+	date: 2016-12-20 20:18
+	desc: Scarlet
+	note: "You're the one that I want! Ooh! Ooh! Ooh!"
+	tag: 1Frame
+	tag: Colour
+	tag: GilchristHome
+	tag: Scarlet
+	tag: Timothy
+page:last-minute
+	date: 2016-12-20 00:50
+	desc: Last Minute
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+page:skylar-faust
+	date: 2016-12-19
+	desc: Skylar Faust
+	tag: 1Frame
+	tag: Colour
+	tag: Skylar
+page:going-to-accept
+	date: 2016-12-15
+	desc: Going To Accept
+	tag: Atsali
+	tag: Blush
+	tag: Nadette
+	tag: MonicasIsland
+page:every-weekend
+	date: 2016-12-14
+	desc: Every Weekend
+	note: MIB mention in connection with details of GilchristHome layout
+	tag: Atsali
+	tag: GilchristHome
+	tag: Katherine
+	tag: MIB
+page:in-your-faves
+	date: 2016-12-13
+	desc: In Your Faves
+	tag: FaustHome
+	tag: Skylar
+	tag: MomFaust
+	tag: Toothpaste
+	tag: Blush
+	tag: Bruises
+page:meeting-the-deadline
+	date: 2016-12-11
+	desc: Meeting The Deadline
+	tag: FaustHome
+	tag: Skylar
+	tag: MomFaust
 page:being-accepted
 	date: 2016-12-09
 	desc: Being Accepted
@@ -54,6 +148,7 @@ page:being-accepted
 	tag: FaustHome
 	tag: GilchristHome
 	tag: Skylar
+	tag: MomFaust
 page:accepted
 	date: 2016-12-08
 	desc: Accepted
@@ -5268,7 +5363,7 @@ page:tossed-aside
 	tag: CafeU296
 	tag: Jin
 	tag: Lanthis
-	tag: MiB
+	tag: MIB
 	tag: Monica
 	tag: NuGui
 page:out-of-the-loop
@@ -6055,7 +6150,7 @@ page:not-fair
 	tag: Atsali
 	tag: Brandi
 	tag: Castela
-	tag: MiB
+	tag: MIB
 	tag: ParanormalMall
 page:listen-good
 	date: 2013-10-29
@@ -6523,7 +6618,7 @@ page:called-on-the-carpet
 	date: 2013-08-12
 	desc: Called On The Carpet
 	tag: Library
-	tag: MiB
+	tag: MIB
 	tag: Monica
 	tag: Phix
 	tag: Shelly
@@ -6591,7 +6686,7 @@ page:would-you-like-that
 	tag: Bud
 	tag: Castela
 	tag: Katherine
-	tag: MiB
+	tag: MIB
 	tag: Orphanage
 	tag: TreasureIsland
 page:part-of-my-adventure
@@ -6687,7 +6782,7 @@ page:stay-out-of-her-way
 	tag: CalendarMachine
 	tag: Katherine
 	tag: Library
-	tag: MiB
+	tag: MIB
 	tag: NuGui
 	tag: Stargate
 	tag: Tsillah
@@ -6734,7 +6829,7 @@ page:an-important-offer
 	tag: Atsali
 	tag: Katherine
 	tag: Library
-	tag: MiB
+	tag: MIB
 	tag: Tsillah
 page:all-gone
 	date: 2013-07-10
@@ -6973,7 +7068,7 @@ page:athena-missile-test
 	tag: Bud
 	tag: Katherine
 	tag: Mapimi
-	tag: MiB
+	tag: MIB
 	tag: StorageCrystal
 	tag: Yaxchilan
 page:yaxchilan-detour
@@ -8291,7 +8386,7 @@ page:you-guys
 	desc: You Guys
 	tag: FBI
 	tag: Lily
-	tag: MiB
+	tag: MIB
 	tag: Suzie
 	tag: Tsillah
 page:over-our-heads
@@ -8312,7 +8407,7 @@ page:see-in-the-dark-2
 	date: 2012-11-13
 	desc: See In The Dark
 	tag: Lily
-	tag: MiB
+	tag: MIB
 	tag: Shadow
 	tag: Suzie
 	tag: Tsillah
@@ -10585,7 +10680,7 @@ page:the-wrong-folks
 	tag: Euryale
 	tag: Lanthis
 	tag: LibraryAnnex
-	tag: MiB
+	tag: MIB
 	tag: Monica
 	tag: Tepoz
 page:active-roles
@@ -10595,7 +10690,7 @@ page:active-roles
 	tag: Bud
 	tag: Euryale
 	tag: LibraryAnnex
-	tag: MiB
+	tag: MIB
 	tag: Monica
 	tag: Tepoz
 page:men-in-black
@@ -10606,7 +10701,7 @@ page:men-in-black
 	tag: Bud
 	tag: Euryale
 	tag: LibraryAnnex
-	tag: MiB
+	tag: MIB
 	tag: Monica
 page:i-tells-ya
 	date: 2011-11-07

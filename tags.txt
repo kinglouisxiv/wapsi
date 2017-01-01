@@ -205,7 +205,7 @@ LapsangSouchong	smoked black tea, a favourite of [Jin's](#jin)
 Leucoisa	Leucoisa Rahal, [Atsali's](#atsali) mother, "White One". Siren. Murdered by an anti-para death-squad. Partner [Walter](#walter)
 LeucoisaSim	a Library-generated simulation of Leucosia from the Akashic Record and all her Library-stored journals, logs, diaries, poems, etc. _"...Leucosia's memories, but know I'm not really her."_. Held in Library's program store as "castela zed one"
 Library	off-plane library of all books ever written, past or future. Possibly of all books that might be written. Self-aware. Attended by the Librarian, [Phix](#phix)
-Lily	Lily Pratt, vampire, FBI/[MiB](#mib) agent, 5000 years old, [Anasazi](#anasazi) / [Etheitian](Etheitian) 
+Lily	Lily Pratt, vampire, FBI/[MIB](#mib) agent, 5000 years old, [Anasazi](#anasazi) / [Etheitian](Etheitian) 
 LittleShelly	[Shelly's](#shelly) personal Demons rolled-up into one entity, manifesting as a young Shelly at the time of [her mother's](#shellymom) death. Later determined to be an Elemental entity, Companion, or [Conscience](#conscience)
 LittleTramp	referencing Charlie Chaplin's character
 Lorraine	Lorraine Foxglove. Fae. MIB special agent? Aunt of [Calista Foxglove](#castila)? Involved in the counter-strike after [Leucoisa's](#leucoisa) murder
@@ -226,7 +226,7 @@ Mayahuel	[Jin's](#jin) [mother](#jinmother); one of the time keepers of [Lanthis
 Medusa	a Gorgon sister ([Stheno](#stheno), [Euryale](#euryale)), relationships with [Poseidon](#poseidon) (mother of Pegasus) and Perseus
 Mermaid	a.k.a 'Tuna Girls' _e.g._ [Krystle](#krystle), [Jessie](#jessie)
 MesaVerde	Mesa Verde -- US National Park and site of cliff and cave dwellings of the Anasazi
-MiB	the _secret_ Secret Service concerned with paranormal relations and contact management, etc.
+MIB	the _secret_ Secret Service concerned with paranormal relations and contact management, etc.
 Mike	security guard at the [Museum](#museum)
 Minneapolis	the default setting for Wapsi Square, so untagged. Wapsi Square is a (fictional) area of Minneapolis (Minnesota, USA). 
 Mojito	a rum-based cocktail
