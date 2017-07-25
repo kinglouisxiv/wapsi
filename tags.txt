@@ -6,7 +6,7 @@
 ; [internal link text](#sometag)
 ; [external link text](http://www.gunnerkrigg.com)
 ;
-12Kyears	time since the [Chimera](#chimera) glassed the [Lanthian](#lanthian) civilisation, somewhere in the Middle East; around the end of the [last glaciation](https://en.wikipedia.org/wiki/Last_glacial_period) as it happens 
+12Kyears	time since the [Chimera](#chimera) glassed the [Lanthian](#lanthis) civilisation, somewhere in the Middle East. Around the end of the [last glaciation](https://en.wikipedia.org/wiki/Last_glacial_period) 
 1450	1450 years: period of the [Calendar Machine's](#calendarmachine) reset cycle -- between 562 and 2012CE
 1976	the year
 1Frame	art page rather than storyline (usually)
@@ -80,7 +80,7 @@ Baxter	a cerberus -- fire-breathing dog -- pet of [Tsillah](#tsillah) with [Boo]
 Beatrix	caterpillar-form paranormal at a bra (lingerie?) shop -- silk worm perhaps?
 Becky	baker of cakes, biscuits, _etc_; pastry chef at Feuillet’s, and occasional stand-in barista at Mucho Mocha; requires OCD medication
 BelindaJensen	twin cities TV weather person
-Berdine	Ursamorph: a shapechanging bear-girl; sister of [Nadette](#nadette), Cherokee ancestry
+Berdine	Berdine Starr, Ursamorph: a shapechanging bear-girl; older sister of [Nadette](#nadette), Cherokee ancestry
 BermudaTriangle	-
 BermudaTriangleBeach	-
 Bia	a second generation titan, child of [Pallas](#pallas) and [Styx](#styx). Young Bia witnessed the [Chimera](#chimera). [Shelly's](#shelly) mother. [Tina's](#tina) body's great grand mother on her father's side. Formerly a cold manipulator and widely disliked ("sociopathic bitch"), Bia's age was regressed to early teens (?) by her father as a learning opportunity
@@ -100,7 +100,7 @@ Brandi	Brandilyn Oduya, [Golem](#golem) girl, Lioness in the [Chimera](#chimera)
 BrandiBudAppt	Brandi and Bud share an apartment a few blocks west of [Mucho Mocha](#muchomocha) 
 BrandilynOduya	[Brandi](#brandi)
 Briki	a Greek coffee pot
-Bryn	female Faun who [Katherine](#katherine) meets at the [Tsarabanjina](#tsarabanjina) resort
+Bryn	female Faun who [Katherine](#katherine) meets at the [Tsarabanjina](#tsarabanjina) resort, elementary school teacher at [Gryphon Elementary](#gryphonelementary)
 Bud	Acacia Budur, [golem](#golem) girl, Goat in the [Chimera](#chimera), instructor at a [Dance School](#danceschool)
 BufferCrystal	[Etheitian](#etheitian) crystal-tech
 C8H10N4O2	chemical formula for caffine
@@ -114,6 +114,7 @@ Chell	a character (?) from Portal 2 by Aperture Labs, reportedly
 Chimera	magical ultimate weapon built from [Brandi](#brandi), [Bud](#bud) and [Jin](#jin)
 ClayDolls	given to [Shelly](#shelly) by her [mother](#shellymom)
 Conscience	Shelly's [Demons](#demon), integrated. Also referred to a 'Companion'. See also [Little Shelly](#littleshelly)
+Cori	Cori Phillips, half-Orc elementary school teacher at [GryphonElementary](#gryphonelementary)
 CornHuskDoll	corn husk doll made for [Castela](#castela) by [Shelly](#shelly). a.k.a. Corn Husk Maiden, Corn Princess, Corn Husk Angel
 Covey	an set of [Demons](#demon) associated with an individual person
 CowardlyLion	from _The Wizard of Oz_
@@ -132,7 +133,7 @@ Demon	anthropomorphised personal demons: the voices in your head _do_ have an in
 DemonWorld	the demon home plane or universe
 Devyn	a niece of [Poseidon](#poseidon). A Helead (fen nymph) reportedly according to Paul Taylor on Facebook 
 Dietzel	[Monica's](#monica) long-suffering bull terrier
-Digit	[Monica's](#monica) name for the [spider](#jumpingspider) who becomes the miniaturised [Dietzel's](#deitzel) companion
+Digit	[Monica's](#monica) name for the [spider](#jumpingspider) who becomes the miniaturised [Dietzel's](#deitzel) companion; accidentally turned humanoid by an [Emergency Talisman](#talismane)
 Dirtball	3 year old bullied by [Kystle](#krystle) when she was little
 Divines	Divine's -- shop holds bra sale
 Doubt	probably Self-Doubt -- a personal [demon](#demon) of [Monica's](#monica)
@@ -144,7 +145,7 @@ Elemental	a powerful class of creature in the paranormal world
 EmptyEyes	typical of Tina when not animated by her demons or her appearance glamour is not 'on'
 Epimetheus	brother of Prometheus; now known as [Justin](#justin) following brain damage memory loss
 Etheitian	descendants of the [Lanthians](#lanthis), precursors of the [Anasazi](#anasazi)?
-Euryale	marine biologist, archaeologist, also a snake-haired Gorgon sister ([Medusa](#medusa), [Stheno](#stheno)). Her gaze can turn people to ice, and kiss restore them
+Euryale	marine biologist, archaeologist, also a snake-haired Gorgon sister (also [Medusa](#medusa), [Stheno](#stheno)). Her gaze can turn people to ice, and kiss restore them
 FaceGlyph	shown by characters powered/controlled by Glyphs and the wielders of Glyph 
 Facemarks	several paranormal characters display facial markings when enraged and/or part-tranformed
 Fae	"only slightly less dangerous than [Elementals](#elemental)" in the paranormal world
@@ -156,13 +157,14 @@ Garcon	interim name for an employee, with a French accent, of the [Poseidon Reso
 Georgette	supermodel: fashionably thin due to fast metabolism; sister of [Jill](#jill). Previously owner of [Georgette's](#georgettes) pub, now part-owner of the [Antique Shop](#antiqueshop) with [Monica](#monica)
 Georgettes	gastro-pub owned by [Georgette](#georgette) and run by sister [Jill](#jill). Later wholly owned by Jill
 GerardButler	Gerard Butler, the film star, particularly for his role as Leonidas in _300_
-Glyph	an ancient, magical, writing of the Lanthian civilisation
-GlyphReader	"There are others who can read Glyph, but that does not make them Glyph Readers" ---[Phix](#phix)
+Glyph	an ancient, magical, writing of the [Lanthian](#lanthis) civilisation
+GlyphReader	"There are others who can read Glyph, but that does not make them Glyph Readers" -- [Phix](#phix)
 Golem	a near-indestructable magitech ceramic construct. Ritual requires burning a living being and mixing the ashes with clay to entrap the spirit and give the construct volition
 GregoryFields	Dr Gregory Fields, [Monica's](#monica) boss, Director of the [Museum](#museum)
-GrenadePins	"Once the pin is pulled, Mr Grenade is not our friend"
+GrenadePins	"Once the pin is pulled, Mr Grenade is not our friend."
 Gretchen	Receptionist / secretary at [Lydia's Lingerie](#lydia) 
 GreySpeak	speech in light grey seems to indicate whispers, under-the-breath or _Sotto Voce_ commentary or suggestion (WoG: in Tina's case it's one of the demons speaking directly, rather than through 'the committee' -- in [commments here](http://wapsisquare.com/comic/smell-of-burning-pine/))
+GryphonElementary	Gryphon Elementary School -- for paranormal kids
 GryphonHigh	Gryphon High School -- for paranormal kids
 Guidance	one of [Georgette's](#georgette) personal [demons](demon), appears as a disembodied mask face
 Guinness	a fine Irish stout (beer)
@@ -238,27 +240,28 @@ MonicasPlace	a small-looking house with basement and upstairs floors
 Monterrey	Mexican city where [Monica](#monica) has family: her [uncle](#tio), [aunt](#MonicasAunt), cousins [Rigo](#rigo) and [Marta](#marta)
 MrMeadows	caretaker or similar at the [Orphanage](#orphanage). Crocodile head.
 MrsAdler	swimming instructor at [Gryphon Highschool](#gryphonhigh)
+MrsStarr	mother of [Berdine](#berdine) and [Nadette](#nadette). Owns and runs a large construction company.
 MrWahnee	[Shelly's](#shelly) dad. Half Comanche, half [Sphinx](#sphinx) (non-manifesting in males). Owner of [Minneapolis South Auto Repair & Restoration](#autorepair)
 MsAlger	Teacher at [Gryphon High School](#gryphonhigh)
 MuchoMocha	coffee shop owned and run by [Tina](#tina)
 Museum	Minneapolis University Historical Museum
 MusicBin	shop where [Owen](#owen) worked
-Nadette	Ursamorph: a shapechanging bear; sister of [Berdine](#berdine); Cherokee ancestry; seer; [Atsali](#atsali)-crush
+Nadette	Nadette Starr, Ursamorph: a shapechanging bear; younger sister of [Berdine](#berdine); Cherokee ancestry; seer; [Atsali](#atsali)-crush
 Nether	a depressing (nightmare?) world to which Devyn can move herself and others
 Nudge	originally appearing as part of [Tina's](#tina) demon collective she turns out to be the Librarian preceding [Phix](#phix). Sister of [Tsillah](#tsillah)
 NuGui	Nü Gui -- malevolent [Lanthian](#lanthis) spirit arising from the death of an innocent (baby?); a.k.a. a Succubus, or the Hate
-Orphanage	for paranormal kids. Caretaker MrMeadows. [Atsali](#atsali) and [Castela](#castela) lived here before [Katherine](#katherine) adopted them.
+Orphanage	for paranormal kids. Caretaker [Mr Meadows](#mrmeadows). [Atsali](#atsali) and [Castela](#castela) lived here after Atsali's parents' murder, before [Katherine](#katherine) adopted them.
 Owen	[Shelly's](#shelly) childhood friend and early crush; member of [Fermented Banana](#fermentedbanana); works in [Music Bin](#musicbin)
 Paden	Special Agent
 Pagliacci	operatic tragedy by Ruggero Leoncavallo
 Pallas	father of [Bia](#bia)
 Panic	one of the [Demons](#demon)
-ParanormalPool	a swimming poor and associated facilities for the paranormal population of the twin cities area. Users seen  in their human forms, with occasional slippage. Formally named the [Poseidon Resort](#poseidonresort)
+ParanormalPool	a swimming poor and associated facilities for the paranormal population of the twin cities area. Users seen in their human forms, with occasional slippage. Formally named the [Poseidon Resort](#poseidonresort)
 Phix	a [sphinx](#sphinx), librarian of The [Library](#library)
 PizzaGirl	see [Dylan](#dylan)
 Plutonium	radioactive metal
 Poit	noise made by a style of teleportation common to [Lanthian](#lanthis) [Glyph](#glyph) wielders. See also [Vorp](#vorp).
-PortalCloth	Printed with a meshwork design of a face; discovered in Yaxchilán but has Egyptian connotations
+PortalCloth	Printed with a meshwork design of a face; discovered in [Yaxchilán](#yaxchilan) but has Egyptian connotations
 PortalTattoo	The PortalCloth's face design transferred to [Shelly's](#shelly) body
 Poseidon	the God of the Sea to the ancient Greeks. Owner of the [Poseidon Resort](#poseidonresort) swimming pool. Uncle of [Devyn](#devyn)
 PoseidonResort	the Paranormal Pool and related facilities are owned by [Poseidon](#poseidon)
@@ -282,13 +285,14 @@ Shiva	excluded by the [World Grid](#worldgrid) -- Wikipedia: [Shiva](http://en.w
 Sklar	Skylar Faust (succubus, based on out-of-comic references)
 Sphinx	long-lived creature, of more than human scale, with lion hindquarters, eagle wings, human torso, arms and head. Mostly protect humanity from rogue demons, but used to kill humans to save them, causing misunderstandings
 Squee	a sound of high-pitched joy
-Stargate	Etheitian, possibly Lanthian, teleportal doors. Only seen used as an on-world transfer network; uses [Akashic Record](#akashicrecord) manipulation
+Stargate	Etheitian, possibly [Lanthian](#lanthis), teleportal doors. Only seen used as an on-world transfer network; uses [Akashic Record](#akashicrecord) manipulation
 Stheno	eldest, most dangerous of the Gorgon sisters ([Euryale](#euryale), [Medusa](#medusa))
-Stinky	a giant squid-like creature, old friend/pet of the [golem girls](#golemgirls), particularly [Bud](#bud). Described as a "Leviathan" by Bud, rather than "Kraken". 
+Stinky	a giant squid-like creature, old friend/pet of the [golem girls](#golemgirls), particularly [Bud](#bud). Described as a "Leviathan" by [Bud](#bud), rather than "Kraken". 
 Styx	mother of [Bia](#bia) 
 Succubus	a common term for the [Nü Gui](#nugui) type of spirit
 SunnysideUp	Sunnyside Up Café, near [Kevin's home](#kevinhome)
 Suzie	Suzie McBride, vampire, FBI agent
+TalismanE	Emergency one-shot talisman created by [Calista](#calista) to restore [Dietzel's](#dietzel) size, but used by [Digit](#digit) accidentally, making her humanoid.
 Tara	female, bullies [Devyn](#devyn) at [Gryphon High](#gryphonhigh) with [Jordan](#jordan)
 Teeth	some characters have unusual dentition by mainstream human standards, tagged when particularly strikingly displayed
 Tepoz	Tepoztecal, Aztec god of alcohol: an animate 3\' high blue statue or [golem](#golem)
@@ -304,10 +308,11 @@ Tsarabanjina	private resort/hotel island, Madagascar
 Tsillah	she is the Darkness. Her 'shadow' appears as a short goblin-girl. Daughter of Charon, the ferryman, and [Thymbris](#thymbris).
 TunaGirls	slang or disparaging name for [Mermaid](#mermaid) paranormals
 Uboat	U296, a wreck found by [Stinky](#stinky)
-Vorp	Library teleport/transport system's sound fx
+Valerie	teacher at [GryphonElementary](#gryphonelementary), no face just a mask floating over a hole, inhabited by something with tentacles
+Vorp	[Library](#library) teleport/transport system's sound fx
 VWvan	[Jacqui's](#jacqui) wheels for [Fermented Banana's](#fermentedbanana) transport
 Walter	[Atsali's](#atsali) father, [Leucoisa's](#leucoisa) partner. Incubus
-Warehouse	a smugglers’ den in Cairo; formerly a banana emporium
+Warehouse	a smugglers' den in Cairo; formerly a banana emporium
 Wings	a sudden/prominent display of, or reference to, wings on a character
 WorldGrid	a magitech barrier to keep interdimensional travellers such as [Elder Gods](#eldergods) (e.g. [Amun](#amun), [Shiva](#shiva)) and Titans from visiting Earth
 Yaxchilan	Mayan city in Mexico. Wikipedia: [Yaxchilan](https://en.wikipedia.org/wiki/Yaxchilan)

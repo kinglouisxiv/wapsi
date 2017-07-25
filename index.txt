@@ -46,10 +46,758 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ;
+page: before-after
+	date: 2017-05-14 19:15
+	desc: Before After
+	tag: Digit
+	tag: Katherine
+	tag: MonicasIsland
+page: i-can-do-this
+	date: 2017-05-11 20:31
+	desc: I Can Do This
+	tag: Digit
+	tag: Katherine
+	tag: MonicasIsland
+page: getting-away
+	date: 2017-05-10 22:28
+	desc: Born Sassy
+	tag: Digit
+	tag: Katherine
+	tag: Monica
+	tag: MonicasIsland
+	tag: MonicasPlace
+page: born-sassy
+	date: 2017-05-09 19:10
+	desc: Born Sassy
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: better-not-knowing
+	date: 2017-05-08 21:03
+	desc: Better Not Knowing
+	note: Devyn's (?) head morphs into a smoke monster - not clear if this is a paranormal form or just visual metaphore for rage
+	tag: Abbie
+	tag: Alexis
+	tag: Atsali
+	tag: Blush
+	tag: Devyn
+	tag: GryphonHigh
+page: better-things
+	date: 2017-05-07 20:45
+	desc: Better Things
+	tag: Abbie
+	tag: Atsali
+	tag: Devyn
+	tag: GryphonHigh
+page: dietzel-bee
+	date: 2017-05-04 22:14
+	desc: Dietzel Bee
+	tag: 1Frame
+	tag: Colour
+	tag: Dietzel
+	tag: Digit
+page: under-cover
+	date: 2017-05-03 21:06
+	desc: Under Cover
+	tag: Castela
+	tag: Daylla
+	tag: GryphonHigh
+page: join-the-club
+	date: 2017-05-02 21:18
+	desc: Join The Club
+	tag: Castela
+	tag: Daylla
+	tag: GryphonHigh
+	tag: Roof
+	tag: Scarlet
+	tag: Timothy
+	tag: Colour
+	tag: 1Frame
+page: no-way
+	date: 2017-05-01 22:26
+	desc: No Way
+	note: 2 weeks from Atsali's graduation
+	tag: Atsali
+	tag: Daylla
+	tag: Digit
+	tag: GryphonHigh
+	tag: Nadette
+	tag: Roof
+	tag: Scarlet
+	tag: Timothy
+	tag: Castela
+page: no-idea-4
+	date: 2017-04-30 22:18
+	desc: No Idea
+	tag: 1Frame
+	tag: Abbie
+	tag: Colour
+	tag: Digit
+	tag: GryphonHigh
+	tag: Roof
+page: off-to-school
+	date: 2017-04-27 22:49
+	desc: Off To School
+	tag: 1Frame
+	tag: Colour
+	tag: Dietzel
+	tag: Digit
+page: for-later
+	date: 2017-04-26 22:35
+	desc: For Later
+	tag: Digit
+	tag: Georgette
+	tag: MonicasPlace
+	tag: Vorp
+page: totally-rock
+	date: 2017-04-25 22:26
+	desc: Totally Rock
+	tag: Digit
+	tag: GryphonHigh
+	tag: Atsali
+page: knowing-why
+	date: 2017-04-25 00:03
+	desc: Knowing Why
+	tag: Digit
+	tag: GryphonHigh
+	tag: Atsali
+page: a-ka-thud
+	date: 2017-04-23 22:00
+	desc: A Ka-Thud
+	tag: Digit
+	tag: ExtraArms
+	tag: Monica
+	tag: MonicasPlace
+	tag: Shelly
+	tag: Tears
+page: first-place
+	date: 2017-04-20 22:42
+	desc: First Place
+	tag: Blush
+	tag: Dietzel
+	tag: Digit
+	tag: ExtraArms
+	tag: MonicasPlace
+	tag: Shelly
+	tag: Tears
+page: no-reason
+	date: 2017-04-19 23:24
+	desc: No Reason
+	tag: Blush
+	tag: Dietzel
+	tag: Digit
+	tag: ExtraArms
+	tag: MonicasPlace
+	tag: Shelly
+page: many-memes
+	date: 2017-04-18 23:42
+	desc: Many Memes
+	tag: Blush
+	tag: Digit
+	tag: MonicasPlace
+	tag: Shelly
+page: and-she-was
+	date: 2017-04-17 22:54
+	desc: And She Was
+	tag: Blush
+	tag: Digit
+	tag: MonicasPlace
+	tag: Shelly
+page: with-your-face
+	date: 2017-04-16 22:00
+	desc: With Your Face
+	tag: Blush
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+	tag: Shelly
+page: directed-anger
+	date: 2017-04-12 00:11
+	desc: Directed Anger
+	tag: Filler
+	tag: 1Frame
+	rag: Colour
+	tag: Castela
+	tag: Plasma
+page: spider-human
+	date: 2017-04-12 21:40
+	desc: Spider Human
+	tag: Atsali
+	tag: Blush
+	tag: GilchristHome
+	tag: Katherine
+page: by-fae-magic
+	date: 2017-04-12 00:11
+	desc: By Fae Magic
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page: better-than-that
+	date: 2017-04-10 22:40
+	desc: Better Than That
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: in-real-life
+	date: 2017-04-09 17:30
+	desc: In Real Life
+	tag: Blush
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+	tag: Shelly
+page: formerly-a-spider
+	date: 2017-04-06 23:47
+	desc: Formerly A Spider
+	tag: Abbie
+	tag: Atsali
+	tag: Blush
+	tag: Calista
+	tag: Devyn
+	tag: Digit
+	tag: GryphonHigh
+page: overwhelmed
+	date: 2017-04-05 23:08
+	desc: Overwhelmed
+	tag: Abbie
+	tag: Atsali
+	tag: Calista
+	tag: Digit
+	tag: GryphonHigh
+page: stuck-in-a-web
+	date: 2017-04-04 22:01
+	desc: Stuck In A Web
+	tag: 1Frame
+	tag: Colour
+	tag: Dietzel
+	tag: Digit
+page: ready-for-school
+	date: 2017-04-03 21:29
+	desc: Ready For School
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: told-you
+	date: 2017-04-02 20:24
+	desc: Told You
+	tag: Bud
+	tag: Dietzel
+	tag: Digit
+	tag: Jelly
+	tag: Monica
+	tag: MonicasPlace
+	tag: PeanutButter
+	tag: StudentHandbook
+page: smell-the-flowers
+	date: 2017-03-30 20:40
+	desc: Smell the Flowers
+	tag: 1Frame
+	tag: Colour
+	tag: Dietzel
+	tag: Digit
+page: her-forte
+	date: 2017-03-29 20:51
+	desc: Her Forte
+	tag: BlackCricket
+	tag: Calista
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: starving
+	date: 2017-03-28 22:00
+	desc: Starving
+	note: Digit's hold on the transformation is still slightly shaky
+	tag: BlackCricket
+	tag: Calista
+	tag: Digit
+	tag: ExtraArms
+	tag: MonicasPlace
+page: the-hang-of-all-this
+	date: 2017-03-27 21:30
+	desc: The Hang Of All This
+	note: Digit's hold on the transformation is slightly shaky
+	tag: Calista
+	tag: Digit
+	tag: ExtraArms
+	tag: MonicasPlace
+page: transform
+	date: 2017-03-26 17:19
+	desc: Transform
+	note: Magic command word: ATHRÚ<br>(reportedly "Change" in Irish Gaelic)
+	tag: Calista
+	tag: Dietzel
+	tag: Magic
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: like-my-mother
+	date: 2017-03-23 22:00
+	desc: Like My Mother
+	tag: Calista
+	tag: Dietzel
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+	tag: Tears
+page: seriously
+	date: 2017-03-22 22:00
+	desc: Seriously
+	note: Katherine on the phone
+	tag: Calista
+	tag: Dietzel
+	tag: Digit
+	tag: Katherine
+	tag: Monica
+	tag: MonicasPlace
+	tag: Phone
+	tag: Tears
+page: like-i-did
+	date: 2017-03-21 22:00
+	desc: Like I Did
+	note: Atsali ("Jugs") anwsers Calista's phone call
+	tag: Atsali
+	tag: Calista
+	tag: Dietzel
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+	tag: Phone
+page: trying-to-be-helpful
+	date: 2017-03-20 22:00
+	desc: Trying To Be Helpful
+	tag: Calista
+	tag: Dietzel
+	tag: Digit
+	tag: MonicasPlace
+page: speaking
+	date: 2017-03-19 19:34
+	desc: Speaking
+	tag: Blush
+	tag: Calista
+	tag: Dietzel
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: spider-gal
+	date: 2017-03-16 22:00
+	desc: Spider Gal
+	tag: Blush
+	tag: Calista
+	tag: Dietzel
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: timmy-in-the-well
+	date: 2017-03-15 20:28
+	desc: Timmy In The Well
+	tag: Dietzel
+	tag: Monica
+	tag: MonicasPlace
+page: quiet-time
+	date: 2017-03-14 19:24
+	desc: Quiet Time
+	tag: Dietzel
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+	tag: TalismanE
+	tag: Vorp
+page: only-ever
+	date: 2017-03-12 22:06
+	desc: Only Ever
+	tag: Blush
+	tag: Calista
+	tag: Library
+	tag: Monica
+	tag: TalismanE
+page: for-a-month
+	date: 2017-03-12 22:00
+	desc: For A Month
+	note: using 'Magic' for Ms Alger's sufficiently advanced technology until there enough information about her/it to name it properly
+	tag: Dent
+	tag: Magic
+	tag: GryphonElementary
+	tag: MsAlger
+page: like-this
+	date: 2017-03-10 00:30
+	desc: Like This
+	tag: Blush
+	tag: Dent
+	tag: Castela
+	tag: Daylla
+	tag: GryphonElementary
+	tag: MsAlger
+	tag: Scarlet
+	tag: Timothy
+page: thought-you-heard
+	date: 2017-03-08 22:52
+	desc: Thought You Heard
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: Dent
+	tag: Daylla
+	tag: GryphonElementary
+	tag: Scarlet
+	tag: Tail
+	tag: Timothy
+	tag: Zipper
+page: taste-test
+	date: 2017-03-07 22:57
+	desc: Not The Eyes
+	tag: Castela
+	tag: Daylla
+	tag: GryphonElementary
+	tag: Scarlet
+	tag: Timothy
+	tag: Tongue
+page: not-the-eyes
+	date: 2017-03-06 21:04
+	desc: Not The Eyes
+	tag: Scrub
+	tag: Atsali
+	tag: Birthday
+	tag: Blush
+	tag: Castela
+	tag: Ear
+	tag: Foot
+	tag: GilchristHome
+	tag: Nadette
+	tag: Tail
+	tag: Tongue
+page: let-me-in
+	date: 2017-03-05 17:48
+	desc: Let Me In
+	note: Atsali is 18
+	tag: Atsali
+	tag: Birthday
+	tag: Blush
+	tag: GilchristHome
+	tag: Nadette
+page: helpful
+	date: 2017-03-02 22:56
+	desc: Helpful
+	note: Valerie's stress relief is rather more emphatic than "darn it!"
+	tag: Cori
+	tag: GryphonElementary
+	tag: Mask
+	tag: Tentacle
+	tag: Valerie
+page: let-it-out
+	date: 2017-03-01 22:00
+	desc: Let It Out
+	note: Cori's stress relief shout: "darn it!"
+	tag: Cori
+	tag: GryphonElementary
+	tag: Valerie
+page: stop-that
+	date: 2017-03-01 00:58
+	desc: Stop That
+	tag: Cori
+	tag: ElementaryKids
+	tag: GryphonElementary
+	tag: Joshua
+	tag: Valerie
+page: almost-over
+	date: 2017-02-27 22:41
+	desc: Almost Over
+	tag: Cori
+	tag: ElementaryKids
+	tag: GryphonElementary
+page: ready-for-them
+	date: 2017-02-26 23:17
+	desc: Ready For Them
+	tag: Bryn
+	tag: Cori
+	tag: GryphonElementary
+page: hard-to-remember
+	date: 2017-02-23 23:07
+	desc: Hard To Remember
+	tag: Nadette
+	tag: Atsali
+	tag: GryphonHigh
+	tag: Chalkboard
+page: take-over
+	date: 2017-02-22 22:00
+	desc: Take Over
+	tag: Berdine
+	tag: BerdNadHome
+	tag: GryphonHigh
+	tag: MrsStarr
+	tag: MsAlger
+page: spelled-out
+	date: 2017-02-22 00:20
+	desc: Spelled Out
+	tag: Blush
+	tag: GryphonHigh
+	tag: MsAlger
+	tag: Nadette
+page: the-princess
+	date: 2017-02-21 00:36
+	desc: The Princess
+	tag: Abbie
+	tag: GryphonHigh
+	tag: Mallory
+	tag: Nadette
+page: shes-loaded
+	date: 2017-02-19 20:09
+	desc: She’s Loaded
+	tag: Abbie
+	tag: Blush
+	tag: GryphonHigh
+	tag: Mallory
+	tag: Nadette
+page: castela-5
+	date: 2017-02-16 20:53
+	desc: Castela
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+	tag: HockeyStick
+page: wish-you-were-here
+	date: 2017-02-15 20:20
+	desc: Wish You Were Here
+	tag: 1Frame
+	tag: Conscience
+	tag: Colour
+	tag: PoseidonResort
+page: get-wet
+	date: 2017-02-15 00:37
+	desc: Get Wet
+	tag: Blush
+	tag: Conscience
+	tag: Poit
+	tag: PoseidonResort
+	tag: Tepoz
+page: how-silly
+	date: 2017-02-13 23:38
+	desc: How Silly
+	tag: Blush
+	tag: Conscience
+	tag: Library
+	tag: Poit
+	tag: PoseidonResort
+	tag: Tepoz
+page: growing-on-me
+	date: 2017-02-12 16:11
+	desc: Growing On Me
+	tag: Blush
+	tag: Conscience
+	tag: Library
+	tag: Tepoz
+page: cute-and-sweet
+	date: 2017-02-09 22:50
+	desc: Cute And Sweet
+	tag: Conscience
+	tag: Library
+	tag: Tepoz
+	tag: Crepe
+	tag: Japanese
+page: wanna-do
+	date: 2017-02-08 23:38
+	desc: Wanna Do
+	tag: Conscience
+	tag: Castela
+	tag: Library
+	tag: Tepoz
+page: the-way-he-makes-me-feel
+	date: 2017-02-07 21:27
+	desc: The Way He Makes Me Feel
+	tag: Conscience
+	tag: Castela
+	tag: Library
+	tag: Flashback
+	tag: Tepoz
+page: short-notice
+	date: 2017-02-06 23:43
+	desc: Short Notice
+	tag: Conscience
+	tag: Castela
+	tag: Library
+page: human-in-nature
+	date: 2017-02-05 17:40
+	desc: Human In Nature
+	tag: Conscience
+	tag: Shelly
+	tag: PunkYoga
+page: get-out-here
+	date: 2017-02-02 11:10
+	desc: Get Out Here
+	tag: Butterfly
+	tag: CanyonDeChelly
+	tag: Castela
+page: get-through
+	date: 2017-02-01 22:28
+	desc: Get Through
+	tag: Butterfly
+	tag: CanyonDeChelly
+	tag: Castela
+page: meanwhile
+	date: 2017-01-31 23:50
+	desc: Meanwhile
+	tag: Castela
+	tag: CanyonDeChelly
+	tag: Fuck
+page: on-deck
+	date: 2017-01-30 10:51
+	desc: On Deck
+	tag: Bud
+	tag: Katherine
+	tag: MuchoMocha
+page: stings-less
+	date: 2017-01-29 19:16
+	desc: Stings Less
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+page: wait-for-me
+	date: 2017-01-26 22:00
+	desc: Wait For Me
+	tag: AnimeConvention
+	tag: Castela
+	tag: Flashback
+	tag: Scarlet
+	tag: Tears
+	tag: Timothy
+page: too-difficult
+	date: 2017-01-25 22:00
+	desc: Too Difficult
+	tag: AnimeConvention
+	tag: Castela
+	tag: Tears
+page: maybe-later
+	date: 2017-01-24 22:00
+	desc: Maybe Later
+	tag: AnimeConvention
+	tag: Castela
+	tag: Timothy
+page: derailed
+	date: 2017-01-23 22:00
+	desc: Derailed
+	tag: AnimeConvention
+	tag: Castela
+	tag: Tears
+page: hitting-home
+	date: 2017-01-22 22:00
+	desc: Hitting Home
+	tag: AnimeConvention
+	tag: Castela
+	tag: Horns
+page: be-honest
+	date: 2017-01-19 22:00
+	desc: All This Time
+	tag: AnimeConvention
+	tag: Blush
+	tag: Castela
+	tag: Scarlet
+	tag: Tears
+	tag: Timothy
+page: all-this-time
+	date: 2017-01-18 21:13
+	desc: All This Time
+	tag: AnimeConvention
+	tag: Blush
+	tag: Glasses
+	tag: Scarlet
+	tag: Tears
+	tag: Timothy
+page: falling-2
+	date: 2017-01-16 07:23
+	desc: Falling
+	tag: AnimeConvention
+	tag: Blush
+	tag: Glasses
+	tag: Scarlet
+	tag: Tears
+page: fight-for-her
+	date: 2017-01-16 07:23
+	desc: Fight For Her
+	tag: AnimeConvention
+	tag: Blush
+	tag: Scarlet
+	tag: Tears
+	tag: Timothy
+page: would-you
+	date: 2017-01-15 23:03
+	desc: Would You
+	tag: AnimeConvention
+	tag: Scarlet
+	tag: Timothy
+page: at-least-2
+	date: 2017-01-12 22:57
+	desc: At Least
+	tag: AnimeConvention
+	tag: Bud
+	tag: Castela
+page: with-with
+	date: 2017-01-11 22:52
+	desc: “With” With
+	tag: AnimeConvention
+	tag: Bud
+	tag: Blush
+	tag: Castela
+page: meet-later
+	date: 2017-01-10 22:00
+	desc: Meet Later
+	tag: AnimeConvention
+	tag: Castela
+	tag: Timothy
+page: bento
+	date: 2017-01-09 22:19
+	desc: Bento
+	tag: AnimeConvention
+	tag: Bento
+	tag: Blush
+	tag: Castela
+	tag: Scarlet
+	tag: Timothy
+page: tsundere-coming-round-the-mountain
+	date: 2017-01-08 11:33
+	desc: Tsundere Coming ‘Round The Mountain
+	tag: AnimeConvention
+	tag: Blush
+	tag: Castela
+	tag: Timothy
+	tag: Tsundere
+page: carry-him-around
+	date: 2017-01-06 01:17
+	desc: Carry Him Around
+	tag: AnimeConvention
+	tag: Castela
+	tag: Felicia
+	tag: Timothy
+page: have-a-habit
+	date: 2017-01-05 00:09
+	desc: Have A Habit
+	tag: AnimeConvention
+	tag: Castela
+	tag: Luffy
+	tag: Timothy
+page: big-deal
+	date: 2017-01-03 22:00
+	desc: Big Deal
+	tag: AnimeConvention
+	tag: Castela
+page: dressed-nice
+	date: 2017-01-02 22:00
+	desc: Dressed Nice
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page: not-a-date
+	date: 2017-01-01 23:35
+	desc: Not A Date
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
 page: new-years-eve
-	date: 2016-12-10 23:48
+	date: 2016-12-30 23:48
 	desc: New Year’s Eve
 	tag: Atsali
+	tag: Blush
 	tag: CerberusClub
 	tag: Nadette
 page: suck-on-a-lemon
@@ -1089,6 +1837,12 @@ page:growth-spurt-01
 	tag: Atsali
 	tag: Castela
 	tag: GilchristHome
+page: 156-weeks-later
+	date: 2016-06-11 10:18
+	desc: 156 Weeks Later
+	note: page may be a later insert to clarify a 3 year time skip
+	tag: 1Frame
+	tag: Gryphon
 page:not-my-fault
 	date: 2016-06-10
 	desc: Not My Fault
@@ -1482,7 +2236,7 @@ page:plunder-plunder-plunder
 	desc: Plunder Plunder Plunder
 	tag: Bop-a-ball
 	tag: Castela
-	tag: Dietsel
+	tag: Dietzel
 	tag: Library
 	tag: Nudge
 	tag: Shelly
@@ -2137,7 +2891,7 @@ page:creaking-doors
 	tag: Hospital
 	tag: Katherine
 	tag: Nadette
-	tag: NadettesMom
+	tag: MrsStarr
 page:not-neurotic
 	date: 2015-12-16
 	desc: Not Neurotic
@@ -3583,7 +4337,7 @@ page:going-to-worry
 	desc: Going To Worry
 	tag: Berdine
 	tag: BerdNadHome
-	tag: BerdNadMom
+	tag: MrsStarr
 	tag: Nadette
 page:worried
 	date: 2015-03-18
