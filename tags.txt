@@ -100,7 +100,7 @@ Brandi	Brandilyn Oduya, [Golem](#golem) girl, Lioness in the [Chimera](#chimera)
 BrandiBudAppt	Brandi and Bud share an apartment a few blocks west of [Mucho Mocha](#muchomocha) 
 BrandilynOduya	[Brandi](#brandi)
 Briki	a Greek coffee pot
-Bryn	female Faun who [Katherine](#katherine) meets at the [Tsarabanjina](#tsarabanjina) resort, elementary school teacher at [Gryphon Elementary](#gryphonelementary)
+Bryn	female Faun who [Katherine](#katherine) meets at the [Tsarabanjina](#tsarabanjina) resort, elementary school principal, Ms Andersen, at [Gryphon Elementary](#gryphonelementary)
 Bud	Acacia Budur, [golem](#golem) girl, Goat in the [Chimera](#chimera), instructor at a [Dance School](#danceschool)
 BufferCrystal	[Etheitian](#etheitian) crystal-tech
 C8H10N4O2	chemical formula for caffine
@@ -175,6 +175,7 @@ Hatch	the [Golems](#golem) are hollow, some have a front torso access hatch or p
 Hatred	one of [Monica's](#monica) [demons](#demon)
 Heather	Heather Mills works in a radio station, was also singer & guitarist with [Intentional Thumbprint](#intentionalthumbprint). Crush on [Shelly](#shelly), not quite returned.
 IntentionalThumbprint	band from around Des Moines, opened at [The Plow](#theplow) for [Fermented Banana](#fermentedbanana)
+Hiroshi	Hiroshi Kitahara, half fae, transformed to a [butterfly](#reginald) by rejected fae would-be lover
 Jacks	kids' game: pick up the jacks while the ball bounces
 Jacob	[Atsali's](#atsali) crush, attends [Gryphon High](#gryphonhigh), works in a coffee shop with his sister Randi. Satyr.
 Jacqui	Jacqueline Bontemps — drummer with [Fermented Banana](#fermentedbanana), vet school student, turns Yoga teacher. Proprietor: [Punk Yoga](#punkyoga)
@@ -269,6 +270,7 @@ PrasadHome	Prasads include sisters [Lakshmi](#lakshmi) and [Maksi](#makshi)
 PunkYoga	[Jacqui's](#jacqui) yoga studio
 RainbowDash	from My Little Pony ?
 Randi	Coffee shop worker, sister of [Jacob](#jacob). Satyr
+Reginald	Butterfly which hangs about [Castela](#castela), actually a cursed fae boy [Hiroshi](#hiroshi)
 Rigo	[Monica's](#monica) (male) cousin in [Monterrey](#monterrey)
 Room316	in a Minneapolis hospital
 Roy	part-owner of the [Antique Shop](#antiqueshop) with [Monica](#monica)

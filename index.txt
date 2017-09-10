@@ -46,6 +46,568 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ;
+page: all-that-with-you
+	date: 2017-09-07 21:34
+	desc: All That With You
+	tag: Atsali
+	tag: Blush
+	tag: DragonsWallCollege
+	tag: Skylar
+page: school-starts
+	date: 2017-09-06 22:00
+	desc: School Starts
+	tag: Bloom
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: Thursday
+page: stupid-hot-boys
+	date: 2017-09-05 22:28
+	desc: Stupid Hot Boys
+	tag: Bloom
+	tag: Castela
+	tag: GilchristHome
+page: stupid-boy
+	date: 2017-09-04 17:08
+	desc: Stupid Boy
+	tag: Bloom
+	tag: Castela
+	tag: GilchristHome
+page: not-dead-son
+	date: 2017-09-03 20:39
+	desc: Castela and Hiroshi
+	tag: Blush
+	tag: Castela
+	tag: GilchristHome
+	tag: Hiroshi
+page: ice-cream
+	date: 2017-09-01 23:03
+	desc: Ice Cream
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+	tag: Hiroshi
+	tag: IceCream
+page: castela-and-hiroshi
+	date: 2017-08-31 21:32
+	desc: Castela and Hiroshi
+	tag: Colour
+	tag: Castela
+	tag: Hiroshi
+	tag: 1Frame
+page: makes-it-easier
+	date: 2017-08-24 23:39
+	desc: Makes It Easier
+	tag: Blush
+	tag: Butterfly
+	tag: Castela
+	tag: GilchristHome
+	tag: Hiroshi
+	tag: Naked
+page: your-butterfly
+	date: 2017-08-23 22:00
+	desc: Your Butterfly
+	tag: Blush
+	tag: Butterfly
+	tag: Castela
+	tag: GilchristHome
+	tag: Hiroshi
+	tag: Kiss
+	tag: Naked
+	tag: Reginald
+page: take-good-care-of-you
+	date: 2017-08-22 22:00
+	desc: Take Good Care Of You
+	tag: Blush
+	tag: Butterfly
+	tag: Castela
+	tag: GilchristHome
+	tag: Naked
+	tag: Reginald
+page: someone-cute-and-adorable
+	date: 2017-08-20 22:00
+	desc: Someone Cute And Adorable
+	tag: Blush
+	tag: Castela
+	tag: GilchristHome
+	tag: Naked
+	tag: Reginald
+page: more-aware
+	date: 2017-08-17 22:12
+	desc: More Aware
+	tag: Blush
+	tag: Castela
+	tag: GilchristHome
+	tag: Naked
+	tag: Reginald
+page: healing-properties
+	date: 2017-08-16 23:15
+	desc: Healing Properties
+	tag: Butterfly
+	tag: Castela
+	tag: GilchristHome
+	tag: Reginald
+	tag: Tonic
+page: keep-you-safe-2
+	date: 2017-08-15 19:35
+	desc: Keep You Safe
+	tag: Butterfly
+	tag: Castela
+	tag: GilchristHome
+	tag: Reginald
+page: if-she-were-here
+	date: 2017-08-14 22:26
+	desc: If She Were Here
+	tag: Butterfly
+	tag: Castela
+	tag: GilchristHome
+	tag: Reginald
+page: fresh-air
+	date: 2017-08-13 16:26
+	desc: Fresh Air
+	tag: 1Frame
+	tag: Butterfly
+	tag: Castela
+	tag: Colour
+	tag: Heart
+	tag: Reginald
+page: home-alone
+	date: 2017-08-10 23:34
+	desc: Home Alone
+	tag: Castela
+	tag: GilchristHome
+page: kath-and-bryn-sleepover
+	date: 2017-08-09 10:58
+	desc: Kath and Bryn Sleepover
+	tag: Blush
+	tag: Bryn
+	tag: GilchristHome
+	tag: Heart
+	tag: Katherine
+page: by-myself
+	date: 2017-08-09 00:05
+	desc: By Myself
+	tag: Castela
+	tag: Cinema
+	tag: LakeCalhoun
+page: unlike-me
+	date: 2017-08-06 21:48
+	desc: Unlike Me
+	tag: Blush
+	tag: Castela
+	tag: MuchoMocha
+	tag: Tina
+page: basement-ghost
+	date: 2017-08-06 21:48
+	desc: Basement Ghost
+	tag: Castela
+	tag: MuchoMocha
+	tag: Tina
+page: atsali-end-of-summer
+	date: 2017-08-03 21:58
+	desc: Atsali End of Summer
+	tag: 1Frame
+	tag: Atsali
+	tag: Colour
+	tag: Wings
+page: with-you-two
+	date: 2017-08-02 22:30
+	desc: With You Two
+	tag: Castela
+	tag: Daylla
+	tag: Headless
+	tag: PoseidonResort
+	tag: Scarlet
+page: no-record
+	date: 2017-08-01 19:28
+	desc: No Record
+	tag: Castela
+	tag: Daylla
+	tag: PoseidonResort
+	tag: Scarlet
+page: stick-together-2
+	date: 2017-07-31 23:34
+	desc: Stick Together
+	tag: Castela
+	tag: Daylla
+	tag: PoseidonResort
+	tag: Scarlet
+page: do-research
+	date: 2017-07-30 22:31
+	desc: Do Research
+	tag: Castela
+	tag: Daylla
+	tag: PoseidonResort
+	tag: Scarlet
+page: leave-a-good-first-impression
+	date: 2017-07-27 21:05
+	desc: Leave a Good First Impression
+	tag: 1Frame
+	tag: BikerJacket
+	tag: Castela
+	tag: Colour
+page: keep-things-interesting
+	date: 2017-07-26 22:45
+	desc: Keep Things Interesting
+	tag: Castela
+	tag: Daylla
+	tag: PoseidonResort
+	tag: Scarlet
+	tag: Timothy
+page: some-perspective
+	date: 2017-07-25 21:55
+	desc: Some Perspective
+	tag: Atsali
+	tag: BikerJacket
+	tag: Castela
+	tag: GilchristHome
+page: not-fast-enough
+	date: 2017-07-24 22:17
+	desc: Not Fast Enough
+	tag: Atsali
+	tag: BikerJacket
+	tag: Castela
+	tag: GilchristHome
+page: gotta-see
+	date: 2017-07-23 16:52
+	desc: Gotta See
+	tag: Atsali
+	tag: BikerJacket
+	tag: Castela
+	tag: GilchristHome
+page: castela-jacket
+	date: 2017-07-20 22:12
+	desc: Castela Jacket
+	tag: 1Frame
+	tag: BikerJacket
+	tag: Castela
+	tag: Colour
+page: hand-me-down
+	date: 2017-07-19 22:47
+	desc: Hand Me Down
+	tag: BikerJacket
+	tag: Castela
+	tag: MuchoMocha
+	tag: Shelly
+page: like-lace
+	date: 2017-07-18 21:32
+	desc: Like Lace
+	tag: Butterfly
+	tag: CanyonDeChelly
+	tag: CarvedRock
+	tag: Castela
+	tag: Reginald
+page: to-me
+	date: 2017-07-17 22:02
+	desc: To Me
+	tag: Atsali
+	tag: Blush
+	tag: GilchristHome
+	tag: Kiss
+	tag: Nadette
+page: on-that-note-2
+	date: 2017-07-13 22:00
+	desc: On That Note
+	tag: Blush
+	tag: Castela
+	tag: Galleria
+	tag: Scarlet
+	tag: Timothy
+page: fine-and-well
+	date: 2017-07-13 22:00
+	desc: Fine And Well
+	tag: Atsali
+	tag: Castela
+	tag: PoseidonResort
+	tag: Scarlet
+page: by-the-nose
+	date: 2017-07-11 20:19
+	desc: By The Nose
+	tag: Atsali
+	tag: Castela
+	tag: PoseidonResort
+	tag: Scarlet
+page: young-love
+	date: 2017-07-11 21:08
+	desc: Young Love
+	tag: Atsali
+	tag: Castela
+	tag: PoseidonResort
+	tag: Scarlet
+page: getting-some
+	date: 2017-07-10 21:25
+	desc: Getting Some
+	tag: Atsali
+	tag: Blush
+	tag: Castela
+	tag: Daylla
+	tag: PoseidonResort
+	tag: Scarlet
+	tag: Timothy
+page: in-awe
+	date: 2017-07-09 22:17
+	desc: In Awe
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+page: castela-leapfrog
+	date: 2017-07-06 22:56
+	desc: Castela Leapfrog
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+page: wonderdorks
+	date: 2017-07-06 00:07
+	desc: WonderDorks
+	tag: Castela
+	tag: Daylla
+	tag: GilchristHome
+page: not-your-biceps
+	date: 2017-07-04 22:48
+	desc: Not Your Biceps
+	tag: Blush
+	tag: Castela
+	tag: Daylla
+	tag: GilchristHome
+page: maybe-you-could
+	date: 2017-07-03 23:24
+	desc: Maybe You Could
+	tag: Castela
+	tag: Daylla
+	tag: GilchristHome
+page: make-one
+	date: 2017-07-03 00:00
+	desc: Make One
+	tag: Castela
+	tag: Daylla
+	tag: GilchristHome
+page: shell-take-that-under-advisement
+	date: 2017-06-29 21:34
+	desc: She’ll Take That Under Advisement
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+page: hey-maverick
+	date: 2017-06-28 21:20
+	desc: Hey, Maverick!
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+page: blastin-sumthin
+	date: 2017-06-27 20:48
+	desc: Blastin' Sumthin'
+	tag: Reginald
+	tag: Butterfly
+	tag: Castela
+	tag: CanyonDeChelly
+	tag: Knotwork
+page: and-i-bet
+	date: 2017-06-26 23:57
+	desc: And I Bet
+	tag: Reginald
+	tag: Butterfly
+	tag: Castela
+	tag: CanyonDeChelly
+page: feeling-any-better
+	date: 2017-06-25 22:00
+	desc: Feeling Any Better
+	tag: Castela
+	tag: Daylla
+	tag: GilchristHome
+page: regrouping
+	date: 2017-06-22 21:18
+	desc: Regrouping
+	tag: 1Frame
+	tag: Castela
+	tag: Colour
+	tag: Daylla
+page: made-a-difference
+	date: 2017-06-21 22:00
+	desc: Made A Difference
+	tag: 1Frame
+	tag: Castela
+page: same-as-before
+	date: 2017-06-20 22:00
+	desc: Same As Before
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Tears
+page: never-be-the-same
+	date: 2017-06-19 20:19
+	desc: Never Be The Same
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Tears
+page: not-your-concern
+	date: 2017-06-18 22:39
+	desc: Not Your Concern
+	note: Castela "She's my mom! She's supposed to be happy! Not a giggling fuck-bunny"
+	tag: Atsali
+	tag: Castela
+	tag: FuckBunny
+	tag: GilchristHome
+page: with-me-now
+	date: 2017-06-15 23:13
+	desc: With Me. Now
+	tag: Blush
+	tag: Bryn
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page: pointed-away
+	date: 2017-06-14 23:43
+	desc: Pointed Away
+	tag: Bryn
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+	tag: Mug
+	tag: Plasma
+	tag: Zot
+page: innocent-eyes
+	date: 2017-06-13 22:42
+	desc: Innocent Eyes
+	tag: Blush
+	tag: Bryn
+	tag: Castela
+	tag: GilchristHome	
+	tag: Katherine
+page: having-you
+	date: 2017-06-12 23:21
+	desc: Having You
+	tag: Bryn
+	tag: Blush
+	tag: Katherine
+	tag: GilchristHome	
+page: happy-to-see-you
+	date: 2017-06-11 23:49
+	desc: Happy To See You
+	tag: Castela
+	tag: Daylla
+	tag: PoseidonResort	
+page: pocket-sized
+	date: 2017-06-08 22:23
+	desc: Pocket Sized
+	tag: Scarlet
+	tag: Timothy
+	tag: Colour	
+	tag: 1Frame
+page: sugar-and-spice
+	date: 2017-06-07 22:35
+	desc: Sugar and Spice
+	tag: Castela
+	tag: Colour	
+	tag: 1Frame
+page: sharing-is-caring
+	date: 2017-06-06 23:15
+	desc: Sharing Is Caring
+	tag: Scarlet
+	tag: Timothy
+	tag: SunLotion
+	tag: Beach
+page: at-peace
+	date: 2017-06-05 21:52
+	desc: At Peace
+	tag: 1Frame
+	tag: Colour
+	tag: Katherine
+page: jin-adeobie
+	date: 2017-06-04 19:54
+	desc: Jin Adeobie
+	tag: 1Frame
+	tag: Colour
+	tag: Jin
+page: diving-in-feet-first
+	date: 2017-06-01 22:00
+	desc: Diving In Feet First
+	tag: 1Frame
+	tag: Colour
+	tag: Deitzel
+	tag: Digit
+page: that-one-thing
+	date: 2017-06-01 00:18
+	desc: That One Thing
+	tag: Atsali
+	tag: Nadette
+	tag: MonicasIsland
+page: all-okay
+	date: 2017-05-30 20:47
+	desc: All Okay
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Katherine
+page: need-coffee
+	date: 2017-05-29 23:00
+	desc: Need Coffee
+	tag: Atsali
+	tag: Castela
+	tag: GilchristHome
+	tag: Coffee
+	tag: Spider
+page: to-miss-it
+	date: 2017-05-28 20:05
+	desc: To Miss It
+	tag: Atsali
+	tag: Castela
+	tag: Facemarks
+	tag: GilchristHome
+page: talk-later
+	date: 2017-05-25 23:59
+	desc: Talk Later
+	tag: Atsali
+	tag: GilchristHome
+	tag: Nadette
+	tag: Skylar
+page: not-how-this-works
+	date: 2017-05-24 23:22
+	desc: Not How This Works
+	tag: Atsali
+	tag: GilchristHome
+	tag: Nadette
+page: settled-then
+	date: 2017-05-24 00:59
+	desc: Settled Then
+	tag: Atsali
+	tag: GilchristHome
+	tag: Nadette
+page: keep-working-on-it
+	date: 2017-05-22 19:58
+	desc: Keep Working On It
+	tag: Digit
+	tag: Monica
+	tag: MonicasPlace
+page: stargazing
+	date: 2017-05-18 22:00
+	desc: Stargazing
+	tag: Dietzel
+	tag: Digit
+	tag: 1Frame
+page: like-a-thing
+	date: 2017-05-17 22:07
+	desc: Like A Thing
+	tag: Alexis
+	tag: Atsali
+	tag: Mallory
+	tag: MonicasIsland
+	tag: Nadette
+	tag: Pout
+page: afternoon-break
+	date: 2017-05-16 20:44
+	desc: Afternoon Break
+	tag: 1Frame
+	tag: Butterfly
+	tag: Colour
+	tag: Digit
+page: spider-strength
+	date: 2017-05-15 20:20
+	desc: Spider Strength
+	tag: Digit
+	tag: Katherine
+	tag: Monica
+	tag: MonicasIsland
 page: before-after
 	date: 2017-05-14 19:15
 	desc: Before After
@@ -627,12 +1189,14 @@ page: get-out-here
 	tag: Butterfly
 	tag: CanyonDeChelly
 	tag: Castela
+	tag: Reginald
 page: get-through
 	date: 2017-02-01 22:28
 	desc: Get Through
 	tag: Butterfly
 	tag: CanyonDeChelly
 	tag: Castela
+	tag: Reginald
 page: meanwhile
 	date: 2017-01-31 23:50
 	desc: Meanwhile
