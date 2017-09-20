@@ -46,6 +46,72 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ;
+page: level-of-para
+	date: 2017-09-19 22:08
+	desc: Level Of Para
+	tag: CanyonDeChelly
+	tag: Castela
+	tag: Daylla
+	tag: WeldersGoggles
+page: all-balls-in-the-corner-pocket
+	date: 2017-09-18 22:36
+	desc: All Balls In The Corner Pocket
+	tag: CanyonDeChelly
+	tag: Castela
+	tag: Colour
+	tag: Daylla
+	tag: Plasma
+	tag: WeldersGoggles
+page: because-2
+	date: 2017-09-17 18:37
+	note: "Scarmithy"
+	desc: Because
+	tag: CanyonDeChelly
+	tag: Castela
+	tag: Daylla
+	tag: GryphonHigh
+	tag: WeldersGoggles
+page: a-little-distracted
+	date: 2017-09-14 22:11
+	desc: A Little Distracted
+	tag: Blush
+	tag: Castela
+	tag: Daylla
+	tag: GryphonHigh
+	tag: Scarlet
+	tag: Timothy
+page: hit-some-tachigui
+	date: 2017-09-13 23:20
+	desc: Hit Some Tachigui
+	tag: Atsali
+	tag: Blush
+	tag: DragonsWallCollege
+	tag: Skylar
+page: poor-sweetie
+	date: 2017-09-12 21:29
+	desc: Poor Sweetie
+	tag: Atsali
+	tag: Blush
+	tag: DragonsWallCollege
+	tag: Skylar
+page: kyushu-jangara
+	date: 2017-09-11 22:48
+	desc: Kyushu-Jangara
+	tag: Atsali
+	tag: Blush
+	tag: DragonsWallCollege
+	tag: Katherine
+	tag: Nadette
+	tag: Skylar
+page: your-family
+	date: 2017-09-10 16:40
+	desc: Your Family
+	tag: Atsali
+	tag: Blush
+	tag: DragonsWallCollege
+	tag: Katherine
+	tag: Nadette
+	tag: Skylar
 page: all-that-with-you
 	date: 2017-09-07 21:34
 	desc: All That With You
