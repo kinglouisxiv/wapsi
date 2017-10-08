@@ -46,6 +46,105 @@
 ;
 baseurl: http://wapsisquare.com/comic/{0}/
 ;
+page: get-to-the-questions
+	date: 2017-10-06 00:03
+	desc: Get To The Questions
+	tag: Castela
+	tag: Daylla
+	tag: DigitalRecorder
+	tag: Ghost
+	tag: GryphonClubRoom
+	tag: GryphonMiddleSchool
+	tag: Scarlet
+page: its-electric
+	date: 2017-10-04 23:58
+	desc: It’s Electric
+	tag: Castela
+	tag: Daylla
+	tag: DigitalRecorder
+	tag: EMRdetector
+	tag: GryphonClubRoom
+	tag: GryphonMiddleSchool
+	tag: Scarlet
+page: freaking-you-out
+	date: 2017-10-03 23:23
+	desc: Freaking You Out
+	tag: Castela
+	tag: Daylla
+	tag: GryphonClubRoom
+	tag: GryphonMiddleSchool
+	tag: Scarlet
+page: club-room
+	date: 2017-10-03 00:07
+	desc: Club Room
+	tag: Brownies
+	tag: Castela
+	tag: Daylla
+	tag: GryphonClubRoom
+	tag: GryphonMiddleSchool
+	tag: Scarlet
+	tag: Timothy
+page: instead-of
+	date: 2017-10-01 18:35
+	desc: Instead Of
+	tag: Castela
+	tag: Daylla
+	tag: GryphonMiddleSchool
+page: all-over
+	date: 2017-09-28 21:29
+	desc: All Over
+	tag: Alana
+	tag: Atsali
+	tag: DragonsWallCollege
+	tag: Ruri
+	tag: Skylar
+page: little-tea-pot
+	date: 2017-09-26 21:58
+	desc: Little Tea Pot
+	;Ruri : tsukumogami - tool spirit - tea pot
+	tag: Alana
+	tag: Atsali
+	tag: Aura
+	tag: DragonsWallCollege
+	tag: Ruri
+	tag: Skylar
+page: no-pressure
+	date: 2017-09-26 23:02
+	desc: No Pressure
+	tag: Alana
+	tag: Atsali
+	tag: Aura
+	tag: DragonsWallCollege
+	tag: Ruri
+	tag: Skylar
+page: to-listen
+	date: 2017-09-26 00:25
+	desc: To Listen
+	tag: Alana
+	tag: Atsali
+	tag: Skylar
+	tag: DragonsWallCollege
+page: much-better
+	date: 2017-09-24 23:41
+	desc: Much Better
+	tag: Alana
+	tag: Atsali
+	tag: DragonsWallCollege
+page: finding-you
+	date: 2017-09-22 00:48
+	desc: Finding You
+	tag: Atsali
+	tag: Blush
+	tag: DragonsWallCollege
+	tag: Skylar
+page: fancy-and-intrigue
+	date: 2017-09-21 00:06
+	desc: Fancy And Intrigue
+	tag: CanyonDeChelly
+	tag: Castela
+	tag: Daylla
+	tag: Library
+	tag: WeldersGoggles
 page: level-of-para
 	date: 2017-09-19 22:08
 	desc: Level Of Para
